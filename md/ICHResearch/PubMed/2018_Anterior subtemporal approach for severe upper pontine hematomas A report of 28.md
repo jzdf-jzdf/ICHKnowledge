@@ -1,0 +1,122 @@
+Clinical study  
+
+# Anterior subtemporal approach for severe upper pontine hematomas: A report of 28 surgically treated cases  
+
+Hong-Tian Zhang ⇑, Li-Hua Chen 1, Miao-Chun Bai, Ru-Xiang Xu  
+
+The Affiliated Bayi Brain Hospital, PLA General Hospital, 100700 Beijng, China  
+
+# articleinfo  
+
+# abstract  
+
+Article history: Received 11 August 2017 Accepted 22 April 2018  
+
+Keywords:   
+Pontine hemorrhage   
+Surgery   
+Subtemporal approach   
+Outcome   
+Prognosis  
+
+The efficacy and safety of surgery for patients with primary pontine hemorrhage (PPH) remain debatable. Twenty-eight consecutive patients with huge upper PPH were included in this study. They underwent surgical management through a subtemporal approach between January 2009 and October 2013. We analyzed clinical and radiological parameters to assess the patient outcomes. The near-complete $(>90\%)$ evacuation rate was $67.9\%$ , and there was no surgery-related death. The overall survival rate at 3 months was $64.3\%$ (17/28), including $28.6\%$ (8/28) with good function, $10.7\%$ (3/28) with disability and $25\%$ (7/28) in a vegetative state. The mortality rate was $35.7\%$ (10/28). Preoperative hemorrhage volume $'P=0.019;$ , preoperative $'P=0.017^{'}$ and postoperative ( $\overset{\cdot}{P}=0.001$ ) Glasgow coma scale (GCS) score, coma on admission $\overset{\cdot}{P}=0.001$ ), ventricular extension $\overset{\cdot}{P}=0.001$ ), preoperative mechanical ventilation $(P=0.001\$ and hydrocephalus $\ensuremath{{\mathrm{(}}P=0.007\mathrm{)}}$ were found to be statistically significant predictors for mortality on univariate analysis. On multivariate regression analysis, only GCS on admission and coma were found to be significant prognostic predictors. The subtemporal approach was found to be a safe method to treat upper PPH. Microsurgery may be beneficial for the treatment of PPH, but these results need further validation in a more comprehensive and comparative study. GCS on admission and coma were found to be the only significant prognostic predictors for mortality with multivariate regression analysis.  
+
+$\copyright$ 2018 Elsevier Ltd. All rights reserved.  
+
+# 1. Introduction  
+
+Primary pontine hemorrhage (PPH) is among the most devastating forms of intracranial hemorrhage. It accounts for about $5\%$ to $10\%$ of primary intracranial hemorrhages, and it is extremely rare in patients with hemorrhagic stroke [3,14]. PPH has an incidence of 2 to 4 per 100,000 of the population per annum, and the reported mortality rates vary widely from $50\%$ to $90\%$ [1]. Patients with PPH very often develop severe disturbances of consciousness, papillary abnormalities and respiratory and motor disturbances [9,10,15].  
+
+The optimal treatment and the efficacy of surgery in PPH patients remain debatable. Some authors have suggested that surgical management offers no benefit to patients with PPH [4,8], whereas others have advocated the efficacy of surgical treatment for PPH [5,6]. However, the number of operative PPH patients enrolled in previous studies has been relatively small, and most of the studies involved were only reports of surgery cases. Additionally, whether the surgical treatment can be performed safely is largely unknown. In this article, we conducted a retrospective study to analyze and compare the therapeutic effect of conservative and surgical therapy in the treatment of PPHs through an anterior subtemporal approach.  
+
+# 2. Materials and methods  
+
+Twenty-eight consecutive patients underwent surgical management through a subtemporal approach and thirty-four consecutive patients underwent conservative management with huge upper PPH (hematoma volume $>5~\mathrm{mL}$ ) between January 2009 and October 2013 in the affiliated Bayi Brain Hospital, PLA General Hospital, Beijng, China were included in this study The records were retrospectively reviewed after obtaining approval for this study by the clinic ethics committee.  
+
+The clinical criteria for patient selection were the following: diagnosis of PHBH verified by computed tomography (CT) or magnetic resonance imaging; location of the PPH at the pons; interval between the onset of the hemorrhage and the operation within 60 h; clinical history of long-term or highly suspected hypertension;  
+
+definite blood pressure higher than the upper limit of normal $({>}140/90\mathrm{mmHg})$ on admission; decreased level of consciousness or a Glasgow Comma Scale (GCS) score ${\le}9$ ; no clinical signs of herniation; follow-up for at least 3 months; and hematoma volumes between 5 and $20~\mathrm{cm}^{3}$ . The informed consent for study participation was obtained from the patient’s relatives. Additionally, patients who were initially treated at other hospitals but were transferred to our hospital were also included in the study.  
+
+The exclusion criteria of severe intracranial hemorrhage were as follows: disturbances of blood coagulation, such as thrombocytopenia or hepatitis; traumatic intracranial hemorrhage; complicated with serious heart, liver, renal, or lung disease or functional failure; previous stroke history with neurological deficits; intracranial aneurysm or arteriovenous malformation complicated with hemorrhage; and lack of consent form from the patient or their legal representative.  
+
+The patient was placed in supine position, and the ipsilateral shoulder was raised with a cushion to facilitate head rotation. The head was rotated $75^{\circ}$ to the contralateral side; thereafter, the head was lateroflected by 15 to $20^{\circ}$ . A horseshoe-shaped incision was performed from the zygoma to the mastoid according to the exact location of the PPH as displayed on the neuronavigation screen. After that, the subcutaneous tissue was carefully dissected while preserving the superficial temporal artery and auriculotemporal nerve. A temporal bone flap was fashioned with one burr hole on the superior temporal line, and the craniotomy was performed extending from the asterion to a point placed about $1~\mathrm{cm}$ above the zygoma until reaching the floor of the middle fossa. The dura was then opened in an inverted U-shaped flap and reflected inferiorly.  
+
+After opening the dura mater, the first step was insertion of CSF drainage. The temporal lobe was gently retracted and the arachnoid membranes of the ambient cistern were opened. After a safe dissection and isolation from the underlying arachnoidal bands and trochlear nerve using a dissector, a small tentorial incision was made starting medially at the edge behind the entry point of the IV cranial nerve into the dura. The IV cranial nerve, superior cerebellar artery and vena petrosa were then extensively exposed in the ambient cistern. In 9 of the 28 cases the emergence hematomas could also be visually identified as a blue area on the lateral surface of the pontomesencephalic junction and were completely removed in a piecemeal fashion by means of bipolar forceps and delicate suction. When the PPH did not reach the brainstem surface, a millimetric incision was made vertically following the orientation of the pyramidal tract on the most superficial emergence site as indicated by the navigation, and the lesion was then found and removed. We excised the hematoma piece by piece with blunt, small diameter, curved enucleators. As often as possible, we avoided injuring the venous anomalies we encountered. Hemostasis was easily obtained with locally applied cotton and Surgicel; we used electrocoagulation as little as possible (Fig. 1A–G).  
+
+The volume of remaining hematoma was obtained by CT scans at $24\mathrm{~h~}$ . The GCS score was assessed on the seventh postoperative day. Activities of daily living were assessed at 6 months postoperatively to evaluate the quality of life of the patients.  
+
+A chi-squared test was used for comparison of categorical variables and Mann–Whitney $U$ test for continuous variables. The parameters proven to be significant with univariate comparison were analyzed again with multivariate regression analysis. The significance level accepted was of $P<0.05$ .  
+
+# 3. Results  
+
+Of the 28 patients underwent surgical management, 20 $(71.4\%)$ were male and 8 $(28.6\%)$ were female. Mean patient age was $62.4\pm8.3$ (range 31–76.3) years. The average systolic blood pressure was $192.20\pm18.45\mathrm{mmHg}$ . The median hematoma volume of 28 patients was 9.3 (range, 7.8–18) mL at admission and was 1.4 (range, 0.5–9.5) mL at $24\mathrm{~h~}$ postoperatively. In this group, near-complete $(>90\%)$ evacuation was achieved in 19 cases $(67.9\%)$ , $70\%$ to $90\%$ in 5 cases $(17.9\%)$ and less than $<70\%$ in 4 cases $(14.2\%)$ (Fig. 2). The mean operation time was $153.34\pm38.1$ min. On admission, the median GCS score was $5.9\pm1.1$ and the mean GCS score on the seventh postoperative day was $8.4\pm2.7$ . There were no significant differences between GCS scores obtained on admission and 7 days postoperatively (Table 1).  
+
+The overall survival rate of surgical group at 3 months was $64.3\%$ (17/28), including $28.6\%$ (8/28) with good function (Glasgow Outcome Scale [GOS] score 4–5), $10.7\%$ (3/28) with disability (GOS score, 3) and $25\%$ (7/28) in a vegetative state (GOS score, 2). The mortality rate (GOS score, 1) was $35.7\%$ (10/28). Three patients died because of severe pulmonary infection; all died during the hospitalization. Five patients died of multiple organ failure; two of whom died because of poor neurological status and the treatment was withdrawn, and three died of respiratory and circulatory failure during the follow-up stage after being discharged from the hospital. Two patients died because of rebleeding; both patients presented uncontrollable hypertension postoperatively, and the bleeding sites were located at sites other than the surgical site as shown in CT scans.  
+
+![](images/4838a7c107801eecd0f7bbfbd62a19684524f72cae4404fb32d0e75a9abd53db.jpg)  
+Fig. 1. Surgical procedure to exposure and remove the PPH through subtemporal approach (A–G).  
+
+![](images/0472d3f5455009bcf7f2eae7a83d7be8bd3e51810210dab60b38dd6050c195cc.jpg)  
+Case 1   
+Fig. 2. Two typical case of primary PPH treated by minimally invasive surgical treatment through subtemporal approach.  
+
+There were no significant differences in age, sex, history of hypertension and diabetes mellitus between the patients underwent surgical management who survived and those who died. Preoperative hemorrhage volume $'P=0.019'$ , preoperative $\left(P=0.017\right)_{\mathrm{,}}$ ) and postoperative $\overset{\vartriangle}{\boldsymbol{P}}=0.001\$ ) GCS score, coma on admission $\overset{\vartriangle}{\boldsymbol{P}}=0.001\$ ), ventricular extension $\overset{\cdot}{P}=0.001\$ ), need for mechanical ventilation preoperatively $\overset{\cdot}{P}=0.001\$ ) and preoperative hydrocephalus $\ensuremath{\left(P=0.007\right)}$ were found to be statistically significant predictors for mortality with univariate analysis. The parameters proved to be significant in univariate analysis were reanalyzed with multivariate regression analysis, and only preoperative GCS and coma on admission were found to be statistically significant as predictors for mortality $'P=0.038;$ ). The comparison of the parameters with univariate analysis was shown in Table 2.  
+
+Furthermore, we compared the outcome between the surgical group and the conservative group (Table 3). The patients in the surgical group exhibited a much lower mortality rate $(P<0.05)$ and higher GOS score $(P>0.05)$ than those in the conservative group. The rate of patients with good functional outcome in the surgical group is high, however, the differences were not statistically significant $(P>0.05)$ . For patients with HV $5{-}10\mathrm{mL}$ , surgical group showed higher GOS score $\mathit{\Omega}(P<0.05)$ , however, for patients with $\mathrm{HV}>10\mathrm{mL}$ , a significant difference was not observed between two groups $(P>0.05)\$ ).  
+
+Table 1 Basic Clinical Characteristics.   
+
+
+<html><body><table><tr><td></td><td>Patients</td></tr><tr><td>Patientsnumbers</td><td>28</td></tr><tr><td>Gender</td><td>M20;F8</td></tr><tr><td>Age (yrs)</td><td>62.4±8.3</td></tr><tr><td>Systolicblood pressure(mmHg)</td><td>192.20 ± 18.45</td></tr><tr><td>Historyofhypertension</td><td>26 (92.9%)</td></tr><tr><td>HistoryofDiabetesmellitus</td><td>18 (64.3%)</td></tr><tr><td>Time to surgery(hrs)</td><td>8.16 ± 2.20</td></tr><tr><td>Mean operation time(min)</td><td>153.34±38.1</td></tr><tr><td>Preop Hematoma Volume (mL)</td><td>9.3 (7.8-18)</td></tr><tr><td>Postop Hematoma Volume(mL)</td><td>1.4 (0.5-9.5)</td></tr><tr><td>Evacuationrate</td><td>N (%)</td></tr><tr><td>>90%</td><td>19 (67.9)</td></tr><tr><td>70-90%</td><td>5 (17.9)</td></tr><tr><td><70%</td><td>4 (14.2)</td></tr><tr><td>Preoperative GCS</td><td>5.9 ± 1.1</td></tr><tr><td>PostoperativeGCS</td><td>8.4 ± 2.7</td></tr></table></body></html>  
+
+Table 2 Clinical and radiological parameters of patients with primary pontine hemorrhages.   
+
+
+<html><body><table><tr><td>Parameter</td><td>Patients who survived (n = 17)</td><td>Patient who died (n =11)</td><td>P value</td></tr><tr><td>Age (yrs)</td><td>54.2 ± 10.2</td><td>62.8 ± 7.6</td><td>0.557</td></tr><tr><td>Gender</td><td>M11; F6</td><td>M8;F3</td><td>0.411</td></tr><tr><td>Systolic blood pressure (mmHg)</td><td>175.20 ± 11.22</td><td>201.63 ±27.73</td><td>0.699</td></tr><tr><td>History of hypertension</td><td>14 (82.3%)</td><td>9 (81.8%)</td><td>0.949</td></tr><tr><td>History of diabetes mellitus</td><td>11 (64.7%)</td><td>6 (54.5%)</td><td>0.182</td></tr><tr><td>Time to surgery (hrs)</td><td>7.74 ± 1.30</td><td>8.59 ±3.36</td><td>0.304</td></tr><tr><td>Preop Hematoma Volume (mL)</td><td>6.7 (5.3-16.5)</td><td>11.5 (6-18)</td><td>0.019</td></tr><tr><td>Postop Hematoma Volume (mL)</td><td>0.9 (0.5-1.2)</td><td>2.8 (0.5-9.5)</td><td>0.034</td></tr><tr><td>Evacuation rate N(%)</td><td></td><td></td><td></td></tr><tr><td>>90%</td><td>12</td><td>7</td><td>0.072</td></tr><tr><td>70-90%</td><td>4</td><td>1</td><td></td></tr><tr><td><70%</td><td>1</td><td>3</td><td></td></tr><tr><td>Preoperative GCS</td><td>7.6 ± 1.4</td><td>4.2 ± 0.8</td><td>0.017</td></tr><tr><td>Postoperative GCS</td><td>10.1 ± 0.7</td><td>4.6 ± 0.3</td><td>0.001</td></tr><tr><td>Coma on admission</td><td>7 (41.2%)</td><td>9 (81.8%)</td><td>0.001</td></tr><tr><td>Ventricular extension</td><td>3 (17.6%)</td><td>6 (54.5%)</td><td>0.001</td></tr><tr><td>Preop mechanical</td><td>6 (35.3%)</td><td>9 (81.8%)</td><td>0.001</td></tr><tr><td>ventilation Preop hydrocephalus</td><td>2 (11.8%)</td><td>5 (45.5%)</td><td>0.007</td></tr></table></body></html>  
+
+Table 3 Comparison of the outcome between conservative and surgery group at 3 months after the ictus.   
+
+
+<html><body><table><tr><td>Age,year</td><td>ConservativeGroup (n=34)</td><td>Surgical Group (n=28)</td><td>P Value</td></tr><tr><td>Mortalityrate(n/%)</td><td>25/73.5</td><td>10/35.7</td><td>0.011</td></tr><tr><td>Goodfunctionaloutcome</td><td>5/14.7</td><td>8/28.6</td><td>0.066</td></tr><tr><td>(n/%) GOSscore</td><td>1.62 ± 1.1</td><td>2.53 ± 1.3</td><td>0.038</td></tr><tr><td>HV5-10mL</td><td>2.05 ± 0.9</td><td>3.06±0.8</td><td>0.017</td></tr><tr><td>HV15mL</td><td>1.19 ± 1.1</td><td>1.65 ± 1.1</td><td>0.746</td></tr></table></body></html>
+
+GOS, Glasgow Outcome Scale  
+
+# 4. Discussion  
+
+The efficacy of surgery in PPH patients remains unclear. Fewel et al. [4] and Manno et al. [8] have suggested that surgical management offers no benefit to patients with a brainstem hemorrhage, whereas Hara et al. [6] advocated the efficacy of the surgical treatment of PPH. In the earlier stage, Hara et al. [5] found that according to the location of PPH, the bilateral tegmental type and the basal tegmental type, surgery seemed to be more effective than conservative treatment and they concluded that CT-guided stereotaxic aspiration may improve not only the consciousness level but also the functional outcome. Haines and Mollman [5] suggested that patients who suffer progressive deterioration from hemorrhagic pontine lesions may benefit from surgery even if they eventually become comatose, whereas those who suddenly lose consciousness and have profound neurologic deficit probably will not survive. Colak reported three cases of successfully removed PPH. They considered surgical evacuation to be effective and safe [2]. However, there are very few systematic reports about the surgical outcome of PPH and most of the correlated reports date back to the 1980s and 1990s. The treatment for PPH remains quite challenging for neurosurgeons.  
+
+The upper PPH is very difficult to access for stereotaxic aspiration. However, with the development of intraoperative tools and neuroimaging technologies, the microsurgical evacuation of the upper PPH has become feasible. Based on our previous therapeutic experience of treating brainstem cavernous malformations in the upper pons and mesencephalon [11,12], we selected the subtemporal transtentorial approach to the upper PPH in the present study. Several approaches were selected for the lesions in the upper pons and mesencephalon, including supracerebellar infratentorial (midline, paramedian, extreme lateral), suboccipital transtentorial, subtemporal transtentorial, transsylvian, frontoorbito-zygomatic and transpetrosal (retrosigmoid, presigmoid) approaches. The supracerebellar infratentorial approach often carries the risk of cerebellar swelling as a result of significant retraction or damage to the cerebellar bridging veins. The transpetrosal (retrosigmoid, presigmoid) approach involves petrosal drilling and may require skeletonization of the sigmoid sinus. The transsylvian and fronto-orbito-zygomatic approaches only allow exposure of the small ventral part of the upper pons, and the visibility with these approaches is very limited. Thus, we chose the subtemporal transtentorial approach to treat the upper PPH. By using this approach, the hematomas were successfully located through a small incision at the pons in all the patients, and $67.9\%$ patients obtained near-total $(>90\%)$ evacuation. Further, no surgeryrelated deaths occurred.  
+
+The overall survival rate at 3 months was $64.3\%$ in this series. Balci et al evaluated the data of 32 patients with PPH; the survival rate was $44\%$ after conservative treatment [1]. Takeuchi et al retrospectively reviewed 212 consecutive patients with PBH, and they found a survival rate of $32.5\%$ [14]. The survival rate in our study was higher than those reported by the previous studies. Furthermore, $28.6\%$ of our patients had good outcomes, which is higher than the proportion reported by Takeuchi et al [13]. Jang et al reported that the mortality rate with hematoma volume over $5~\mathrm{mL}$ without surgery was $55.9\%$ . In the present study, the mortality rate in the surgical group was $35.7\%$ . It is significantly higher than in the conservative group $(73.5\%)$ . More patients with hematoma volume ${>}10\mathrm{mL}$ dies in both groups, and there were no significant differences in the GOS score between surgical group and conservative group. On the other hand, the patients with hematoma volume $5{-}10\mathrm{mL}$ in the surgical group obtained better GOS score than those in the conservative group. Therefore, surgery may be beneficial for the survival rate and decrease the mortality rate of severe PPH with with hematoma volume $5{-}10~\mathrm{mL}$ .  
+
+Dziewas et al. found that high systolic pressure was strongly associated with death in PBH patients [3]. However, Jang et al.  
+
+recently reported the largest multivariate analysis of the predictors for survival and functional outcome after PBH [7]. They reported that a high systolic pressure was not related to survival outcomes, which was consistent with our results. In recent studies, the initial level of consciousness was considered a major sign for outcome prediction [1,9,13–15]. In the study by Balci et al., 14 $(78\%)$ of 18 patients who died were comatose, and 2 $(14\%)$ of 14 survivors were comatose [3]. In the study of Wijdicks and Louis [6], all 21 patients who died had been comatose and among the 17 survivors, there had been 4 comatose patients. In the study by Dziewas et al., 23 $(79\%)$ of the 29 patients who died had been comatose and among 12 survivors, there had been only 1 $(8\%)$ comatose patient [1]. Our ratio of comatose patients who died was similar to those reported in these studies. However, more comatose patients survived $(41.2\%)$ in our study. This finding suggests that minimally invasive surgery may be beneficial for the survival of patients. Considering the radiological findings, some reports have suggested that intraventricular extension, hydrocephalus and hematoma volume were associated with the survival outcomes [9,14,15].  
+
+In conclusion, our study suggested that the subtemporal approach is a safe method to treat upper PPH. Additionally, we consider that microsurgery may be beneficial for the treatment of PPH, but a more comprehensive and comparative study is required to further confirm these results. GCS and coma on admission were found to be the only significant prognostic predictors for mortality on multivariate regression analysis.  
+
+# 5. Financial source  
+
+This work was supported by the Natural Scientific Research funds of China (No.81371345) for Dr. Hong-Tian Zhang and Beijing Nova program (XX2013059) for Dr. Hong-Tian Zhang.  
+
+# Appendix A. Supplementary data  
+
+Supplementary data associated with this article can be found, in the online version, at https://doi.org/10.1016/j.jocn.2018.04.063.  
+
+# References  
+
+[1] Balci K, Asil T, Kerimoglu M, Celik Y, Utku U. Clinical and neuroradiological predictors of mortality in patients with primary pontine hemorrhage. Clin Neurol Neurosurg 2005;108:36–9.   
+[2] Colak A, Bertan V, Benli K, Ozek M, Gurcay O. Pontine hematoma. A report of three surgically treated cases. Zentralblatt fur Neurochirurgie 1991;52:33–6.   
+[3] Dziewas R, Kremer M, Ludemann P, Nabavi DG, Drager B, Ringelstein B. The prognostic impact of clinical and CT parameters in patients with pontine hemorrhage. Cerebrovasc Dis 2003;16:224–9.   
+[4] Fewel ME, Thompson Jr BG, Hoff JT. Spontaneous intracerebral hemorrhage: a review. Neurosurgical Focus 2003;15:E1.   
+[5] Haines SJ, Mollman HD. Primary pontine hemorrhagic events. Hemorrhage or hematoma? Surgical or conservative management? Neurosurg Clin North Am 1993;4:481–95.   
+[6] Hara T, Nagata K, Kawamoto S, Sashida J, Abe T, Wada A, et al. Functional outcome of primary pontine hemorrhage: conservative treatment or stereotaxic surgery. No Shinkei Geka Neurological Surgery 2001;29:823–9.   
+[7] Jang JH, Song YG, Kim YZ. Predictors of 30-day mortality and 90-day functional recovery after primary pontine hemorrhage. J Korean Med Sci 2011;26:100–7.   
+[8] Manno EM, Atkinson JL, Fulgham JR, Wijdicks EF. Emerging medical and surgical management strategies in the evaluation and treatment of intracerebral hemorrhage. Mayo Clin Proc 2005;80:420–33.   
+[9] Murata Y, Yamaguchi S, Kajikawa H, Yamamura K, Sumioka S, Nakamura S. Relationship between the clinical manifestations, computed tomographic findings and the outcome in 80 patients with primary pontine hemorrhage. J Neurol Sci 1999;167:107–11.   
+[10] Rabinstein AA, Tisch SH, McClelland RL, Wijdicks EF. Cause is the main predictor of outcome in patients with pontine hemorrhage. Cerebrovasc Dis 2004;17:66–71.   
+[11] Sabatino G, Rigante L, Marchese E, Albanese A, Esposito G, Capone G, et al. Anterior subtemporal approach for posterolateral brainstem cavernomas: report of ten cases. Acta Neurochirurgica 2012;154:2009–16.   
+[12] Steno J, Bizik I, Stenova J, Timarova G. Subtemporal transtentorial resection of cavernous malformations involving the pyramidal tract in the upper pons and mesencephalon. Acta Neurochirurgica 2011;153:1955–62.   
+[13] Takeuchi S, Suzuki G, Takasato Y, Masaoka H, Hayakawa T, Otani N, et al. Prognostic factors in patients with primary brainstem hemorrhage. Clin. Neurol Neurosurg 2013;115:732–5.   
+[14] Wessels T, Moller-Hartmann W, Noth J, Klotzsch C. CT findings and clinical features as markers for patient outcome in primary pontine hemorrhage. AJNR Am J Neuroradiol 2004;25:257–60.   
+[15] Wijdicks EF, St Louis E. Clinical profiles predictive of outcome in pontine hemorrhage. Neurology 1997;49:1342–6.  

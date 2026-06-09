@@ -1,0 +1,207 @@
+# Efficacy and Safety of Nonvitamin K Oral Anticoagulants in Patients with Atrial Fibrillation and Cancer: A Study-Level Meta-Analysis  
+
+Ilaria Cavallari1 Giuseppe Verolino1 Silvio Romano2 Giuseppe Patti3  
+
+1 Department of Cardiovascular Sciences, Campus Bio-Medico   
+University of Rome, Rome, Italy   
+2 Department of Life, Health & Environmental Sciences, University of   
+L’Aquila, L’Aquila, Italy   
+3 Department of Translational Medicine, University of Eastern   
+Piedmont, Maggiore della Carità Hospital, Novara, Italy  
+
+Thromb Haemost 2020;120:314–321.  
+
+Address for correspondence Giuseppe Patti, MD, Department of Translational Medicine, University of Eastern Piedmont, Maggiore della Carità Hospital, Novara, Italy (e-mail: giuseppe.patti@uniupo.it).  
+
+# Abstract  
+
+Objectives In this study-level meta-analysis, we evaluated the clinical outcome with nonvitamin K antagonist oral anticoagulants (NOACs) versus vitamin K antagonists (VKAs) in atrial fibrillation (AF) patients with cancer.  
+
+Background Anticoagulation in AF patients with cancer is challenging given the coexistence of elevated thrombotic and bleeding risk. The efficacy and safety of NOACs in this setting remain unclear.  
+
+Methods We included three randomized trials in our primary analysis $\overset{\prime}{N}=2,661$ patients) and three observational studies in our secondary, confirmatory analysis $(N=21,112$ patients). Outcome measures were: the composite of any stroke or systemic embolism, ischemic stroke, venous thromboembolism, major bleeding, intracranial bleeding; and all-cause death. Mean follow-up duration was 2.2 years.  
+
+Results In the primary analysis, the use of NOACs was associated with similar incidence of stroke/systemic embolism (odds ratio [OR] 0.70, $95\%$ confidence interval 0.45–1.09; $p=0.11$ ), ischemic stroke $(\operatorname{OR}0.71,0.31-1.64;p=0.42)$ , venous thromboembolism (OR 0.91, 0.33–2.53; $p=0.86$ ), all-cause death (OR 1.02, 0.72–1.42; $p=0.93$ ), and major bleeding (OR 0.81, 0.61–1.06; $p{=}0.13$ ) compared with VKAs. The occurrence of intracranial bleeding was significantly lower in the NOACs versus VKAs group (OR 0.11, $0.02–0.63;p=0.01$ ). These results were overall confirmed in the secondary analysis, where there was additionally a significant reduction of stroke/systemic embolism, ischemic stroke, and venous thromboembolism with NOACs.  
+
+# Keywords  
+
+$\succ$ atrial fibrillation   
+$\succ$ cancer   
+$\succ$ anticoagulation stroke bleeding  
+
+Conclusion In AF patients with malignancy, NOACs appear at least as effective as VKAs in preventing thrombotic events and reduce intracranial bleeding. NOACs may represent a valid and more practical alternative to VKAs in this setting of high-risk patients.  
+
+# Introduction  
+
+Atrial fibrillation (AF) is the most frequent cardiac arrhythmia; it is associated with increased risk of cardiovascular death, thromboembolism, and heart failure.1 A growing body of evidence suggests an association between AF and cancer,2,3 likely because these conditions are more common in an aging population, share risk factors, and are characterized by systemic inflammation4,5; furthermore, cancer-related anemia, paraneoplastic conditions, specific anticancer therapies, and pulmonary or pericardial tumor involvement may predispose to develop AF. On average, up to one-quarter of individuals with AF have malignancy as comorbidity and, among patients with cancer, approximately $2.5\%$ have preexisting $\mathrm{AF}^{7}$ and $30\%$ will develop new-onset AF.  
+
+Given the longer life expectancy of patients with many cancer types, the detection of comfortable antithrombotic strategies with a favorable net clinical benefit for AF-related thromboprophylaxis has a relevant epidemiological and clinical impact. Patients with AF and malignancy have an increased risk of both thrombotic and bleeding events7,9,10; thus, the management of anticoagulation aimed to prevent thromboembolic complications is particularly challenging in these patients. Subcutaneous low-molecular-weight heparin (LMWH) may represent a therapeutic option, but a prolonged use of this injectable drug is unpractical, causes discomfort, and may provoke thrombocytopenia and bleeding complications, especially in patients with renal failure. Vitamin K antagonists (VKAs) have been traditionally used for stroke prevention in AF patients with malignancy, based on a greater clinical experience with these drugs, the possibility for close monitoring, and the availability of reversal options7,8; however, the utilization of VKAs in this setting of patients results in high rates of bleeding events and is associated with low time in therapeutic range, due to interactions with cancer-specific treatment.  
+
+Nonvitamin K antagonist oral anticoagulants (NOACs) have been introduced into clinical practice to overcome some limitations of VKAs, such as the need for frequent monitoring, labile international normalized ratio control requiring frequent dose adjustments, dietary or drugs interactions, and increased risk of intracranial bleeding. However, data on the efficacy and safety of NOACs in AF populations with cancer are limited. In particular, individual studies may be underpowered to detect any clinically meaningful association with endpoints at low incidence and only pooled analyses of data from multiple investigations can help to reach definite conclusions. Thus, we performed a meta-analysis of available studies evaluating the clinical outcome with NOACs compared with VKAs in AF patients with cancer.  
+
+coagulation,” “warfarin,” “non-vitamin K antagonist oral anticoagulants,” “cancer,” “malignancy,” and “outcome.” Published abstracts from annual congresses of the American College of Cardiology, American Heart Association, and European Society of Cardiology were also reviewed. Editorials and reviews from major medical journals published within the last 2 years were searched for further information on studies of interest. Expert slide presentations and Internet-based sources of information on the results of clinical trials in cardiology (http://www. cardiosource.com and http://www.theheart.org) were also evaluated. Only investigations published in English language were considered.  
+
+Baseline characteristics data and outcome data were independently extracted for each study from the published manuscripts and entered into a structured spreadsheet by two investigators (I.C. and G.V.). Results were compared and disagreements were resolved by consensus. Analysis was performed at the study level.  
+
+# Quality Assessment  
+
+Quality was graded using the Newcastle–Ottawa score for assessing the risk of bias in observational studies and the Cochrane Collaboration’s tool in randomized studies.13,14 In the Newcastle–Ottawa score, each study is judged on eight items categorized in three groups: selection of study groups, comparability of groups, and ascertainment of either the exposure or outcome of interest for case–control or cohort studies, respectively. The Cochrane Collaboration’s tool considers the following domains: selection bias, performance bias, detection bias, attrition, and reporting bias.14  
+
+# Study Endpoints  
+
+We evaluated clinical outcome of AF patients with concomitant diagnosis of cancer receiving NOACs versus VKAs. Primary analysis was performed on controlled randomized trials. A secondary, confirmatory analysis was done on observational studies. Efficacy outcome measures were: the composite of any stroke or systemic embolism; ischemic stroke; and venous thromboembolism, defined as the composite of pulmonary embolism or deep venous thrombosis. Safety outcome measures were: major bleeding, intracranial hemorrhage, and gastrointestinal bleeding. All-cause death was also considered as study endpoint. All outcomes were classified according to the definition used in each investigation. When information about an outcome of interest was not available, the study was not utilized for such endpoint.  
+
+# Methods  
+
+This systematic review and meta-analysis was conducted in accordance with the recommendations of the Cochrane Collaboration and the Preferred Reporting Items for Systematic reviews and Meta-Analyses guidelines.12  
+
+# Eligibility Criteria and Study Selection  
+
+For the purpose of the study, we have considered investigations reporting clinical outcome of AF patients with cancer receiving NOACs versus VKAs. Studies were evaluated for inclusion irrespective of the design (randomized or observational).  
+
+# Search Strategy and Data Extraction  
+
+We conducted a literary search of MEDLINE/Pubmed, EMBASE, and Cochrane databases up to January 15, 2019 using the following keyword search terms: “atrial fibrillation,” “anti  
+
+# Statistical Analysis  
+
+Review Manager 5.2 software (available from The Cochrane Collaboration at http//www.cochrane.org) was used for all analyses. The DerSimonian–Laird method for random effects14 or the Mantel–Haenszel method for fixed effects15 was utilized to estimate pooled odds ratios (ORs). We tested heterogeneity of the included studies with Q statistics and the extent of inconsistency between results with $I^{2}$ statistics.16 A value of $I^{2}>50\%$ has been considered to indicate a significant heterogeneity. In the absence of heterogeneity between studies, the Mantel–Haenszel and the  
+
+DerSimonian–Laird methods give similar results. As random effects are robust in meta-analysis calculations when large populations are included, the DerSimonian–Laird method for random effects was reported to estimate pooled OR. The possibility of publication bias was assessed by funnel plot analysis.17 Data are presented as OR with $95\%$ confidence intervals (CIs), with two-tailed $p$ -values and statistical significance set at $p<0.05$ .  
+
+# Results  
+
+# Search Results  
+
+Overall, 1,283 screened citations met the search criteria. After exclusion of two duplicate citations, 1,281 studies were considered; the majority of these citations $(N=1,050)$ were eliminated at the level of title or abstract because they were reviews, letter, or comments, they were not in English language, or the study design did not meet the inclusion criteria of this meta-analysis. A total of 231 investigations were subsequently considered in a closer inspection and 225 were then excluded. Finally, 6 studies, including a total of 23,773 patients, were judged eligible for inclusion18–23 and were used for the evaluation of at least one outcome comparison. The progress through the different steps of the search results is reported in ►Supplementary Fig. S1 (available in the online version).  
+
+►Table 1 indicates the main descriptors of the included studies. Three investigations were subgroups analyses from phase III randomized clinical trials comparing warfarin with rivaroxaban (ROCKET AF), apixaban (ARISTOTLE), and edoxaban (ENGAGE AF).18–20 With regard to the subanalysis from the ENGAGE AF trial, we considered the approved edoxaban dose $\mathrm{{(60mg}}$ daily). The remaining three studies were a Danish nationwide population-based cohort study,21 a single-center retrospective analysis performed in Korea,22 and a retrospective analysis using health insurance claims databases in the United States.23 Regarding the latter study, we included data matching rivaroxaban with warfarin users, as rivaroxaban was the most commonly prescribed NOAC.23 Outcome data in patients without cancer were reported in four of those investigations.18–21 In the three subanalyses of phase III randomized trials, cardiovascular endpoints and bleeding events were adjudicated by a blinded committee.18–20 Quality metrics of the studies are summarized in ►Supplementary Tables S1 and S2 (available in the online version). The definitions of the outcome measures used in each investigation are indicated in ►Supplementary Table S3 (available in the online version).  
+
+# Clinical Outcome in Anticoagulated AF Patients with and without Cancer  
+
+On top of oral anticoagulation, patients with malignancy had a significant increase in major bleeding versus those without $(9.0\%$ /year vs. $5.1\%$ /year; $p<0.001$ ) (►Fig. 1); major gastrointestinal bleeding was more frequent in patients with cancer $(2.4\%$ /year vs. $1.6\%$ /year in those without; $p<0.001$ ), whereas the rates of intracranial bleeding were similar $(0.54\%)$ year vs. $0.62\%$ /year; $p=0.27$ ). Cancer was also associated with a higher incidence of all-cause death $17.7\%$ /year vs. $8.5\%$ year in patients without cancer; $p<0.001$ ) and venous thromboembolism $1.4\%$ /year vs. $0.74\%$ /year; $p<0.001$ ) (►Fig. 1). The occurrence of stroke and systemic embolism was not different in patients with versus those without cancer $(3.6\%$ /years vs. $3.9\%$ /year; $p=0.50\$ ) (►Fig. 1).  
+
+Table 1 Main features of the included studies   
+
+
+<html><body><table><tr><td>Study</td><td>Type of study</td><td>No. of patients with cancer</td><td>No. of patients with active cancer</td><td>Definition of active cancer</td><td>Age (y)</td><td>Male gender</td><td>Comparison groups [No. (type of OAC)]</td><td>Mean follow-up (y)</td></tr><tr><td>Chen et al18</td><td>CRT post hoc analysis</td><td>640</td><td>50</td><td>Actively treated with hormonal or chemotherapeutic agents</td><td>Median 77</td><td>66%</td><td>309 (rivaroxaban)a 331 (VKA)a</td><td>1.9</td></tr><tr><td>Melloni et al19</td><td>CRT post hoc analysis</td><td>1,236</td><td>157</td><td>Active cancer or treated within the past year</td><td>Median 75</td><td>73%</td><td>615 (apixaban)a 621 (VKA)a</td><td>1.8</td></tr><tr><td>Fanola et al20</td><td>CRT post hoc analysis</td><td>1,153</td><td>1,153</td><td>Postrandomization investigator-reported new or recurrent cancer</td><td>Median 75</td><td>69%</td><td>390 (edoxaban 60 mg)a 368 (edoxaban 30 mg) 395 (VKA)a</td><td>2.8</td></tr><tr><td>Ording et al2</td><td>Observational, cohort</td><td>11,855</td><td>Not reported</td><td>Not reported</td><td>Median 77</td><td>52%</td><td>1,809 (NOAC)a 10,046 (VKA)a</td><td>1</td></tr><tr><td>Kim et al22</td><td>Observational, cohort</td><td>776</td><td>776</td><td>Newly diagnosed cancer</td><td>Mean 72</td><td>69%</td><td>138 (apixaban)a 140 (dabigatran)a 110 (rivaroxaban)a 388 (VKA)a</td><td>1.8</td></tr><tr><td>Shah et al23</td><td>Observational, cohort</td><td>16,096</td><td>16,096</td><td>Use of chemotherapy, radiation therapy, or cancer surgery <6 mo prior to the start of anticoagulation</td><td>Mean 74</td><td>59%</td><td>2,808 (rivaroxaban) matched with 5,673 (VKA)a 2,189 (dabigatran) 1,078 (apixaban) 10,021 (VKA)</td><td>1.9</td></tr></table></body></html>
+
+Abbreviations: CRT, controlled randomized trial; NOAC, nonvitamin K oral anticoagulant; OAC, oral anticoagulant therapy; VKA, vitamin K antagonist anticoagulant. aData included in the main analyses.  
+
+![](images/090c9cec8e4862088916ac79054aa763f5e289b47746bbaae4776a03372d185e.jpg)  
+Fig. 1 Annualized adverse event rates in atrial fibrillation patients with versus without cancer. GI, gastrointestinal; SEE, systemic embolic events; VTE, venous thromboembolic events.  
+
+# Outcome with NOACs versus VKAs in Randomized Studies  
+
+This primary analysis overall included 2,661 patients, 1,314 treated with a NOAC and 1,347 with a VKA. Mean age was 75 years and the prevalence of male gender was $69\%$ . A total of 992 patients $(37\%)$ had active cancer. Mean overall followup duration was 2.2 years.  
+
+The rates of stroke/systemic embolism were $2.8\%$ in patients treated with NOACs versus $4.0\%$ in those on VKAs (OR 0.70, $95\%$ CI 0.45–1.09; $p{=}0.11$ ) (►Fig. 2A). The incidence of ischemic stroke was not significantly different with NOACs and VKAs $2.3\%$ vs. $3.1\%$ ; OR 0.71, $95\%\mathrm{CI}0.31{-}1.64$ ; $p=0.42$ ) (►Fig. 2B). Venous thromboembolism occurred in $0.8\%$ of patients receiving NOACs and in $0.9\%$ of those on VKAs (OR 0.91, $95\%$ CI 0.33–2.53; $p=0.86$ ) (►Fig. 3A). The use of NOACs was associated with similar all-cause mortality ( $16.1\%$ vs. $15.6\%$ in the VKAs group; OR 1.02, $95\%$ CI 0.72–1.42; $p{=}0.93$ ) (►Fig. 3B).  
+
+The rate of major bleeding was $7.8\%$ in patients treated with NOACs compared with $9.5\%$ with VKAs (OR 0.81, $95\%$ CI 0.61–1.06; $p{=}0.13$ ) (►Fig. 4A). The occurrence of intracranial bleeding was significantly reduced in the NOACs group $0.1\%$ vs. $1.6\%$ in the VKAs group; OR 0.11, $95\%$ CI 0.02–0.63; $p=0.01$ ) (►Fig. 4B), without evidence of publication bias and without heterogeneity among the studies. The incidence of gastrointestinal bleeding was reported only in the subanalysis of the ENGAGE AF trial,20 where it was not significantly different with NOACs and VKAs $8.7\%$ vs. $9.6\%$ ; $p=0.71$ ).  
+
+# Outcome with NOACs versus VKAs in Observational Studies  
+
+This secondary, confirmatory analysis overall included 21,112 patients, 5,005 treated with a NOAC and 16,107 with a VKA. Mean age was 74 years and the prevalence of male gender was $60\%$ . The majority of patients had active cancer (►Table 1). Mean overall follow-up duration was 1.6 years.  
+
+The rates of stroke/systemic embolism were reported only in the study by Kim et al,22 where this composite endpoint was significantly reduced in the NOACs group ( $2.3\%$ vs. $10.3\%$ ;  
+
+![](images/2fcdd6acc94e2917997390eac0c6a06b222e1159746870fc1ea6c400fba2f56c.jpg)  
+
+![](images/b87386ecbe337eb9d2515fbcbd82bcbf44e8fb930ad874cd3eb53211fc026ed6.jpg)  
+Fig. 2 (A) Odds ratios (with $95\%$ confidence interval) of stroke or systemic embolism among atrial fibrillation patients with cancer receiving nonvitamin K antagonist oral anticoagulants (NOACs) versus vitamin K antagonists (VKAs) in randomized studies. (B) Odds ratios (with $95\%$ confidence interval) of ischemic stroke among atrial fibrillation patients with cancer receiving NOACs versus VKAs in randomized studies.  
+
+PanelA.VenousThromboembolism   
+PanelB.All-causeDeath   
+PanelA.Major Bleeding   
+PanelB.IntracranialBleeding   
+
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">NOAC</td><td colspan="2">VKA</td><td colspan="2">OddsRatio</td><td colspan="2">OddsRatio</td></tr><tr><td>StudyorSubgroup</td><td></td><td></td><td></td><td></td><td>EventsTotalEventsTotalWeightM-H.Random.95%Cl</td><td colspan="2">M-H.Random,95%Cl</td></tr><tr><td>ARISTOTLE</td><td>3</td><td>615</td><td></td><td>621</td><td>46.3%</td><td>0.76[0.17.3.39]</td><td colspan="2"></td></tr><tr><td>ROCKET-AF</td><td></td><td>309</td><td></td><td>331 53.7%</td><td>1.07[0.27.4.32]</td><td></td><td colspan="2"></td></tr><tr><td>Total (95%CI)</td><td></td><td>924</td><td></td><td>952100.0%</td><td>0.91[0.33,2.53]</td><td></td><td colspan="2"></td></tr><tr><td>Totalevents</td><td>7</td><td></td><td>CO</td><td></td><td></td><td></td><td colspan="2"></td></tr><tr><td colspan="7">Heterogeneity:Tau²=0.00;Chi²=0.11,df=1（p=0.74）;P²=0% 0.01 0.1 Testforoveralleffect:Z=0.18（p=0.86)</td><td colspan="2">10 100</td></tr></table></body></html>  
+
+![](images/44f5ce9d5a669e4a7de417313822132235d665c1c5fbcb1653ac55a879b643d0.jpg)  
+Fig. 3 (A) Odds ratios (with $95\%$ confidence interval) of venous thromboembolism among atrial fibrillation patients with cancer receiving nonvitamin K antagonist oral anticoagulants (NOACs) versus vitamin K antagonists (VKAs) in randomized studies. (B) Odds ratios (with $95\%$ confidence interval) of all-cause death among atrial fibrillation patients with cancer receiving NOACs versus VKAs in randomized studies.  
+
+![](images/1cc064a1679f092a7ef89312d008dde8293e32e408d25ce45ce68dfe635b4073.jpg)  
+
+![](images/95f51229538040907fc15d80ad4443efd3726b34b13b8656e7cfeacd1bb65af4.jpg)  
+Fig. 4 (A) Odds ratios (with $95\%$ confidence interval) of major bleeding among atrial fibrillation patients with cancer receiving nonvitamin K antagonist oral anticoagulants (NOACs) versus vitamin K antagonists (VKAs) in randomized studies. (B) Odds ratios (with $95\%$ confidence interval) of intracranial bleeding among atrial fibrillation patients with cancer receiving NOACs versus VKAs in randomized studies.  
+
+$p<0.0001$ ). Pooling data from the three observational studies, the incidence of ischemic stroke was also lower with NOACs and VKAs $1.3\%$ vs. $2.5\%$ ; OR 0.47, $95\%$ CI 0.25–0.90; $p=0.02$ ) (►Supplementary Fig. S2, available in the online version). Venous thromboembolism occurred in $2.9\%$ of patients receiving NOACs and in $4.0\%$ of those on VKAs (OR 0.50, $95\%$ CI  
+
+0.41–0.60; $p<0.00001$ ) (►Supplementary Fig. S3, available in the online version). All-cause death was reported only in the study by Kim et al,22 where it was significantly reduced in the NOACs group ( $10.6\%$ vs. $23.9\%$ ; $p<0.0001$ ).  
+
+The rates of major bleeding were $2.4\%$ in patients treated with NOACs compared with $3.6\%$ with VKAs (OR 0.41, $95\%$ CI  
+
+0.12–1.48; $p{=}0.18$ ). The incidence of intracranial bleeding was $0.3\%$ in the NOACs group versus $0.6\%$ in the VKAs group $(0\mathrm{R}0.37,95\%\mathrm{CI}0.08\substack{-1.72;p=0.21})$ . Gastrointestinal bleeding was reported only in two investigations,21,22 where this complication occurred in 1.6 and $2.0\%$ of patients, respectively $(p=0.21\$ ).  
+
+Similar results on all the above-mentioned outcome measures were obtained when from the study by Shah et $\mathsf{al}^{23}$ those patients receiving dabigatran or apixaban (instead of rivaroxaban) versus VKAs were included (data not shown).  
+
+# Discussion  
+
+In this study-level meta-analysis on anticoagulated AF patients, we found that those with cancer had higher annualized rates of venous thromboembolism, major bleeding, and all-cause mortality, and a similar incidence of stroke/systemic embolism and intracranial hemorrhage compared with those without cancer. Moreover, our analysis shows that the use of NOACs in AF patients with cancer was at least as effective as VKAs in preventing arterial and venous thromboembolism, with the additional advantage of a better safety profile due to a lower incidence of intracranial bleeding.  
+
+Patients with malignancy are at higher risk of both thrombotic (arterial and venous) and bleeding complications. Mechanisms driving thrombosis in this setting are multifactorial and include: a prothrombotic milieu due to high inflammatory status, increased production of tissue factor, and enhanced platelet aggregability; blood hyperviscosity; anticancer drugs and radiation therapy causing endothelial/endocardial injury; and patient-related factors, such as advanced age and comorbidities, mainly chronic renal failure.24,25 Immobility and mass effect or vascular compression from tumor may further predispose to venous thromboembolism. Various observational studies confirmed that patients with cancer have increased occurrence of venous thromboembolism compared with the general population, with a relative risk ranging from 4 to 7.26,27 Data from a retrospective cohort indicated that the coexistence of AF and malignancy doubles the rates of arterial and venous thrombotic complications compared with either condition alone.28 The propensity to thrombotic events varies based on different cancer types, stages, and on patient-associated or treatment-associated factors; pancreas, stomach, gynecological, brain, lung, hematological, and metastatic cancers are reported to have the highest risks.26,29,30 On the other hand, malignancies also predispose to bleeding complications, because of thrombocytopenia, direct erosion into blood vessels, disseminated intravascular coagulation, production of fibrinolytic molecules by tumor cells, chemotherapy-induced bone marrow inhibition, radiation-related tissue damage, a high pattern of tumor vascularization, or infiltrative liver failure resulting in coagulopathy.24,31 As a result, the management of anticoagulation in AF patients with cancer is a complex matter, due to the delicate balance between benefits and risks and the paucity of specific evidence for guiding treatment.30,31 VKAs have been extensively used in this setting,32 but limitations of these agents (e.g., high risk of bleeding complications because of propensity to fall, cachexia, disability, and impaired renal function; low time in therapeutic range; poor adherence; drug interactions; long onset and offset) are particularly pronounced in patients with malignancy. The present study adds a piece of information demonstrating that AF patients with malignancy remain at increased risk of major bleeding and, importantly, of venous thromboembolism, despite oral anticoagulation; moreover, the use of anticoagulant therapy equalizes their stroke risk to that of patients without cancer.  
+
+Current guidelines do not provide specific recommendations for the type of anticoagulation in AF patients with active malignancy.1,33 The 2018 European Heart Rhythm Association Practical Guide on the use of NOACs supports a shared decision-making avoiding potent drug–drug interactions, indicates that VKAs (or LMWH, if oral therapy is not possible) represent the current standard of care and underlines that available data with NOACs are scarce, although encouraging.31 On the other hand, the American Society of Clinical Oncology has expressed concerns and advised caution for the use of NOACs in cancer patients given the dearth of evidence.34,35 Two recent randomized trials, specifically targeting patients with cancer in the setting of primary and secondary prevention of venous thromboembolism, provided outcome data with NOACs in a clinical context different from AF.36,37 Regarding primary prevention, in the AVERT trial, apixaban significantly reduced the incidence of venous thromboembolism compared with placebo among intermediate-to-high-risk ambulatory patients with cancer who were starting chemotherapy, but at the cost of a doubled risk of major bleeding.37 The HOKUSAI-VTE Cancer trial evaluated edoxaban versus LMWH in patients with cancer and venous thromboembolism36; here, the use of edoxaban was associated with numerically lower rates of recurrent venous thromboembolism, but increased gastrointestinal bleeding in patients with gastrointestinal cancer. Indeed, patients with active malignancy significantly affecting life expectancy were generally excluded from phase III trials comparing NOACs versus warfarin in AF. This is the rationale for performing a primary analysis on available randomized trials and a secondary analysis on observational studies.  
+
+The present meta-analysis of available randomized trials, pooling data on the largest number of AF patients with cancer so far, showed that NOACs are at least as effective as VKAs to prevent stroke, systemic embolism, and venous thromboembolism. Our secondary analysis on observational investigations, where, importantly, the majority of patients had active cancer, demonstrated that the use of NOACs was associated with significant reduction of stroke, systemic embolism, and venous thromboembolism. Beside stroke prevention, the benefit of NOACs in terms of reduction of venous thromboembolism might be relevant; notably, recent cohort studies have shown that up to one-third of venous thromboembolic events are cancer-associated38 and the recurrence rate of such events is two- to ninefold higher in patients with versus those without malignancy.39 However, our findings on observational investigations may be possibly affected by inclusion bias, residual confounding, different risk profile of patients receiving NOACs and VKAs, variable definitions of the outcome measures, and inadequate event adjudication in the included studies. Despite the abovementioned limitations, observational data report practicebased outcomes in a large population of cancer patients who are generally excluded from randomized studies due to limited life expectancy (e.g., those with more advanced stages of the disease). Therefore, until results of randomized studies specifically designed to test the efficacy and safety of NOACs compared with VKAs in cancer patients are available, clinicians can also rely on reassuring observational data.  
+
+Our meta-analysis on randomized trials also showed that the incidence of intracranial bleeding (e.g., the bleeding event at the highest risk of death and disability) was significantly lower in patients receiving NOACs versus VKAs; this is particularly relevant, as cancer patients have a propensity to hemorrhagic complications and therefore the absolute reduction of bleeding events with NOACs is more elevated in this setting of patients. In the overall population of randomized trials comparing NOACs and warfarin in AF, the use of dabigatran $150\mathrm{mg}$ , rivaroxaban, and edoxaban $60\mathrm{mg}$ was associated with higher risk of gastrointestinal bleeding40; in this meta-analysis, we observed a similar incidence of such complication with NOACs and VKAs, but this analysis may be affected by the reduced number of patients and events and the relatively low prevalence of gastrointestinal cancer $20\%$ in the ENGAGE AFsubanalysis; $12\%$ in the study by Ording et al; $35\%$ in the study by Kim et al). Further, specific investigations on the topic are welcome.  
+
+Our study needs to be considered in light of its limitations. In particular, as we had no access to individual patient’s data, it was not possible to investigate the outcome in specific subgroups of patients, for example, with active or remote cancer, as well as according to the type and stage of neoplasm, concomitant anticancer treatments, and different thromboembolic and bleeding risk profiles. Moreover, we were not able to separately analyze the safety and efficacy of each type of NOAC versus VKAs. Further studies are needed to address the above-mentioned issues. Finally, no information on the time in therapeutic range was available in patients receiving VKAs.  
+
+The identification of AF patients with cancer and deriving an acceptable risk–benefit ratio from anticoagulant therapy requires an individually tailored, multidisciplinary approach, taking into account patient preferences, prognosis of different cancer types, residual life expectancy, comorbidities, frailty, malnourishment, and potential drug–drug interactions. In particular, physicians must be aware that withdrawal of anticoagulation could be necessary in some specific situations, such as in presence of large brain malignancies, severe thrombocytopenia, liver failure, or a bleeding event. Moreover, patients deemed at high propensity to gastrointestinal bleeding (e.g., with a gastrointestinal malignancy or previous history of gastrointestinal hemorrhage) deserve specific considerations regarding the net benefit to initiate anticoagulation and should anyhow receive regimens with the lowest risk of gastrointestinal hemorrhages. However, accumulating evidence and practical considerations suggest that, when an individualized evaluation of the thrombotic and bleeding risks supports the initiation of anticoagulant therapy, the use of NOACs also in AF patients with malignancy may represent a more practical, safer, and at least as effective as alternative to VKAs for preventing venous thromboembolic and cardioembolic events.  
+
+# What is known about this topic?  
+
+• Anticoagulation in atrial fibrillation (AF) patients with cancer is challenging given the coexistence of elevated thrombotic and bleeding risk. • Efficacy and safety of nonvitamin K oral anticoagulants (NOACs) in this setting remain unclear.  
+
+# What does this paper add?  
+
+• This large, study-level meta-analysis of randomized and observational studies demonstrates that, despite anticoagulation, cancer patients remain at higher risk of venous thromboembolism, major bleeding, and allcause mortality compared with those without cancer. • In the high-risk setting of AF patients with malignancy, NOACs appear at least as effective as VKAs in preventing thrombotic events and reduce intracranial bleeding.  
+
+Conflict of Interest   
+I.C., G.V., S.M.: none. G.P.: speaker/consultant/advisory board for Amgen, Sanofi, Bayer, Boehringer-Ingelheim, BMS-Pfizer, Daiichi Sankyo, Astra Zeneca, Sigma-Tau, Malesci, PIAM, and MSD.  
+
+# References  
+
+1 Kirchhof P, Benussi S, Kotecha D, et al. 2016 ESC guidelines for the management of atrial fibrillation developed in collaboration with EACTS. Rev Española Cardiol (English ed.) 2017;70(01):50   
+2 Go AS, Hylek EM, Phillips KA, et al. Prevalence of diagnosed atrial fibrillation in adults: national implications for rhythm management and stroke prevention: the AnTicoagulation and Risk Factors in Atrial Fibrillation (ATRIA) study. JAMA 2001;285 (18):2370–2375   
+3 Hart RG, Pearce LA, McBride R, Rothbart RM, Asinger RW; The Stroke Prevention in Atrial Fibrillation (SPAF) Investigators. Factors associated with ischemic stroke during aspirin therapy in atrial fibrillation: analysis of 2012 participants in the SPAF I-III clinical trials. Stroke 1999;30(06):1223–1229   
+4 Miyasaka Y, Barnes ME, Gersh BJ, et al. Secular trends in incidence of atrial fibrillation in Olmsted County, Minnesota, 1980 to 2000, and implications on the projections for future prevalence. Circulation 2006;114(02):119–125   
+5 Perera V, Bajorek BV, Matthews S, Hilmer SN. The impact of frailty on the utilisation of antithrombotic therapy in older patients with atrial fibrillation. Age Ageing 2009;38(02):156–162   
+6 Melloni C, Shrader P, Carver J, et al; ORBIT-AF Steering Committee. Management and outcomes of patients with atrial fibrillation and a history of cancer: the ORBIT-AF registry. Eur Heart J Qual Care Clin Outcomes 2017;3(03):192–197   
+7 Steffel J, Verhamme P, Potpara TS, et al; ESC Scientific Document Group. The 2018 European Heart Rhythm Association Practical Guide on the use of non-vitamin K antagonist oral anticoagulants in patients with atrial fibrillation. Eur Heart J 2018;39(16): 1330–1393   
+8 O’Neal WT, Claxton JS, Sandesara PB, et al. Provider specialty, anticoagulation, and stroke risk in patients with atrial fibrillation and cancer. J Am Coll Cardiol 2018;72(16):1913–1922   
+9 Suter TM, Ewer MS. Cancer drugs and the heart: importance and management. Eur Heart J 2013;34(15):1102–1111   
+10 Hutten BA, Prins MH, Gent M, Ginsberg J, Tijssen JG, Büller HR. Incidence of recurrent thromboembolic and bleeding complications among patients with venous thromboembolism in relation to both malignancy and achieved international normalized ratio: a retrospective analysis. J Clin Oncol 2000;18(17):3078–3083   
+11 Veltkamp R, Hacke W. Neue orale Antikoagulanzien beim Vorhofflimmern. Nervenarzt 2011;82(02):180–189   
+12 Moher D, Liberati A, Tetzlaff J, Altman DG; PRISMA Group. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. BMJ 2009;339(01):b2535   
+13 Stang A. Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in metaanalyses. Eur J Epidemiol 2010;25:603–605   
+14 Higgins JPT, Altman DG, Gøtzsche PC, et al; Cochrane Bias Methods Group; Cochrane Statistical Methods Group. The Cochrane Collaboration’s tool for assessing risk of bias in randomised trials. BMJ 2011;343:d5928   
+15 Mantel N, Haenszel W. Statistical aspects of the analysis of data from retrospective studies of disease. J Natl Cancer Inst 1959;22 (04):719–748   
+16 Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ 2003;327(7414):557–560   
+17 Begg CB, Mazumdar M. Operating characteristics of a rank correlation test for publication bias. Biometrics 1994;50(04): 1088–1101   
+18 Chen ST, Hellkamp AS, Becker RC, et al. Efficacy and safety of rivaroxaban vs. warfarin in patients with non-valvular atrial fibrillation and a history of cancer: observations from ROCKET AF. Eur Heart J Qual Care Clin Outcomes 2019;5(02):145–152   
+19 Melloni C, Dunning A, Granger CB, et al. Efficacy and safety of apixaban versus warfarin in patients with atrial fibrillation and a history of cancer: insights from the ARISTOTLE trial. Am J Med 2017;130(12):1440–1448   
+20 Fanola CL, Ruff CT, Murphy SA, et al. Efficacy and safety of edoxaban in patients with active malignancy and atrial fibrillation: analysis of the ENGAGE AF-TIMI 48 trial. J Am Heart Assoc 2018;7(16):e008987   
+21 Ording AG, Horváth-Puhó E, Adelborg K, Pedersen L, Prandoni P, Sørensen HT. Thromboembolic and bleeding complications during oral anticoagulation therapy in cancer patients with atrial fibrillation: a Danish nationwide population-based cohort study. Cancer Med 2017;6(06):1165–1172   
+22 Kim K, Lee YJ, Kim TH, et al. Effect of non-vitamin K antagonist oral anticoagulants in atrial fibrillation patients with newly diagnosed cancer. Korean Circ J 2018;48(05):406–417   
+23 Shah S, Norby FL, Datta YH, et al. Comparative effectiveness of direct oral anticoagulants and warfarin in patients with cancer and atrial fibrillation. Blood Adv 2018;2(03):200–209   
+24 Mosarla RC, Vaduganathan M, Qamar A, Moslehi J, Piazza G, Giugliano RP. Anticoagulation strategies in patients with cancer: JACC review topic of the week. J Am Coll Cardiol 2019;73(11): 1336–1349   
+25 Caine GJ, Stonelake PS, Lip GYH, Kehoe ST. The hypercoagulable state of malignancy: pathogenesis and current debate. Neoplasia 2002;4(06):465–473   
+26 Cronin-Fenton DP, Søndergaard F, Pedersen LA, et al. Hospitalisation for venous thromboembolism in cancer patients and the general population: a population-based cohort study in Denmark, 1997-2006. Br J Cancer 2010;103(07):947–953   
+27 Blom JW, Doggen CJM, Osanto S, Rosendaal FR. Malignancies, prothrombotic mutations, and the risk of venous thrombosis. JAMA 2005;293(06):715–722   
+28 Hu YF, Liu CJ, Chang PM, et al. Incident thromboembolism and heart failure associated with new-onset atrial fibrillation in cancer patients. Int J Cardiol 2013;165(02):355–357   
+29 Walker AJ, Card TR, West J, Crooks C, Grainge MJ. Incidence of venous thromboembolism in patients with cancer - a cohort study using linked United Kingdom databases. Eur J Cancer 2013;49 (06):1404–1413   
+30 Horsted F, West J, Grainge MJ. Risk of venous thromboembolism in patients with cancer: a systematic review and meta-analysis. PLoS Med 2012;9(07):e1001275   
+31 Steffel J, Verhamme P, Potpara TS, et al; ESC Scientific Document Group. The 2018 European Heart Rhythm Association Practical Guide on the use of non-vitamin K antagonist oral anticoagulants in patients with atrial fibrillation. Eur Heart J 2018;39(16): 1330–1393   
+32 Bona RD, Sivjee KY, Hickey AD, Wallace DM, Wajcs SB. The efficacy and safety of oral anticoagulation in patients with cancer. Thromb Haemost 1995;74(04):1055–1058   
+33 January CT, Wann LS, Alpert JS, et al; ACC/AHA Task Force Members. 2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on practice guidelines and the Heart Rhythm Society. Circulation 2014;130(23):2071–2104   
+34 Hendrie PC, Garcia DA. Are new oral anticoagulants ready for use in patients with cancer? J Natl Compr Canc Netw 2013;11(11): 1446–1449   
+35 Lyman GH, Kuderer NM. When to offer thromboprophylaxis to patients with advanced pancreatic cancer: shedding light on the path forward. J Clin Oncol 2015;33(18):1995–1997   
+36 Raskob GE, van Es N, Verhamme P, et al; Hokusai VTE Cancer Investigators. Edoxaban for the treatment of cancer-associated venous thromboembolism. N Engl J Med 2018;378(07):615–624   
+37 Carrier M, Abou-Nassar K, Mallick R, et al; AVERT Investigators. Apixaban to prevent venous thromboembolism in patients with cancer. N Engl J Med 2019;380(08):711–719   
+38 Puurunen MK, Gona PN, Larson MG, Murabito JM, Magnani JW, O’Donnell CJ. Epidemiology of venous thromboembolism in the Framingham Heart Study. Thromb Res 2016;145:27–33   
+39 Chee CE, Ashrani AA, Marks RS, et al. Predictors of venous thromboembolism recurrence and bleeding among active cancer patients: a population-based cohort study. Blood 2014;123(25): 3972–3978   
+40 Ruff CT, Giugliano RP, Braunwald E, et al. Comparison of the efficacy and safety of new oral anticoagulants with warfarin in patients with atrial fibrillation: a meta-analysis of randomised trials. Lancet 2014;383(9921):955–962  

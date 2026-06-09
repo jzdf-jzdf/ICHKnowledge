@@ -1,0 +1,186 @@
+$\copyright$ Congress of Neurological Surgeons 2022. Unauthorized reproduction of this article is prohibited.  
+
+# Randomized Trial Comparing Burr Hole Craniostomy, Minicraniotomy, and Twist Drill Craniostomy for Treatment of Chronic Subdural Hematoma  
+
+Johnny Duerinck, MD, PhD $\circledcirc*$ Jorn Van Der Veken, MD\*‡ Sophie Schuind, MD§ Frank Van Calenbergh, MD|| Johannes van Loon, MD, PhD|| Stephanie Du Four, MD, PhD\* Servaes Debacker, BS¶ Emmanuel Costa, MD# Christian Raftopoulos, MD, PhD# Olivier De Witte, MD, PhD§ Wilfried Cools, PhD\*\* Ronald Buyl, PhD‡‡ Vera Van Velthoven, MD, PhD\* Jean D’Haens, MD\* Michael Bruneau, MD, PhDs## \*Department of Neurosurgery, UZ Brussel, Brussels, Belgium; ‡Current affiliation: Department of Neurosurgery, Flinders Medical Centre, Adelaide, Australia; §Department of Neurosurgery, ULB Erasme, Brussels, Belgium; (Continued on next page)  
+
+Results from this trial have been orally presented (in preliminary or final form) at EANS (European Association of Neurosurgical Societies) Annual Conference on October 14, 2014 (Prague, Czech Republic), EANS Annual Conference on October 20, 2018 (Brussels, Belgium), EANS Annual Meeting (virtual) on October 19, 2020, and BSN (Belgian Society of Neurosurgery) Annual Meeting (virtual) on June 5, 2021.  
+
+# Correspondence:  
+
+Johnny Duerinck, MD, PhD,   
+Neurosurgery Department,   
+UZ Brussel,   
+Laarbeeklaan 101,   
+1090 Brussels, Belgium.   
+Email: Johnny.duerinck@uzbrussel.be Received, September 11, 2021.   
+Accepted, February 10, 2022.   
+Published Online, May 24, 2022.  
+
+$\circledcirc$ Congress of Neurological Surgeons 2022. All rights reserved.  
+
+BACKGROUND: The mainstay of treatment for symptomatic or large chronic subdural hematoma (CSDH) is surgery, but controversy still exists regarding the best surgical technique. Three different techniques are commonly used: burr hole craniostomy (BHC), minicraniotomy (MC), and twist drill craniostomy (TDC).  
+
+OBJECTIVE: To determine which surgical technique for drainage of CSDH offers best results.  
+
+METHODS: We set up a multicenter prospective randomized trial (Comparison of Chronic Subdural Hematoma Treatment [COMPACT] trial) comparing BHC, MC, and TDC for the surgical treatment of CSDH. The primary end point was reoperation rate, and secondary end points included complication rates and clinical outcome. Patients were considered to have good outcome when they did not undergo reoperation, suffered no surgical or medical complication, and had no related mortality. Clinical outcome was also evaluated by evolution of the Markwalder score and the modified Rankin score.  
+
+RESULTS: Two-hundred forty-five patients were included in the final analysis: 79 BHC, 84 MC, and 82 TDC. Mean duration of surgery was shorter for TDC than for BHC and MC $(P<.001)$ . Reoperation rate was $7.6\%$ for BHC, $13.1\%$ for MC, and $19.5\%$ for TDC $(P=.07)$ . This trend toward better results for BHC was not statistically significant in logistic regression analysis. The proportion of patients with good outcome was $78.5\%$ for BHC group, $76.2\%$ for MC, and $69.5\%$ for TDC $(P=.4)$ . Evolution of the Markwalder score and modified Rankin score were not significantly different between treatment groups.  
+
+CONCLUSION: All 3 techniques are effective at treating patients with CSDH with eventual 6-month outcome being similar. Although not reaching statistical significance in our study, BHC offers the lowest recurrence rate combined with manageable complication rate.  
+
+KEY WORDS: Burr hole craniostomy, Chronic subdural hematoma, Minicraniotomy, Twist drill craniostomy  
+
+Neurosurgery 91:304–311, 2022 https://doi.org/10.1227/neu.0000000000001997 hronic subdural hematoma (CSDH) is one of the most frequently occurring neurosurgical pathologies. Its estimated  
+
+ABBREVIATIONS: AIC, Akaike information criterion; BHC, burr hole craniostomy; CSDH, chronic subdural hematoma; MC, minicraniotomy; TDC, twist drill craniostomy.  
+
+Supplemental digital content is available for this article at neurosurgery-online.com.  
+
+Access the CNS Spotlight gallery at cns.org/spotlight or by scanning this QR code using your mobile device.  
+
+annual incidence ranges from 8.2 to 20.6 per 100 000, but in the age group over 65 this rises to 58 per 100 000 per year. Due to a growing elderly population, the incidence of CSDH appears to be increasing.1-4 It has also been demonstrated that CSDH can serve as a sentinel event similar to hip fractures, as there is a persistent increase in mortality up to 1 year beyond diagnosis.5 While it is widely accepted that CSDH that causes significant mass effect and/or a neurological deficit requires surgical drainage, there is an ongoing debate about which surgical technique offers optimal results.6 Results of surgical evacuation are generally good, but recurrence can pose a significant problem and occurs in up to $30\%$ of cases.7 The mainstay of treatment is burr hole drainage, and several meta-analyses have determined this technique to offer the best result-to-morbidity ratio.7,8 Other reports, however, have more recently proposed twist drill craniostomy (TDC) as an equal technique ie, quicker to perform and less invasive.3 Minicraniotomy (MC) has also been demonstrated to provide good results and has the theoretical advantage of offering good visualization of the subdural space, potentially reducing recurrence and hemorrhagic complications.9 There is a paucity of level I evidence to support any claim to superiority, however, and a head-to-head comparison of the three aforementioned techniques has not been performed to date.  
+
+To determine whether the type of surgical procedure influences recurrence rate and other outcome variables and to establish potential predictive factors, we set up a randomized trial for patients with a CSDH requiring surgical evacuation, comparing burr hole craniostomy (BHC), MC and TDC.  
+
+# METHODS  
+
+We set up a prospective multicenter randomized trial that allocates patients with a CSDH to 1 of 3 surgical intervention types in a 1:1:1 fashion (ClinicalTrials.gov: NCT02655445). The study was conducted between 2012 and 2019 in 4 university hospitals in Belgium (UZ Brussel/VUB, Erasme Hospital/ULB, UZ Leuven/KUL and St-Luc Hospital/UCL). The study protocol was approved by the Ethics committees of all involved hospitals.  
+
+Patients aged 18 years or older with a CSDH requiring surgical drainage and without contra-indication for use of any of the 3 techniques or for general anesthesia were eligible for inclusion. Upon signing informed consent, patients were randomized to either receive BHC, MC or TDC. All interventions were performed under general anesthesia and patients received a subdural drainage system which was kept for at least 48 hours postoperatively. Details on surgical methods are provided in Supplemental Digital Content 1, http://links.lww. com/NEU/D113.  
+
+At baseline, clinical, demographic, and imaging (computed tomography [CT] scan) data were recorded. Clinical data included relevant medical history, neurological examination, Markwalder score, and modified Rankin scale score (mRS).10,11 Radiological findings included side, maximal thickness (measured on axial slices, in mm), midline shift, predominant density, and presence of membranes. Postoperative morbidities (medical and surgical complications), and mortality rates, were recorded throughout the duration of the patient’s participation. Mortality was described as related if it occurred as a direct consequence of the surgical intervention or a complication thereof. A medical complication was defined as any nonsurgical complication occurring during the hospital stay after the surgery and was considered minor if complete recovery was to be expected (eg, electrolyte disturbances or urinary tract infection) and major in case of potential serious consequences and partial or no recovery (eg, stroke, severe pneumonia, or pulmonary embolism). Surgical complications were defined as every complication directly related to the surgery. Epileptic seizures in the postoperative period were considered separately from medical or surgical complications.  
+
+Reoperation, defined as a necessary reintervention because of an inadequate clinical or radiological result of the first surgery, was recorded. Survival was monitored throughout the duration of the study. Follow-up clinical examinations and CTs were performed at 48 hours (with the drain still in place), 6 weeks, and 6 months postoperatively and at any other time when deemed necessary for optimal care of the patient.  
+
+Outcome was described as “good” when the patient did not suffer a major medical or surgical complication, did not require reoperation, and did not die as a result of the treatment. The eventual outcome status of patients independently of any complication or reoperation was also evaluated by looking at the evolution of the Markwalder score and the mRS. Cure rate, defined as the percentage of patients who reach Markwalder score 0 or 1 at outcome, was calculated.7  
+
+# Statistics  
+
+The primary end point, used for calculation of the sample size, was the reoperation rate. Sample size calculation was performed using GPower software using an effect size of 0.198, alpha of 0.05, and a power of $80\%$ with 2 degrees of freedom. To demonstrate the hypothesized difference in reoperation rate $(5\%$ for MC, $15\%$ for BHC, and $25\%$ for TDC), 240 patients in total were required. To account for dropout and loss to follow-up, 250 patients were planned. Randomization was performed using Research Randomizer.12 Through http://randomizer.org, a 1:1:1 randomization schedule in blocks of 3 for all planned 250 patients was generated.  
+
+Demographics and clinical characteristics are described using descriptive statistics. Differences between treatment groups regarding baseline characteristics, reoperation rate, and outcome (good or bad) are calculated using $\chi^{2}$ . Initial evaluation of correlations between other variables was also performed using $\chi^{2}$ for categorical variables and analysis of variance (ANOVA) for continuous variables. Logistic regression was used to confirm findings and to estimate effects of other variables and determine possible confounding factors. Variable selection in the logistic regression was performed using an automated stepwise procedure in both directions using the Akaike information criterion (AIC). Because the type of surgery is fundamental in this study, it was always kept in the model irrespective of AIC. Interactions are not considered at this stage.  
+
+To study the interaction between the surgical intervention type and the evolution of the Markwalder score and the mRS, accommodating the ordinal nature of both scores and the embedded scores of the repeated observations within patients, a cumulative link mixed model was estimated. Reverse Kaplan–Meier method was used to calculate mean and median follow-up times with $95\%$ CIs.  
+
+# RESULTS  
+
+# Demographic and Clinical Data  
+
+Screening and recruitment of patients is illustrated in the Consolidated Standards of Reporting Trials (CONSORT) diagram in Figure 1. Two hundred forty-five patients were included in the final evaluation. Median follow-up was 185 days $(95\%$ CI, 179.6-190) for full clinical evaluation (including Markwalder score and mRS) and 182 days $(95\%$ CI, 176.5-187.5) for CT evaluation.  
+
+COMPACT trial CONSORT Flow Diagram  
+
+![](images/9f7f7cdcf9c363fe0cbab39f70dc0c63b37394f684b7a5cc5499f697fa060357.jpg)  
+
+FIGURE 1. CONSORT diagram. Median follow-up was 185 days ( $95\%$ CI, 179.6-190) for full clinical evaluation (including the Markwalder score and mRS, as defined per protocol) and 182 days $(\%)\%$ CI, 176.5-187.5) for computed tomography evaluation. Including deceased patients, 233 of 245 patients $(95.I\%)$ were evaluable for 6-week follow-up and 218 of $245$ $(89\%)$ were evaluable for 6-month follow-up of at least the Markwalder score and mRS. mRS, modified Rankin score.  
+
+Baseline clinical and imaging characteristics are listed in Table 1, and the Markwalder score at presentation is listed in Table 2. Midline shift was present in 214 cases $(87\%)$ . Patients with bilateral hematoma had significantly less midline shift $(P<.001)$ . There was no relationship between the time frame between trauma and diagnosis and whether the hematoma had an isodense, hyperdense, or mixed density aspect on CT $(P=.891\$ ).  
+
+# Duration of Surgery and Hospital Stay  
+
+Because the proportion of bilateral and unilateral CSDH was equally distributed between treatment arms, duration of surgery is reported for unilateral and bilateral cases combined. Mean duration of surgery was 52.9 minutes for BHC (range 16-160), 68.4 minutes for MC (range  
+
+19-242), and 19.9 minutes (range 2-76) for $\mathrm{TDC}(P<.001)$ . Mean hospital stay for the whole study population was 13.3 days and was not significantly different between treatment groups.  
+
+# Reoperation Rate  
+
+Taking into account the whole study population, the reoperation rate was $13.4\%$ (33 patients): $7.6\%$ (6 of 79) for BHC, $13.1\%$ (11 of 84) for MC, and $19.5\%$ (16 of 82) for TDC $\left(P=.07\right)$ . The trend toward lower reoperation rate for BHC was not retained as statistically significant in logistic regression analysis. The reason for reoperation was clinical in 19 (4 BHC, 6 MC, and 9 TDC) and radiological in 14 patients (2 BHC, 5 MC, and 7 TDC). This distribution of reasons for reoperation was not significantly different between treatment groups $\left(P=.9\right)$ . Apart from the type of surgery, no other radiological or clinical variables emerged as significantly influencing the reoperation rate. Most reoperations (29 of 33) occurred within the 30-day postoperative period.  
+
+<html><body><table><tr><td colspan="5">TABLE 1. Baseline Clinical and Radiological Characteristics</td></tr><tr><td></td><td>Burr hole craniostomy (6L =u)</td><td>Minicraniotomy (n = 84)</td><td>Twist drill craniostomy (n = 82)</td><td>Total (n =245)</td></tr><tr><td>Clinical characteristics</td><td></td><td></td><td></td><td></td></tr><tr><td>Age—y ± SD</td><td>74.3 ± 13.0</td><td>73.2 ± 12.5</td><td>74.3 ± 14.8</td><td>74 ± 13.5</td></tr><tr><td>Male sex (%)</td><td>48 (60.8%)</td><td>59 (70.2%)</td><td>51 (62.2%)</td><td>159 (64.9%)</td></tr><tr><td>Comorbidities (%)</td><td></td><td></td><td></td><td></td></tr><tr><td>Cardiovascular history or diabetes</td><td>49 (62.0%)</td><td>58 (69.0%)</td><td>51 (62.2%)</td><td>158 (64.5%)</td></tr><tr><td>Anticoagulation or antiaggregation</td><td>41 (51.9%)</td><td>43 (51.2%)</td><td>44 (53.7%)</td><td>128 (52.2%)</td></tr><tr><td>Known dementia/atrophy</td><td>14 (17.7%)</td><td>14 (16.7%)</td><td>20 (24.4%)</td><td>48 (19.6%)</td></tr><tr><td>Living situation (%)</td><td></td><td></td><td></td><td></td></tr><tr><td>Home, independent</td><td>47 (59.5%)</td><td>59 (70.2%)</td><td>53 (64.6%)</td><td>159 (64.9%)</td></tr><tr><td>Home with assistance</td><td>14 (17.7%)</td><td>15 (17.8%)</td><td>16 (19.5%)</td><td>48 (19.6%)</td></tr><tr><td>Resting home</td><td>18 (22.8%)</td><td>10 (11.9%)</td><td>13 (15.9%)</td><td>41 (16.7%)</td></tr><tr><td>Reason for presentation (%)</td><td></td><td></td><td></td><td></td></tr><tr><td>Neurological deficit</td><td>26 (32.9%)</td><td>32 (38.1%)</td><td>31 (37.8%)</td><td>89 (36.3%)</td></tr><tr><td>Epilepsy</td><td>3 (3.8%)</td><td>3 (3.5%)</td><td>3 (3.7%)</td><td>9 (3.7%)</td></tr><tr><td>Headache</td><td>25 (31.6%)</td><td>23 (27.4%)</td><td>15 (18.3%)</td><td>63 (25.7%)</td></tr><tr><td>Other/incidentalfinding</td><td>25 (31.6%)</td><td>26 (30.9%)</td><td>33 (40.2%)</td><td>84 (34.3%)</td></tr><tr><td>CT imaging characteristics</td><td></td><td></td><td></td><td></td></tr><tr><td>Mean thickness in mm ± SD</td><td>20.8 ± 5.7</td><td>20.6 ± 5.7</td><td>22.4 ± 8.0</td><td>21.3 ± 6.6</td></tr><tr><td>Mean midline shift in mm ± SD</td><td>6.7 ± 4.6</td><td>7.5 ± 5.0</td><td>7.5 ± 4.7</td><td>7.2 ± 4.8</td></tr><tr><td>Bilateral</td><td>19 (24.1%)</td><td>23 (27.4%)</td><td>22 (26.8%)</td><td>64 (26.0%)</td></tr><tr><td>Aspect</td><td></td><td></td><td>29 (35.4%)</td><td></td></tr><tr><td>Hypodense</td><td>33 (41.8%) 13 (16.5%)</td><td>24 (28.6%) 19 (22.6%)</td><td>20 (24.4%)</td><td>86 (35.1%)</td></tr><tr><td>Isodense Mixed density</td><td>33 (41.8%)</td><td>41 (48.8%)</td><td>33 (40.2%)</td><td>52 (21.2%) 107 (43.7%)</td></tr><tr><td>Membranes</td><td>42 (53.2%)</td><td>46 (54.8%)</td><td>43 (52.4%)</td><td>131 (53.4%)</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+CSDH, chronic subdural hematoma; CT, computed tomography. There were no significant differences in the distribution of the listed characteristics between treatment groups. One hundred ninety-six patients $(80\%)$ had a history of trauma that could be related to the CSDH. Of these patients, only 158 patients $(81\%)$ could remember the time frame between the trauma and the diagnosis of their CSDH, which had a median delay of 30 days (range 0-300 days). Despite not always being the presenting symptom, $53.1\%$ of patients had a neurological deficit at baseline $(50.2\%$ motor deficit and $2.9\%$ aphasia). Midline shift was present in 214 cases $(87\%)$ . When present, median shift was $8\mathsf{mm}$ with a range of 1 to $18\mathsf{mm}$ Patients with bilateral hematoma had significantly less midline shift $(P<.001\$ . There was no relationship between the time frame between trauma and diagnosis and whether the hematoma had an isodense, hyperdense, or mixed density aspect on CT $(P=.891{}_{,}$ ).  
+
+# Complications  
+
+Medical and surgical complications, as well as distribution per treatment arm, are listed in Table 3. Postoperative epilepsy was seen in $7.8\%$ of patients. The observed minor medical complications were mainly urinary tract infections. Across all groups, patients who had epilepsy had a longer hospital stay (mean of 21 days vs 13 days for patients without epilepsy; $P=.015^{\circ}{}_{\cdot}$ ). Patients who suffered a minor medical complication also had a significantly longer hospital stay (mean of 21 days vs 11 days for patients without a minor complication; $P<.001\$ ). Major medical complications were seen at a low frequency in all treatment arms.  
+
+Surgical complications were seen in $8.2\%$ of patients (all treatment arms combined). Acute subdural hematoma was only seen in the BHC and MC group $(2.5\%$ and $2.4\%$ , respectively).  
+
+Drain misplacement was the main surgical complication in the TDC group $\left(6.1\%\right)$ .  
+
+# Outcome  
+
+After a median follow-up for survival status of 255 days $(95\%$ CI, 203.5-306.5), 39 patients have died. Related mortality occurred in 9 patients ( $3.7\%$ : $5.1\%$ BHC, $3.6\%$ MC, and $2.4\%$ TDC). To provide a more complete outcome assessment, we classified patients into 1 of 4 tiers, aggregating multiple outcome measures (Figure 2). The proportion of patients with good outcome was highest in the BHC group $(78.5\%)$ , $76.2\%$ in the MC group, and lowest in the TDC group $(69.5\%)$ . Logistic regression did not reveal the type of intervention to be predictive for outcome. A neurological deficit at diagnosis and worse baseline Markwalder score were the only clinical baseline factors that correlated with outcome in logistic regression analysis (using AIC).  
+
+Baseline radiological characteristics (size, density, midline shift, and whether the CSDH was unilateral or bilateral) were not predictive of outcome in logistic regression analysis. Residual hematoma thickness at  
+
+TABLE 2. Markwalder Score at Baseline   
+
+
+<html><body><table><tr><td>Markwalder scoreatbaseline</td><td></td><td>Frequency (%)</td><td>Burr hole craniostomy (n =79) (%)</td><td>Minicraniotomy (n =84) (%)</td><td>Twist drill craniostomy (n = 82) (%)</td></tr><tr><td>0</td><td>Patientneurologicallynormal</td><td>17 (6.9)</td><td>6</td><td>7.1</td><td>7.2</td></tr><tr><td>1</td><td>Patientalertandoriented;mildsymptomssuchas headache;absentormildneurologicaldeficit,suchas reflexasymmetry</td><td>119 (48.2)</td><td>52.5</td><td>46.4</td><td>45.8</td></tr><tr><td>2</td><td>Patient drowsy or disoriented withvariable neurological deficit,suchashemiparesis</td><td>89 (36.8)</td><td>27.5</td><td>42.9</td><td>39.8</td></tr><tr><td>3</td><td>Patient stuporous but responding appropriately to noxious stimuli;severefocal signs such ashemiplegia</td><td>18 (7.3)</td><td>12.5</td><td>3.6</td><td>6</td></tr><tr><td>4</td><td>Patient comatose with absent motor responses to painful stimuli;decerebrateordecorticateposturing</td><td>2 (0.8)</td><td>1.3</td><td>0</td><td>1.2</td></tr><tr><td>Total</td><td></td><td>245 (100)</td><td></td><td></td><td></td></tr></table></body></html>
+
+Distribution of the Markwalder score was not significantly different between treatment groups $\left(P=.891\right.$ ).  
+
+48 hours, calculated as a percentage of the initial thickness, was $58.2\%$ for BHC, $57.5\%$ for MC, and $61.2\%$ for TDC $\left(P=.506\right)$ .  
+
+# Evolution of Markwalder Score and mRS  
+
+Cure rate, defined as the percentage of patients reaching Markwalder score 0 at outcome, was $68\%$ for BHC, $65.5\%$ for MC, and $70.7\%$ for TDC $\left(P=.91\right)\mathrm{,}$ ). There was no correlation between the residual hematoma thickness at 48 hours and the cure rate, although a trend toward higher residual was seen in patients who had a worse Markwalder score at eventual outcome. Patient proportions according to mRS and evolution thereof over time is illustrated in Figure 3. General mortality at 6 months (including unrelated mortality) was $10.2\%$ (BHC $11.4\%$ , MC $8.3\%$ , and TDC $11.0\%$ .  
+
+# DISCUSSION  
+
+In this study, we aimed to evaluate whether a specific type of surgical intervention for CSDH yields better results regarding reoperation rate. In the analysis, outcome assessment was broadened to also include complication rate (surgical and severe medical complications) and assess improvement of the functional status by looking at evolution of the Markwalder score and mRS. The results show that the reoperation rate is lowest in patients treated with BHC. Duration of surgery in TDC is significantly shorter than other intervention types, but outcomes seem to be slightly inferior to other surgical options. In general, our results indicate that BHC combines a low recurrence rate with a low incidence of morbidity.  
+
+To the best of our knowledge, this is the first reported trial in which patients are randomized between BHC, MC, and TDC. Three systematic reviews and a decision analysis model, each comparing the 3 surgical options, have been published.7 The systematic review by Weigel et al7 shows largely similar results although we see somewhat lower recurrence rates for TDC and for BHC ( $19.5\%$ and $7.6\%$ , respectively, in our series, vs $33\%$ and $12.1\%$ in theirs). They conclude that, despite a cure rate of $88\%$ for TDC vs $79\%$ for BHC and lower morbidity for TDC ( $3\%$ vs $3.8\%$ ), BHC offers the best result-to-morbidity ratio. A decision analysis by Lega et al8 comes to the similar conclusion that BHC combines low recurrence rate with low incidence of morbidity. A later systematic review by Ducruet et al,3 where only 2-arm studies were included, rather reached the conclusion that TDC offers the largest percentage of “good outcome” patients. Recurrence rates in this analyses were $28.1\%$ , $11.7\%$ , and $19.4\%$ for TDC, BHC, and craniotomy, respectively, which are slightly higher than recurrence rates in our trial. A more recent systematic analysis by Almenawer et $a^{1^{13}}$ showed no difference in morbidity, mortality, recurrence, or cure rates between bedside TDC and BHC and therefore advocates percutaneous bedside TDC as an effective first-line management option. None of the articles included in this analysis met the criteria for class I evidence; however, it is evident from these reports but also from our own data that defining good outcome for patients with CSDH is not trivial. Recurrence rate, eg, does not tell the whole story and seems to be less important than the eventual functional outcome, which did not differ between the 3 treatment groups in our trial. Despite a higher recurrence rate, TDC could therefore be offered to the patient as a first-line treatment because $80\%$ of patients are adequately treated in this fashion (not requiring reoperation) and general anesthesia can be more easily avoided. Our data do not allow to make any claims on the effect of anesthesia on the outcome, but performing TDC under local anesthesia could potentially improve results regarding morbidity by avoiding general anesthesia.14 It is also important to note that, like in any surgical trial, technical execution plays an important role. Optimizing technique of placement, by using standardized landmark-based placement or by use of bedside navigation through augmented reality, could further improve the results of this strategy.15,16 If medical and surgical complications of TDC are maximally reduced, it could be positioned as a first strategy in treating patients with CSDH, especially in patients with high comorbid status.  
+
+TABLE 3. Complications   
+
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">Total no.</td><td rowspan="2"></td><td rowspan="2">Total no.</td><td colspan="2">BHC</td><td colspan="2">MC</td><td colspan="2">TDC</td></tr><tr><td>of Total no. patients (%) patients</td><td>Total no. of patients (%)</td><td>Total no. of patients</td><td>Total no. of patients (%)</td><td>Total no. of patients</td><td>Total no. of patients</td></tr><tr><td>Epilepsy</td><td>Patients</td><td></td><td>6.5</td><td>6</td><td>7.6</td><td>7</td><td>8.3</td><td>3</td><td>3.7</td></tr><tr><td>Minor medical complications</td><td>Patients</td><td></td><td>25.7</td><td>19</td><td>24.1</td><td>19</td><td>22.6</td><td>25</td><td>30.5</td></tr><tr><td>All complications</td><td></td><td></td><td></td><td>23</td><td></td><td>26</td><td></td><td>39</td><td></td></tr><tr><td>Electrolyte disturbances</td><td></td><td></td><td></td><td>1</td><td></td><td>5</td><td></td><td>4</td><td></td></tr><tr><td>Pneumonia</td><td></td><td></td><td></td><td>5</td><td></td><td>2</td><td></td><td>4</td><td></td></tr><tr><td>Urinary tract infection</td><td></td><td>43</td><td></td><td>11</td><td></td><td>11</td><td></td><td>21</td><td></td></tr><tr><td>Renal failure</td><td></td><td>10 14</td><td></td><td>2 4</td><td></td><td>3</td><td></td><td>5</td><td></td></tr><tr><td>Other (urticaria, eryspipelas, fall, ...)</td><td></td><td></td><td></td><td></td><td></td><td>5</td><td></td><td>5</td><td></td></tr><tr><td>Major medical complications</td><td>Partial No</td><td>Patients</td><td></td><td></td><td>10.1</td><td>7</td><td>8.3</td><td>5</td><td>6.1</td></tr><tr><td></td><td>recovery</td><td>recovery</td><td>Total</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>All complications</td><td>15</td><td>15</td><td>30</td><td></td><td></td><td></td><td></td><td>6</td><td></td></tr><tr><td>Cardiac failure</td><td>2</td><td>2</td><td>4</td><td></td><td></td><td>3</td><td></td><td>3</td><td></td></tr><tr><td>Stroke</td><td>1</td><td>3</td><td>4</td><td></td><td></td><td></td><td></td><td>1</td><td></td></tr><tr><td>Pneumonia Renal failure</td><td>2</td><td>5</td><td>7 3</td><td></td><td></td><td>2</td><td></td><td>1</td><td></td></tr><tr><td>Other (pulmonary embolism,</td><td>2 8</td><td>1 4</td><td>12</td><td></td><td></td><td>3</td><td></td><td>1</td><td></td></tr><tr><td>DVT, anemia, ...)</td><td></td><td></td><td></td><td></td><td>8</td><td></td><td></td><td></td><td></td></tr><tr><td>Surgical complications </td><td></td><td>Patients</td><td></td><td></td><td></td><td></td><td></td><td>6</td><td>11.0</td></tr><tr><td>AlIl Acute subdural hematoma</td><td></td><td></td><td></td><td></td><td></td><td>6</td><td></td><td>9</td><td></td></tr><tr><td>Extraduralhematoma</td><td></td><td></td><td></td><td>2</td><td></td><td>2</td><td></td><td>1</td><td></td></tr><tr><td>Intraparenchymal</td><td></td><td></td><td></td><td></td><td></td><td>3</td><td></td><td>1</td><td></td></tr><tr><td>hemorrhage</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cerebral edema Misplaced drain</td><td></td><td></td><td>2 6</td><td>1 1</td><td></td><td></td><td></td><td>5</td><td></td></tr><tr><td>Hydrocephalus</td><td></td><td></td><td>2</td><td>1</td><td></td><td></td><td></td><td>1</td><td></td></tr><tr><td>Infection (subdural</td><td></td><td></td><td>2</td><td></td><td></td><td></td><td></td><td>1</td><td></td></tr><tr><td>empyema) Total patients</td><td></td><td></td><td>245 100</td><td>79</td><td>100</td><td>84</td><td>100</td><td>82</td><td>100</td></tr></table></body></html>
+
+BHC, burr hole craniostomy; DVT, deep venous thrombosis; MC, minicraniotomy; TDC, twist drill craniostomy. We did not observe any significant difference in the occurrence of epilepsy or minor medical complications between the 3 treatment groups $(P=.47)$ . Neither the occurrence of epilepsy nor of a minor medical complication had an influence on the reoperation rate or outcome as defined above. None of the observed major medical complications were specifically linked to 1 of the 3 treatment arms. Of the 5 misplaced drains in the TDC group, 4 were positioned intraparenchymally and 1 was in the extradural space. The malpositioned drain in the BHC group had also been positioned intraparenchymally.  
+
+The strength of this study is that randomization was performed to decide which surgical intervention was offered to the patient, eliminating any potential selection bias and providing an equal distribution of patient characteristics over treatment groups. By maintaining the same protocol for all included patients, the only difference between treatment groups was the type of surgical intervention they underwent.  
+
+# Limitations  
+
+Weaknesses of this study include the fact that the differences between reoperation rates of the 3 techniques are most likely smaller than hypothesized during the study conception, making the study underpowered to demonstrate statistical significance. This implies that no definitive answer can be provided as to which technique offers best results.  
+
+Another weakness is the lack of control over surgical technique. A technical rundown of the interventions was agreed on by all investigators, but individual differences in surgical technique exist, and these interventions are often delegated to trainees. The advantage of this is, on the other hand, that it reflects actual practice and allows for the study results to be more adequately applied to daily clinical work. In addition, there was no centralized assessment of the need for reoperation. The decision whether or not to reoperate was made by the treating senior neurosurgeon, and individual differences could potentially account for differences in the reoperation rate. This was countered by broadening the outcome assessment to also include complications and functional status, which are less prone to subjectivity, and to evaluate longerterm outcome measures such as cure rate and evolution of the Markwalder score and mRS.  
+
+![](images/59ff4019c6d539e99c462f2054278f9d3d53af0ac95a044c6346d425709febd4.jpg)  
+FIGURE 2. Aggregated outcome scale. The bars represent the full patient groups; every patient can only be represented once in this assessment, and the worst group is considered first (mortality $<$ reoperation or surgical complication $<$ major medical complication) absence of any complication or mortality by definition, places the patient in the good outcome group. Related mortality occurred in 9 patients $(3.7\%$ : $5.I\%$ BHC, $3.6\%$ MC, and $2.4\%$ TDC). In 5 of 9 cases, death was due to persistent comatose state and ensuing aspiration pneumonia. Status epilepticus, acute subdural hematoma, intraparenchymal hemorrhage, and diffuse cerebral edema were the cause of death in 1 patient each. BHC, burr hole craniostomy; MC, minicraniotomy; TDC, twist drill craniostomy.  
+
+![](images/37e52f2ebb2e5361c1031053b4c64ef844521246ceb16560d6168ad0be9029eb.jpg)  
+  
+FIGURE 3. mRS proportions per treatment group at baseline, 48 hours postoperatively, at discharge, 6-week, and 6-month follow-up. Note that this graph shows percentages; absolute numbers of patients are different due to loss to follow-up. The cumulative link mixed model did not show any difference in the evolution of the mRS over time between treatment groups. mRS, modified Rankin score.  
+
+$\copyright$ Congress of Neurological Surgeons 2022. Unauthorized reproduction of this article is prohibited.  
+
+# CONCLUSION  
+
+Although not reaching statistical significance in our study, BHC offers the lowest recurrence rate combined with a manageable complication rate and should currently still be considered as standard first-line treatment for CSDH. TDC can be offered to the patient as a first-line treatment, especially when general anesthesia is to be avoided. Further study efforts could focus on comparing BHC under general anesthesia with TDC under local anesthesia.  
+
+# Funding  
+
+This study did not receive any funding or financial support.  
+
+# Disclosures  
+
+The authors have no personal, financial, or institutional interest in any of the drugs, materials, or devices described in this article.  
+
+# REFERENCES  
+
+1. Kolias AG, Chari A, Santarius T, Hutchinson PJ. Chronic subdural haematoma: modern management and emerging therapies. Nat Rev Neurol. 2014;10(10): 570-578.   
+2. Iorio-Morin C, Touchette C, Levesque M, Effendi K, Fortin D, Mathieu D. Chronic subdural hematoma: toward a new management paradigm for an increasingly complex population. J Neurotrauma. 2018;35(16):1882-1885.   
+3. Ducruet AF, Grobelny BT, Zacharia BE, et al. The surgical management of chronic subdural hematoma. Neurosurg Rev. 2012;35(2):155-169.   
+4. Rauhala M, Helén P, Huhtala H, et al. Chronic subdural hematoma-incidence, complications, and financial impact. Acta Neurochir (Wien). 2020;162(9):2033-2043.   
+5. Miranda LB, Braxton E, Hobbs J, Quigley MR. Chronic subdural hematoma in the elderly: not a benign disease. Clinical article. J Neurosurg. 2011;114(1): 72-76.   
+6. Santarius T, Kirkpatrick PJ, Ganesan D, et al. Use of drains versus no drains after burr-hole evacuation of chronic subdural haematoma: a randomised controlled trial. Lancet. 2009;374(9695):1067-1073.   
+7. Weigel R, Schmiedek P, Krauss JK. Outcome of contemporary surgery for chronic subdural haematoma: evidence based review. J Neurol Neurosurg Psychiatry. 2003; 74(7):937-943.   
+8. Lega BC, Danish SF, Malhotra NR, Sonnad SS, Stein SC. Choosing the best operation for chronic subdural hematoma: a decision analysis. J Neurosurg. 2010; 113(3):615-621.   
+9. Van Der Veken J, Duerinck J, Buyl R, Van Rompaey K, Herregodts P, D’Haens J. Mini-craniotomy as the primary surgical intervention for the treatment of chronic subdural hematoma—a retrospective analysis. Acta Neurochir (Wien). 2014;156(5): 981-987.   
+10. Markwalder TM, Steinsiepe KF, Rohner M, Reichenbach W, Markwalder H. The course of chronic subdural hematomas after burr-hole craniostomy and closedsystem drainage. J Neurosurg. 1981;55(3):390-396.   
+11. Van Swieten JC, Koudstaal PJ, Visser MC, Schouten H, Van Gijn J. Interobserver agreement for the assessment of handicap in stroke patients. Stroke. 1988;19(5): 604-607.   
+12. Urbaniak GC, Plous S. Research Randomizer (Version 3.0) [Computer software]. 2013. Accessed September 25, 2011. http://www.randomizer.org/.   
+13. Almenawer SA, Farrokhyar F, Hong C, et al. Chronic subdural hematoma management: a systematic review and meta-analysis of 34,829 patients. Ann Surg. 2014;259(3):449-457.   
+14. Surve RM, Bansal S, Reddy M, Philip M. Use of dexmedetomidine along with local infiltration versus general anesthesia for burr hole and evacuation of chronic subdural hematoma (CSDH). J Neurosurg Anesthesiol. 2017;29(3): 274-280.   
+15. Van Gestel F, Frantz T, Soomro MH, et al. Augmented reality-assisted neurosurgical drain placement (ARANED): technical note. Acta Neurochir Suppl. 2021; 131(1):267-273.   
+16. Li Y, Chen X, Wang N, et al. A wearable mixed-reality holographic computer for guiding external ventricular drain insertion at the bedside. J Neurosurg. 2019; 131(5):1599-1606.  
+
+# The CNS Spotlight gallery is available at cns.org/spotlight.  
+
+# Supplemental digital content is available for this article at neurosurgery-online.com.  
+
+Supplemental Digital Content 1. Text. “COMPACT trial—supplement on surgical methods,” details on methods used for each surgical technique in the COMPACT trial.  

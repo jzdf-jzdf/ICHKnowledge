@@ -1,0 +1,199 @@
+# Prediction of Early Perihematomal Edema Expansion Based on Noncontrast Computed Tomography Radiomics and Machine Learning in Intracerebral Hemorrhage  
+
+Yu-Lun $\pmb{Li}^{\eta}$ , Chu Chen2, Li-Juan Zhang1, Yi-Neng Zheng1, Xin-Ni $\scriptstyle{L}{\vec{v}}^{2},$ , Li-Bo Zhao4,5, Qi $Li^{2-4}$ , Fa-Jin $\pmb{L}\pmb{v}^{\eta}$ - OBJECTIVES: To investigate the predictive value of noncontrast computed tomography (NCCT) models based on radiomics features and machine learning for early perihematomal edema (PHE) expansion in patients with spontaneous intracerebral hemorrhage (ICH).  
+
+- METHODS: We retrospectively reviewed NCCT data from 214 patients with spontaneous ICH. All radiomics features were extracted from volume of interest of hematomas on admission scans. A total of 8 machine learning methods were applied for constructing models in the training and the test set. Receiver operating characteristic analysis and the areas under the curve were used to evaluate the predictive value.  
+
+- RESULTS: A total of 23 features were finally selected to establish models of early PHE expansion after feature screening. Patients were randomly assigned into training $(\mathtt{n}=171)$ and test $(\mathfrak{n}=43)$ sets. The accuracy, sensitivity, and specificity in the test set were $72.1\%,$ , $90.0\%,$ , and $66.7\%$ for the support vector machine model; $79.1\%,$ , $70.0\%,$ and $84.4\%$ for the k-nearest neighbor model; $88.4\%,$ $90.0\%,$ and $87.9\%$ for the logistic regression model; $74.4\%,$ $90.0\%,$ and $69.7\%$ for the extra tree model; $74.4\%,$ $90.0\%,$ and $69.7\%$ for the extreme gradient boosting model; $83.7\%,$ $100\%,$ and $78.8\%$ for the multilayer perceptron (MLP) model; $72.1\%,$ $100\%,$ and $65.6\%$ for the light gradient boosting machine model; and $60.5\%,$ $90.0\%,$ and $53.1\%$ for the random forest model, respectively.  
+
+- CONCLUSIONS: The MLP model seemed to be the best model for prediction of PHE expansion in patients with ICH. NCCT models based on radiomics features and machine learning could predict early PHE expansion and improve the discrimination of identify spontaneous intracerebral hemorrhage patients at risk of early PHE expansion.  
+
+# INTRODUCTION  
+
+ntracerebral hemorrhage (ICH) is considered the most lethal form of stroke and has a high rate of disability and mortality.1,2 Hematoma expansion (HE), an independent factor for mortality and poor outcomes in patients with ICH, mostly  
+
+# Key words  
+
+- Brain edema   
+- Cerebral hemorrhage   
+- Machine learning   
+- Radiomics   
+- Tomography   
+X-ray computed  
+
+# Abbreviations and Acronyms  
+
+AUC: Area under the ROC curve   
+CI: Confidence interval   
+CT: Computed tomography   
+ET: Extra tree   
+GLCM: Gray-level co-occurrence matrix   
+GLDM: Gray-level dependence matrix   
+GLRLM: Gray-level run length matrix   
+GLSZM: Gray-level size zone matrix   
+HE: Hematoma expansion   
+ICH: Intracerebral hemorrhage   
+KNN: k-nearest neighbor   
+LASSO: Least absolute shrinkage and selection operator   
+LightGBM: Light gradient boosting machine   
+LR: Logistic regression   
+ML: Machine learning   
+MLP: Multilayer perceptron   
+NCCT: Noncontrast computed tomography   
+PHE: Perihematomal edema   
+RF: Random forest   
+ROC: Receiver operating characteristic   
+SVM: Support vector machine   
+VOI: Volume of interest   
+XGBoost: Extreme gradient boosting  
+
+occurs within 24 hours of ICH onset.3,4 Early perihematomal edema (PHE) expansion has also been verified to be a factor associated with poor outcomes in patients with ICH.5 Therefore, it is of great significance to accurately discriminate patients at risk for early PHE expansion, as this could be a target for clinical treatment. Noncontrast computed tomography (NCCT) imaging markers, including blend sign, black hole sign, and island sign, have been recently proposed as tools for discriminating early HE after spontaneous ICH.6-8 These imaging signs, which can reflect the heterogeneous density and irregular shape of the hematoma, have been verified as factors associated with PHE evolution.9 However, the predictive value of these imaging signs for predicting early PHE expansion are yet to be confirmed, and decision-making in clinical anti-edema management needs more reliable evidence.  
+
+Radiomics, a rapidly developing method, can be applied to extract large amounts of imaging features with high throughput from medical images to detect otherwise invisible information.10,11 Machine learning (ML) is an interdisciplinary field that combines computer science and statistical techniques.12 Recently, the combination of radiomics and ML algorithms has been increasingly applied for diagnosis and prognosis in medical settings.13,14 However, few studies have combined ML algorithms and the radiomics features of hematomas to improve the early detectability of PHE expansion.  
+
+In our study, we hypothesized that the application of radiomics and machine learning could predict early PHE expansion in patients with ICH. Our aim was to establish different models based on ML algorithms and NCCT imaging markers and radiomics features derived from NCCT images of hematoma, and to investigate the predictive performances of these models in discriminating early PHE expansion in patients with spontaneous ICH.  
+
+# METHODS  
+
+# Patients  
+
+A prospective study was performed using patients in the first affiliated hospital of Chongqing Medical University from July 2011 to March 2017. Eligibility criteria included (1) age 18 to 80 years, (2) spontaneous ICH, (3) baseline computed tomography (CT) scan within 6 hours after symptom onset, (4) follow-up CT scan screened within $36$ hours after the admission CT scan. Patients who have secondary ICH caused by arteriovenous malformation; hemorrhagic infarction; intracranial aneurysm; anticoagulantassociated, traumatic brain injury; and tumor stroke were excluded from the cohort. Also excluded were patients who underwent surgical intervention before the follow-up CT scan or without follow-up imaging data. The study protocol was approved by the ethics committee of the first affiliated hospital of Chongqing Medical University.  
+
+Early PHE expansion was defined as an absolute increase in the perihematomal edema volume ${>}6~\mathrm{mL}$ from initial CT scan on admission to follow-up CT scans.5 According to the definition of early PHE expansion, all patients were divided into 2 groups: PHE expansion group $(\mathtt{n}=54,\mathtt{\Gamma}$ ) and a non-expansion group ${\bf\rho}_{\mathrm{n}}={\bf\rho}$ 160). For subsequent analysis, all patients were randomly assigned to the training set and test set in the ratio of 8:2.  
+
+# Image Acquisition, Evaluation, and Segmentation  
+
+Initial and follow-up NCCT scans were performed on all patients after admission to the hospital and all CT image data were recorded as the format of Digital Imaging and Communications in Medicine (DICOM). We used Analyze Direct software (Version 11.0; Overland Park, KS) to calculated the perihematomal edema volume of each CT scan in a semi-automatic way, described in a past study.15,16 ITK-SNAP software (Version 3.8.0; Penn Image Computing and Science Laboratory, Philadelphia, Pennsylvania, USA) was used for hematoma segmentation in the whole cohorts. The volume of interest (VOI) was manually drawn slice-by-slice around the boundary of the hematoma by a junior radiologist in neuroimaging. A senior radiologist checked all VOIs.  
+
+# Radiomics Feature Extraction, Reduction, and Analysis  
+
+Radiomics features were automatically extracted and calculated from each ROI of included ICH patients. The extracted radiomics features were divided into three groups: geometry, intensity, and texture. Here the texture features are extracted using several different methods, including the gray-level co-occurrence matrix (GLCM), gray-level run length matrix (GLRLM), gray-level size zone matrix (GLSZM), and gray-level dependence matrix (GLDM) methods. A total of 1906 features were extracted from hematoma segmentation of each patient. We conducted a Mann-Whitney Utest statistical test for all radiomic features. Only radiomic features with a $\mathrm{P}$ value ${<}0.05$ were included. In the features that were considered statistically significant, the correlation between features was calculated by the Spearman rank correlation coefficient. Only 1 of the 2 features was retained for features with correlation coefficient greater than 0.9. After this, the least absolute shrinkage and selection operator (LASSO) regression model, which had penalty parameter tuning conducted by 10-fold cross-test, was used to select features with nonzero coefficients. The retained features were used for regression model fitting.  
+
+# Machine Learning and Prognosis  
+
+After LASSO feature screening, we input the final radiomics features into the ML models for predictive model construction in test cohort. Eight machine learning algorithms were used to establish the prediction models of early PHE expansion after ICH based on the selected features: support vector machine (SVM), k-nearest neighbor (KNN), logistic regression (LR), extra tree (ET), extreme gradient boosting (XGBoost), multilayer perceptron (MLP), light gradient boosting machine (LightGBM), and random forest (RF). The eight ML algorithms were described in the Appendix. The diagnostic accuracy, sensitivity, and specificity indices were used to evaluate the diagnostic efficacy of all models. Receiver operating characteristic (ROC) curves were drawn to evaluate the diagnostic efficacy of all ML models in the train and test cohort. The image data processing, feature extraction, and model building workflow are shown in Figure 1.  
+
+# RESULTS  
+
+# Baseline Characteristics  
+
+A total of 214 patients were included in our study. There were 139 $\left(65.0\%\right)$ male patients and $75\left(35.0\%\right)$ female patients. In the 214 patients, early PHE expansion was observed on $50$ $\left(23.4\%\right)$ initial  
+
+![](images/e258df23c4a868fae2463ae913e56643fb4abb2efce7db954fd7d323d43cd367.jpg)  
+Figure 1. Workflows for important steps in this study. The CT images were collected and manually segmented. After feature extraction and feature   
+selection, 8 machine learning models for early PHE expansion were built in the training set and test sets. VOI, volume of interest.  
+
+CT scans. A total of 171 patients $(80\%)$ were assigned to the training set to train the ML prediction models and the remaining 43 patients $\left(20\%\right)$ were used as the test set to evaluate the performance of the prediction models.  
+
+# Feature Selection and Analysis  
+
+After extracting by radiomics, all 1906 radiomics features of VOI from patients with ICH were extracted. The whole features were selected by Mann-Whitney U-test and the Spearman rank correlation coefficient. Finally, 23 radiomics features were filtered out as the input of radiomics models, including 1 GLRLM feature, 11 GLSZM features, 6 GLCM features, 4 GLDM features sand 1 first order feature. (exponential_glrlm_LongRunHighGrayLevelEmph asis, exponential_glszm_LargeAreaLowGrayLevelEmphasis, exponential_glszm_SmallAreaLowGrayLevelEmphasis, exponential_ glszm_ZoneVariance, gradient_glcm_Idmn, gradient_gldm_Large DependenceHighGrayLevelEmphasis, gradient_glszm_SizeZoneNonUniformity, lbp_3D_k_gldm_DependenceVariance, lbp_3D_ k_glszm_GrayLevelVariance, lbp_3D_k_glszm_ZoneEntropy, lbp_3D_m1_glcm_ClusterShade, lbp_3D_m1_glszm_GrayLevelVariance, lbp_3D_m2_glszm_HighGrayLevelZoneEmphasis, lbp_3D_m2_glszm_ZoneEntropy, log_sigma_1_0_mm_3D_glcm_- ClusterShade, log_sigma_2_0_mm_3D_gldm_LargeDependenceHighGrayLevelEmphasis, log_sigma_3_0_mm_3D_glcm_Idn, log_sigma_5_0_mm_3D_firstorder_Kurtosis, square_glcm_Idm, square_glcm_InverseVariance, squareroot_glszm_LargeAreaLowGrayLevelEmphasis, wavelet_LLH_gldm_DependenceVariance, wavelet_LLL_glszm_LargeAreaLowGrayLevelEmphasis). The feature screening results by means of the LASSO are shown in Figure 2.  
+
+# Performance of the Machine Learning Models  
+
+The predictive performance of different models is detailed in Table 1. The ET model and the XGBoost model showed overfitting, for the accuracies were $\mathrm{_{IOO}\%}$ in the training set. The LR and MLP models showed better accuracies than the other models for both training set and test set. The sensitivity, specificity, and accuracy in the test set were $90.0\%$ , $87{\cdot}9\%$ , and $88.4\%$ for the LR model, while the sensitivity, specificity, and accuracy in the test set were $\mathrm{Ioo.o\%}$ , $78.8\%$ , and $83{\cdot}7\%$ for the MLP model. The area under the ROC curves for LR and MLP were 0.92 $(95\%$ confidence interval [CI] $0.84\substack{-\mathrm{I.00}})$ and 0.90 $(95\%$ CI 0.81e0.99), separately. The ROC curves of LR and MLP model established in the training and test set are shown in Figure 3. All ML model ROC curves in the test set are summarized in Figure 4. The ML models based on radiomics features extracted from hematoma on CT scans could predict early PHE expansion in patients with ICH, especially the LR and MLP models.  
+
+# DISCUSSION  
+
+Herein, we attempted to predict early PHE expansion via an ML method. In our study, a total 8 ML models were established based on 23 radiomics features finally selected. The accuracy, sensitivity, specificity, and the area under the ROC curves (AUCs) were used to evaluate the predictive value of each model in the training and validation sets. Our study suggested it is feasible to predict early PHE expansion in patients with ICH by combing radiomics features and ML models. The LR and MLP models showed the reliable prediction efficiency, sensitivity, and specificity, which supported our hypothesis.  
+
+![](images/e51283caccb8bff2b38f4ddc0e9b952ccbc9151290479a37dfaa059a039c2c5a.jpg)  
+Figure 2. LASSO regression with 10-fold cross-test was applied to select the radiomics features that could  
+
+![](images/ed504c25aaf81cf50b71be58579f6baa8d4626c0f3a47bd07a0af2bd77eb41ef.jpg)  
+predict early PHE expansion. A total of 23 features of non-zero coefficients were selected.  
+
+The progression of PHE begins after spontaneous bleeding in the brain parenchyma. Studies have proposed that early absolute increases in PHE and peak PHE volume are associated with worse functional outcomes following ICH.17-20 Lv et al. defined early PHE expansion and confirmed it as an independent factor for poor prognosis in patients with ICH. In their study, hematoma volume and shape were verified as the most important factors for predicting PHE evolution. Furthermore, NCCT imaging markers, including blend sign, black hole sign, and island sign, were verified as not only predictors for HE but also factors related to early PHE growth. Overall, anti-edema treatment is important for patients with ICH, but few studies have focused on the prediction of early PHE expansion.  
+
+Radiomics is defined as the extraction and analysis of abundant quantitative and high-throughput imaging features from medical images captured via computed tomography, positron emission tomography, or magnetic resonance imaging. Many studies have proven that radiomics can accurately diagnose and predict prognosis in various tumors, such as breast and lung cancers.21-24 In recent years, radiomics has been gradually applied in research works on hemorrhagic diseases. In a 2018 study, Shen et al. investigated whether the texture analysis of NCCT scans can quantify the heterogeneity of hematoma and independently predict early HE.25 In 2019, a study extracted $57^{6}$ radiomics features from NCCT scans of 254 patients and established radiomics score to predict HE for patients with hypertensive intraparenchymal hematomas.26 In this study, predicting accuracy was $_{0.852}$ and $_{0.820}$ in the training and test data sets, respectively. Another study, which included 261 patients, combined the patients’ clinical characteristics, NCCT imaging markers, and radiomics features to establish models for predicting HE by using an LR algorithm. The AUCs in the training and validation cohorts were $_{0.94}6$ and $0.867$ , respectively, proving that predictive models based on radiomics features can improve the discrimination of patients with ICH at risk of HE.27 Furthermore, radiomics can be applied to discriminate the benign and malignant courses of small hematomas and intraventricular hemorrhage growth.28,29 For PHE, Wang et al. showed that perihematomal $5^{-\mathrm{mm}}$ radiomics features could discriminate relatively small PHE from relatively large PHE.30 All of the above studies that incorporated radiomics to build the models achieved good predictive performance for different targets. Our study was an attempt to predict early PHE expansion by using radiomics features extracted from hematomas in patients with ICH. In our study, we included more ML algorithms, and predicting accuracy of the best model were all greater than 0.8 in the training and test sets. We obtained favorable predictive accuracies similar to those in previous ICH-related studies.  
+
+Table 1. Accuracy, Sensitivity and Specificity of Different machine Learning Models for Training set and Test set   
+
+
+<html><body><table><tr><td rowspan="2">Algorithms</td><td colspan="3">Training Set (n=171)</td><td colspan="3">Test Set (n=43)</td></tr><tr><td>Accuracy</td><td>Sensitivity</td><td>Specificity</td><td>Accuracy</td><td>Sensitivity</td><td>Specificity</td></tr><tr><td>SVM</td><td>91.8%</td><td>87.5%</td><td>93.1%</td><td>72.1%</td><td>90.0%</td><td>66.7%</td></tr><tr><td>KNN</td><td>87.1%</td><td>67.5%</td><td>93.1%</td><td>79.1%</td><td>70.0%</td><td>84.4%</td></tr><tr><td>RandomForest</td><td>98.2%</td><td>100%</td><td>97.7%</td><td>60.5%</td><td>90.0%</td><td>53.1%</td></tr><tr><td>ExtraTrees</td><td>100%</td><td>100%</td><td>100%</td><td>74.4%</td><td>90.0%</td><td>69.7%</td></tr><tr><td>XGBoost</td><td>100%</td><td>100%</td><td>100%</td><td>74.4%</td><td>90.0%</td><td>69.7%</td></tr><tr><td>LightGBM</td><td>93.0%</td><td>90.0%</td><td>93.4%</td><td>72.1%</td><td>100%</td><td>65.6%</td></tr><tr><td>MLP</td><td>84.8%</td><td>70.0%</td><td>89.3%</td><td>83.7%</td><td>100%</td><td>78.8%</td></tr><tr><td>LR</td><td>88.3%</td><td>82.5%</td><td>90.1%</td><td>88.4%</td><td>90.0%</td><td>87.9%</td></tr></table></body></html>  
+
+![](images/ef598e79b143c5962707948bd1a99e649f5b496622e024f9ead9102db246ab2c.jpg)  
+Figure 3. ROC curves of the LR and MLP models in training and test sets for prediction of early PHE expansion in ICH patients.  
+
+![](images/4f53984f099973e887157255f294bb795bc803748bc98441e88c2a6b2af2438e.jpg)  
+Figure 4. ROC curves of all machine learning model in test sets for prediction of early PHE expansion in ICH patients.  
+
+Even before the application of radiomics features, many NCCT imaging markers have been verified to be reliable factors for predicting early HE in patients with ICH.6-8,31 Hypodensity, swirl sign, blend sign, and black hole sign can describe the density heterogeneity of hematomas, whereas hemorrhage margin irregularity, island sign, and satellite sign can reflect the irregular shape of hematomas. The radiomics features represent the extension and more detailed quantification of these markers. Past studies have associated density heterogeneity and the irregular shape of hematomas with early PHE evolution. In our study, the 23 features included in the final analysis could reflect much information that was otherwise invisible to the naked eye. This information is important for assessing edema evolution and determining the clinical anti-edema treatment strategy. Among the 8 final models in this study, the LR model not only showed the highest accuracy in the test set, but also had relatively better sensitivity and specificity than other models. The MLP model showed similar accuracy to the LR model, but its specificity is not as good as the LR model. Overall, the performance of these 2 models makes early prediction of PHE expansion possible.  
+
+This study has several limitations. First, the sample size of our cohort was small, and all patients were from a single center. Our findings need to be verified in larger prospective multicenter studies.  
+
+Second, we excluded patients with secondary ICH, so the predictive accuracy may not extend to all types of ICH. Finally, the patients underwent different treatment measures as decided by the clinician, which may have affected the prediction of early PHE expansion.  
+
+# CONCLUSIONS  
+
+In conclusion, we investigated the predictive performance of different models based on the combination of radiomics features and ML algorithms for detecting early PHE expansion in patients with spontaneous ICH. Among the 8 ML algorithms models established in our study, the LR and MLP models are recommended as supplementary means for the prediction of early PHE expansion in patients with spontaneous ICH.  
+
+# CRediT AUTHORSHIP CONTRIBUTION STATEMENT  
+
+Yu-Lun Li: Conceptualization, Methodology, Writing e original draft. Chu Chen: Conceptualization, Methodology. Li-Juan Zhang: Validation. Yi-Neng Zheng: Validation. Xin-Ni Lv: Data curation. Li-Bo Zhao: Data curation. Qi Li: Conceptualization, Methodology, Writing e review & editing, Funding acquisition. Fa-Jin Lv: Conceptualization, Methodology, Writing e review & editing.  
+
+# REFERENCES  
+
+1. Qureshi AI, Mendelow AD, Hanley DF. Intracerebral haemorrhage. Lancet. 2009;373:1632-1644.   
+2. Malhotra K, Zompola C, Theodorou A, et al. Prevalence, characteristics, and outcomes of undetermined intracerebral hemorrhage: a systematic review and meta-analysis. Stroke. 2021;52:   
+3602-3612.   
+3. Davis SM, Broderick J, Hennerici M, et al. Hematoma growth is a determinant of mortality and poor outcome after intracerebral hemorrhage. Neurology. 2006;66:1175-1181.   
+4. Delcourt C, Huang Y, Arima H, et al. Hematoma growth and outcomes in intracerebral hemorrhage: the INTERACT1 study. Neurology. 2012;79:   
+314-319.   
+5. Lv XN, Li ZQ, Deng L, et al. Early perihematomal edema expansion: definition, significance, and association with outcomes after intracerebral hemorrhage. Oxid Med Cell Longev. 2021;2021:   
+6249509.   
+6. Li $\mathrm{Q},$ Zhang G, Huang YJ, et al. Blend sign on computed tomography: novel and reliable predictor for early hematoma growth in patients with intracerebral hemorrhage. Stroke. 2015;46:   
+2119-2123.   
+7. Li Q, Zhang G, Xiong X, et al. Black hole sign: novel imaging marker that predicts hematoma growth in patients with intracerebral hemorrhage. Stroke. 2016;47:1777-1781.   
+8. Li $\mathrm{Q},$ Liu QJ, Yang WS, et al. Island sign: an imaging predictor for early hematoma expansion and poor outcome in patients with intracerebral hemorrhage. Stroke. 2017;48:3019-3025.   
+9. Li YL, Lv XN, Wei X, et al. Relationship between non-contrast computed tomography imaging markers and perihemorrhagic edema growth in intracerebral hemorrhage. Neurocrit Care. 2021;35:   
+451-456.   
+10. Lambin P, Rios-Velazquez E, Leijenaar $\mathrm{R},$ et al. Radiomics: extracting more information from medical images using advanced feature analysis. Eur J Cancer. 2012;48:441-446.   
+11. Kumar V, Gu Y, Basu S, et al. Radiomics: the process and the challenges. Magn Reson Imaging.   
+2012;30:1234-1248.   
+12. Jordan MI, Mitchell TM. Machine learning: trends, perspectives, and prospects. Science. 2015;349: 255-260.   
+13. Deo RC. Machine learning in medicine. Circulation. 2015;132:1920-1930.   
+14. Avanzo M, Wei L, Stancanello J, et al. Machine and deep learning methods for radiomics. Med Phys. 2020;47:e185-e202.   
+15. Volbers B, Staykov D, Wagner I, et al. Semiautomatic volumetric assessment of perihemorrhagic edema with computed tomography. Eur J Neurol. 2011;18:1323-1328.   
+16. Urday S, Beslow LA, Goldstein DW, et al. Measurement of perihematomal edema in intracerebral hemorrhage. Stroke. 2015;46:1116-1119.   
+17. Murthy SB, Moradiya Y, Dawson J, et al. Perihematomal edema and functional outcomes in intracerebral hemorrhage: influence of hematoma volume and location. Stroke. 2015;46:3088-3092.   
+18. Volbers B, Giede-Jeppe A, Gerner ST, et al. Peak perihemorrhagic edema correlates with functional outcome in intracerebral hemorrhage. Neurology. 2018;90:e1005-e1012.   
+19. Wu TY, Sharma G, Strbian D, et al. Natural history of perihematomal edema and impact on outcome after intracerebral hemorrhage. Stroke. 2017;48: 873-879.   
+20. Appelboom G, Bruce SS, Hickman ZL, et al. Volume-dependent effect of perihaematomal oedema on outcome for spontaneous intracerebral haemorrhages. J Neurol Neurosurg Psychiatry. 2013;84:488-493.   
+21. Tagliafico AS, Piana M, Schenone D, Lai ${\mathrm{R}},$ Massone AM, Houssami N. Overview of radiomics in breast cancer diagnosis and prognostication. Breast. 2020;49:74-80.   
+22. Thawani R, McLane M, Beig N, et al. Radiomics and radiogenomics in lung cancer: a review for the clinician. Lung Cancer. 2018;115:34-41.   
+23. Avanzo M, Stancanello J, Pirrone G, Sartor G. Radiomics and deep learning in lung cancer. Strahlenther Onkol. 2020;196:879-887.   
+24. Romeo V, Cuocolo $\mathrm{R},$ Apolito ${\mathrm{R}},$ et al. Clinical value of radiomics and machine learning in breast ultrasound: a multicenter study for differential diagnosis of benign and malignant lesions. Eur Radiol. 2021;31:9511-9519.   
+25. Shen $\mathrm{Q},$ Shan Y, Hu Z, et al. Quantitative parameters of CT texture analysis as potential markersfor early prediction of spontaneous intracranial hemorrhage enlargement. Eur Radiol. 2018;28:4389-4396.   
+26. Ma C, Zhang Y, Niyazi T, et al. Radiomics for predicting hematoma expansion in patients with hypertensive intraparenchymal hematomas. Eur J Radiol. 2019;115:10-15.   
+27. Song Z, Guo D, Tang Z, et al. Noncontrast computed tomography-based radiomics analysis in discriminating early hematoma expansion after spontaneous intracerebral hemorrhage. Korean J Radiol. 2021;22:415-424.   
+28. Zhan C, Chen $\mathrm{Q},$ Zhang M, et al. Radiomics for intracerebral hemorrhage: are all small hematomas benign? Br J Radiol. 2021;94:20201047.   
+29. Zhu DQ, Chen $\mathrm{Q},$ Xiang YL, et al. Predicting intraventricular hemorrhage growth with a machine learning-based, radiomics-clinical model. Aging (Albany NY). 2021;13:12833-12848.   
+30. Wang J, Xiong X, Zou J, Fu J, Yin Y, Ye J. Combination of hematoma volume and perihematoma radiomics analysis on baseline CT scan predicts the growth of perihematomal edema. Clin Neuroradiol. 2022;33:199-209.   
+31. Morotti A, Boulouis G, Dowlatshahi D, et al. Standards for detecting, interpreting, and Reporting noncontrast computed tomographic markers of intracerebral hemorrhage expansion. Ann Neurol. 2019;86:480-492. https://doi.org/10.1002/ana.25563. Conflict of interest statement: This study was supported by grants from the National Natural Science Foundation of China (no. 82071337), the National Key Research and Development Program of China (grant no. 2018YFC1312200, no. 2018YFC1312203), and the Chongqing High-end Young Investigator Project (no. 2019GDRC005).   
+Received 3 February 2023; accepted 16 March 2023   
+Citation: World Neurosurg. (2023) 175:e264-e270.   
+https://doi.org/10.1016/j.wneu.2023.03.066   
+Journal homepage: www.journals.elsevier.com/worldneurosurgery   
+Available online: www.sciencedirect.com   
+1878-8750/\$ - seefrontmatter $\circledcirc$ 2023 Elsevier Inc. All rights reserved.  
+
+# APPDENDIX  
+
+ML: Machine learning is a new tool that combines statistics and computer science. Statistics can search for rules in a large amount of data, and computer science provides higher computational efficiency.  
+
+SVM: Support vector machine. A binary classification model whose goal is to find a hyperplane that maximizes the distance from the support vector to the hyperplane.  
+
+KNN: The basic principle is that a sample belongs to a category if the majority of its k nearest neighbors samples in feature space belong to that category and have the characteristics of samples in that category.  
+
+RF: Random Forest is an advanced variant of Bagging. Based on the decision tree as the base learner to build Bagging integration, random attribute selection is further introduced into the training process of the decision tree.  
+
+Extra Trees: Extra Trees is similar to Random Forest. However, Random Forest is used to obtain the best bifurcation attribute within a random subset, while Extra Trees is used to obtain the bifurcation value completely randomly, thus achieving the bifurcation of the decision tree.  
+
+XGBoost: A strong classifier with higher accuracy is constructed from several simple weak classifiers.  
+
+LightGBM: LightGBM is an optimization of the XGBoost model. While retaining large gradient samples, some small gradient samples are randomly retained, while the information gain from small gradient samples is amplified.  
+
+MLP: Multi-layer perceptron, also known as artificial neural network (ANN), is a technology that mimics biological neural networks by connecting multiple feature values through a combination of linear and non-linear to ultimately achieve the prediction goal.  
+
+LR: The basic principle is a linear regression model.  

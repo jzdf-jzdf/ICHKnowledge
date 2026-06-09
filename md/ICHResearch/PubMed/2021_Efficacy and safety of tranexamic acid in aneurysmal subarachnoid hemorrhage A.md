@@ -1,0 +1,245 @@
+# Clinical Efficacy and Safety of Tranexamic Acid in Aneurysmal Subarachnoid Hemorrhage: a Metaanalysis of Randomized Controlled Trials  
+
+Tao Liu 
+(
+
+neuroldthr2020@yeah.net
+) Fourth Affiliated Hospital of China Medical University  
+
+Lingqin Wu Zhongshan Women and children Hospital  
+
+Renmin Xue Capital Medical University School of Basic Medical Sciences  
+
+Huiru Ding Tongji Hospital Affiliated to Tongji University: Shanghai Tongji Hospital  
+
+# Research  
+
+Keywords: Subarachnoid hemorrhage, Tranexamic acid, Mortality, outcome, adverse events, Meta, randomized, Clinical trial  
+
+Posted Date: August 9th, 2021  
+
+DOI: https://doi.org/10.21203/rs.3.rs-753306/v1  
+
+License: $\textcircled{1}\textcircled{\dagger}$ This work is licensed under a Creative Commons Attribution 4.0 International
+License. Read Full License  
+
+# Abstract  
+
+Background: Tranexamic acid, as a traditional hemostatic agent, is commonly applied in the treatment or prevention of excessive blood loss. However, the role of tranexamic acid in promoting good clinical outcomes, reducing mortality, and the risk of experiencing adverse events during the therapeutic process of aneurysmal subarachnoid hemorrhage remains unclear.  
+
+Methods: In strict accordance with the inclusion and exclusion criteria, the Cochrane Library, Embase, Web of Science, and PubMed were retrieved for randomized-controlled trials (from 1980 to 2021). Statistical analysis was performed using STATA 16.0 and RevMan 5.3. In addition, the fixed-effect model (M-H method) and effect size RR $95\%$ CI) were used as a pooled measure to combine the heterogeneous data. We also performed post hoc sensitivity analysis and subgroup analysis to evaluate each outcome with low heterogeneity.  
+
+Results: Meta-analysis revealed that although tranexamic acid was related to less rebleeding $(\mathsf{RR}=0.72;$ $95\%$ CI 0.59-0.87; $P=0.0008^{\prime}$ , it might have no effect on good clinical outcome or mortality $(\mathsf{RR}=0.98\$ ; $95\%$ CI 0.92-1.04; $P=0.51$ ; $\mathsf{RR}=1.01$ ; $95\%$ CI 0.88-1.15; $P=0.91$ ). Tranexamic acid was associated with increased hydrocephalus $(\mathsf{RR}=1.13;95\%\mathsf{Cl}1.02\ –1.24;P=0.02)$ , delayed cerebral ischemia $(\mathsf{RR}=1.70;$ $95\%$ CI 1.34-2.16; $P<0.0001$ ) and seizure $(\mathsf{RR}=1.46;95\%\mathsf{C}|1.00{-}2.74;P=0.05)$ . The incidence of thromboembolic complications was identical in both groups $'R{\sfR}=0.91$ ; $95\%$ CI 0.63-1.31; $P=0.62^{\cdot}$ ), and there were significant drug-related overall adverse events $(\mathsf{RR}=1.21$ ; $95\%$ CI 1.11- 1.32; $P<0.0001_{.}$ ).  
+
+Conclusions: These findings indicate that the routine use of TXA is not suggested for patients with aneurysmal subarachnoid hemorrhage.  
+
+# Introduction  
+
+Aneurysmal subarachnoid hemorrhage (SAH) is a significant cause of death and disability worldwide, particularly in the relatively young population. Although the case fatality rate dropped by $17\%$ in the last 30 years, the incidence has remained relatively stable at 9 cases per 100,000 patients per year [1]. Due to the acute onset, approximately $33\%$ of patients died because they did not get to the hospital in time [2]. Numerous studies have shown that rebleeding is closely correlated with the prognosis of patients with aneurysmal SAH. The earlier the rebleeding occurs, the worse the prognosis will be [3]. Up to one-fifth of those who survive effective treatment will rebleed, reducing the survival rate by $50\%$ [4]. Tranexamic acid (TXA) is a hemostatic drug with antifibrinolytic activity, usually applied to prevent or treat ruptured aneurysm rebleeding. In 2003, a Cochrane review demonstrated that TXA showed a beneficial effect on reducing rebleeding but failed to show promising clinical outcomes, possibly because the benefit was offset by the increased adverse events caused by cerebral ischemia [5]. In addition, TXA with concomitant treatment strategies to prevent cerebral ischemia has shown a beneficial effect on reducing rebleeding; however, the impact of TXA on favorable clinical outcomes was still obscure [6]. Recently, researchers in a prospective multicenter randomized controlled trial evaluated the efficacy of ultra-early TXA on  
+
+aneurysmal SAH through the ULTRA. In this trial, 955 participants came from 8 treatment centers and 16 referring hospitals. The results revealed a slight reduction in mortality but not in rebleeding after randomization and before treating aneurysms and the improvement of clinical outcome at six months [7]. Some comments suggested that it might be related to increased incidence of hydrocephalus and epilepsy [8, 9]. Aiming to emphasize relevant therapeutic effects previously ignored due to small samples and to better focus on adverse events during the disease treatment course, we performed this analysis to assess the safety and effectiveness of TXA in patients with aneurysmal SAH.  
+
+# Methods  
+
+# Search strategy  
+
+We conducted comprehensive retrieval of the Cochrane Library, Embase, Web of Science and PubMed from January 01, 1980, until June 01, 2021, for RCTs investigating the effects of TXA in the treatment of aneurysmal SAH. With the help of an expert medical librarian, we conducted the search with the following search terms: “Randomized Controlled Trials,” “aneurysmal subarachnoid hemorrhage,” and “Tranexamic acid.” The initial search was performed by two researchers (H.D and T.L) independently; the discrepancy was resolved by consensus (see supplementary appendix for search string).  
+
+The systematic reviews and Meta-analyses preferred reporting project (PRISMA) flowchart describes the steps of the literature retrieval and selection strategy of research (Fig. 1). The protocol for this systematic review was registered on PROSPERO (CRD42021251142).  
+
+# Inclusion and exclusion criteria  
+
+Meta-analysis and systematic review were selected if the following conditions are met: (1) involved $>25$ patients, (2) were studied in patients with aneurysmal SAH, (3) were RCTs, (4) compared the efficacy of TXA and matching placebo, and (5) were published from January 1, 1980, to June 01, 2021.  
+
+The exclusion criteria were as follows: (1) studies without placebo-controlled information; (2) studies without relevant prognostic information such as adverse events, good functional outcomes, or mortality; (3) non-RCTs, such as cohort studies, reviews, or case reports.  
+
+# Data extraction  
+
+According to the inclusion and exclusion criteria, two investigators (H.D and T.L) independently extracted and analyzed data. Following a standardized extraction method, we extracted information including study design, year of publication, authors, intervention, length of TXA treatment, time from symptom onset to treatment, TXA patients/placebo patients, key results, good clinical outcomes, rebleeding, mortality, hydrocephalus, delayed cerebral ischemia (DCI), thromboembolic complications (TC), seizures.  
+
+The primary outcomes were good clinical outcomes, rebleeding, and mortality. The mRS score was dichotomized into good clinical outcomes (mRS score 0–3 [complete recovery, minimal disability, mild disability, moderate disability]) and poor outcomes (mRS score $4\mathrm{-}6$ [moderately severe disability, significant disability, death]).  
+
+We also used another graded method: poor outcome (death $[\mathtt{GOS}=1]$ , vegetative state $[\mathtt{GOS}=2]$ and significant disability $[\mathsf{GOS}=3].$ ), and good clinical outcome (moderate disability $[\mathtt{GOS}=4$ ] and complete recovery $[\mathsf{GOS}=5]\mathrm{.}$ ).  
+
+The following adverse events were defined as secondary outcomes: hydrocephalus, DCI, TC, seizure. TC includes pulmonary embolism and deep venous thrombosis.  
+
+# Statistical analysis  
+
+We performed the meta-analysis using STATA 16.0 (StataCorp LP) and RevMan version 5.3 software (Cochrane Collaboration), and the fixed-effect model (M-H method) and effect size RR ( $95\%$ CI) was used as a pooled estimate. Inconsistent index (I2) test, ranging between 0 and $100\%$ , was selected to assess homogeneity among the studies, and both $p\geq0.1$ and $12\leq50\%$ were considered to be no heterogeneity among the studies. Two independent reviews assessed the risk of bias for RCTs with the Cochrane risk of bias tool [10]. Risk of bias tool refers to (A) random sequence generation; (B) allocation concealment; (C) blinding of participants and personnel; (D) blinding of outcome assessments; (E) incomplete outcome data addressed; (F) selective outcome reporting; (G) other potential threats, respectively.  
+
+We used Harbored test to assess the small study effect of binary outcomes. Publication bias was evaluated by regression-based Egger’s test. We also performed post-hoc sensitivity analyses and subgroup analyses for the evaluation of each outcome with low heterogeneity results. Every P-value was two-tailed, and a $P$ no more than 0.05 was deemed significant.  
+
+# Results  
+
+# Description of included studies  
+
+By searching the database, we identified 537 studies. After the deletion of duplicates, reviews, and irrelevant studies, 348 studies were excluded. By evaluating abstracts and titles, 167 records were excluded. After assessing 22 full-text with the inclusion and exclusion criteria, seven articles were included in the qualitative synthesis [7, 11–16]. A total of 2917 patients from 7 RCTs were randomly assigned to TXA treatment $(\mathsf{n}=1403)$ ) or placebo $(\mathsf{n}=1514)$ . Each group included 29 to 480 patients. The largest RCT population was a multicenter study published in 2021 [7]. Three studies were open-label RCTs [7, 11, 16], while the remaining four were double-blind RCTs [12–15]. The subjects were all adults. Time from symptom onset to treatment varied among studies: within 72 hours in 4 trials [11, 13–15], within 96 hours in 1 trial [12], in the latest trial, TXA was given within 24 hours [7], and another was not reported [16]. The length of TXA treatment also varied, ranging from 24 hours to 6 weeks. Baseline characteristics of included trials are summarized in Table 1. Detailed information concerning the risk of bias was shown in Fig. 2 and Fig. 3.  
+
+Table 1 Characteristics of the included studies   
+
+
+<html><body><table><tr><td>Authors</td><td>Types</td><td>Intervention</td><td>Length of TXA treatment</td><td>Time from symptom onset to treatment (hours)</td><td>TXA patients/ placebo patients</td><td>Key results</td></tr><tr><td>René Post et al, 2021</td><td>Open- label RCT</td><td>TXA/ placebo</td><td>24 hours</td><td><24 hours</td><td>480/475</td><td>TXA did not improve outcome at 6 months.</td></tr><tr><td>Y. R00S et al, 2000</td><td>Double- blind RCT</td><td>TXA/ placebo</td><td>3 weeks</td><td>96 > hours</td><td>229/233</td><td>TXA did not improve outcome and increase ischemic events, although it reduced rebleeding.</td></tr><tr><td>Hillman et al, 2002</td><td>Open- label RCT</td><td>TXA/ placebo</td><td><72 hours</td><td><72 hours</td><td>254/251</td><td>TXA did not increase risk of ischemic manifestations or vasospasm</td></tr><tr><td>Vermeulen et al, 1984</td><td>Double- blind RCT</td><td>TXA/ placebo</td><td>4 weeks</td><td><72 hours</td><td>241/238</td><td>TXA significantly increased the risk of cerebral ischemia and rebleeding, it showed no effect on mortality, clinical outcomes and hydrocephalus.</td></tr><tr><td>Fodstad et al, 1981</td><td>Open- label RCT</td><td>TXA/ placebo</td><td>6 weeks</td><td>NR</td><td>30/29</td><td>TXA was associated increased cerebral infarction and decreased hydrocephalus.</td></tr><tr><td>Eelco et al, 1989</td><td>Double- blind RCT</td><td>TXA/ placebo</td><td>4 days</td><td><72 hours</td><td>119/238</td><td>TXA did not reduce the rebleeding but still increased the incidence of cerebral infarction.</td></tr><tr><td>Tsementzis et al, 1990</td><td>Double- blind RCT</td><td>TXA/ placebo</td><td>4 weeks</td><td><72 hours</td><td>50/50</td><td>TXA significantly increased ischemic complications but had no effect on mortality, outcome, and rebleeding.</td></tr></table></body></html>  
+
+# Primary outcomes  
+
+All the RCTs have clarified the incidence of rebleeding explicitly; the forest plot for rebleeding is shown in Fig. S1A. Of 1403 patients who have received TXA, the incidence of rebleeding was $11.5\%$ (162/1403), while for the placebo group, the rate was up to $19.9\%$ (309/1514). The rate of rebleeding was significantly different between the two groups $'R{\sfR}=0.60$ ; $95\%$ CI 0.51–0.71; $P<0.00001$ ; Fig. S1A). Six studies reported good clinical outcomes concerning the efficacy of TXA in treating aneurysmal SAH, and no significant difference was found $'R{\sfR}=0.98$ ; $95\%$ CI 0.92–1.04; $P=0.51$ ; Fig. S1B). Six in seven RCTs have recorded the death of subjects from any cause, and a forest plot was drawn to show the results (Fig. S1C).In the placebo group, the number of dead was 356 $(27.8\%)$ , whereas, in the TXA-treated group, the number was only 325 $(27.7\%)$ ). Pooled analysis revealed that mortality appeared to be unaffected by TXA $(\mathsf{RR}=1.03\$ ; $95\%$ CI 0.91–1.17; $P=0.63_{i}^{\cdot}$ Fig. S1C).  
+
+# Secondary outcomes  
+
+Pooled results demonstrated an increased risk of hydrocephalus $(\mathsf{RR}=1.73;95\%\mathsf{Cl}1.02-1.24;P=0.02;$ Fig. S2A), DCI $'R{\sfR}=1.21$ ; $95\%$ CI 1.05–1.39; $P=0.01$ ; Fig. S2B), and seizure $(\mathsf{RR}=1.46;95\%$ CI 1.00-2.14; $P=0.05;$ ; Fig.S2D). However, there was no evidence that TXA had an influence on TC $'R{\sfR}=0.79$ ; $95\%$ CI $0.56\AA^{-1.12;}$ $\textstyleP=0.18 $ ; Fig. S2C).There was significant drug related overall adverse events $(\mathsf{RR}=1.14;95\%($ CI $1.06^{-1.24}\$ ; $P=0.0009$ ; Fig. S2).  
+
+# Subgroup analysis for RCTs with low heterogeneity  
+
+In this pooled analysis with low heterogeneity, part of the studies was excluded due to a higher heterogeneity. Meta-analysis indicated that TXA was related to decreased rebleeding $(\mathsf{RR}=0.72;95\%$ CI $0.59\substack{-0.87}$ ; $P=0.0008$ ; Fig. 1A), increased hydrocephalus $(\mathsf{RR}=1.13;95\%$ CI 1.02–1.24; $P=0.02;$ Fig. 2A), DCI $(\mathsf{RR}=1.70;\mathsf{S}$ $95\%$ CI 1.34–2.16; $P<0.0001$ ; Fig. 2B) and Seizure $(\mathsf{RR}=1.46;95\%\mathsf{C}|\uparrow.00{-}2.14;P=0.05;$ Fig. 2D). The good clinical outcome and mortality was similar in both groups $(\mathsf{RR}=0.98;95\%\mathsf{CI}0.92-$ 1.04; $P=0.51$ ; Fig. 1B; $\mathsf{RR}=1.01$ ; $95\%$ CI 0.88–1.15; $P=0.91$ ; Fig. 1C). The risk for TC was similar in groups treated with placebo and TXA respectively $(\mathsf{RR}=0.91\$ ; $95\%$ CI 0.63–1.31; $\textstyleP=0.62;$ Fig. 2C). TXA was associated with increased overall adverse events $(\mathsf{RR}=1.21\$ ; $95\%$ CI 1.11–1.32; $P<0.0001$ ; Fig. 2). No significant results were observed with primary and secondary outcomes when tested with Harbord’s regression test and Egger’s regression test (Table 2).  
+
+Table 2 Summary of Meta-analysis   
+
+
+<html><body><table><tr><td>Outcomes</td><td>Model</td><td>(95% CI), Pvalue</td><td>Heterogeneity (1²), P-value</td><td>Harbord's Test, Egger's Test</td><td>NO. of Studies</td></tr><tr><td>Rebleeding</td><td>Fixed (RR)</td><td>0.60 [0.51,0.71], < 0.00001</td><td>62%, 0.02</td><td>0.829, 0.719</td><td>7</td></tr><tr><td>Good Clinical Outcomes</td><td>Fixed (RR)</td><td>0.98 [0.92,1.04], 0.51</td><td>0%, 0.60</td><td>0.779, 0.781</td><td>6</td></tr><tr><td>Mortality</td><td>Fixed (RR)</td><td>1.03 [0.91,1.17], 0.63</td><td>12%, 0.34</td><td>0.320, 0.313</td><td>6</td></tr><tr><td>Hydrocephalus</td><td>Fixed (RR)</td><td>1.13 [1.02,1.24], 0.02</td><td>0%, 0.61</td><td>0.554, 0.534</td><td>6</td></tr><tr><td>DCI</td><td>Fixed (RR)</td><td>1.21 [1.05,1.39], 0.01</td><td>60%, 0.02</td><td>0.016,0017</td><td>7</td></tr><tr><td>TC</td><td>Fixed (RR)</td><td>0.79 [0.56,1.12], 0.18</td><td>28%, 0.24</td><td>0.348, 0.190</td><td>4</td></tr><tr><td>Seizure</td><td>Fixed (RR)</td><td>1.46 [1.00,2.14], 0.05</td><td>NA</td><td>NA</td><td>1</td></tr><tr><td colspan="6">Pooled analysiswithlowheterogeneity</td></tr><tr><td>Rebleeding a a</td><td>Fixed (RR)</td><td>0.72 [0.59,0.87], 0.0008</td><td>0%, 0.51</td><td>0.324,0.338</td><td>5</td></tr><tr><td>Good Clinical Outcomes</td><td>Fixed (RR)</td><td>0.98 [0.92,1.04], 0.51</td><td>0%, 0.60</td><td>0.779, 0.781</td><td>6</td></tr><tr><td>Mortality </td><td>Fixed (RR)</td><td>1.01 [0.88,1.15], 0.91</td><td>0%, 0.51</td><td>0.892,0.886</td><td>5</td></tr><tr><td>Hydrocephalus</td><td>Fixed (RR)</td><td>1.13 [1.02,1.24], 0.02</td><td>0%, 0.61</td><td>0.554,0.534</td><td>6</td></tr><tr><td>DCI C</td><td>Fixed (RR)</td><td>1.70 [1.34,2.16], < 0.0001</td><td>0%, 0.84</td><td>0.855, 0.810</td><td>5</td></tr><tr><td>TC d</td><td>Fixed (RR)</td><td>0.91 [0.63,1.31], 0.62</td><td>0%, 0.73</td><td>0.858,0.855</td><td>3</td></tr><tr><td>Seizure</td><td>Fixed (RR)</td><td>1.46 [1.00,2.14], 0.05</td><td>NA</td><td>NA</td><td>1</td></tr><tr><td colspan="6">Cl Confidence Interval DCl Delayed Cerebral Ischaemia TC Thromboembolic Complications NA not applicable</td></tr><tr><td colspan="6">a indicated Hillman et al. and Vermeule et al. were excluded. b indicated Tsementzis et al. was excluded. C indicates René Post et al. and Y. Roos et al were excluded. d indicated Eelco et al. were excluded.</td></tr></table></body></html>  
+
+# Discussion  
+
+Our study provides a comprehensive description of the efficacy and safety of TXA in the treatment of patients with aneurysmal SAH. Although previous studies have also focused on this topic, the largest randomized controlled trials and the ULTRA trials were not included. Our results indicate that TXA may have an important influence on rebleeding in patients with aneurysmal SAH, but the effect on good clinical outcomes and mortality is uncertain. The prevalence rates of adverse events among aneurysmal SAH patients showed a significant difference, except for TC. TXA treatment has shown a tendency to raise the risk of adverse events, including hydrocephalus, DCI, seizure in the aneurysmal SAH population. Overall, our study may help acquaint the safety and efficacy of TXA on aneurysmal SAH.  
+
+Rebleeding is one of the leading death factors for intracranial aneurysms patients, with an incidence of $10-22\%;$ the onset would appear in the first $24\mathsf{h}$ with a peak reaching after the first $_{3-6\mathrm{~h~}}$ of the occurrence [17, 18]. Many RCTs have shown that TXA treatment could considerably decrease the risk of recurrent hemorrhage [11–13, 15, 16], and the curative effect is closely related to its pharmacological action [19, 20]. Generally, TXA could exert function through the inhibition of fibrinogenase activity [21, 22]. Nevertheless, in the recent publication of the ULTRA, the occurrence of recurrent hemorrhage after randomization and before aneurysm treatment in the TXA and control group did not show any statistical difference, perhaps because half of the rebleeding occurred within 3 hours. In this trial, the median interval from the occurrence of symptoms to treatment was 3 hours, a considerable proportion of rebleeds had occurred. It also might attribute to the timing of treatment to aneurysm, which was suggested to be within 24 hours, as early as possible [23]. The average time from the diagnosis of the aneurysm to treatment in this trial was 14 hours. This early aneurysm treatment may be more critical than TXA in reducing rebleeding compared to previous trials.  
+
+The efficacy of TXA in reducing rebleeding has been proven, and studies also reported that TXA might have anti-inflammatory and healing effects [24, 25]. Numerous studies have shown that TAX could reduce pathological injury in traumatic brain injury by modulating the immune environment in vivo. A recent study in a mouse model of cerebral hemorrhage found that immediate administration of high doses ( $100\mathrm{mg/kg})$ of TXA suppressed the inflammatory response to Th1 in severely shocked mice, as evidenced by significant reductions in interleukin-6 and tumor necrosis factor-α levels [25]. It has also been reported that TXA reduced TNF-α levels and reduced damage and inflammatory responses in the small intestine and lung tissue [26]. It is known that IL-6 and TNF-α are essential mediators involved in infectious diseases, so TXA may play an anti-inflammatory role and thus regulate the body's immune response. Theoretically, these polytropic effects might lead to good clinical outcomes, but they did not. Researchers observed decreased rebleeding in SAH patients with TXA treatment [6, 14, 18]. Conversely, the combination with chlorpromazine or using higher doses can lead to worse outcomes [16, 27]. In the ULTRA trial, although TXA was associated with a decrease in the incidence of good clinical outcomes (mRS 0–2 at 6 months), it did not have a positive effect on good clinical outcomes (mRS 0–3 at 6 months). Fortunately, there was no difference in the all-cause death rate between the two groups, whethe at 30 days or six months [7]. In 2002, Hillman et al. found a significant decrease in rebleeding-related  
+
+mortality with the subjects who received TXA treatment [11]. Nonetheless, the mortality of TXA in aneurysmal SAH patients was controversial, with conflicting trial results [7, 12–16, 18]. Thus, we hypothesize that not-predefined adverse events, e.g., hydrocephalus or other complications, might have exerted influence on poor outcomes, either alone or in combination.  
+
+Whether the harm exceeds the potential benefits of TXA remains controversial [5, 6]. The evidence provided by Ross et al. showed that adverse outcomes caused by cerebral ischemia increased, which offset the benefits [5]. An updated review showed that TXA should not be routinely used to treat aneurysmal SAH; even in patients who had concomitant treatment strategies to prevent DCI, there is insufficient evidence that TXA can reduce the risk of hydrocephalus or cerebral ischemia [6]. Studies have suggested an increased rate of cerebral infarctions or cerebral ischemia with the use of TXA [28–31]. Therefore, the current European guideline reached no agreement on the usage of TXA with SAH patients [32].  
+
+In contrast, Thorkil et al. observed no difference in risk of ischemic lesions between TXA-treated nontraumatic SAH group and controls [33]. American guidelines suggested a short-term (< 72 hours) use of TXA in aneurysmal SAH patients [23]. However, the efficacy of reducing the risk of rebleeding was decreased [7, 14]. Hydrocephalus is a common adverse event after aneurysmal SAH [34, 35]. In cases of clinical deterioration because of acute hydrocephalus, ultra-early treatment might improve clinical symptoms but increase the risk of a poor prognosis[36, 37]. Mainly because the most common adverse event after ventricular drainage was rebleeding [38, 39]. In our meta-analysis, the confidence intervals of hydrocephalus indicate that TXA exerts potential harm on aneurysmal SAH patients.  
+
+Contrary to other RCTs [40–43], Chakroun et al. demonstrated an increased incidence of pulmonary embolism with the use of TXA in subjects with traumatic brain injury [44]. Another retrospective research of 687 wounded soldiers showed that TXA did increase the risk of venous thrombosis [45]. In contrast, a meta-analysis of 30,522 patients in 7 clinical RCTs showed that, despite no statistical difference, the incidence of vascular occlusion appeared lower with the TXA-treated group when compared with the control group [46]. Shoji et al. confirmed that although TC such as deep vein thrombosis and pulmonary embolism might occur, the probability was relatively low [47]. Our study also did not show any significant differences in the incidence of TC between the two groups.  
+
+The irritative effect of cisternal blood was one of the leading causes of seizures for subarachnoid hemorrhage patients; rebleeding was also associated with epileptic seizures [48, 49]. However, the mechanism between TXA and epileptic seizures is still not precise; some studies have suggested that it might be the direct effect of TXA on the central nervous system; for example, TXA injected into the cisterna magna or applied to the cortex could cause grand mal epilepsy [49–51]. It also suggested that TXA could enhance the excitability of the central nervous system by inhibiting Gamma-aminobutyric acid A receptors [52]. Another study found that TXA was related to a 4.1-fold increase in epileptic seizure risk in adult cardiac surgery patients compared to controls [53]. Susan et al. reported in 2020 that 2 g TXA increased the risk of epilepsy by 2.5 times compared with the control group; in subjects with moderate to severe traumatic brain injury but without parenchymal bleeding, the risk of epilepsy increased by three times. However, there was no statistical difference [54]. Only one study reported the incidence of epilepsy; the study showed a statistically significant difference in epilepsy [7]. Therefore, when TXA is applied, the occurrence of epilepsy should be vigilant, and the electroencephalogram should be perfected if necessary.  
+
+This meta-analysis has some strengths. First, we comprehensively searched different databases to find likely trials; meanwhile, our study provides a comprehensive overview to figure out the efficacy and safety of TXA administration in aneurysmal SAH subjects. Second, through analyzing the data of all the included RCTs on rebleeding, good clinical outcomes, mortality, DCI, we further investigated whether the usage of TXA is related to increased incidences of seizures and hydrocephalus. Third, a sensitivity analysis was performed to carry out subgroup analysis for RCTs.  
+
+Our study also has some limitations. Due to the length of TXA treatment, the intervention dose, the time from the onset of symptoms to treatment and the severity of the disease, our extensive inclusion criteria have led to population heterogeneity, which may lead to potential deviations in the evaluation of efficacy and safety of TXA. Coupled with the overrepresentation of the ULTRA trial study population as it represents nearly one-third of the included population in our meta-analysis. Furthermore, different prognostic indicators were used (mRS, GOS), there was relative uncertainty regarding all the estimates.  
+
+# Conclusion  
+
+TXA can reduce rebleeding but has a similar effect on good clinical outcomes and mortality in aneurysmal SAH patients. Meanwhile, this treatment conveys an increased risk of hydrocephalus, seizure, and DCI, limiting its usage in clinical events, but the incidence of TC was identical in both TXA and placebo groups. These findings indicate that it is not recommended for routine use of TXA in patients with aneurysmal SAH.  
+
+# Abbreviations  
+
+RCT: Randomized Controlled Trials, TXA: Tranexamic Acid; SAH: Subarachnoid Hemorrhage; TC: Thromboembolic Complications; DCI: Delayed Cerebral Ischemia; mRS: modified Rankin Scale; GOS: Glasgow Outcome Scale  
+
+# Declarations  
+
+# Acknowledgments  
+
+Not applicable  
+
+Funding  
+
+Not applicable  
+
+# Availability of data and materials  
+
+The datasets are available from co-authors on reasonable request.  
+
+# Authors’ contributions  
+
+TL and RX collected information and wrote articles. TL and HD designed the research and modified the article. All authors read and approved the final manuscript.  
+
+# Ethics approval and consent to participate  
+
+Not applicable  
+
+# Consent for publication  
+
+Not applicable  
+
+# Competing interests  
+
+The authors declare that they have no competing interests.  
+
+# References  
+
+1. de Rooij NK, Linn FH, van der Plas JA, Algra A, Rinkel GJ. Incidence of subarachnoid haemorrhage: a systematic review with emphasis on region, age, gender and time trends. J Neurol Neurosurg Psychiatry. 2007;78 12:1365-72; doi: 10.1136/jnnp.2007.117655.   
+2. Rinkel GJ, Algra A. Long-term outcomes of patients with aneurysmal subarachnoid haemorrhage. Lancet Neurol. 2011;10 4:349-56; doi: 10.1016/s1474-4422(11)70017-5.   
+3. Tanno Y, Homma M, Oinuma M, Kodama N, Ymamoto T. Rebleeding from ruptured intracranial aneurysms in North Eastern Province of Japan. A cooperative study. J Neurol Sci. 2007;258 1-2:11-6; doi: 10.1016/j.jns.2007.01.074.   
+4. Larsen CC, Astrup J. Rebleeding after aneurysmal subarachnoid hemorrhage: a literature review. World Neurosurg. 2013;79 2:307-12; doi: 10.1016/j.wneu.2012.06.023.   
+5. Roos YB, Rinkel GJ, Vermeulen M, Algra A, van Gijn J. Antifibrinolytic therapy for aneurysmal subarachnoid haemorrhage. Cochrane Database Syst Rev. 2003; 2:Cd001245; doi: 10.1002/14651858.Cd001245.   
+6. Baharoglu MI, Germans MR, Rinkel GJ, Algra A, Vermeulen M, van Gijn J, et al. Antifibrinolytic therapy for aneurysmal subarachnoid haemorrhage. Cochrane Database Syst Rev. 2013; 8:Cd001245; doi: 10.1002/14651858.CD001245.pub2.  
+
+7. Post R, Germans MR, Tjerkstra MA, Vergouwen MDI, Jellema K, Koot RW, et al. Ultra-early tranexamic acid after subarachnoid haemorrhage (ULTRA): a randomised controlled trial. Lancet. 2021;397 10269:112-8; doi: 10.1016/s0140-6736(20)32518-6.  
+
+8. Lo BWY, Fukuda H, Tsang ACO, Langer DJ, Miyawaki S, Koyanagi M, et al. Commentary on Post, et al. Ultra-early tranexamic acid after subarachnoid hemorrhage: A randomized controlled trial. Lancet 2021. Surg Neurol Int. 2021;12:156; doi: 10.25259/sni_242_2021.  
+
+9. Eastin TR, Snipes CD, Seupaul RA. Are antifibrinolytic agents effective in the treatment of aneurysmal subarachnoid hemorrhage? Ann Emerg Med. 2014;64 6:658-9; doi: 10.1016/j.annemergmed.2014.06.004.   
+10. Higgins JP, Altman DG, Gøtzsche PC, Jüni P, Moher D, Oxman AD, et al. The Cochrane Collaboration's tool for assessing risk of bias in randomised trials. Bmj. 2011;343:d5928; doi: 10.1136/bmj.d5928.   
+11. Hillman J, Fridriksson S, Nilsson O, Yu Z, Saveland H, Jakobsson KE. Immediate administration of tranexamic acid and reduced incidence of early rebleeding after aneurysmal subarachnoid hemorrhage: a prospective randomized study. J Neurosurg. 2002;97 4:771-8; doi: 10.3171/jns.2002.97.4.0771.   
+12. Roos Y. Antifibrinolytic treatment in subarachnoid hemorrhage: a randomized placebo-controlled trial. STAR Study Group. Neurology. 2000;54 1:77-82; doi: 10.1212/wnl.54.1.77.   
+13. Tsementzis SA, Hitchcock ER, Meyer CH. Benefits and risks of antifibrinolytic therapy in the management of ruptured intracranial aneurysms. A double-blind placebo-controlled study. Acta Neurochir (Wien). 1990;102 1-2:1-10; doi: 10.1007/bf01402177.   
+14. Wijdicks EF, Hasan D, Lindsay KW, Brouwers PJ, Hatfield R, Murray GD, et al. Short-term tranexamic acid treatment in aneurysmal subarachnoid hemorrhage. Stroke. 1989;20 12:1674-9; doi: 10.1161/01.str.20.12.1674.   
+15. Vermeulen M, Lindsay KW, Murray GD, Cheah F, Hijdra A, Muizelaar JP, et al. Antifibrinolytic treatment in subarachnoid hemorrhage. N Engl J Med. 1984;311 7:432-7; doi: 10.1056/nejm198408163110703.   
+16. Fodstad H, Forssell A, Liliequist B, Schannong M. Antifibrinolysis with tranexamic acid in aneurysmal subarachnoid hemorrhage: a consecutive controlled clinical trial. Neurosurgery. 1981;8 2:158-65; doi: 10.1227/00006123-198102000-00004.   
+17. Germans MR, Coert BA, Vandertop WP, Verbaan D. Time intervals from subarachnoid hemorrhage to rebleed. J Neurol. 2014;261 7:1425-31; doi: 10.1007/s00415-014-7365-0.   
+18. Post R, Germans MR, Boogaarts HD, Ferreira Dias Xavier B, Van den Berg R, Coert BA, et al. Short-term tranexamic acid treatment reduces in-hospital mortality in aneurysmal sub-arachnoid hemorrhage: A multicenter comparison study. PLoS One. 2019;14 2:e0211868; doi: 10.1371/journal.pone.0211868.   
+19. Carley S, Sen A. Best evidence topic report. Antifibrinolytics for the initial management of sub arachnoid haemorrhage. Emerg Med J. 2005;22 4:274-5; doi: 10.1136/emj.2005.023523.   
+20. Chwajol M, Starke RM, Kim GH, Mayer SA, Connolly ES. Antifibrinolytic therapy to prevent early rebleeding after subarachnoid hemorrhage. Neurocrit Care. 2008;8 3:418-26; doi: 10.1007/s12028-  
+
+008-9088-5.  
+
+21. Vel R, Udupi BP, Satya Prakash MV, Adinarayanan S, Mishra S, Babu L. Effect of low dose tranexamic acid on intra-operative blood loss in neurosurgical patients. Saudi J Anaesth. 2015;9 1:42-8; doi: 10.4103/1658-354x.146304.  
+
+22. Mahdy AM, Webster NR. Perioperative systemic haemostatic agents. Br J Anaesth. 2004;93 6:842-58; doi: 10.1093/bja/aeh227.   
+23. Connolly ES, Jr., Rabinstein AA, Carhuapoma JR, Derdeyn CP, Dion J, Higashida RT, et al. Guidelines for the management of aneurysmal subarachnoid hemorrhage: a guideline for healthcare professionals from the American Heart Association/american Stroke Association. Stroke. 2012;43 6:1711-37; doi: 10.1161/STR.0b013e3182587839.   
+24. Jimenez JJ, Iribarren JL, Lorente L, Rodriguez JM, Hernandez D, Nassar I, et al. Tranexamic acid attenuates inflammatory response in cardiopulmonary bypass surgery through blockade of fibrinolysis: a case control study followed by a randomized double-blind controlled trial. Crit Care. 2007;11 6:R117; doi: 10.1186/cc6173.   
+25. Teng Y, Feng C, Liu Y, Jin H, Gao Y, Li T. Anti-inflammatory effect of tranexamic acid against traumahemorrhagic shock-induced acute lung injury in rats. Exp Anim. 2018;67 3:313-20; doi: 10.1538/expanim.17-0143.   
+26. Peng Z, Ban K, LeBlanc A, Kozar RA. Intraluminal tranexamic acid inhibits intestinal sheddases and mitigates gut and lung injury and inflammation in a rodent model of hemorrhagic shock. J Trauma Acute Care Surg. 2016;81 2:358-65; doi: 10.1097/ta.0000000000001056.   
+27. Fodstad H, Nilsson IM. Coagulation and fibrinolysis in blood and cerebrospinal fluid after aneurysmal subarachnoid haemorrhage: effect of tranexamic acid (AMCA). Acta Neurochir (Wien). 1981;56 1-2:25-38; doi: 10.1007/bf01400969.   
+28. Adams HP, Jr., Kassell NF, Torner JC, Haley EC, Jr. Predicting cerebral ischemia after aneurysmal subarachnoid hemorrhage: influences of clinical condition, CT results, and antifibrinolytic therapy. A report of the Cooperative Aneurysm Study. Neurology. 1987;37 10:1586-91; doi: 10.1212/wnl.37.10.1586.   
+29. Hijdra A, van Gijn J, Nagelkerke NJ, Vermeulen M, van Crevel H. Prediction of delayed cerebral ischemia, rebleeding, and outcome after aneurysmal subarachnoid hemorrhage. Stroke. 1988;19 10:1250-6; doi: 10.1161/01.str.19.10.1250.   
+30. Pinna G, Pasqualin A, Vivenza C, Da Pian R. Rebleeding, ischaemia and hydrocephalus following anti-fibrinolytic treatment for ruptured cerebral aneurysms: a retrospective clinical study. Acta Neurochir (Wien). 1988;93 3-4:77-87; doi: 10.1007/bf01402885.   
+31. Vergouwen MD, Vermeulen M, van Gijn J, Rinkel GJ, Wijdicks EF, Muizelaar JP, et al. Definition of delayed cerebral ischemia after aneurysmal subarachnoid hemorrhage as an outcome event in clinical trials and observational studies: proposal of a multidisciplinary research group. Stroke. 2010;41 10:2391-5; doi: 10.1161/strokeaha.110.589275.  
+
+32. Steiner T, Juvela S, Unterberg A, Jung C, Forsting M, Rinkel G. European Stroke Organization guidelines for the management of intracranial aneurysms and subarachnoid haemorrhage. Cerebrovasc Dis. 2013;35 2:93-112; doi: 10.1159/000346087.  
+
+33. Anker-Moller T, Troldborg A, Sunde N, Hvas AM. Evidence for the Use of Tranexamic Acid in Subarachnoid and Subdural Hemorrhage: A Systematic Review. Seminars in Thrombosis and Hemostasis. 2017;43 7:750-8; doi: 10.1055/s-0037-1604089.   
+34. Mehta V, Holness RO, Connolly K, Walling S, Hall R. Acute hydrocephalus following aneurysmal subarachnoid hemorrhage. Can J Neurol Sci. 1996;23 1:40-5; doi: 10.1017/s0317167100039160.   
+35. Hasan D, Vermeulen M, Wijdicks EF, Hijdra A, van Gijn J. Management problems in acute hydrocephalus after subarachnoid hemorrhage. Stroke. 1989;20 6:747-53; doi: 10.1161/01.str.20.6.747.   
+36. McIver JI, Friedman JA, Wijdicks EF, Piepgras DG, Pichelmann MA, Toussaint LG, 3rd, et al. Preoperative ventriculostomy and rebleeding after aneurysmal subarachnoid hemorrhage. J Neurosurg. 2002;97 5:1042-4; doi: 10.3171/jns.2002.97.5.1042.   
+37. Chen S, Luo J, Reis C, Manaenko A, Zhang J. Hydrocephalus after Subarachnoid Hemorrhage: Pathophysiology, Diagnosis, and Treatment. Biomed Res Int. 2017;2017:8584753; doi: 10.1155/2017/8584753.   
+38. Fountas KN, Kapsalaki EZ, Machinis T, Karampelas I, Smisson HF, Robinson JS. Review of the literature regarding the relationship of rebleeding and external ventricular drainage in patients with subarachnoid hemorrhage of aneurysmal origin. Neurosurg Rev. 2006;29 1:14-8; discussion 9-20; doi: 10.1007/s10143-005-0423-4.   
+39. Paré L, Delfino R, Leblanc R. The relationship of ventricular drainage to aneurysmal rebleeding. J Neurosurg. 1992;76 3:422-7; doi: 10.3171/jns.1992.76.3.0422.   
+40. Yutthakasemsunt S, Kittiwatanagul W, Piyavechvirat P, Thinkamrop B, Phuenpathom N, Lumbiganon P. Tranexamic acid for patients with traumatic brain injury: a randomized, double-blinded, placebocontrolled trial. BMC Emerg Med. 2013;13:20; doi: 10.1186/1471-227x-13-20.   
+41. Fakharian E, Abedzadeh-Kalahroudi M, Atoof F. Effect of Tranexamic Acid on Prevention of Hemorrhagic Mass Growth in Patients with Traumatic Brain Injury. World Neurosurg. 2018;109:e748- e53; doi: 10.1016/j.wneu.2017.10.075.   
+42. Brenner A, Belli A, Chaudhri R, Coats T, Frimley L, Jamaluddin SF, et al. Understanding the neuroprotective effect of tranexamic acid: an exploratory analysis of the CRASH-3 randomised trial. Crit Care. 2020;24 1:560; doi: 10.1186/s13054-020-03243-4.   
+43. Williams-Johnson JA, McDonald AH, Strachan GG, Williams EW. Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2) A randomised, placebo-controlled trial. West Indian Med J. 2010;59 6:612-24.   
+44. Chakroun-Walha O, Samet A, Jerbi M, Nasri A, Talbi A, Kanoun H, et al. Benefits of the tranexamic acid in head trauma with no extracranial bleeding: a prospective follow-up of 180 patients. Eur J Trauma Emerg Surg. 2019;45 4:719-26; doi: 10.1007/s00068-018-0974-z.   
+45. Walker PF, Bozzay JD, Johnston LR, Elster EA, Rodriguez CJ, Bradley MJ. Outcomes of tranexamic acid administration in military trauma patients with intracranial hemorrhage: a cohort study. BMC Emerg Med. 2020;20 1:39; doi: 10.1186/s12873-020-00335-w.   
+46. July J, Pranata R. Tranexamic acid is associated with reduced mortality, hemorrhagic expansion, and vascular occlusive events in traumatic brain injury - meta-analysis of randomized controlled trials. BMC Neurol. 2020;20 1:119; doi: 10.1186/s12883-020-01694-4.   
+47. Lawati KA, Sharif S, Maqbali SA, Rimawi HA, Petrosoniak A, Belley-Cote EP, et al. Efficacy and safety of tranexamic acid in acute traumatic brain injury: a systematic review and meta-analysis of randomized-controlled trials. Intensive Care Med. 2021;47 1:14-27; doi: 10.1007/s00134-020-06279- w.   
+48. Hasan D, Schonck RS, Avezaat CJ, Tanghe HL, van Gijn J, van der Lugt PJ. Epileptic seizures after subarachnoid hemorrhage. Ann Neurol. 1993;33 3:286-91; doi: 10.1002/ana.410330310.   
+49. Lanzino G, D'Urso PI, Suarez J. Seizures and anticonvulsants after aneurysmal subarachnoid hemorrhage. Neurocrit Care. 2011;15 2:247-56; doi: 10.1007/s12028-011-9584-x.   
+50. Schlag MG, Hopf R, Zifko U, Redl H. Epileptic seizures following cortical application of fibrin sealants containing tranexamic acid in rats. Acta Neurochir (Wien). 2002;144 1:63-9; doi: 10.1007/s701-002- 8275-z.   
+51. Lecker I, Wang DS, Whissell PD, Avramescu S, Mazer CD, Orser BA. Tranexamic acid-associated seizures: Causes and treatment. Ann Neurol. 2016;79 1:18-26; doi: 10.1002/ana.24558.   
+52. Furtmüller R, Schlag MG, Berger M, Hopf R, Huck S, Sieghart W, et al. Tranexamic acid, a widely used antifibrinolytic agent, causes convulsions by a gamma-aminobutyric acid(A) receptor antagonistic effect. J Pharmacol Exp Ther. 2002;301 1:168-73; doi: 10.1124/jpet.301.1.168.   
+53. Takagi H, Ando T, Umemoto T. Seizures associated with tranexamic acid for cardiac surgery: a metaanalysis of randomized and non-randomized studies. J Cardiovasc Surg (Torino). 2017;58 4:633-41; doi: 10.23736/s0021-9509.17.09877-9.   
+54. Rowell SE, Meier EN, McKnight B, Kannas D, May S, Sheehan K, et al. Effect of Out-of-Hospital Tranexamic Acid vs Placebo on 6-Month Functional Neurologic Outcomes in Patients With Moderate or Severe Traumatic Brain Injury. Jama. 2020;324 10:961-74; doi: 10.1001/jama.2020.8958.  
+
+![](images/d8ad43d00ef2fadb65e3f73818ccc208ec266b4dfb30c9e84414aa40e608d979.jpg)  
+Figure 1  
+
+Literature search and study selection strategy.  
+
+![](images/f657c74f72d15b7835bb61dd5c9b36d51c8cb30cbbd9102af067fc4b49160e14.jpg)  
+Figure 2  
+
+Forest plot comparing the rebleeding(A), good clinical outcomes(B), and all-cause mortality (C) between the TXA and placebo groups.  
+
+![](images/8ffdda64998dc1e2c30a2cc021da54bd093d161a454f7c5a2dae0b10a87fb869.jpg)  
+Figure 3  
+
+Forest plot of the meta-analysis of adverse events between TXA and placebo. A, B, D demonstrated a higher incidence, including hydrocephalus, delayed cerebral ischemia, and seizure. C showed thromboembolic complications were similar in both groups.  
+
+# Supplementary Files  
+
+This is a list of supplementary files associated with this preprint. Click to download.  
+
+Supplement.docx  

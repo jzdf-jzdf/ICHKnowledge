@@ -1,0 +1,156 @@
+# Impact of blood pressure changes and course on hematoma growth in acute intracerebral hemorrhage  
+
+D. Rodriguez-Lunaa, S. Pineiroa, M. Rubieraa, M. Riboa, P. Coscojuelab, J. Pagolaa, A. Floresa, M. Muchadaa, B. Ibarrab, P. Melera, E. Sanjuana, M. Hernandez-Guillamona, J. Alvarez-Sabina, J. Montanera and C. A. Molinaa aStroke Unit, Department of Neurology, Vall d’Hebron University Hospital, Vall d’Hebron Research Institute, Departament de Medicina, Universitat Autonoma de Barcelona, Barcelona; and bDepartment of Neuroradiology, Vall d’Hebron University Hospital, Barcelona, Spain  
+
+# Keywords:  
+
+blood pressure, hematoma growth, intracerebral hemorrhage, spot sign  
+
+Received 1 February 2013   
+Accepted 25 March 2013  
+
+Background and purpose: An association between high blood pressure (BP) in acute intracerebral hemorrhage (ICH) and hematoma growth (HG) has not been clearly demonstrated. Therefore, the impact of BP changes and course on HG and clinical outcome in patients with acute ICH was determined.  
+
+Methods: In total, 117 consecutive patients with acute $(<6\mathrm{~h~})$ supratentorial ICH underwent baseline and 24-h CT scans, CT angiography for the detection of the spot sign and non-invasive BP monitoring at $15{\cdot}\mathrm{min}$ intervals over the first $24\mathrm{~h~}$ . Maximum and minimum BP, maximum BP increase and drop from baseline, and BP variability values from systolic BP (SBP), diastolic BP and mean arterial pressure (MAP) were calculated. SBP and MAP loads were defined as the proportion of readings $>180$ and ${>}130\mathrm{mmHg}$ , respectively. HG $(>33\%$ or ${>}6~\mathrm{ml}$ ), early neurological deterioration (END) and 3-month mortality were recorded.  
+
+Results: Baseline BP variables were unrelated to either HG or clinical outcome. Conversely, SBP 180-load independently predicted HG (odds ratio 1.05, $95\%$ CI 1.010–1.097, $P=0.016$ ), whilst both SBP 180-load (odds ratio 1.04, $95\%$ CI 1.001– 1.076, $P=0.042^{}$ and SBP variability (odds ratio 1.2, $95\%$ CI 1.047–1.380, $P=0.009.$ ) independently predicted END. Although none of the BP monitoring variables was associated with HG in the spot-sign-positive group, higher maximum BP increases from baseline and higher SBP and MAP loads were significantly related to HG in the spot-sign-negative group.  
+
+Conclusions: In patients with acute supratentorial ICH, SBP 180-load independently predicts HG, whilst both SBP 180-load and SBP variability predict END.  
+
+# Introduction  
+
+the management of BP in acute ICH patients in the future.  
+
+Early increase of blood pressure (BP) is common in acute intracerebral hemorrhage (ICH) [1] and has been associated with poor outcome [2]. Therefore, the current American Heart Association (AHA) guidelines for the management of spontaneous ICH recommend maintaining systolic BP (SBP) below $180\mathrm{mmHg}$ in the acute period with short half-life intravenous antihypertensive drugs [3]. However, demonstration of the safety of early more intensive BP lowering in the INTERACT [4] and ATACH [5] trials may change  
+
+INTERACT also showed a trend towards lower relative and absolute hematoma growth (HG) at $24\mathrm{~h~}$ in the intensive BP treatment group (SBP below $140\mathrm{mmHg}$ ) compared with the AHA guideline based BP management group without increasing adverse events [4], suggesting a relationship between BP and HG. Nevertheless, the association of higher BP with the risk of HG in acute ICH has not been clearly demonstrated yet. Whilst several studies have described a relationship between higher BP and HG [6,7], others have not found any relationship between them [8,9]. However, these studies performed only a few BP determinations during the first $24\mathrm{~h~}$ and did not evaluate other variables such as BP variability.  
+
+The aim of the present study was to investigate the impact of BP changes and course on HG and, secondarily, on clinical outcome in patients with acute ICH.  
+
+# Methods  
+
+# Study population  
+
+Patients with acute primary supratentorial ICH admitted to our emergency room were prospectively evaluated within $^\textrm{\scriptsize6h}$ from symptoms onset. A total of 162 consecutive patients were initially evaluated between July 2009 and December 2010. Those patients with a Glasgow Coma Scale (GCS) score $_{<8}$ $(n=25)$ ) and those who underwent surgical hematoma evacuation $(n=3)$ ) were excluded. Of the remaining 134 patients, 17 had incomplete or no BP monitoring recorded and were also excluded. Consequently, a total of 117 patients were included in this study after informed consent was obtained from them or their relatives. The local ethics committee approved all aspects of the study protocol.  
+
+# Clinical assessment  
+
+On admission, previous diagnosis of hypertension, prior antihypertensive, antiplatelet or anticoagulant treatment, body temperature and GCS score were recorded from all patients, as well as the following routine laboratory tests: serum glucose, creatinine, hemoglobin, leukocyte count, platelet count, prothrombin time, activated partial thromboplastin time and fibrinogen. The National Institutes of Health Stroke Scale (NIHSS) score was recorded on admission and at $24\mathrm{~h~}$ as well as mortality at 3 months.  
+
+Early neurological deterioration (END) was defined as an increase of 4 points or more on the NIHSS score or death at $24\mathrm{~h~}$ from symptoms onset. END and mortality at 3 months were used as clinical outcome parameters.  
+
+# CT and CT angiography scans protocol  
+
+Patients underwent on admission an initial CT scan and a CT angiography (CTA), and a follow-up CT scan at $24\mathrm{~h~}$ from symptoms onset. All CT and CTA scans were evaluated by two neuroradiologists blinded to clinical data. The presence of intraventricular extension was recorded on the initial CT scan. ICH volumes were calculated on the initial and follow-up CT scans using the previously validated ABC/2 method [10]. HG was defined as a relative enlargement $>33\%$ or an absolute expansion of more than $6~\mathrm{ml}$ at $24\mathrm{~h~}$ [11]. CTA studies were evaluated for the presence or absence of the spot sign [12]. The CTA spot sign was used as a marker of active hemorrhage [13,14].  
+
+# Blood pressure monitoring and management protocol  
+
+All patients underwent on admission a non-invasive BP monitoring over the first $24\mathrm{~h~}$ after symptoms onset. SBP, diastolic BP (DBP) and mean arterial pressure (MAP) readings were obtained every $15\mathrm{min}$ .  
+
+Blood pressure variability was calculated as the standard deviation of SBP, DBP and MAP [15]. Maximum BP, maximum BP increase from baseline, minimum BP and maximum BP drop from baseline values were calculated. SBP and MAP loads [16] were defined as the percentage of 24-h BP monitoring values exceeding 180 and $130\mathrm{mmHg}$ , respectively (Fig. 1).  
+
+Intravenous antihypertensive agents were administered when SBP or MAP exceeded 180 or $130\mathrm{mmHg}$ , respectively, following published AHA guidelines at the time [17]. Labetalol was the first-line agent, whilst urapidil was used as a second-line drug, according to our institution protocol. The antihypertensive agent administered as well as the dose and number of times given were recorded.  
+
+![](images/f0f11a7e561450f9bfed980beee4d8aeaf4624ac916c58adb736d797940765ad.jpg)  
+Figure 1 Case examples of two 24-h non-invasive blood pressure monitoring recordings. Readings for systolic blood pressure (SBP, red line), diastolic blood pressure (blue line) and mean arterial pressure (purple line) were obtained every $15\mathrm{min}$ over the first $^{24\textrm{h}}$ . SBP load was defined as the proportion of readings higher than $180\mathrm{mmHg}$ (above the green line). Patients who experienced hematoma growth showed higher SBP 180-load, SBP variability and SBP at $^{24\textrm{h}}$ (case a, $28.8\%$ , $14.8\mathrm{mmHg}$ and $178\mathrm{mmHg}$ , respectively) than those without (case b, $0\%$ , $8.1\mathrm{mmHg}$ and $116\mathrm{mmHg}$ , respectively).  
+
+# Statistical analysis  
+
+Statistical analysis was done using SPSS Statistics 17.0 (SPSS Inc., Chicago, IL, USA). A $P$ value of $_{<0.05}$ was considered significant. Categorical variables are presented as percentages, and continuous variables are presented as mean $\pm$ standard deviation if normally distributed or median (interquartile range) if not normally distributed. Statistical significance for intergroup differences was assessed by Pearson’s chisquared or the Fisher exact test for categorical variables, and by Student’s $t$ test or the Mann–Whitney $U$ test for continuous variables, as appropriate. Correlations between continuous variables were assessed by Spearman’s correlation coefficient. Variables associated with HG and clinical outcome in the univariate analysis were entered into a forward stepwise multivariate logistic regression model to determine factors that could be considered as independent predictors of HG and clinical outcome. Clinical outcome models were adjusted by independent predictors of HG.  
+
+# Results  
+
+The main baseline characteristics are summarized in Tables 1 and 2. HG occurred in 36 $(34\%)$ of the 106 patients who had a $^{24-\mathrm{h}}$ follow-up CT scan (11 patients did not have a CT scan at $24\mathrm{~h~}$ , seven of them because they died). Overall $(n=117)$ , $21.4\%$ of patients experienced END, whereas 3-month mortality rate was $29.9\%$ . HG was closely associated with both END $30.6\%$ vs. $4.3\%$ , $P<0.001$ ) and 3-month mortality $50\%$ vs. $8.6\%$ , $P<0.001\$ ).  
+
+Patients who experienced HG presented at baseline higher age, NIHSS score, ICH volume and activated partial thromboplastin time, but lower GCS score and hemoglobin levels, and more frequently presented intraventricular extension and the CTA spot sign than no-HG patients (Table 1).  
+
+Table 2 shows the relationship between BP values and the presence of HG. Even though none of the baseline BP values was related to HG, several 24-h BP monitoring values were significantly associated with HG, including higher SBP 180-load, SBP variability and SBP at $24\mathrm{~h~}$ (Fig. 1). Of these variables, whereas SBP 180-load showed a significant correlation with the amount of hematoma enlargement at $24\mathrm{~h~}$ $R=0.304$ , $P=0.002$ ), SBP variability ( $R=0.182$ , $P=0.079.$ ) and SBP at $24\mathrm{~h~}$ $R=0.154$ , $P=0.117$ ) were not correlated with it. Moreover, SBP 180-load was not correlated with either baseline $\overset{\vartriangle}{R}=0.083$ , $P=0.380$ ) or followup ( $R=0.147$ , $P=0.139$ ) ICH volumes.  
+
+Fifty-one $(43.6\%)$ patients required intravenous antihypertensive treatment within the first $24\mathrm{~h~}$ from symptoms onset. The requirement of antihypertensive treatment showed a trend towards higher risk of HG $(55.6\%$ vs. $37.1\%$ , $P=0.070$ ), even though both previous diagnosis of hypertension $(83.3\%$ vs. $87.1\%$ , $P=0.594.$ ) and prior antihypertensive treatment $(57.1\%$ vs. $57.1\%$ , $P=1.000;$ were not significantly associated with HG. The intravenous antihypertensive agent administered was labetalol in 37 $(72.5\%)$ patients, urapidil in nine $(17.6\%)$ patients, both labetalol and urapidil in four $(7.8\%)$ patients and furosemide in one $(2\%)$ patient. The median dose of labetalol was 25 (50) mg, and the median dose of urapidil was 50 (50) mg. The 23 patients who required more than one dose of antihypertensive agent presented HG more frequently than those who required just one dose $72.7\%$ vs. $27.3\%$ , $P=0.001\$ ).  
+
+Table 1 Baseline characteristics and potential baseline factors related to hematoma growth   
+
+
+<html><body><table><tr><td></td><td></td><td colspan="3">Hematoma growtha</td></tr><tr><td></td><td>All, n = 117</td><td>Yes, n = 36</td><td>No, n = 70</td><td>P</td></tr><tr><td>Age, year</td><td>71.2 ± 12.2</td><td>75.6 ± 11.9</td><td>68.4 ± 12.3</td><td>0.005*</td></tr><tr><td>Gender, male</td><td>68 (58.1)</td><td>21 (58.3)</td><td>41 (58.6)</td><td>0.981</td></tr><tr><td>Antiplatelet pretreatment</td><td>21 (17.9)</td><td>9 (25)</td><td>9 (12.9)</td><td>0.115</td></tr><tr><td>Anticoagulant pretreatment</td><td>11 (9.4)</td><td>4 (11.1)</td><td>4 (5.7)</td><td>0.440</td></tr><tr><td>GCS</td><td>15 (3)</td><td>13 (4)</td><td>15 (2)</td><td>0.044*</td></tr><tr><td>NIHSS</td><td>16 (10)</td><td>18 (6)</td><td>14 (11)</td><td>0.003*</td></tr><tr><td>Body temperature, °C</td><td>36.2 ± 0.5</td><td>36.2 ± 0.5</td><td>36.2 ± 0.4</td><td>0.629</td></tr><tr><td>Glucose, mM</td><td>7.8±3</td><td>7.3 ± 2.2</td><td>7.9 ± 3.4</td><td>0.813</td></tr><tr><td>Creatinine, μM</td><td>77 ± 31.2</td><td>82.4 ± 32</td><td>72.6 ± 22.3</td><td>0.156</td></tr><tr><td>Hemoglobin, g/l</td><td>138.3 ± 16.8</td><td>134.5 ± 19.5</td><td>142.4 ± 14.1</td><td>0.019*</td></tr><tr><td>Leukocyte count, 103 u/1</td><td>9 ± 3.3</td><td>9 ± 4.3</td><td>8.9 ± 2.9</td><td>0.906</td></tr><tr><td>Platelet count, 103 u/l</td><td>226.2 ± 77.8</td><td>231.7 ± 106.2</td><td>224 ± 62.9</td><td>0.689</td></tr><tr><td>PT, s</td><td>17 ± 6.5</td><td>18.4 ± 7.6</td><td>15.9 ± 4.3</td><td>0.121</td></tr><tr><td>aPTT, s</td><td>29.5 ± 5.2</td><td>30.5 ± 4.8</td><td>28.4 ± 4.1</td><td>0.004*</td></tr><tr><td>Fibrinogen, μM</td><td>7.9 ± 1.7</td><td>8.3 ± 2.3</td><td>7.7 ± 1.2</td><td>0.210</td></tr><tr><td>Time from onset to CT, min</td><td>134 (107)</td><td>143 (134)</td><td>133 (112)</td><td>0.943</td></tr><tr><td>ICH volume, ml</td><td>13.3 (25)</td><td>17.6 (38)</td><td>10.5 (11)</td><td>0.001*</td></tr><tr><td>Intraventricular extension</td><td>55 (47)</td><td>22 (61.1)</td><td>26 (37.1)</td><td>0.019*</td></tr><tr><td>CTA spot signb</td><td>20 (22.5)</td><td>12 (36.4)</td><td>7 (13.5)</td><td>0.014*</td></tr></table></body></html>
+
+PT, prothrombin time; aPTT, activated partial thromboplastin time; data are $n$ $(\%)$ , mean $\pm\mathrm{SD}$ or median (interquartile range). Follow-up CT was not performed in 11 patients; $^{\mathrm{b}}\mathrm{CTA}$ was available in 89 patients; Bold values indicate variables significantly related to hematoma growth; $^{*}P<0.05$ .  
+
+Table 2 Baseline and 24-h blood pressure monitoring values in relation to the presence or absence of hematoma growth   
+
+
+<html><body><table><tr><td></td><td></td><td colspan="3">Hematoma growtha</td></tr><tr><td></td><td>All, n = 117</td><td>Yes, n = 36</td><td>No, n = 70</td><td>P</td></tr><tr><td colspan="5">Baseline</td></tr><tr><td>SBP</td><td>172 ± 28.9</td><td>172 ± 37</td><td>171.4 ± 24.1</td><td>0.926</td></tr><tr><td>DBP</td><td>92.4 ± 21.1</td><td>87.7 ± 24.4</td><td>93.3 ± 16.5</td><td>0.233</td></tr><tr><td>MAP</td><td>119 ± 21.4</td><td>115.8 ± 26.6</td><td>119.3 ± 16.8</td><td>0.482</td></tr><tr><td colspan="5">Maximum</td></tr><tr><td>SBP</td><td>191.9 ± 27.4</td><td>196.3 ± 29.2</td><td>187.8 ± 24.1</td><td>0.113</td></tr><tr><td>DBP</td><td>110.1 ± 18.8</td><td>108.9 ± 20.5</td><td>109.1 ± 15.1</td><td>0.942</td></tr><tr><td>MAP</td><td>134.2 ± 20</td><td>134.7 ± 22.3</td><td>132.5 ± 16.7</td><td>0.577</td></tr><tr><td colspan="5">Maximum increase</td></tr><tr><td>SBP</td><td>18 (31.5)</td><td>29 (32.3)</td><td>15 (31)</td><td>0.068</td></tr><tr><td>DBP</td><td>18 (22.8)</td><td>26 (17.5)</td><td>17 (22)</td><td>0.172</td></tr><tr><td>MAP</td><td>13.5 (24.5)</td><td>22.5 (24)</td><td>10 (23)</td><td>0.107</td></tr><tr><td colspan="5">Minimum</td></tr><tr><td>SBP</td><td>126.5 ± 22.8</td><td>127.3 ± 28.2</td><td>126.3 ± 18.2</td><td>0.850</td></tr><tr><td>DBP</td><td>66.5 ± 14</td><td>62.5 ± 15</td><td>68.8 ± 12.3</td><td>0.026*</td></tr><tr><td>MAP</td><td>88 ± 16.7</td><td>86.5 ± 18.8</td><td>88.9 ± 14.7</td><td>0.528</td></tr><tr><td colspan="5">Maximum drop</td></tr><tr><td>SBP</td><td>46 (47.3)</td><td>49 (53.5)</td><td>45 (46)</td><td>0.828</td></tr><tr><td>DBP</td><td>25.5 (25.8)</td><td>26.5 (24)</td><td>24 (25)</td><td>0.755</td></tr><tr><td>MAP</td><td>30 (29.5)</td><td>26.5 (34.8)</td><td>30 (28)</td><td>0.893</td></tr><tr><td colspan="5">24 h</td></tr><tr><td>SBP</td><td>155.4 ± 24.6</td><td>164.6 ± 31.6</td><td>151.9 ± 19</td><td>0.033*</td></tr><tr><td>DBP</td><td>83.4 ± 15.8</td><td>84.3 ± 18.4</td><td>83.8 ± 14.6</td><td>0.882</td></tr><tr><td>MAP</td><td>107.3 ± 17.1</td><td>111 ± 21.3</td><td>106.4 ± 14.3</td><td>0.250</td></tr><tr><td colspan="5">Mean</td></tr><tr><td>SBP</td><td>158.3 ± 20.8</td><td>161.5 ± 27</td><td>155.7 ± 15.6</td><td>0.248</td></tr><tr><td>DBP</td><td>85.5 ± 12.9</td><td>81.8 ± 16</td><td>87 ± 10.1</td><td>0.083</td></tr><tr><td>MAP</td><td>109.7 ± 14.3</td><td>108.3 ± 18.7</td><td>109.8 ± 10.8</td><td>0.673</td></tr><tr><td colspan="5">Variability</td></tr><tr><td>SBP</td><td>16.3 ± 7.7</td><td>17.7 ± 8.6</td><td>14.7 ± 5.8</td><td>0.046*</td></tr><tr><td>DBP</td><td>10.4 ± 4.9</td><td>11.2 ± 5.5</td><td>9.6 ± 3.7</td><td>0.229</td></tr><tr><td>MAP</td><td>11.4 ± 5.6</td><td>12.3 ± 6</td><td>10.5 ± 4.4</td><td>0.205</td></tr><tr><td colspan="5">Load, %</td></tr><tr><td>SBP 180</td><td>6.6 (33.9)</td><td>20 (66.2)</td><td>1.9 (17.6)</td><td>0.001*</td></tr><tr><td>MAP 130</td><td>3.1 (20)</td><td>3.8 (33.3)</td><td>1.9 (12.2)</td><td>0.216</td></tr></table></body></html>
+
+Data, in $\mathrm{mmHg}$ unless otherwise indicated, were mean $\pm\mathrm{SD}$ or median (interquartile range). aFollow-up CT was not performed in 11 patients; Bold values indicate variables significantly related to hematoma growth; $^{*}P<0.05$ .  
+
+Table 3 Independent predictors of hematoma growth by multiple logistic regression analysis   
+
+
+<html><body><table><tr><td></td><td>Odds ratio (95% CI)</td><td>P</td></tr><tr><td>Age</td><td>1.11 (1.0271.191)</td><td>0.007</td></tr><tr><td>aPTT</td><td>1.29 (1.0631.557)</td><td>0.010</td></tr><tr><td>ICHvolume</td><td>1.05 (1.002-1.092)</td><td>0.038</td></tr><tr><td>SBP180-load</td><td>1.05 (1.0101.097)</td><td>0.016</td></tr></table></body></html>
+
+aPTT, activated partial thromboplastin time.  
+
+Multivariate logistic regression analysis showed that variables independently related to HG were SBP 180- load, baseline ICH volume, age and activated partial thromboplastin time (Table 3).  
+
+Similarly to the 24-h SBP 180-load, the percentage of SBP monitoring values exceeding $180\mathrm{mmHg}$ within the first $^\textrm{\scriptsize6h}$ from symptoms onset was significantly higher in patients who experienced HG than in those who did not $[25\%$ $(87.3\%)$ vs. $0\%$ $(33.9\%)$ , $P=0.024]$ and was not correlated with either baseline $R=0.137$ , $P=0.176^{}$ ) or follow-up $R=0.195$ , $P=0.066$ ) ICH volumes.  
+
+Although none of the baseline BP variables was related to clinical outcome parameters, in multivariate logistic regression analysis SBP 180-load and SBP variability, as well as baseline ICH volume, independently predicted END (Table 4). Moreover, SBP 180-load showed no correlation with baseline NIHSS score $\mathit{\Theta}_{R}=0.149$ , $P=0.116)$ and weak correlation with NIHSS score at $24\mathrm{~h~}$ $R=0.241$ , $P=0.014.$ ), whilst SBP variability was not correlated with either baseline $\mathit{\Theta}_{}{R}=0.046$ , $P=0.644)$ or 24-h $\mathit{\Theta}^{\prime}R=0.141$ , $P=0.175$ ) NIHSS scores. Otherwise, baseline ICH volume and age were independently associated with mortality at 3 months (Table 4).  
+
+Table 4 Independent predictors of clinical outcome by multiple logistic regression analyses   
+
+
+<html><body><table><tr><td></td><td colspan="2">Earlyneurologicaldeterioration</td><td colspan="2">Mortalityat3months</td></tr><tr><td></td><td>Odds ratio (95% CI)</td><td>P</td><td>Odds ratio (95% CI)</td><td>P</td></tr><tr><td>Age</td><td>0.99 (0.9241.066)</td><td>0.832</td><td>1.10 (1.027-1.166)</td><td>0.005*</td></tr><tr><td>ICHvolume</td><td>1.09 (1.048-1.135)</td><td><0.001*</td><td>1.07 (1.038-1.096)</td><td><0.001*</td></tr><tr><td>SBPvariability</td><td>1.20 (1.047-1.380)</td><td>0.009*</td><td>NA</td><td>NA</td></tr><tr><td>SBP180-1oad</td><td>1.04 (1.001-1.076)</td><td>0.042*</td><td>1.014 (0.995-1.033)</td><td>0.148</td></tr></table></body></html>
+
+NA, not applicable; Bold values indicate variables independently related to clinical outcome parameters; $^{*}P<0.05$ .  
+
+Regarding the impact of BP on HG in relation to the presence of the CTA spot sign, none of the BP monitoring variables was associated with HG in the spot-sign-positive group. Conversely, in patients without the spot sign, higher maximum BP increase from baseline, SBP [31 (47.8) vs. 12 (24.5) $\mathrm{mmHg}$ , $P=0.008]$ , DBP [28 (13.5) vs. 15 (20.5) $\mathrm{mmHg}$ , $P=0.048]$ and MAP [27.5 (22.8) vs. 8 (16.5) $\mathrm{mmHg}$ , $P=0.009]$ , was related to HG. Similarly, higher SBP 180-load $[34.6\%$ $(70.5\%)$ vs. $0\%$ $(13.4\%)$ , $P=0.004]$ and MAP 130-load $\ensuremath{[8.6\%}$ $(39.8\%)$ vs. $0\%$ $(8.5\%)$ , $P=0.020]$ were related to HG in the spot-signnegative group.  
+
+# Discussion  
+
+This study shows a strong relationship between higher 24-h BP monitoring variables, HG and clinical outcome in patients with acute primary supratentorial ICH. BP is considered an important therapeutic target in acute ICH [3] since it is frequently elevated in these patients [1] and higher values are associated with an increased risk of subsequent death or dependence [2]. Although this deleterious effect is thought to be related to the increase of risk of HG, previous studies focusing on the relationship between BP and HG have shown divergent results [6–9]. However, most of them performed only a few BP determinations during the first $24\mathrm{~h~}$ . One of the major strengths of the present study is the detailed BP monitoring every $15\mathrm{min}$ over the first $24\mathrm{~h~}$ .  
+
+SBP 180-load was correlated with the amount of hematoma enlargement at $24\mathrm{~h~}$ and emerged as an independent predictor of HG and END. Regarding the term BP load, the concept was first introduced in 1988 as the percentage of BP values exceeding a given constant threshold [16]. The rationale for the choice of 180 and $130\mathrm{mmHg}$ thresholds for SBP and MAP loads, respectively, in our series was to use the threshold for initiating antihypertensive treatment in patients with acute ICH based on published AHA guidelines at the time [17], a recommendation that remains substantially unchanged over the last decade [3,18]. Moreover, the requirement of antihypertensive treatment during the first $24\mathrm{~h~}$ showed a trend towards higher risk of HG, the requirement of more than one dose of antihypertensive agent was significantly associated with HG, and higher SBP at $24\mathrm{~h~}$ was related to HG in spite of antihypertensive treatment. These findings are in line with the results of INTERACT, which revealed a trend towards less HG in patients treated with an intensive BP management regimen (threshold of $140\mathrm{mmHg}$ for SBP), compared with treatment following the AHA guidelines [4].  
+
+On the other hand, higher SBP variability was significantly related to HG and independently associated with END, whilst maximum SBP increase from baseline showed a trend towards higher risk of HG. These data suggest that not only is it important to keep BP lower, but it is also important to maintain it stable, which has been shown to be clinically feasible and safe [4,5]. Conversely, an association of lower minimum DBP with HG, not with clinical outcome, was also found. However, this association did not remain significant after adjusting for other factors in multivariate analysis and, to our knowledge, an association between lower BP and HG has not been described in other studies.  
+
+Although SBP 180-load was correlated with the amount of hematoma enlargement at $24\mathrm{~h~}$ and independently predicted HG and END in our series, it might represent a marker, rather than a predictor, of HG and END. However, SBP 180-load was not correlated with baseline or follow-up ICH volumes or with baseline NIHSS score, and showed only a weak correlation with 24-h NIHSS score. These observations suggest a causative effect of SBP 180-load on HG and  
+
+END since SBP 180-load values do not seem to depend on either the volume or the severity of the ICH.  
+
+SBP 180-load prior to HG occurrence cannot be accurately calculated because of the unknown time of HG due to the dynamic process of HG with continued bleeding and rebleeding. Nevertheless, it is well known that HG occurs mainly during the first $^\textrm{\scriptsize6h}$ from symptoms onset [6,19–21]. Within the first $^\textrm{\scriptsize6h}$ , the percentage of SBP monitoring values exceeding $180\mathrm{mmHg}$ was also significantly related to HG and not to either baseline or follow-up ICH volume in this study.  
+
+The CTA spot sign has been considered a marker of active hemorrhage [13,14,22,23]. Patients with the spot sign present HG more frequently [13,22,23] and faster [14] than those without. Interestingly, whilst none of the 24-h BP monitoring variables was associated with HG in spot-sign-positive patients in our series, higher BP loads and maximum BP increases from baseline were related to HG in the spot-sign-negative group. Although these results should be considered with caution due to the small sample size of the spotsign-positive group, they might suggest that higher BP could contribute to rebleeding more than promoting continued bleeding from the primary source.  
+
+Other limitations should be noted in this study. Comatose patients were excluded, which may underestimate the rate of END and mortality at 3 months in our series. However, these patients require different management approaches than other patients, making difficult any comparison between them. Otherwise, patients who died within $24\mathrm{~h~}$ from symptoms onset did not undergo a follow-up CT scan, which may underestimate the rate of HG.  
+
+In patients with acute supratentorial ICH, SBP 180- load independently predicts HG, whilst both SBP 180- load and SBP variability predict END, by performing serial (every $15\mathrm{min}$ ) BP readings and following AHA guidelines for BP management. The results of the present study suggest that more intensive treatment may be needed to maintain BP lower and stable in order to minimize the deleterious effect of higher BP on HG and clinical outcome. Randomized trials designed to study the effect of lower BP treatment thresholds than those provided by current guidelines on HG and clinical outcome are needed, such as INTERACT2 (NCT00716079) and ATACH-II (NCT01176565) that are currently under way.  
+
+# Disclosure of conflict of interest  
+
+The authors declare no financial or other conflict of interest.  
+
+# References  
+
+1. Qureshi AI, Ezzeddine MA, Nasar A, et al. Prevalence of elevated blood pressure in 563,704 adult patients with stroke presenting to the ED in the United States. Am J Emerg Med 2007; 25: 32–38.   
+2. Willmot M, Leonardi-Bee J, Bath PM. High blood pressure in acute stroke and subsequent outcome: a systematic review. Hypertension 2004; 43: 18–24.   
+3. Morgenstern LB, Hemphill JC 3rd, Anderson C, et al. Guidelines for the management of spontaneous intracerebral hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke 2010; 41: 2108–2129.   
+4. Anderson CS, Huang Y, Wang JG, et al. Intensive blood pressure reduction in acute cerebral haemorrhage trial (INTERACT): a randomised pilot trial. Lancet Neurol 2008; 7: 391–399.   
+5. Antihypertensive Treatment of Acute Cerebral Hemorrhage (ATACH) investigators. Antihypertensive treatment of acute cerebral hemorrhage. Crit Care Med 2010; 38: 637–648.   
+6. Kazui S, Minematsu K, Yamamoto H, et al. Predisposing factors to enlargement of spontaneous intracerebral hematoma. Stroke 1997; 28: 2370–2375.   
+7. Ohwaki K, Yano E, Nagashima H, et al. Blood pressure management in acute intracerebral hemorrhage: relationship between elevated blood pressure and hematoma enlargement. Stroke 2004; 35: 1364–1367.   
+8. Jauch EC, Lindsell CJ, Adeoye O, et al. Lack of evidence for an association between hemodynamic variables and hematoma growth in spontaneous intracerebral hemorrhage. Stroke 2006; 37: 2061–2065.   
+9. Marti-Fabregas J, Martinez-Ramirez S, Martinez-Corral M, et al. Blood pressure is not associated with haematoma enlargement in acute intracerebral haemorrhage. Eur J Neurol 2008; 15: 1085–1090.   
+10. Kothari RU, Brott T, Broderick JP, et al. The ABCs of measuring intracerebral hemorrhage volumes. Stroke 1996; 27: 1304–1305.   
+11. Rodriguez-Luna D, Rubiera M, Ribo M, et al. Serum low-density lipoprotein cholesterol level predicts hematoma growth and clinical outcome after acute intracerebral hemorrhage. Stroke 2011; 42: 2447–2452.   
+12. Thompson AL, Kosior JC, Gladstone DJ, et al. Defining the CT angiography ‘spot sign’ in primary intracerebral hemorrhage. Can J Neurol Sci 2009; 36: 456–461.   
+13. Demchuk AM, Dowlatshahi D, Rodriguez-Luna D, et al. Prediction of haematoma growth and outcome in patients with intracerebral haemorrhage using the CTangiography spot sign (PREDICT): a prospective observational study. Lancet Neurol 2012; 11: 307–314.   
+14. Rodriguez-Luna D, Rubiera M, Ribo M, et al. Ultra early hematoma growth predicts poor outcome after acute intracerebral hemorrhage. Neurology 2011; 77: 1599–1604.   
+15. Parati G. Blood pressure variability: its measurement and significance in hypertension. J Hypertens 2005; 23 (Suppl. 1): 19–25.   
+16. Zachariah PK, Sheps SG, Ilstrup DM, et al. Blood pressure load  a better determinant of hypertension. Mayo Clin Proc 1988; 63: 1085–1091.   
+17. Broderick J, Connolly S, Feldmann E, et al. Guidelines for the management of spontaneous intracerebral hemorrhage in adults: 2007 update: a guideline from the American Heart Association/American Stroke Association Stroke Council, High Blood Pressure Research Council, and the Quality of Care and Outcomes in Research Interdisciplinary Working Group. Stroke 2007; 38: 2001–2023.   
+18. Broderick JP, Adams HP Jr, Barsan W, et al. Guidelines for the management of spontaneous intracerebral hemorrhage: a statement for healthcare professionals from a special writing group of the Stroke Council, American Heart Association. Stroke 1999; 30: 905–915.   
+19. Fujii Y, Tanaka R, Takeuchi S, et al. Hematoma enlargement in spontaneous intracerebral hemorrhage. J Neurosurg 1994; 80: 51–57.   
+20. Kazui S, Naritomi H, Yamamoto H, et al. Enlargement of spontaneous intracerebral hemorrhage. Incidence and time course. Stroke 1996; 27: 1783–1787.   
+21. Fujii Y, Takeuchi S, Sasaki O, et al. Multivariate analysis of predictors of hematoma enlargement in spontaneous intracerebral hemorrhage. Stroke 1998; 29: 1160–1166.   
+22. Goldstein JN, Fazen LE, Snider R, et al. Contrast extravasation on CT angiography predicts hematoma expansion in intracerebral hemorrhage. Neurology 2007;   
+68: 889–894.   
+23. Wada R, Aviv RI, Fox AJ, et al. CT angiography ‘spot sign’ predicts hematoma expansion in acute intracerebral hemorrhage. Stroke 2007; 38: 1257–1262.  

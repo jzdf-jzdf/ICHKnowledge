@@ -1,0 +1,243 @@
+# Original research  
+
+# Efficacy and safety of four interventions for spontaneous supratentorial intracerebral hemorrhage: a network meta-analysis  
+
+Guangyu Guo, Chao Pan, Wenliang Guo, Shuang Bai, Hao Nie, Yangyang Feng, Gaigai Li, Hong Deng, Yang Ma, Suiqiang Zhu, Zhouping Tang $\circledcirc$  
+
+►► Additional material is published online only. To view please visit the journal online (http://dx.doi.org/10.1136/ neurintsurg-2019-015362).  
+
+Department of Neurology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China  
+
+# Correspondence to  
+
+Dr Zhouping Tang, Department of Neurology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430000, China; ddjtzp@163. com Professor Suiqiang Zhu; zhusuiqiang@163.com  
+
+GG and CP contributed equally.  
+
+Received 14 August 2019   
+Revised 23 November 2019   
+Accepted 29 November 2019   
+Published Online First   
+3 January 2020  
+
+# ABSTRACT  
+
+Object  To investigate the efficacy and safety of four interventions of spontaneous intracerebral hemorrhage simultaneously.  
+
+Methods  PubMed, EmBase, Web of Science, and the Cochrane Central Register of Controlled Trials were searched for randomized controlled trials (RCTs) investigating endoscopic surgery (ES), minimally invasive puncture surgery (MIPS), conventional craniotomy (CC), and/or conservative medical treatment (CMT). Good functional outcome, death, and hemorrhage recurrence rates were evaluated by a network meta-analysis  
+
+Results  20 RCTs with 3603 patients were included. Compared with CMT, a higher rate of good functional outcome was found after ES $'R\mathsf{R}{=}2.21$ , $95\%\mathsf{C}|1.37$ to 3.55) and MIPS $'R\mathsf{R}{=}1.47,$ , $95\%$ CI 1.24 to 1.73). Both ES $R{\ttR}{=}0.62$ , $95\%\mathsf{C}|0.44$ to 0.86) and MIPS $R_{\ttR}=0.72\$ $95\%\mathsf{Cl}0.58$ to 0.90) markedly reduced the rate of death. However, there was no significant difference in efficacy and safety between ES and MIPS. The top ranked P score for the efficacy outcome was for ES (P $\mathsf{SCOre}{=}0.9810$ ). ES ( $P-S\mathsf{COre}{=}0.0709,$ ) ranked lowest for the primary safety outcome. There was a higher risk of hemorrhage recurrence after CC ( $:\mathsf{RR}=3.80,$ $95\%$ CI 1.90 to 7.63) and MIPS $:\mathrm{RR}=2.86\$ $95\%$ CI 1.70 to 4.82) compared with CMT whereas no significant difference was found for ES $(\mathsf{RR}{=}1.46,95\%\mathsf{Cl}0.53$ to 4.02).  
+
+Conclusions  The results suggest that both ES and MIPS significantly improve neurological function and reduce the risk of death compared with CMT, and there is no significant difference between ES and MIPS. Ranking of P scores revealed that ES may be the most optimal intervention to improve functional outcome and prevent death. This needs to be evaluated further.  
+
+accessible, ICH management remains controversial.2 4 Conventional craniotomy (CC) and minimally invasive surgery are the two main surgical approaches for hematoma removal.1 Minimally invasive surgery can be further classified into two major categories: endoscopic surgery (ES) and minimally invasive puncture surgery (MIPS). In the past 10 years, meta-analyses seem to provide a solution for this dilemma. According to recent systematic reviews, minimally invasive surgery is superior to conservative medical treatment (CMT) or CC)in terms of efficacy and safety.5 However, according to the guidelines for the management of spontaneous intracerebral hemorrhage from theAmerican Heart Association/American Stroke Association,the effectiveness of MIS remains uncertain, and the technique is classified as IIb with a level of B.  Due to a lack of direct evidence, the relative efficacy and safety of ES and MIPS have not been compared using a traditional pairwise meta-analysis. Pairwise meta-analysis does not offer guidance on which approach is the most suitable when three or more alternative methods are available.  
+
+Network meta-analysis (NMA), which synthesizes direct and indirect evidence, can determine optimal treatment through ranking of alternatives.7 8 In this study, we performed a systematic review and NMA of available randomized controlled trials (RCTs) to estimate the cumulative efficacy and safety of ES, MIPS, CC, and CMT in patients with spontaneous supratentorial ICH, simultaneously using existing direct and indirect evidence.  
+
+# Methods  
+
+# Introduction  
+
+Acute spontaneous intracerebral hemorrhage (ICH) affects approximately 2 million individuals worldwide every year, a severe stroke subtype, with a 1 month case fatality rate of approximately $40\%$ .1 2 More than $75\%$ of cases of ICH are spontaneous supratentorial cerebral hemorrhage (SICH), which is mainly caused by rupture of hypertensive arteries.3 Effective hematoma removal and prevention of residual brain tissue from impairment are crucial for patients with ICH. However, no current therapeutic approaches satisfy these conditions perfectly. Although multiple modalities are  
+
+# Search strategy and selection criteria  
+
+The NMA was carried out according to the preferred reporting items of systematic reviews and meta-analyses (PRISMA) extension statement.” A PRISMA NMA checklist is provided in the online supplementary file 1. A systematic electronic search was performed in relevant scientific databases, including PubMed, EmBase, Web of Science, and the Cochrane Central Register of Controlled Trials (CENTRAL), up to April 10, 2019, with the following terms in different combinations: 'intracerebral' or 'cerebral' or 'intracranial' or 'brain' or 'basal ganglia' or 'intraparenchymal' or 'thalamic' or 'putaminal' or 'h(a)emorrhage' or 'h(a)emorrhagic stroke' or 'h(a)ematoma' or 'minimally invasive' or 'minimal surgical procedures' or 'minimal surgical' or 'endoscopy' or 'stereotaxy' or 'aspiration' or 'craniopuncture' or 'craniotomy' or 'puncture' or 'conservative treatment' or 'conservative therapy' or 'treatment' or 'therapy' or 'randomized controlled trial' or 'controlled clinical trial'. Reference lists of articles identified in the initial searches were obtained.  
+
+We included RCTs meeting the following criteria: (1) RCTs assessing adult patients who had experienced SICH confirmed by CT; (2) trials investigating at least one intervention among ES, MIPS (stereotactic aspiration or craniopuncture), CC, and CMT; and (3) trials that documented the events of interest. Trials were excluded if they (1) enlisted patients with ICH caused by hemorrhagic tumors, trauma, coagulopathy, vascular malformation, or aneurysm; (2) included patients with infratentorial ICH, subarachnoid hemorrhage, or epidural hemorrhage; and (3) contained a sample with limited size $(<5)$ .  
+
+# Data extraction  
+
+All titles and abstracts were screened by two review authors (WG and YM), and studies which were obviously irrelevant were excluded. Two review authors (HN and YF) independently retrieved the full texts of the remaining studies and selected trials based on inclusion and exclusion criteria; discrepancies were resolved by consensus. For eligible studies, two review authors (GL and HD) independently extracted the data using a standardized protocol. Data extraction forms were used to document details about demographic characteristics and study methodologies. For each trial, sample size, treatment modalities, measured outcomes, number of endpoints, and follow-up time were collected. Any disagreements were resolved by consensus involving all review authors.  
+
+# Quality assessment  
+
+We assessed the quality and risk of bias of eligible studies using the Cochrane collaboration risk of bias tool,10 and all disagreements were resolved by consensus. Only trials with a low risk of bias were included.  
+
+# Outcomes  
+
+The primary outcomes were good functional outcome (efficacy outcome) and death (safety outcome). In this review, the cut-off points for good functional outcome were defined as a Barthel Index $\geq60$ , a modified Rankin Scale score of $\leq2$ , and a Glasgow Outcome Scale score of ${>}3$ , and were selected in this order if more than one scale was used.11 12 However, in the Mendelow 2013 study,13 favorable was considered as a good functional outcome according to the dichotomized extended Glasgow Outcome Scale. In addition, GRADE I–III was considered as a good functional outcome according to its own scale in another study.14 The secondary outcome was the rate of recurrence of hemorrhage. In this NMA, symptomatic or asymptomatic brain bleeds after intervention were considered as recurrence of hemorrhage, which was proved if there was an increase in intracerebral hematoma on CT during the whole follow-up period.  
+
+# Statistical analysis  
+
+All statistical analyses were performed with the statistical software R V.3.3.3, package 'netmeta' V.0.8.15 Based on the graph theoretical methodology, the R package 'netmeta' provides a frequentist method, which could be considered a maximum likelihood estimation.16 For every primary or secondary outcome, risk ratios (RRs) and corresponding $95\%$ CIs were estimated using the random effects model, which takes trial variation into consideration. We assessed heterogeneity using the generalized Cochran’s Q and $\mathrm{I}^{2}$ statistics within a visual forest plot, and estimated $\mathrm{I}^{2}$ values $<25\%$ , between $25\%$ and $50\%$ , and $>50\%$ was considered as low, moderate, or high, respectively.17 18 Transitivity and consistency are the two indispensable assumptions of an NMA.19 Transitivity was evaluated through descriptive statistics for population baselines, such as age, hematoma volume, and location of hematoma.20 To evaluate consistency, node splitting methods were used. Reference based forest plots for every comparison were provided.21 We also evaluated the relative ranking of all interventions for different outcomes using their P score. The P score of an intervention is an analogue of surface under the cumulative ranking curve (SUCRA), which represents the mean certainty of its superiority. A sensitivity analysis was performed to assess the robustness of the findings. As hematoma volume is an important covariate affecting prognosis, only trials which reported generally equivalent initial hematoma volumes in different intervention groups were included.  
+
+# Results Database search and selection process  
+
+A total of 14 539 reports were screened after eliminating duplicates, of which 14 244 were removed because of irrelevant titles and abstracts. The number of full text articles evaluated according to the prespecified eligibility criteria was 295, and 20 were included in the NMA after quality assessment.13 14 23–40 Figure 1 shows the detailed selection process.  
+
+# Study characteristics  
+
+Eighteen of the 20 studies were two arm RCTs, while the remaining two were three arm RCTs.34 38 The mean age of patients ranged from 52 to 68 years. Two studies did not clearly provide mean hematoma volumes .14 25 The mean time interval to intervention from ICH onset was ${<}48$ hours, except in the Kim study which limited the time interval to within 120 hours.32 A detailed summary of the study characteristics is presented in table 1.  
+
+# Assessment of risk of bias  
+
+Figure 2 shows the results of the risk of bias assessment. Among the included studies, 13 reported methods for generating random sequences which were produced mainly by computer software. Three studies had a high risk of selection bias as they did not describe the randomization process fully. Another three studies had a high risk of performance and detection bias because of lack of blinding methods. According to allocation numbers and reporting cases, there was no attrition bias in the 20 studies, which had good data integrity. Adequate assessment of risk of bias was impossible for three studies which demonstrated poor overall design.  
+
+# Network meta-analysis  
+
+Primary efficacy outcome  
+
+Among the 20 included RCTs, three24 33 34 were excluded because of their use of continuous data rather than counting data for neurological scores. The remaining 17 eligible studies comprising 3235 patients reported the incidence of good functional outcome at the end of follow-up (see online supplementary table S1). The network graph of good functional outcome is presented in figure 3A. Each of the nodes represents different interventions, and the solid line indicates direct evidence of this comparison. There was a lack of evidence of a direct comparison of ES and MIPS. Figure 4A shows network effect estimates of good functional outcome for different interventions compared with CMT. The NMA showed that both ES $\mathrm{{RR}}{=}2.21$ , $95\%\mathrm{CI}$ 1.37 to 3.55) and MIPS $\mathrm{{^RR}}=1.47$ , $95\%\mathrm{CI}1.24\$ to 1.73) significantly improved the rate of good functional outcome whereas no significant difference was found for CC $'\mathrm{RR}{=}1.07$ , $95\%\mathrm{CI}$ 0.84 to 1.37). In order to explore the difference in efficacy between ES and MIPS, an indirect comparison was performed in this NMA and there was no evidence to support the efficacy of ES in improving good functional outcome compared with MIPS ( $\mathrm{RR}{=}1.51$ , $95\%\mathrm{CI}0.92$ to 2.48). Table  2 provides the ranking probability of various interventions for the primary efficacy outcome based on $\mathrm{P}$ scores. The top ranked intervention for improving good functional outcome was ES (P score $=0.9810^{'}$ ).  
+
+![](images/bd0ca2d170c6f147159890ca30b77bb30791d71b6211137003a707e827c4e3ff.jpg)  
+Figure1Flowchart of search strategy andstudyselectionaccording to the preferred reporting itms of systematicreviews andmeta-analyses (PRISMA).  
+
+# Primary safety outcome  
+
+All 20 studies comprising 3603 patients reported mortality rates (online supplementary table S2). Figure 3B shows the network graph of interventions for death; there was direct evidence of the different comparisons. The network effect estimates of death for different interventions is showed in figure 4B. Compared with patients administered CMT, both ES $\mathrm{RR}{=}0.62$ , $95\%\mathrm{CI}0.44$ to 0.86) and MIPS ( $\mathrm{RR}{=}0.72$ , $95\%\mathrm{CI}0.58\$ to 0.90) markedly reduced the rate of death compared with CMT, whereas the effect of CC ( $\mathrm{{'RR=}}1{.}00\$ , $95\%\mathrm{CI}0.80\$ to 1.24) was small. In addition, there was no significant difference between ES and MIPS for the primary safety outcome ( $'\mathrm{RR}{=}0.86$ , $95\%\mathrm{CI}0.59$ to 1.24). In table 3 the P scores of the different interventions are ranked from high to low: CMT (P score $=0.8371$ ), CC (0.8236), MIPS (0.2684), and ES (0.0709).  
+
+# Secondary outcome  
+
+Eleven RCTs23 24 26–31 33–35 comprising 1908 patients reported the incidence of recurrence of hemorrhage (online supplementary table S3). Figure 3C shows the network graph of different comparisons for the secondary outcome while figure 4C summaries the network effect estimates of different comparisons among nodes. There was a higher risk of hemorrhage recurrence after CC ( $\mathrm{{'RR}}{=}3.80$ , $95\%\mathrm{CI}$ 1.90 to 7.63) and MIPS ( $\mathrm{{'RR}}{=}2.86$ , $95\%\mathrm{CI}1.70\$ to 4.82) compared with CMT while no significant difference was found for ES ( $\mathrm{^RR}=1.46$ , $95\%\mathrm{CI}0.53$ to 4.02). However, MIPS did not significantly increase the risk of recurrence of hemorrhage compared with ES. According to the $\mathrm{P}$ scores(table 4), the bottom two ranked interventions for an increase in the risk of the secondary outcome were CMT (P score $=0.0770;$ ) and ES (P score $=0.3048^{\cdot}$ ).  
+
+Table 1  Characteristics of the studies   
+
+
+<html><body><table><tr><td colspan="4"></td><td colspan="4">Intracerebral hematomavolume Interval to</td></tr><tr><td>Study</td><td>Comparison</td><td>Age (years)</td><td>IHL</td><td>(mL)</td><td>therapy (hours)</td><td>Outcomes</td><td>Follow-up (months)</td></tr><tr><td>Hanley 201923</td><td>MIPS vs CMT</td><td>62</td><td>Lobar/deep</td><td>42.7/41.5</td><td>123/115</td><td>①②③</td><td>6</td></tr><tr><td>Ge 201824</td><td>MIPS vs CC</td><td>58</td><td>Basal ganglia</td><td>45.3/43.6</td><td><24</td><td>②</td><td>3</td></tr><tr><td>Feng 201625 </td><td>ES vs CC</td><td>68</td><td>N</td><td>N</td><td><24</td><td></td><td>6</td></tr><tr><td>Hanley 201626</td><td>MIPS vs CMT</td><td>61</td><td>Lobar/deep</td><td>48.2/43.1</td><td>35.4/NA</td><td>①②③</td><td>6</td></tr><tr><td>Vespa 201627</td><td>ES vs CMT</td><td>61</td><td>Basal ganglion/subcotex</td><td>40</td><td>48</td><td>①②③</td><td>12</td></tr><tr><td>Zhang 201428]</td><td>ES vs CC</td><td>61</td><td>Basal ganglia</td><td>58.3/62.2</td><td>24</td><td>①②③</td><td>6</td></tr><tr><td>Mendelow 201313</td><td>CC vs CMT</td><td>64</td><td>Lobar </td><td>41.4/41.0</td><td><48</td><td>①②</td><td>6</td></tr><tr><td>Zhou 201129</td><td>MIPS vs CC</td><td>58</td><td>Basal ganglion/brain lobe</td><td>52</td><td>24</td><td>①②③</td><td>12</td></tr><tr><td>Sun 201030 </td><td>MIPS vs CC</td><td>56</td><td>Basal ganglia</td><td>52</td><td>14</td><td></td><td>3</td></tr><tr><td>Wang 200931</td><td>MIPS vs CMT</td><td>57</td><td>Basal ganglia</td><td>33.8/31.3</td><td>21.1</td><td>①②③</td><td>3</td></tr><tr><td>Kim 200932</td><td>MIPS vs CMT</td><td>66</td><td>Basal ganglia/thalamus</td><td>24.3/21.0</td><td><120</td><td>①②③</td><td>6</td></tr><tr><td>Miller 200833</td><td>ES vs CMT</td><td>56</td><td>Subcortical</td><td>56.4/35.5</td><td><24</td><td>①②③</td><td>3</td></tr><tr><td>Cho 200634</td><td>ES vs MIPS vs CC</td><td>56</td><td>Basal ganglia</td><td>55.5/32.2/42.1</td><td><24</td><td>①②③</td><td>3</td></tr><tr><td>Pantazis 200634</td><td>CC vs CMT</td><td>61</td><td>Subcortical/putaminal</td><td>53.4/54.4</td><td>3-8</td><td></td><td>12</td></tr><tr><td>Hattori 200436 </td><td>MIPS vs CMT</td><td>61</td><td>Putaminal </td><td>48/40</td><td><24</td><td>①②</td><td>12</td></tr><tr><td>Teernstra 200337</td><td>MIPS vs CMT</td><td>68</td><td>Supratentorial</td><td>66/52</td><td>12</td><td></td><td>6</td></tr><tr><td>Zuccarello 199938</td><td>MIPS vs CC vs CMT</td><td>62</td><td>Lobor/basal ganglia/thalamus</td><td>29/60/38</td><td>24</td><td>①②</td><td>3</td></tr><tr><td>Morgenstern 199839</td><td>CCvs CMT</td><td>54</td><td>Lobar/putamial</td><td>49.0/43.8</td><td>12</td><td>②</td><td>6</td></tr><tr><td>Auer 198914</td><td>ES vs CMT</td><td>N</td><td>Subcortical/putaminal/thalamic</td><td>N</td><td><48</td><td></td><td>6</td></tr><tr><td> Juvela 198940</td><td>CC vs CMT</td><td>52</td><td>Subcortical/thalamic</td><td>66.7/56.2</td><td><48</td><td>①②</td><td>6</td></tr></table></body></html>
+
+$\textcircled{1}$ , good functional outcome; $\textcircled{2}$ , death; $\textcircled{3}$ , recurrence of hemorrhage; CC, conventional craniotomy; CMT, conservative medical treatment; ES, endoscopic surgery;IHL, intracerebral hematoma location; MIPS, minimally invasive puncture surgery; ${\mathsfN},$ not mentioned.  
+
+# Heterogeneity and inconsistency assessment  
+
+The heterogeneity of the NMA for different outcomes is shown in figure 4. Our assessment suggests low heterogeneity $(\mathrm{I}^{2}=12\%)$ for the populations overall for the primary safety outcome but moderate heterogeneity for the primary efficacy outcome $(\mathrm{I}^{2}{=}48.3\%)$ and the secondary outcome $(\mathrm{I}^{2}{=}34.{\dot{1}}\%)$ . Node splitting showed no significant inconsistency between direct and indirect comparisons (online supplementary table S4–6).  
+
+# Sensitivity analysis  
+
+Six trials were excluded in this sensitivity analysis because of excessive initial hemotoma volume differences or lack of volume data. We visually compared the network effect estimates with base analysis and found no substantial changes (see online supplementary figure 1, online supplementary figure S1 and table S10–12). Interventions are listed in order of relative ranking. The $\mathrm{P}$ score, which ranges from 0 to 1, indicates the mean degree of certainty that a particular intervention is better than another.  
+
+# Discussion  
+
+This systematic review and NMA included 20 RCTs comprising 3603 patients with spontaneous supratentorial ICH. The review compared the efficacy and safety of four main interventions for  
+
+![](images/03de5d74418f31e35381716cdba32b8b3e03f8faff946c8f4ef8246ffa2e7b1a.jpg)  
+Figure 2  Risk of bias assessment: $+,$ low risk of bias; −, high risk of bias; ?, unclear risk of bias.  
+
+Random sequence generation(selection bias)   
+Allocation concealment(selection bias)   
+Blinding of participants and personnel(performance bias)   
+Blinding of outcome assessment(deletionbias)   
+Incomplete outcome data(attrition bias)   
+Selective reporting(reporting bias)   
+Other bias  
+
+![](images/1bea770d7109a25e5b1cceb64c47fd603f57849f1af1c85f2d4fc8435973c984.jpg)  
+Figure 3 Network meta-analysis for efficacy outcome and safety outcomes. (A) Network graph of interventions for good functional outcome. (B) Network graph of interventions for death. (C) Network graph of interventions for recurrence of hemorrhage. Every node indicates an intervention. The solid line indicates direct evidence of this comparison. The thickness of the solid line is negative to the SE of the comparison. Colored polygons indicate multi arm studies. CC, conventional craniotomy; CMT, conservativemedical treatment; ES, endoscopic surgery; MIPS, minimally invasive puncture surgery.  
+
+SICH in a single framework. The results of this NMA suggested that both ES and MIPS significantly improved neurological functional outcome and reduced the risk of death compared with CMT, and there was no significant difference between ES and MIPS. Ranking of P scores revealed that ES was the most optimal intervention to improve functional outcome and prevent death. ES does not increase the risk of rebleeding.  
+
+# Primary efficacy outcome  
+
+Previous studies have explored the efficacy and safety of minimally invasive surgery compared with CMT or CC. Scaggiante et $al^{41}$ conducted an updated meta-analysis based on Zhou's work. Through subgroup analysis, they separately compared ES and MIPS with CC or CMT. The primary outcome in this pairwise meta-analysis was death or dependence in activities of daily living, aimed at investigating neurological impairment after the intervention. The cut-off points for their primary outcome were a Barthel Index score of $\le60$ , a modified Rankin Scale score of ${>}2$ , or a Glasgow Outcome Scale score of ${\le}3$ . In contrast, good functional outcome was the primary efficacy outcome in our NMA, as it was more reasonable to assess neurological function after the intervention. According to Scaggiante’s work,41 ES $(\mathrm{OR}=0.40\$ , $95\%\mathrm{CI}0.25$ to 0.66）significantly reduced the risk of death or dependence in activities of daily living compared with CMT, which is equivalent to the result of our NMA for the primary efficacy outcome. Interestingly, Qiao42 performed a Bayesian NMA comparing four interventions (ES, stereotactic thrombolysis, CC, and CMT) using data provided in Scaggiante’s study and drew the same conclusions. For MIPS versus CMT, Qiao's and Scaggiante's research was consistent with our conclusion that MIPS significantly improved neurological function.  
+
+![](images/4c97db393efa225524dba15b1576dfc7c2cdf1cf1d17638b3ca503475e2ae1be.jpg)  
+
+Figure 4 League tables and forest plots of network meta-analysis for efficacy outcome and safety outcomes. (A) League table and forest plot of interventions for good functional outcome. (B) League table and forest plot of interventions for death. (C) League table and forest plot of interventions for recurrence of hemorrhage. League tables show risk ratios (RRs) and corresponding $95\%$ CIs of the comparisons. Comparisons between treatments should be read from left to right. RR and corresponding $95\%\mathsf{C}$ can be obtained from the cell shared by the row defining the intervention and the column defining the intervention. CC, conventional craniotomy; CMT, conservativemedical treatment; ES, endoscopic surgery; MIPS, minimally invasive puncture surgery.  
+
+Table 2  Intervention ranking by P score for good functional outcome   
+
+
+<html><body><table><tr><td>Intervention Pscore</td></tr><tr><td>ES 0.9810</td></tr><tr><td>MIPS 0.6818</td></tr><tr><td>CC 0.2390</td></tr><tr><td>CMT 0.0928</td></tr></table></body></html>
+
+CC, conventional craniotomy; CMT, conservative medical treatment; ES, endoscopic surgery; MIPS, minimally invasive puncture surgery.  
+
+However, the recently published MISTIE III research,23 an open label, blinded endpoint phase III trial, compared the efficacy of MIPS with CMT, and denied the efficacy of MIPS. Hanley’s study showed that MIPS did not significantly improve neurological function compared with CMT, which was contradicted in this NMA and previous studies.26 31 36 37 There were some limitations in MISTIE III which could explain the disparity. Only $58\%$ of patients in the MISTIE group had reached the surgical target (clot size $\leq15\mathrm{mL}$ ), while neurological function improved significantly in patients who had achieved the surgical goal. Our NMA also confirmed that CC did not improve the rate of neurological function compared with CMT, similar to the STICH II trial.13 In addition, Qiao ranked the probability of interventions for death or dependence in activities of daily living and showed that ES $(82.9\%)$ was best.42  
+
+In our NMA, the P score was used to assess the mean certainty of superiority for an intervention, which is approximated as its SUCRA. The $\mathrm{P}$ score ranking in our NMA showed that ES was the most effective intervention for improving neurological function.  
+
+# Primary safety outcome  
+
+As with most clinical studies for ICH, death was used as the primary safety outcome in our NMA. Several studies14 27 42 have proved the safety of ES compared with CMT or CC. Our NMA also suggests that ES significantly reduced the risk of death compared with CMT or CC. However, whether MIPS can significantly reduce the risk of death compared with CMT is controversial. In this NMA, we showed the advantage of MIPS in reducing death whereas Qiao’s analysis showed that the difference between MIPS and CMT was not significant ( $\mathrm{'OR}{=}0.71$ , $95\%\mathrm{CI}0.43$ to 1.1). Despite several trials31 32 37 drawing the same conclusion, the MISTIE III showed a significant reduction in the risk of death in the MIPS group 180 days after onset. The reason for this controversy may be that the observation time of each study was not the same. Even in the MISTIE III the conclusions at different follow-up points were inconsistent.  
+
+<html><body><table><tr><td colspan="2">Table3 Intervention ranking byP scorefor death</td></tr><tr><td>Intervention</td><td>Pscore</td></tr><tr><td>CMT</td><td>0.8371</td></tr><tr><td>CC</td><td>0.8236</td></tr><tr><td>MIPS</td><td>0.2684</td></tr><tr><td>ES</td><td>0.0709</td></tr><tr><td colspan="2">CC,conventional craniotomy;CMT,conservative medical treatment;ES,endoscopic surgery;MiPS,minimally invasivepuncture surgery.</td></tr></table></body></html>  
+
+<html><body><table><tr><td colspan="2">Table4li Intervention ranking by P score for recurrence of hemorrhage</td></tr><tr><td>Intervention</td><td>Pscore</td></tr><tr><td>CC</td><td>0.9441</td></tr><tr><td>MIPS</td><td>0.6741</td></tr><tr><td>ES</td><td>0.3048</td></tr><tr><td>CMT</td><td>0.0770</td></tr></table></body></html>
+
+CC, conventional craniotomy; CMT, conservative medical treatment; ES, endoscopic surgery; MIPS, minimally invasive puncture surgery.  
+
+According to the ranking of $\mathrm{P}$ scores in our NMA, ES had the lowest probability for risk of death, which means that ES was the best intervention for reducing death. In addition, Qiao’s study drew the same conclusion $(97.4\%$ probability that ES ranked as the best).42  
+
+# Secondary outcome  
+
+As any form of surgery can cause damage to brain tissue, there is a risk of recurrence of hemorrhage. In addition, there is a risk of rebleeding even in CMT due to secondary vessel rupture.43 Many trials23 27 31 have studied the risk of recurrence of hemorrhage after an intervention, yet few meta-analyses have systematically integrated these results. According to our NMA, CC significantly increased the risk of rebleeding compared with CMT, which might be related to the injury caused by craniotomy itself.44 In addition, MIPS also significantly increased the risk, and several studies23 26 have confirmed this result. Apart from the trauma of the surgery itself, neglect of the pathophysiological time window may also be an important cause of rebleeding after MIPS.45 Interestingly, compared with CMT, ES did not increase the risk of recurrence of hemorrhage, which suggests the advantage of ES in avoiding the risk of the secondary outcome.  
+
+Due to lack of direct evidence comparing ES and MIPS, the relative efficacies of various methods remain unclear. Despite the fact that Qiao42 performed a Bayesian NMA comparing the four interventions, a comparison between ES and MIPS has not been reported. Our NMA provided a comparison of ES and MIPS through indirect evidence, revealing no significant disparity between ES and MIPS for efficacy and safety. A previous observational study drew the same conclusion,46 despite ES seeming more of a substitute than MIPS in the Cho study.34  
+
+# Limitations and future direction  
+
+Although our NMA provides a useful tool for comparing the efficacy and safety of the main interventions for SICH, there were some limitations. Despite the low statistical heterogeneity for different outcomes, baseline characteristics varied across studies, which could affect patient prognosis.47 Subgroup analysis or regression of different baseline characteristics should be implemented to identify the most suitable approach for a specific individual with SICH. There were not enough high quality RCTs for subgroup or regression analysis. However, several ongoing recruitment researches, which include the ENRICH trial (Early MiNimally invasive Removal of IntraCerebral Hemorrhage) and the INVEST Feasibility (Minimally Invasive Endoscopic Surgery With Apollo in Patients With Brain Hemorrhage), are promising to provide high quality data for further analysis. In addition, trials based on novel techniques for the treatment of ICH should be included as different arms in the framework of the NMA.48 49  
+
+# Conclusion  
+
+This NMA provides relative rankings for the four main options to treat patients with spontaneous supratentorial ICH. The results of this NMA suggest there is no significant difference in efficacy and safety between ES and MIPS; both significantly improved neurological functional outcome and reduced the risk of death compared with CMT. In addition, ranking of $\mathrm{P}$ scores revealed that ES was most optimal in improving neurological function and reducing the risk of death for patients with SICH. The relative efficacy and safety of ES and MIPS should be studied further.  
+
+Contributors  GG and CP performed the research and wrote the paper. WG and YM screened out relevant literature based on the search strategy. HN and YF retrieved and selected studies based on inclusion and exclusion criteria. GL and HD extracted and analyzed the data. YM analyzed and interpreted the data. ZT and SZ conceived the research study and made revisions to the manuscript. All authors have read and approved the final version of the manuscript.  
+
+Funding  This work was supported by the National Natural Science Foundation of China (item No 81873750) and the Frontier Special Project of Applied Foundation of Wuhan Science and Technology Bureau (item No 2018060401011316).  
+
+Competing interests  None declared.  
+
+Patient consent for publication  Not required.  
+
+Provenance and peer review  Not commissioned; externally peer reviewed.  
+
+Data availability statement  Data are available in a public, open access repository.  
+
+# ORCID iD  
+
+Zhouping Tang http://orcid.org/0000-0002-4153-8590  
+
+# References  
+
+1	 Cordonnier C, Demchuk A, Ziai W, et al. Intracerebral haemorrhage: current approaches to acute management. Lancet 2018;392:1257–68.   
+2	 Chen S, Zeng L, Hu Z. Progressing haemorrhagic stroke: categories, causes, mechanisms and managements. J Neurol 2014;261:2061–78.   
+3	 Kocaeli H, Zuccarello M. Management of spontaneous intracerebral hematomas: review of the literature. Neurosurgery Quarterly 2008;18:207–15.   
+4	 Clusmann H, Schaller C, Schramm J. Fixed and dilated pupils after trauma, stroke, and previous intracranial surgery: management and outcome. J Neurol Neurosurg Psychiatry 2001;71:175–81.   
+5	 Zhou X, Chen J, Li Q, et al. Minimally invasive surgery for spontaneous supratentorial intracerebral hemorrhage: a meta-analysis of randomized controlled trials. Stroke 2012;43:2923–30.   
+6	 Hemphill JC, Greenberg SM, Anderson CS, et al. Guidelines for the management of spontaneous intracerebral hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke 2015;46:2032–60.   
+7	 Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med 2004;23:3105–24.   
+8	 Caldwell DM, Ades AE, Higgins JPT. Simultaneous comparison of multiple treatments: combining direct and indirect evidence. BMJ 2005;331:897–900.   
+9	 Hutton B, Salanti G, Caldwell DM, et al. The PRISMA extension statement for reporting of systematic reviews incorporating network meta-analyses of health care interventions: checklist and explanations. Ann Intern Med 2015;162:777–84.   
+10 McManus RJ, Wilson S, Delaney BC, et al. Reviw of the usefulness of contacting other experts when conducting a literature search for systematic reviews. BMJ 1998;317:1562–3.   
+11Balu S. Differences in psychometric properties, cut-off scores, and outcomes between the Barthel index and modified Rankin scale in pharmacotherapy-based stroke trials: systematic literature review. Curr Med Res Opin 2009;25:1329–41.   
+12 Shih M-M,Rogers JC, Skidmore ER,et al.Measuring stroke survivors'functional status independence: five perspectives. Am J Occup Ther 2009;63:600–8.   
+13 MendelowAD, GregsonBA,Rowan EN,et al.Early surgery versus initial conservative treatment in patients with spontaneous supratentorial lobar intracerebral haematomas (STICH II): a randomised trial. Lancet 2013;382:397–408.   
+14 Auer LM, Deinsberger W, Niederkorn K, et al. Endoscopic surgery versus medical treatment for spontaneous intracerebral hematoma: a randomized study. J Neurosurg 1989;70:530–5.   
+15 Rucker G, Schwarzer G, Krahn U. netmeta: network meta-analysiswith R. 2014:23. Available: https://cran.r-project.org/web/packages/netmeta/netmeta.pdf. [Accessed 5 Feb 2016].   
+16RuckchwaeRedcediensinrdewghtsi twapproahelti-amstirealsistd 2014;33:4353–69.   
+18DeekHigiAGChaalindatade meta‐analyses. In: Cochrane Handbook for systematic reviews of interventions, 2008: 241–84.   
+18Hiiisl BMJ 2003;327:557–60.   
+19CiprianiHigin GeddetaCoetuaandteical challengein network meta-analysis. Ann Intern Med 2013;159:130-7.   
+20Salandii meta-analysis many names, manybenefits, many concens for the next generatin evidence synthesis tool. Res Syn Meth 2012;3:80–97.   
+21DiasWN CaldweDM, aCheckingconsistecy inmied reat comparison meta-analysistat Med 2010;299344.   
+22Rucker G, Schwarzer G. Ranking treatments in frequentist network meta-analysis works without resampling methods. BMC Med Res Methodol 2015;15:58.   
+23Haff invasive surgery with thrombolysis in intracerebral haemorrhage evacuation (MISTIE ll: arandmised, controle, en-label blinded endpoint phase3 tril.Lncet 2019;393:1021–32.   
+24 GeaGaaiof thlnclficayf rn and craniopuncture therapy for the early stage of moderate volume spontaneous intracerebral haemorrhage in basal ganglia: using the cta spot sign as an entry criterion. Clin Neurol Neurosurg 2018;169:41–8.   
+25Fnislq cerebral hemorrhage in elderly patients: a randomized controlled study in 184 patients. Turk Neurosurg 2016;26:84.   
+26Halyush,aftyandeffiayofinll invasive surgery plus alteplase in intracerebral haemorrhage evacuation (MISTIE):arandomised, controlled, open-label, phase 2 trial. Lancet Neurol 2016;15:1228–37.   
+27 Vespa P, Hanley D,BetzJ,et al.CES (intraoperative stereotactic comuted tomographyguiddendscopicsureryforbrainemorhagemultient randomized controlled trial. Stroke 2016;47.   
+28ZhagPundpiceuaioaal ga hemorrhage via keyhole approach using an adjustable cannula in comparison with craniotomy. Biomed Res Int 2014;2014:1–6.   
+29hoangitintedtudmlly stereotactic puncture therapy versus conventional craniotomy in the treatment of acute intracerebral hemorrhage. BMC Neurol 2011;11:76.   
+30SuD,taetire raleill invasive craniopuncture combined with urokinase infusion therapy. Neurol Res 2010;32:371–7.   
+31Wan-ang  M aMalyairaniut the. conservative treatment for spontaneous intracerebral hemorrhage: results from a randomized clinical trial in China. Int J Stroke 2009;4:11–16.   
+32KmmKngneninpaentsthrhi steretactiguiddeuafpntanuiraereaerhag functional outcome. J Korean Neurosurg Soc 2009;46:109–15.   
+33Milid spontaneous intracerebral hemorrhage. Surg Neurol 2008;69:441–6.   
+34ChChChangdopiurernas ganglia hemorrhage: comparing endoscopic surgery, stereotactic aspiration, and craniotomy in noncomatose patients. Surg Neurol 2006;65:547–55.   
+35antaiTsilalyurgalet management for spontaneous supratentorial intracerebral hematomas: a prospective randomized study. Surg Neurol 2006;66:492–501.   
+36 Hattori N, Katayama Y,Maya ,et al. mpat of stereotactic hematoma evacuation n activities of daily living during the chronic period following spontaneous putaminal hemorrhage: a randomized study. J Neurosurg 2004;101:417–20.   
+37 Teernstra OPM,Evers SMAA,LodderJ, et al. Stereotactic treatment of intracerebral hematoma by means of a plasminogen activator: a multicenter randomized controlle trial (SICHPA). Stroke 2003;34:968–74.   
+38Zucarellrttexaalyugia tretnt ratnri intracerebral hemorrhage: a randomized feasibility study. Stroke 1999;30:1833–9.   
+39MorstFrskiheurlrnfri hemorrhage (STICH),". Neurology 1998;51:1359.   
+40 Juvlaeisanenoranen,taThe treatmet f sntaneusintraer hemorrhage. A prospective randomized trial of surgical and conservative treatment. J Neurosurg 1989;70:755–8.   
+4cag hemorrhage. Stroke 2018;49:2612–20.   
+42QiariMlle hemorhage: anupdated meta-analysis of randomized controlled trials" troke 2019;50:e97.   
+43Schlunk F, Greenberg SM.The pathophysiology of intracerebral hemorrhage formatio and expansion. Transl Stroke Res 2015;6:257–63.  
+
+# Hemorrhagic Stroke  
+
+44Akhigbe T, Zolnourian A. Role of surgery in the management of patients with supratentorial spontaneous intracerebral hematoma: critical appraisal of evidence. J Clin Neurosci 2017;39:35–8.   
+45 Wu G, Sheng F, Wang L, et al. The pathophysiological time window study of performing minimally invasive procedures for the intracerebral hematoma evacuation in rabbit. Brain Res 2012;1465:57–65.   
+46 Li Z, LiY, Xu F, et al. Minimal invasive puncture and drainage versus endoscopic surgery for spontaneous intracerebral hemorrhage in basal ganglia. Neuropsychiatr Dis Treat 2017;13:213–9.   
+47 Liu J, Yang H, Yu B. The correlation between blood calcium level, hematoma volume, stroke severity and prognosis in patients with acute cerebral hemorrhage. Eur Rev Med Pharmacol Sci 2016;20:4119–23.   
+48 Chartrain AG, Kellner CP, Fargen KM, et al.A review and comparison of three neuronavigation systems for minimally invasive intracerebral hemorrhage evacuation. J Neurointerv Surg 2018;10:66–74.   
+49 Kellner CP, Chartrain AG, Nistal DA, et al.The stereotactic intracerebral hemorrhage underwater blood aspiration (scuba) technique for minimally invasive endoscopic intracerebral hemorrhage evacuation. J Neurointerv Surg 2018;10:771–6.  

@@ -1,0 +1,262 @@
+Review article  
+
+# Safety and efficacy of tirofiban in the management of stroke: A systematic review and meta-analysis of randomized controlled trials  
+
+Mohammed Maan Al-Salihi a,b,f,\*, Ali Ayyad f,g, Maryam Sabah Al-Jebur b, Yezan Al-Salihi b, Ram Saha h, Rami Z. Morsi e, Tareq Kass-Hout e, Sami Al Kasab c, Alejandro M. Spiotta d  
+
+a Department of Neurological Surgery, School of Medicine and Public Health, University of Wisconsin, Madison, WI, USA   
+b College of Medicine/ University of Baghdad, Baghdad, Iraq   
+c Department of Neurology, Medical University of South Carolina, Charleston, SC, USA   
+d Department of Neurosurgery, Medical University of South Carolina, Charleston, SC, USA   
+e Department of Neurology, University of Chicago, Chicago, IL, USA   
+f Department of Neurosurgery, Hamad General Hospital, Doha, Qatar   
+g Department of Neurosurgery, Saarland University, Homburg, Germany   
+h Department of Neurology, Virginia Commonwealth University, VA, USA  
+
+# ARTICLE  INFO  
+
+# ABSTRACT  
+
+Keywords:   
+Tirofiban   
+Stroke   
+Endovascular therapy   
+Systematic review   
+Meta-analysis Background: About $30~\%$ of stroke patients have experienced unsuccessful reperfusion following endovascular therapy. Mechanical thrombectomy instruments may contribute to this by stimulating platelet aggregation. Tirofiban is a selective and rapidly activated antagonist of the platelets nonpeptide glycoprotein IIb/IIIa re­ ceptors that can reversibly suppress platelet aggregation. But, data from the medical literature are conflicting regarding its safety and efficacy for stroke patients. Hence, this study was designed to assess the safety and efficacy of tirofiban in stroke patients.   
+Methods: Five major databases (PubMed, Scopus, Web of Science, Embase, and Cochrane library) were searched till December 2022. The Cochrane tool was used for risk of bias assessment, and the RevMan 5.4 was utilized for data analysis.   
+Results: Seven RCTs with 2088 stroke patients were included. Tirofiban significantly increased the number of patients with mRS 0 score after 90 days than control; $\mathrm{RR}{=}1.39$ , $95\%\mathrm{CI}$ [1.15, 1.69]; $\mathbf{p}=0.0006$ . Additionally, it reduced the NIHSS score after seven days; $\mathrm{MD}=-0.60$ , $95\%\mathrm{CI}$ [−1.14, $-0.061$ ; $\mathbf{p}=0.03$ . However, tirofiban increased the incidence of intracranial haemorrhage (ICH); $\mathrm{RR}{=}1.22\$ , $95\%\mathrm{CI}$ [1.03, 1.44]; $\mathbf{p}=0.02$ . Other assessed outcomes showed insignificant results.   
+Conclusions: Tirofiban was associated with a higher $\mathrm{mRS0}$ score after three months and a lower NIHSS score after seven days. However, it is associated with higher ICH. Multicentric trials are required to provide more  
+
+convincing proof of its utility.  
+
+# 1. Introduction  
+
+Acute ischemic stroke (AIS) represents the leading global cause of death and disability [1]. Currently, it is well established that individuals with AIS benefit from endovascular therapy (EVT) and intravenous thrombolysis (IVT) [2]. However, about $30~\%$ of patients have experi­ enced unsuccessful reperfusion following EVT [3]. Using IVT with alteplase before EVT is advised for such cases. But some patients may still experience re-occlusion [4]. Mechanical thrombectomy instruments may contribute to failed reperfusion by damaging the vascular endothelium and exposing the subendothelial matrix, which can initiate platelet activation and adhesion followed by aggregation and perhaps lead to re-occlusion and thromboembolic consequences [5,6].  
+
+Glycoprotein IIb/IIIa inhibitors are a group of highly specific platelet antagonists. They successfully and reversibly disrupt the fibrin binding to receptors preventing platelets aggregation [7]. Experimental data from glycoprotein IIb/IIIa inhibitors-treated stroke animals showed that infarct volume might be reduced even after delayed treatment [8].  
+
+Tirofiban is an inhibitor of the platelets nonpeptide glycoprotein IIb/ IIIa. It has excellent selectivity, rapid activation, deactivation, and a short half-life that has the ability to prevent platelet aggregation in a reversible manner. Using tirofiban has decreased the likelihood of thrombotic events through percutaneous coronary intervention [9]. Because of its benefits for the management of acute coronary syndromes, several studies have examined tirofiban effectiveness as an adjunct treatment for individuals undergoing endovascular therapy for stroke [10–12]. Tirofiban was linked to neurological function improvement 90 days following AIS [13]. Intravenous tirofiban significantly enhanced the clinical outcomes in progressive ischemic stroke patients [14–16]. According to many reports, individuals with AIS receiving endovascular therapy may benefit from continuous intravenous tirofiban therapy in terms of functional outcomes and mortality reduction with no bleeding risk [17]. Moreover, it outperformed the dual anti-platelet regimens [16]. Tirofiban has been reported as a safe agent for AIS;[18,19] how­ ever, it has been linked to an increased incidence of fatal ICH [20]. So, it is crucial to investigate the safety of tirofiban besides its efficacy for stroke patients.  
+
+![](images/1d658f7da2e750dc6130eda1ec57773c7ef690ef3fdb319a2997adab3a51ef85.jpg)  
+Fig. 1. PRISMA flow diagram.  
+
+Medical literature still shows controversy regarding the tirofiban effect for stroke. The available evidence is derived from observational, nonrandomized, or retrospective studies with few randomized controlled trials (RCTs). Hence, we conduct this systematic review of the RCTs evaluating tirofiban in stroke patients aiming to provide reliable evidence regarding its safety and efficacy.  
+
+# 2. Methods  
+
+This study was carried out in concordance with the Preferred Reporting Items for Systematic Reviews and Meta-analysis (PRISMA) guidelines [21] and the Cochrane handbook of systematic reviews [22].  
+
+# 2.1. Searching databases and data collection  
+
+Data were retrieved from five databases (PubMed, Web of Science, Scopus, EMBASE, and Cochrane) till December 2022. We used the  
+
+following keywords: tirofiban, aggrastat, stroke, cerebrovascular acci­ dent, cerebrovascular apoplexy, and brain vascular accident.  
+
+# 2.2. Eligibility criteria  
+
+Any study that achieved the following criteria was included: par­ ticipants: stroke patients undergoing regular treatment or endovascular thrombectomy; Intervention: tirofiban; Comparator: placebo of regular treatment; Outcomes: efficacy and safety outcomes; Study design: RCTs.  
+
+# 2.3. Studies screening  
+
+Studies collected from the databases search were sent to an Excel workbook using EndNote X8.0.1 version. The collected studies were screened using a three-step screening based on the eligibility criteria. First, the studies’ titles and abstracts were screened. Second, the rele­ vant trials’ full text was screened for eligibility. Finally, manual screening of references from the included trials was performed. Two different authors performed each step. Another author solved any disparities.  
+
+# 2.4. Data extraction  
+
+Following study screening, the applicable studies’ data were extracted. This included data of two major categories: (1) general characteristics of the involved trials and patients (2) data on the planned outcomes. This process was performed by two independent authors. Any discrepancies were solved by a third one.  
+
+The summary of the included studies comprised; the site of study conduction, study registration number, their inclusion criteria, inter­ vention details, primary outcomes, and conclusion. In addition, the baseline characteristics of the included participant were extracted. This included groups, sample size, age, sex, stroke aetiology, and risk factors.  
+
+The efficacy outcomes involved modified Rankin scale (mRS) scores after 90 days and National Institutes of Health Stroke Scale (NIHSS) score changes after $24\mathrm{{h}}$ and seven days. The safety outcomes comprised the frequency of symptomatic intracranial haemorrhage (sICH), any ICH, and deaths.  
+
+Table 1 Summary of the included studies.   
+
+
+<html><body><table><tr><td>ID</td><td>Registration</td><td></td><td>Inclusion criteria</td><td>Intervention details</td><td>Primary outcomes</td><td>Conclusion</td></tr><tr><td>Bai et al. 2018</td><td>NR</td><td>Country China</td><td>Patients with primary unilateral cortical-subcortical, subcortical, or cortical infarct were enrolled in this studyless than seven days</td><td>Patients received either a placebo or 0.1 μg/kg tirofiban deliquated in saline once a day for no less than 30 min with</td><td>Motor function evaluation</td><td>Tirofibanwithrehabilitationfor subacute stroke is safe and helps severely damaged motor</td></tr><tr><td>Du et al. 2022</td><td>NR</td><td>China</td><td>participantswereinpatients, and their ages ranged from18 to 82. Patients were less than 18 years old, had large-artery atherosclerosis or small-artery occlusion, and came to the stroke centerbetween 4.5 and</td><td>days (Days 8-28). In the tirofiban group, patients were given 0.4 μg/(kg min) of tirofiban hydrochloride over 30 min, followed by 0.1 μg/(kg min) of tirofiban hydrochloride over 48 h.They were also given</td><td>NIHSS</td><td>Tirofiban enhanced the prognosis of AIS-ND patients who missed the intravenous</td></tr><tr><td>Han et al. 2022</td><td>ChiCTR2000031297</td><td>China</td><td>Patients who had a mild to moderate stroke (a score of 4-15 on the NIHSS) within 12 h of the start of the stroke were</td><td>clopidogrel,followed by 100 mg of aspirin and/or 75 mg of clopidogrel for 21 days. In the control group, patients received 100mg of aspirin daily for 90 days as their regular treatment.In the tirofiban group, patients were given an infusion of 0.4 μg/kg/min over 30 min of tirofiban,followed by</td><td>Favorable functional outcome</td><td>The results of this trial showed that tirofiban was safe and effective.It could be a treatment for people with AIS who did not get recanalization treatments.</td></tr><tr><td>Shuai et al. 2022</td><td>ChiCTR-IOR- 17014167</td><td>China</td><td>Patients were eligibleif they presented with symptoms of an ischemic stroke within 24 h after the last known well, as</td><td>infusion was done. A bolus dosage of 10 μg/kg of the study medication was given, and then the drug was infused continuously at a rate of 0.15 μg/kg/min for up to 24 h. Rapid endovascular therapy was given to patients.The other</td><td>Disability level at 90 days</td><td>Compared with a placebo before endovascular therapyfor patients with large vessel occlusion, treatment with intravenous tirofiban did not result in a significantly different</td></tr><tr><td>Siebler et al. 2011</td><td>NR</td><td>Germany</td><td>Patients aged 18-82 with NIHSS score between 4 and 18 who presented between 3 and 22 h after symptom start and were ineligiblefor thrombolysis were included.</td><td>placebo. In addition to the regular care provided by the centers, subjects received either a continuous infusion of tirofiban (initial infusion of 0.4 μg/kg bodyweight/minute over 30 min followed by a continuous infusion of 0.1 μg/ kgbodyweight/minutefor</td><td>Disability level at 90 days</td><td>This trial found that tirofiban was likely safe for patients with acute moderate ischemic stroke when given within a broad window of time after symptoms started.</td></tr><tr><td>Yu et al. 2022</td><td>ChiCTR1900025466</td><td>China</td><td>Patients between 18 and 85 years old, acute ischemic stroke onset within 72 h from admission, without arterial occlusion, and NIHSS score 20 on admission.</td><td>48 h) or a placebo (saline 0.9 % infusion). Patients in the tirofiban group were given 0.4μg/(kg min) of tirofiban hydrochloridefor 30 min, followed by 0.1 μg/(kg min) of continuous infusion for at least 72 h (72-108 h); 4 h before the end of tirofiban treatment,patients were given aspirin (100 mg) and/or clopidogrel (75 mg). The placebo group received either aspirin (100 mg after the first</td><td>Disability level at 90 days and safety outcomes</td><td>Patients with AIS who do not have large-vessel occlusions and did not receive intravenous thrombolysis may benefit from long-term (90-day) tirofiban administration (72 h or more; 72 he 108 h).</td></tr><tr><td>et al. 2022</td><td></td><td>China</td><td>Patients with an acute ischemic stroke and early neurological impairment following intravenous thrombolysis were</td><td>In the tirofiban group, patients were given infusions of tirofiban hydrochloride at a loading dosage of 0.4 g/kg/</td><td>Recovery of functionaloutcome</td><td>Early low-dose tirofiban treatment in AISAIS-ND patients following IVT may promote functional recovery</td></tr></table></body></html>  
+
+Table 1 (continued )   
+
+
+<html><body><table><tr><td>ID</td><td>Registration</td><td>Country</td><td>Inclusion criteria</td><td>Interventiondetails</td><td>Primaryoutcomes</td><td>Conclusion</td></tr><tr><td></td><td></td><td></td><td></td><td>by a maintenance dose of 0.1g/ kg/minuteupto24h.The standardofcareforpatientsin the controlgroup was daily 100mg aspirin and 75 mg</td><td></td><td>asearlyas7dayswithout increasinghemorrhagic consequences.</td></tr></table></body></html>
+
+R: not reported, NIHSS: national institutes of health stroke scale, AIS-ND: acute ischemic stroke with neurological deterioration, IVT: intravenous thrombolysis.  
+
+Table 2 Baseline characteristics of the included studies.   
+
+
+<html><body><table><tr><td rowspan="2">Study ID</td><td rowspan="2">Study groups</td><td rowspan="2">Sample</td><td rowspan="2">Age, M ±SD</td><td rowspan="2">Sex, male (%)</td><td colspan="3">Stroke etiology, N (%)</td><td colspan="5">Risk factors, N (%)</td></tr><tr><td>Large artery atherosclerosis</td><td>Small vessel occlusion</td><td>Cardio- embolism</td><td>Hypertension</td><td>Dyslipidemia</td><td>Diabetes mellitus</td><td>Previous stroke</td><td>Coronary artery disease</td></tr><tr><td rowspan="2">Du et al. 2022</td><td>Tirofiban</td><td>63</td><td>65.86 ± 9.62</td><td>42 (66.7</td><td>41 (65 %)</td><td>22 (34.9 (%</td><td></td><td>40 (63.5 %)</td><td>8 (12.7 %)</td><td>18 (28.6 %)</td><td>8 (12.7 %)</td><td>7 (11.1 %)</td></tr><tr><td>Control</td><td>60</td><td>65.23 ± 8.71</td><td>%) 32 (53.3</td><td>43 (71.7 %)</td><td>17 (28.3 (%</td><td></td><td>36 (60 %)</td><td>8 (13.3 %)</td><td>22 (36.7 %)</td><td>9 (15 %)</td><td>7 (11.7 %)</td></tr><tr><td rowspan="2">Bai et al. 2018</td><td>Tirofiban</td><td>30</td><td>59.2 ±11.2</td><td>(% 19 (63.3</td><td>12 (40 %)</td><td>12 (40 %)</td><td>5 (16.7 (%</td><td>15 (50 %)</td><td>1 (3.33 %)</td><td>3 (10 %)</td><td></td><td>2 (6.67 %)</td></tr><tr><td>Control</td><td>30</td><td>58.7 ± 12.3</td><td>%) 20 (66.7</td><td>11 (36.7 %)</td><td>13 (43.3 (%</td><td>3 (10 %)</td><td>16 (53.3 %)</td><td>2 (6.67 %)</td><td>1 (3.33 %)</td><td></td><td>2 (6.67 %)</td></tr><tr><td rowspan="3">Han et al. 2022</td><td>Tirofiban</td><td>177</td><td>66.7 ± 11.2</td><td>(% 115 (65.0</td><td>72 (40.7 %)</td><td>105 (59.3 (%</td><td></td><td>120 (67.8 %)</td><td></td><td>56 (31.6 (%</td><td>38 (21.5 (%</td><td>49 (27.7 %)</td></tr><tr><td>Control</td><td>180</td><td>67</td><td>(% 126</td><td>86 (47.8 %)</td><td>94 (52.2</td><td></td><td>130 (72.2 %)</td><td></td><td>52 (28.9</td><td>39 (21.7</td><td>59 (32.8</td></tr><tr><td>Tirofiban</td><td></td><td>± 11.9 66.7</td><td>(70.0 %) 263</td><td>197 (42.6 %)</td><td>(%</td><td>212 (45.8</td><td>251 (54.2 %)</td><td>74 (16.0 %)</td><td>%) 99 (21.4</td><td>%) 72 (15.6</td><td>%) 71 (15.3</td></tr><tr><td rowspan="2">et al. 2022</td><td>Control</td><td></td><td>± 11.9</td><td>(56.8 (% 294</td><td></td><td></td><td>%)</td><td></td><td></td><td>%)</td><td>(%</td><td>%)</td></tr><tr><td></td><td>485</td><td>66.3 ± 11.4</td><td>(60.6 %)</td><td>238 (49.1 %)</td><td></td><td>194 (40.0 (%</td><td>273 (56.3 %)</td><td>58 (12.0 %)</td><td>105 (21.7 %)</td><td>89 (18.4 %)</td><td>88 (18.1 %)</td></tr><tr><td>Siebler et al. 2011</td><td>Tirofiban</td><td>131</td><td>60.9 ± 7.83</td><td>74 (56 %)</td><td></td><td></td><td></td><td>45 (34 %)</td><td></td><td>24 (18 %)</td><td></td><td></td></tr><tr><td>Yu et al.</td><td>Control Tirofiban</td><td>129</td><td>65.8 ± 8.7 68</td><td>81 (62 %) 86</td><td>49 (36.6 %)</td><td>73 (54.5</td><td>12 (8.9</td><td>50 (39 %) 91 (67.9 %)</td><td></td><td>21 (16 %) 46 (34.3</td><td>46 (34.3</td><td>15 (11.2</td></tr><tr><td rowspan="2">2022</td><td></td><td></td><td>± 7.83</td><td>(64.2 (%</td><td></td><td>%)</td><td>%)</td><td></td><td></td><td>%)</td><td>%)</td><td>%)</td></tr><tr><td>Control</td><td>133</td><td>71 ± 7.20</td><td>78 (58.6 %)</td><td>55 (41.4 %)</td><td>72 (54.1 (%</td><td>6 (4.51 %)</td><td>81 (60.9 %)</td><td></td><td>36 (27.0 %)</td><td>45 (33.8 (%</td><td>22 (16.5 %)</td></tr><tr><td>Zhang et al.</td><td>Tirofiban</td><td>59</td><td>69.2 ± 14.9</td><td>32 (54.24</td><td>36 (61.02 %)</td><td>23 (38.98 (%</td><td></td><td>45 (76.27 %)</td><td>14 (23.73 %)</td><td>10 (16.95 %)</td><td>7 (11.86 (%</td><td>16 (27.12 %)</td></tr><tr><td>2022</td><td>Control</td><td></td><td>68.2</td><td>%) 7 (50 (%</td><td>12 (85.71 %)</td><td>2 (14.29</td><td></td><td>11 (78.57 %)</td><td>3 (21.43 %)</td><td>4 (28.57</td><td>4 (28.57)</td><td>0</td></tr></table></body></html>  
+
+# 2.5. Quality assessment  
+
+Cochrane’s risk of bias tool was utilized to assess the RCTs quality [22]. The tool appraises seven important domains 1) the randomization process; 2) the allocation of patients to each group; 3) participants and personnel blinding; 4) blinding of the outcome assessors; 5) attrition bias; 6) reporting bias; 7) other bias. Two separate authors evaluated the studies’ quality. A third person was brought in to settle any disagree­ ments. Also, we assessed the methodological quality using the JADAD scale. The certainty level of evidence was assessed using GRADE.  
+
+# 2.6. Data Analysis  
+
+Data analysis was done by Review Manager Software (RevMan 5.4.1). The mean difference (MD) and $95~\%$ confidence interval (CI) were used to evaluate the continuous data. The risk ratio (RR) and $95\%$ CI were used for dichotomous data. Homogeneous outcomes were studied using the fixed-effect model. In contrast, heterogeneous out­ comes were performed under the random-effect model. Chi-square tests and the $\mathrm{I}^{2}$ index [22] were used to measure the heterogeneity. Hetero­ geneous outcomes were identified when $\mathrm{p}<0.1$ with $\mathrm{I}^{2}>50~\%$ . For heterogeneous outcomes, Cochrane’s leave-one-out technique was used to solve it [22]. The significant outcomes were identified as $\mathtt{p}{<}0.05$ . The publication bias was assessed by visual inspection and the $\mathfrak{p}$ -value of Egger’s test.  
+
+![](images/b8b89b659b5c4400b614bfe7c3ded05053c1c24b54fdc572d73f19cb399c0dff.jpg)  
+Fig. 2. Risk of bias summary.  
+
+# 3. Results  
+
+# 3.1. Summary of results of database search and study selection  
+
+After duplicate removal, 1873 articles were handled from various databases searched and screened for eligibility. Only 32 studies under­ went full-text screening. According to the eligibility criteria, seven trials were included in our systematic review [14,15,23–27], while only six of them [14,15,24–27] were eligible for meta-analysis. Fig. 1 shows the PRISMA flow diagram of the database search and study selection.  
+
+# 3.2. General characteristics of included participants  
+
+We included 2088 patients from seven RCTs (of them, 1057 were treated with tirofiban while 1031 received the control of regular treat­ ment regimen or endovascular thromboembolectomy). The involved patients showed male predominance $(61\%)$ with a mean age of 65.6 years old. Tables 1 and 2 show the summary of studies and participants  
+
+characteristics.  
+
+# 3.3. Quality assessment results  
+
+The final quality rating was at a low risk of bias. Regarding selection bias, all studies had low bias except for three trials [14,23,27] that did not report enough data regarding the randomization process. The same was for allocation concealment. Two trials [14,27] were at unclear risk. As for the blinding, only two trials [23,25] were at low risk, while the others were at high risk or unclear. All RCTs were at a low risk of attrition bias, while four trials [15,25–27] were at a low risk of reporting bias. Fig. 2 summarizes the results of the quality assessment process. Using JADAD, only two studies were scored as low quality, while others were high quality. Table S1  
+
+# 3.4. Efficacy outcomes  
+
+# 3.4.1. Modified Rankin Scale (mRS) after 90 days  
+
+This outcome was quantified over five trials [14,15,25–27]. Tir­ ofiban was linked to a significantly increased number of patients with $\mathrm{mRS}=0$ (No symptoms at all) compared with the control; $\mathrm{RR}{=}1.39$ , 95 $\%\mathrm{CI}$ [1.15, 1.69]; $\mathbf{p}=0.0006$ . Fig. 3 The pooled data were homoge­ neous; $\mathbf{p}=0.36$ , $\mathrm{I}^{2}=9~\%$ . In contrast, there were insignificant differ­ ences between tirofiban and control regarding the number of patients with mRS 1–6; $\mathtt{p}{}^{>}0.05$ ; Fig. 3 and 4.  
+
+Three studies [14,15,25] evaluated the mean mRS in 1406 stroke patients. The tirofiban did not significantly decrease the mRS score after 90 days; $\mathrm{MD}{=}-0.24$ , $95\%\mathrm{CI}$ [−1.01, 0.53]; $\mathbf{p}=0.54$ . The combined data were heterogeneous; $\scriptstyle\mathbf{p}<0.00001$ , $\mathrm{I}^{2}=94\%$ . Fig. 5.  
+
+By visual inspection and the $\mathfrak{p}$ -value of Egger’s test, the results showed no publication bias among all subgroups $(\mathtt{p}>0.05)$ . Figs. S1–6 Using GRADE, the certainty levels of the $\mathrm{mRS}{=}0,1,3,4$ outcomes were high, while the others $(\mathrm{mRS}{=}2,5,6)$ ) were important. Table S2  
+
+# 3.4.2. Change in National Institutes of Health Stroke Scale (NIHSS)  
+
+Four trials reported the NIHSS change after $24\mathrm{~h~}$ [15,25–27]. There was no statistically significant difference in NIHSS score improvement; $\mathrm{MD}{=}-1.16$ , $95\%\mathrm{CI}$ [−2.82, 0.51]; $\mathbf{p}=0.17$ . The combined data showed heterogeneity; $\scriptstyle\mathbf{p}<0.00001$ , $\mathrm{I}^{2}=90\%$ . Fig. 6.  
+
+Six trials reported the NIHSS change after seven days [14,15,24–27]. Tirofiban was associated with a significant decrease after seven days compared with the control groups; $\mathrm{MD}{=}-0.90,95\%\mathrm{CI}[-1.63,-0.17];$ $\mathbf{p}=0.02$ . The data showed heterogeneity; $\mathbf{p}=0.02$ , $\mathrm{I}^{2}=64\%$ . Fig. 6  
+
+By visual inspection and the $\mathfrak{p}$ -value of Egger’s test, the results showed no publication bias among all subgroups $(\mathtt{p}>0.05)$ . Fig. S7 and 8 Using GRADE, the certainty level of the NIHSS change after $24\mathrm{~h~}$ was very low, while the NIHSS change after seven days was important. Table S2  
+
+# 3.5. Safety outcomes  
+
+# 3.5.1. Any intracranial haemorrhage (ICH)  
+
+Five studies reported that outcome [15,24–27]. Tirofiban showed higher ICH incidence than the control group. In the tirofiban group, 207 out of 952 presented with ICH, while 175 out of 934 patients in the control group presented with ICH; $\mathrm{RR}{=}1.22$ , $95\%\mathrm{CI}$ [1.03, 1.44]; $\mathbf{p}=0.02$ . The data showed homogeneity; $\mathbf{p}=0.93$ , $\mathrm{I}^{2}=0\%$ . Fig. 7.  
+
+The results showed no publication bias by visual inspection and the $\boldsymbol{\textbf{p}}$ -value of Egger’s test $(\mathtt{p}=0.18)$ . Fig. S9 Using GRADE, the certainty level of any ICH outcome was high. Table S2  
+
+# 3.5.2. Symptomatic intracranial haemorrhage (sICH)  
+
+Three trials reported this outcome [15,25,26]. No difference was noticed between tirofiban and the control groups; $\mathrm{RR}{=}1.5$ , $95\%\mathrm{CI}$ [0.97, 2.32]; $\mathbf{p}=0.07$ . The data were homogenous; $\mathbf{p}=0.78$ , $\mathrm{I}^{2}=0\%$ . Fig. 8 We could not assess the publication bias as the included studies were three in this outcome. Using GRADE, the certainty level of the sICH outcome was moderate. Table S2  
+
+![](images/27c6f256377513b7496980544d29814c2c16b8c9fcb59f4f9357c4e446bba72d.jpg)  
+Fig. 3. A forest plot of the Modified Rankin Scale $(\mathrm{mRS}0{-}2)$ after 90 days.  
+
+# 3.5.3. Death  
+
+Six trials reported the incidence of death within 90 days [14,15, 24–27]. The tirofiban group did not significantly vary from the control group regarding the incidence of death within 90 days; $\mathrm{RR}{=}0.44$ , $95~\%$ CI [0.12, 1.64]; $\mathtt{p}=22$ . The pooled data were heterogeneous; $\mathbf{p}=0.02$ , $\mathrm{I}^{2}=75\%$ . Fig. 9.  
+
+The results showed no publication bias by visual inspection and the $\mathfrak{p}$ -value of Egger’s test $(\mathtt{p}=0.08)$ . Fig. S10 Using GRADE, the certainty level of the death outcome was moderate. Table S2  
+
+# 3.6. Sensitivity analysis  
+
+Regarding mRS, heterogeneity was detected in the mean total mRS score and mRS score 2 and 5 subgroups. The heterogeneity of the mRS score 2 subgroup and mean total mRS were solved after excluding Han et al;[15]. $(\mathbf{p}=0.{\dot{2}},\mathbf{I}^{2}=35\%)$ and $(\mathtt{p}=0.25$ , $\operatorname{I}^{2}=24\%)$ , respectively. The data remained non-significant $(\mathtt{p}>0.05)$ . In contrast, the mRS score 5 subgroup was homogeneous by removing Shuai et al [25]. $(\mathbf{p}=0.33$ , $\mathrm{I}^{2}$ $=12\%$ ). After sensitivity analysis, the results favour the tirofiban group; $\mathrm{RR}{=}22$ , $95\%\mathrm{CI}[0.09$ , 0.55]; $\mathbf{p}=0.001$ . Fig. S11–13.  
+
+The results of NIHSS after $24\mathrm{~h~}$ and seven days were homogeneous by excluding Han et al;[15]. $(\mathbf{p}=0.13$ , $\mathrm{I}^{2}=51\%$ and $(\mathtt{p}=0.22$ , $\mathrm{I}^{2}=31$ $\%)$ , respectively. The pooled effect estimate remained non-significant regarding NIHSS after $24\mathrm{~h~}$ $\mathbf{\mathrm{MD}}{=}{-}0.21$ , 95 $\%{\mathrm{CI}}[-1.13$ , 0.70]; $\mathrm{p}=0.65)$ and significant regarding NIHSS after seven days $(\mathbf{M}\mathbf{D}{=}{-}0.60$ , $95\%{\mathrm{CI}}[-1.14$ , $-0.06]$ ; $\mathbf{p}=0.03,$ ). Fig. S14  
+
+Regarding death outcome, the results become homogeneous by excluding Shuai et al [25]. $(\mathtt{p}=0.63$ , $\mathrm{I}^{2}=0\%$ . The pooled effect es­ timate revealed that the control group had considerably more deaths than the tirofiban group.; 18 vs 4 patients in each group respectively; $\mathrm{RR}{=}0.23$ , $95\%\mathrm{CI}[0.08$ , 0.66]; $\mathbf{p}=0.007$ . Fig. S15  
+
+# 3.7. Quantitative synthesis  
+
+Bai et al [23]. conducted a double-blinded multicentric RCT on 66 stroke patients with mild to severe motor damage. Half of them received tirofiban at $0.1~{\mathrm{g}}/{\mathrm{kg}}$ body weight with slaine over $30\mathrm{min}$ or more, while the control group received only IV saline infusion for 21 days in addition to the rehabilitation course of treatment for both groups. Their findings imply that tirofiban, along with rehabilitation therapy, has a high safety profile and encourages additional motor function regeneration in stroke patients whose motor function has been severely compromised. They revealed that tirofiban significantly improved motor function compared with the control $\mathtt{p}{<}0.05$ . Tirofiban also significantly improved patients with severe motor damage; $\mathrm{p}{<}0.01$ . Only one patient from each group exhibited a serious adverse event (SAE). However, they reported that these SAEs were not linked to their medical management. In the tir­ ofiban group, SAE was represented by cholecystitis triggered by chol­ elith, while the in the placebo group, it was the hemorrhagic transformation of the cerebral infarction.  
+
+![](images/ee459b5e471e11d7e2499f96a9ee16114be2c2430e9a4f15e1eb268996e41885.jpg)  
+Fig. 4. A forest plot of the Modified Rankin Scale (mRS 3–6) after 90 days.  
+
+![](images/7b5be4452df50c72031177f7c0f8841708bffc102ce67fbc8d6dec88eddc80ee.jpg)  
+Fig. 5. A forest plot of the total mRS score after 90 days.  
+
+![](images/4c9ff1717409208fcd334ae7b56e843d60d2c32d976a3c9438169b51f8434a6d.jpg)  
+Fig. 6. A forest plot of the change in the National Institutes of Health Stroke Scale (NIHSS).  
+
+![](images/502b3826251bcf377ab666a366e538168d3b5de50547ea9506bc86b277109597.jpg)  
+Fig. 7. A forest plot of the any intracranial hemorrhage.  
+
+![](images/bc23064fdc50dd40695d51a568222ce199725e3a447ce3ccbf120c8c23fdb555.jpg)  
+Fig. 8. A forest plot of the symptomatic intracranial hemorrhage.  
+
+![](images/2f97badafa34ae06f851e0d77477eb4182f3adaf82cb200d30110cb2f7cd7ee8.jpg)  
+Fig. 9. A forest plot of the mortality.  
+
+# 4. Discussion  
+
+This meta-analysis of 2088 patients from seven RCTs shows that tirofiban tends to decrease the mRS score after 90 days. It significantly increased the number of patients with the mRS 0 scores. Additionally, it reduced the NIHSS score after seven days. However, there were insig­ nificant results regarding NIHSS after $24\mathrm{~h~}$ , combined mRS score, and mRS scores from 1 to 6. Notably, tirofiban showed higher any ICH and did not significantly differ from the control regarding sICH, although it was slightly higher than the control group. As for mortality, there were insignificant results regarding the mortality rates, although it was slightly lower with tirofiban. After sensitivity analysis, tirofiban showed a significantly lower incidence of deaths within 90 days.  
+
+Early IV infusion of tirofiban following alteplase injection for at least $24\mathrm{~h~}$ notably lowered the rates of re-occlusion, NIHSS after seven days, and mRS scores after 90 days [28]. In a recent meta-analysis, Liu et al [29]. estimated the influence of early administration of tirofiban in acute ischemic stroke patients following the IVT plus or minus me­ chanical EVT. Tirofiban exhibited excellent functional outcomes in terms of $\mathrm{mRS~}0{-}1$ . It also enhanced mRS 0–2. However, results differed according to the management plan, either IVT or IVT bridging followed by the EVT. Tirofiban following IVT alone was associated with signifi­ cantly better functional outcomes. However, there was an insignificant difference in the subgroup of IVT bridging followed by EVT.  
+
+Another meta-analysis of 2028 stroke patients receiving EVT re­ ported insignificant results regarding the favorable functional outcomes (defined as mRS of 0–1, 0–2, or 0–3 according to the included studies). It also did not increase the recanalization rates compared with the control [30]. Additionally, in a meta-analysis of 3251 patients, tirofiban increased the number of patients with $\mathrm{mRS}0{-}2$ score than the control; $\mathbf{p}=0.002$ . There was an increase in recanalization in the tirofiban group compared to the placebo group [31]. However, a meta-analysis by Gong et al [18]. revealed no improvement in $\mathrm{mRS}0{-}2$ and recanalization rates with the tirofiban group.  
+
+Glycoprotein IIb/IIIa comprises a group of anti-platelet agents. They have been broadly utilized in patients with high-risk myocardial infarction receiving IVT or percutaneous coronary intervention to stop platelet aggregation and subsequent thrombus formation [32]. Howev­ er, the risk of hemorrhagic transformation and the disease’s diverse pathophysiology prevented immediate utilization of glycoprotein IIb/IIIa inhibitors in stroke despite the success demonstrated in cardio­ vascular treatment [33]. According to the 2018 guidelines, IV throm­ bolysis should not be used concurrently with anti-platelet medications [34]. This is evidenced by outcomes of adding anti-platelet drugs such as aspirin, eptifibatide, or abciximab, in addition to the lack of convincing evidence that early anti-platelet therapy improves outcomes. So, assessment of the safety of such agents is critically important.  
+
+It has been reported that the combination of tirofiban and alteplase (thrombolytic agent) significantly decreased the mortality probability with no risk of developing sICH in acute ischemic cerebral infarction patients [24]. Also, Huo et al [35]. reported no difference between the two cohorts regarding the incidence of any ICH, sICH, or distal embo­ lization. But it reduced the long-term mortality rates following EVT bridged by IVT. On the other hand, Kellert et al [20]. displayed a higher fatal ICH in the tirofiban group, with a higher risk for those with a stroke of the anterior circulation. Moreover, they reported that age, in addition to tirofiban treatment, was identified as an independent predictor for developing fatal ICH and poor outcomes.  
+
+Data from the recent RCTs revealed non-significant variations regarding the incidence of any radiological ICT [15,24,26,27]. However, Shaui et al [25]., in their recent largest RCTs on 948 stroke patients, reported higher ICH with tirofiban than control $(34.9~\%$ vs $28\%$ , $\mathbf{p}=0.02,$ . Some trials reported non-significant data regarding the deaths within 90 days [15,25]. In contrast, Siebler et al [24]. stated a  
+
+decrease in the mortality rates associated with tirofiban administration.   
+(3/130 vs 11/126, $\mathbf{p}=0.03.$ ).  
+
+Our meta-analysis with pooled effect estimate solved this contro­ versy by pooling data from high-evidence RCTs rather than observa­ tional, non-randomized studies. We report that tirofiban did not raise the risk of sICH or death within 90 days. However, it was associated with higher radiological ICH than the controls (207/952 vs 175/934; $\mathbf{p}=0.02)$ . These findings were in concordance with the findings of the meta-analysis of Gong et al [18]., which reported that tirofiban did not raise the incidence of sICH or deaths. But it significantly raised the fatal ICH, especially with the intra-arterial route. Our findings differed from that of meta-analyses by Liu et al [29]. and Tang et al [31]. Both meta-analyses found that tirofiban reduced mortality with no increase of sICH or any ICH. Fu et al [30]. revealed similar findings without reporting the incidence of any ICH. Zhou et al [36]. divided the included studies into a group in which tirofiban was used alone (monotherapy) and another group in which tirofiban was combined with IVT. They revealed that neither group was associated with higher ICH, sICH, and mortality risks.  
+
+Notably, all the previously published meta-analyses pooled data from RCTs, retrospective, non-randomized trials, or observational studies. We included only results from RCTs which represents the highest evidence. All of the included studies were conducted in China except for Siebler et al [24]., which was conducted in Germany. This makes it harder to generalize our findings for stroke patients worldwide. Some outcomes showed heterogeneity between the included trials’ findings. But, this was solved with sensitivity analysis reported by the Cochrane handbook for systematic review and meta-analysis [22]. The heterogeneity could be attributed to the different general and clinical characteristics of the involved patients, such as differences in the age groups between certain studies, the aetiology of the stroke, the times of intervention, or the dosage of tirofiban.  
+
+# 5. Conclusion  
+
+Tirofiban significantly increased the number of patients with an mRS 0 score and reduced the NIHSS score after seven days. However, the tirofiban group did not differ significantly from the controls for the NIHSS after $24\mathrm{~h~}$ , the mean total mRS score, and the mRS scores from 1 to 6. Tirofiban did not significantly increase the incidence of sICH or mortality. However, it increased the incidence of any ICH.  
+
+# Funding  
+
+None.  
+
+# Declaration of Competing Interest  
+
+The authors declare no conflict of interest.  
+
+# Acknowledgments  
+
+Open Access funding provided by the Qatar National Library.  
+
+# Appendix A. Supporting information  
+
+Supplementary data associated with this article can be found in the online version at doi:10.1016/j.clineuro.2023.107867.  
+
+# References  
+
+[1] E.S. Donkor, Stroke in the 21(st) century: a snapshot of the burden, epidemiology, and quality of life, Stroke Res Treat. 2018 (2018) 3238165, https://doi.org/ 10.1155/2018/3238165.   
+[2] W.J. Powers, A.A. Rabinstein, T. Ackerson, et al., 2018 Guidelines for the early management of patients with acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association, Stroke (2018), https://doi.org/10.1161/STR.0000000000000158.   
+[3] M. Goyal, B.K. Menon, W.H. van Zwam, et al., Endovascular thrombectomy after large-vessel ischaemic stroke: a meta-analysis of individual patient data from five randomised trials, Lancet 387 (10029) (2016) 1723–1731, https://doi.org/ 10.1016/s0140-6736(16)00163-x.   
+[4] Y.H. Hwang, Y.W. Kim, D.H. Kang, Y.S. Kim, D.S. Liebeskind, Impact of target arterial residual stenosis on outcome after endovascular revascularization, Stroke (2016), https://doi.org/10.1161/STROKEAHA.116.013046.   
+[5] J.H. Heo, K.Y. Lee, S.H. Kim, D.I. Kim, Immediate reocclusion following a successful thrombolysis in acute stroke: a pilot study, Neurology 60 (10) (2003) 1684–1687, https://doi.org/10.1212/01.wnl.0000063323.23493.98.   
+[6] S. Power, C. Matouk, L.K. Casaubon, et al., Vessel wall magnetic resonance imaging in acute ischemic stroke: effects of embolism and mechanical thrombectomy on the arterial wall, Stroke 45 (8) (2014) 2330–2334, https://doi.org/10.1161/ strokeaha.114.005618.   
+[7] J.F. Fullard, The role of the platelet glycoprotein IIb/IIIa in thrombosis and haemostasis, Curr. Pharm. Des. 10 (14) (2004) 1567–1576, https://doi.org/ 10.2174/1381612043384682.   
+[8] T.F. Choudhri, B.L. Hoh, H.G. Zerwes, et al., Reduced microvascular thrombosis and improved outcome in acute murine stroke by inhibiting GP IIb/IIIa receptormediated platelet aggregation, J. Clin. Invest. 102 (7) (1998) 1301–1310, https:// doi.org/10.1172/jci3338.   
+[9] A.W. Van’t Hof, J. Ten Berg, T. Heestermans, et al., Prehospital initiation of tirofiban in patients with ST-elevation myocardial infarction undergoing primary angioplasty (On-TIME 2): a multicentre, double-blind, randomised controlled trial, Lancet 372 (9638) (2008) 537–546, https://doi.org/10.1016/s0140-6736(08) 61235-0.   
+[10] X. Pan, D. Zheng, Y. Zheng, et al., Safety and efficacy of tirofiban combined with endovascular treatment in acute ischaemic stroke, Eur. J. Neurol. 26 (8) (2019) 1105–1110, https://doi.org/10.1111/ene.13946.   
+[11] B.H. Baek, W. Yoon, Y.Y. Lee, S.K. Kim, J.-T. Kim, M.S. Park, Intravenous tirofiban infusion after angioplasty and stenting in intracranial atherosclerotic stenosisrelated stroke, 2021/05/01, Stroke 52 (5) (2021) 1601–1608, https://doi.org/ 10.1161/STROKEAHA.120.033551.   
+[12] W. Zhao, R. Che, S. Shang, et al., Low-Dose tirofiban improves functional outcome in acute ischemic stroke patients treated with endovascular thrombectomy, 2017/ 12/01, Stroke 48 (12) (2017) 3289–3294, https://doi.org/10.1161/ STROKEAHA.117.019193.   
+[13] C. Wu, C. Sun, L. Wang, et al., Low-Dose tirofiban treatment improves neurological deterioration outcome after intravenous thrombolysis, 2019/12/01, Stroke 50 (12) (2019) 3481–3487, https://doi.org/10.1161/STROKEAHA.119.026240.   
+[14] Y. Du, Y. Li, Z. Duan, et al., The efficacy and safety of intravenous tirofiban in the treatment of acute ischemic stroke patients with early neurological deterioration, J. Clin. Pharm. Ther. 47 (12) (2022) 2350–2359, https://doi.org/10.1111/ jcpt.13816.   
+[15] B. Han, T. Ma, Z. Liu, et al., Efficacy and safety of tirofiban in clinical patients with acute ischemic stroke, Front Neurol. 12 (2021), 785836, https://doi.org/10.3389/ fneur.2021.785836.   
+[16] H. Zhang, F. Lin, Y. Zhao, et al., Assessing the efficacy and safety of tirofiban in combination with dual-antiplatelet therapy in progressive ischemic stroke patients, J. Cardiovasc Pharm. 78 (3) (2021) 448–452, https://doi.org/10.1097/ fjc.0000000000001077.   
+[17] A. Zhang, N. Wu, X. Liu, T. Jiang, Continuous intravenous tirofiban can improve the 90-day functional outcome and decrease 90-day mortality without increasing bleeding risk in acute ischemic stroke patients treated by endovascular therapy: a meta-analysis, 2022/05/01/, J. Clin. Neurosci. 99 (2022) 109–116, https://doi. org/10.1016/j.jocn.2022.03.008.   
+[18] J. Gong, J. Shang, H. Yu, et al., Tirofiban for acute ischemic stroke: systematic review and meta-analysis, 2020/04/01, Eur. J. Clin. Pharmacol. 76 (4) (2020) 475–481, https://doi.org/10.1007/s00228-019-02817-8.   
+[19] C. Tao, Y. Zhu, C. Zhang, et al., Association between tirofiban monotherapy and efficacy and safety in acute ischemic stroke, BMC Neurol. 21 (1) (2021) 237, https://doi.org/10.1186/s12883-021-02268-8.   
+[20] L. Kellert, C. Hametner, S. Rohde, et al., Endovascular stroke therapy: tirofiban is associated with risk of fatal intracerebral hemorrhage and poor outcome, Stroke 44 (5) (2013) 1453–1455, https://doi.org/10.1161/strokeaha.111.000502.   
+[21] M.J. Page, J.E. McKenzie, P.M. Bossuyt, et al., The PRISMA 2020 statement: an updated guideline for reporting systematic reviews, BMJ 372 (2021) n71, https:// doi.org/10.1136/bmj.n71.   
+[22] J.P.T. Higgins, J. Thomas, J. Chandler, et al., Cochrane handbook for systematic reviews of interventions, Cochrane Handb. Syst. Rev. Interv. (2019), https://doi. org/10.1002/9781119536604.   
+[23] H. Bai, J. Li, J. Tuo, X. Lv, Tirofiban improves rehabilitation therapeutics effects in patients with dyskinesia after stroke, Int. J. Clin. Exp. Med. 11 (2018) 1689–1698.   
+[24] M. Siebler, M.G. Hennerici, D. Schneider, et al., Safety of tirofiban in acute ischemic stroke: the SaTIS trial, Stroke 42 (9) (2011) 2388–2392, https://doi.org/ 10.1161/STROKEAHA.110.599662.   
+[25] R.B.T. Investigators, Z. Qiu, F. Li, et al., Effect of intravenous tirofiban vs placebo before endovascular thrombectomy on functional outcomes in large vessel occlusion stroke: the RESCUE BT randomized clinical trial, JAMA 328 (6) (2022) 543–553, https://doi.org/10.1001/jama.2022.12584.   
+[26] Y. Yu, Y. Zheng, X. Dong, X. Qiao, Y. Tao, Efficacy and safety of tirofiban in patients with acute ischemic stroke without large-vessel occlusion and not receiving intravenous thrombolysis: a randomized controlled open-label trial, J. Neurorestoratol. 10 (4) (2022), https://doi.org/10.1016/j.jnrt.2022.100026.   
+[27] Y. Zhang, J. Wang, Z. Ma, et al., Prospective pilot study of tirofiban in progressive stroke after intravenous thrombolysis, Front Neurol. 13 (2022), 982684, https:// doi.org/10.3389/fneur.2022.982684.   
+[28] W. Li, L. Lin, M. Zhang, et al., Safety and preliminary efficacy of early tirofiban treatment after alteplase in acute ischemic stroke patients, Stroke 47 (10) (2016) 2649–2651, https://doi.org/10.1161/strokeaha.116.014413.   
+[29] Q. Liu, X. Lu, H. Yang, et al., Early tirofiban administration for patients with acute ischemic stroke treated with intravenous thrombolysis or bridging therapy: systematic review and meta-analysis, Clin. Neurol. Neurosurg. 222 (2022), 107449, https://doi.org/10.1016/j.clineuro.2022.107449.   
+[30] Z. Fu, C. Xu, X. Liu, Z. Wang, L. Gao, Safety and efficacy of tirofiban in acute ischemic stroke patients receiving endovascular treatment: a meta-analysis, Cereb. Dis. 49 (4) (2020) 442–450, https://doi.org/10.1159/000509054.   
+[31] L. Tang, X. Tang, Q. Yang, The application of tirofiban in the endovascular treatment of acute ischemic stroke: a meta-analysis, Cereb. Dis. 50 (2) (2021) 121–131, https://doi.org/10.1159/000512601.   
+[32] J. Lefkovits, E.F. Plow, E.J. Topol, Platelet glycoprotein IIb/IIIa receptors in cardiovascular medicine, N. Engl. J. Med 332 (23) (1995) 1553–1559, https://doi. org/10.1056/nejm199506083322306.   
+[33] M. Yang, X. Huo, Z. Miao, Y. Wang, Platelet glycoprotein IIb/IIIa receptor inhibitor tirofiban in acute ischemic stroke, Drugs 79 (5) (2019) 515–529, https://doi.org/ 10.1007/s40265-019-01078-0.   
+[34] W.J. Powers, A.A. Rabinstein, T. Ackerson, et al., 2018 Guidelines for the early management of patients with acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association, Stroke 49 (3) (2018) e46–e110, https://doi.org/10.1161/str.0000000000000158.   
+[35] X. Huo, M. Yang, N. Ma, et al., Safety and efficacy of tirofiban during mechanical thrombectomy for stroke patients with preceding intravenous thrombolysis, Clin. Inter. Aging 15 (2020) 1241–1248, https://doi.org/10.2147/cia.S238769.   
+[36] J. Zhou, Y. Gao, Q.L. Ma, Safety and efficacy of tirofiban in acute ischemic stroke patients not receiving endovascular treatment: a systematic review and metaanalysis, Eur. Rev. Med Pharm. Sci. 24 (3) (2020) 1492–1503, https://doi.org/ 10.26355/eurrev_202002_20208.  

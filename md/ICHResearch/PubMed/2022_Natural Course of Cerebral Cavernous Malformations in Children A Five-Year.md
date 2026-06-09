@@ -1,0 +1,187 @@
+# Natural Course of Cerebral Cavernous Malformations in Children: A Five-Year Follow-Up Study  
+
+Alejandro N. Santos , MD; Laurèl Rauschenbach , MD; Dino Saban , MD; Bixia Chen, MD; Annika Herten , MD; Thiemo Florin Dinger , MD; Yan Li, MD; Stephan Tippelt, MD; Adela Della Marina , MD; Christian Dohna-Schwake, MD; Börge Schmidt, MD; Ramazan Jabbarli , MD; Karsten H. Wrede , MD; Ulrich Sure , MD; Philipp Dammann, MD  
+
+BACKGROUND AND PURPOSE: The purpose of this study was to investigate the natural course of cerebral cavernous malformations (CCM) in the pediatric population, with special emphasis on the risk of first and recurrent bleeding over a 5-year period.  
+
+METHODS: Our institutional database was screened for patients with CCM treated between 2003 and 2020. Patients $\leq18$ years of age with complete magnetic resonance imaging data set, clinical baseline characteristics, and $\geq1$ follow-up examination were included. Surgically treated individuals were censored after CCM removal. We assessed the impact of various parameters on first or recurrent intracerebral hemorrhage (ICH) at diagnosis using univariate and multivariate logistic regression adjusted for age and sex. Kaplan-Meier and $\operatorname{Cox}$ regression analyses were performed to determine the cumulative 5-year risk for (re)hemorrhage.  
+
+RESULTS: One hundred twenty-nine pediatric patients with CCM were analyzed. Univariate logistic regression identified brain stem CCM (odds ratio, 3.15 $[95\%$ CI, 1.15−8.63]; $_{P=0.026,}$ ) and familial history of CCM (odds ratio, 2.47 $[95\%$ CI, 1.04−5.86]; $P{=}0.041$ ) as statistically significant predictors of ICH at diagnosis. Multivariate logistic regression confirmed this correlation (odds ratio, 3.62 $[95\%$ CI, 1.18−8.99]; $P{=}0.022$ and odds ratio, 2.53 $[95\%$ CI, 1.07−5.98]; $\scriptstyleP=0.035$ , respectively). Cox regression analysis identified ICH as mode of presentation (hazard ratio, 14.01 $[95\%$ CI, 1.80−110.39]; $P{=}0.012$ ) as an independent predictor for rehemorrhage during the 5-year follow-up. The cumulative 5-year risk of (re)bleeding was $15.9\%$ $(95\%$ CI, $10.2\%{-}23.6\%)$ ) for the entire cohort, $30.2\%$ $(20.2\%-42.3\%)$ ) for pediatric patients with ICH at diagnosis, and $29.5\%$ $95\%$ CI, $13.9\%{-}51.1\%)$ ) for children with brain stem CCM.  
+
+CONCLUSIONS: Pediatric patients with brain stem CCM and familial history of CCM have a higher risk of ICH as mode of presentation. During untreated 5-year follow-up, they revealed a similar risk of (re)hemorrhage compared to adult patients. The probability of (re)bleeding increases over time, especially in cases with ICH at presentation or brain stem localization.  
+
+GRAPHIC ABSTRACT: A graphic abstract is available for this article.  
+
+Key Words:  brain stem ◼ magnetic resonance imaging ◼ pediatrics ◼ population ◼ risk factors  
+
+Cceraeubsrea l cofa vesrpnoonutsa nmeaolufos rminattriaocnesr (eCbrCalM ) haerme oar rmhaajgoer U (ICH) in pediatric patients and up to $25\%$ of CCM affect individuals $\leq18$ years of age.1–4 Comparable to adults, symptomatic CCM in children mainly manifest in headache, seizures, or focal neurological deficits due to acute ICH.2,5–10 While most CCM show a benign course, the occurrence of ICH in susceptible brain regions or repetitive bleeding events can be disabling and have particularly tragic consequences in children, given their long life expectancy.11–13 In addition, it is believed that CCM in children carry a higher risk of hemorrhage compared to  
+
+# Nonstandard Abbreviations and Acronyms  
+
+BSCM brain stem cavernous malformation CCM cerebral cavernous malformations DVA developmental venous anomaly ICH intracerebral hemorrhage MRI magnetic resonance imaging OR odds ratio  
+
+adults,4,14–16 whose estimated overall cumulative 5-year risk of symptomatic ICH is ${\approx}20\%$ .6,17–19 This risk may be further influenced by factors, such as sex, CCM location, and history of previous ICH.6,17,19–21 Notably, pediatric trials investigating the natural course of disease and risk factors leading to ICH are rare and usually limited to small patient cohorts, heterogeneous samples, and short follow-up periods.4,8,11,14,22,23 Consequently, children are usually treated according to guidelines for adults, although the appropriateness of this extrapolation is not known. A deeper knowledge of CCM pathophysiology in a pediatric population could significantly impact current treatment strategies. Therefore, we aimed to analyze the natural course of CCM in young patients over a 5-year timeline.  
+
+# METHODS  
+
+The data that support the findings of this study are available from the corresponding author upon reasonable.  
+
+# Data Collection  
+
+This study was conducted at our tertiary hospital, in accordance to the principles expressed in the Declaration of Helsinki and the guidelines of an approving institutional review board (14- 5751-BO and 19-8662-BO). A cross-sectional study was performed of all consecutive patients admitted to our tertiary care department in the University Hospital of Essen (Germany) between 2003 and 2020 (patient registry) that fulfilled the following inclusion criteria: aged between 0 and 18 years; diagnosed with sporadic or familial CCM; and available magnetic resonance imaging (MRI) data. Surgically treated patients were censored on the day of CCM removal. Familial disease was defined as genetically confirmed by testing and known affected relatives and absence of associated developmental venous anomaly (DVA).24 Patient charts were used to identify baseline clinical characteristics, that is, age at diagnosis, sex, CCM location (brain stem versus nonbrain stem), multiplicity of CCM, allergies, and CCM family history. Diagnosis of CCM, CCM-related ICH, CCM-associated DVA, and CCM localization was based on MRI findings and confirmed by independent neuroradiologists. We evaluated mode of presentation in all patients in line with reporting standards according to the following classification: symptomatic ICH, CCM-related epilepsy, nonhemorrhagic focal neurological deficit, nonhemorrhagic CCM-related epilepsy, or asymptomatic.5 Follow-up data were acquired through routine visits in our specialized outpatient clinic, by emergency presentation in our department, as well as through standardized telephone surveys with the patients’ parents. Our primary end point was the occurrence of ICH during the follow-up period (referred to as outcome/bleeding event/ event) according to reporting standards5 as follows:  
+
+•	 Acute or subacute onset of neurological symptoms related to the anatomic region of the lesion accompanied with radiological evidence of acute bleeding of the CCM on recent MRI.  
+
+The final decision, if an event was counted as symptomatic hemorrhage, was reviewed, discussed, and ultimately decided by authors A.N. Santos, B. Chen, D. Saban, and P. Dammann based on MRI findings and patient/parents’ interview/examination in each case.  
+
+# Statistical Analysis  
+
+We used SPSS 26 (IBM, Armonk, NY) for all statistical analyses. Risk factors that were associated with ICH at diagnosis were assessed by calculating odds ratios (ORs) and $95\%$ CIs using logistic regression models including each potential predictor separately as well as a logistic regression model including all significant risk factors. Our multivariable analysis model for possible predictors was assessed using the transparent reporting of a multivariable prediction model for individual prognosis or diagnosis statement.25 All logistic regression models were adjusted for age and sex. Additionally, we investigated the association of baseline clinical data with outcome during a 5-year follow-up period by performing a Cox regression analysis to calculate hazard ratios and $95\%$ CIs.26 Kaplan-Meier curves for 5 years of follow-up were plotted for the complete cohort and stratified by implementation of statistically significant factors leading to ICH. Log-rank test was used to compare the survival distribution of stratified factors seen in KaplanMeier curves. Data were censored if patients experienced a (re)bleeding, underwent CCM surgery or were lost to followup. Completeness of the follow-up data was quantified (available follow-up [months]/maximally available follow-up during 5-year period [months]). Hemorrhage risk per year per patient was calculated based on overall available follow-up (extending 5 years). Results were considered statistically significant at an $\upalpha$ -level of $_{<0.05}$ . A flow diagram explaining the steps of our analysis can be found in Figure I in the Data Supplement.  
+
+# RESULTS  
+
+# Patient Demographics and Outcomes  
+
+A total of 129 pediatric patients were included in the analysis. The mean age was $10.73{\scriptstyle\pm5.78}$ years, and 56 individuals $(43.4\%)$ were female. DVA was detected in 18 patients $(15.8\%)$ , and 25 individuals revealed brain stem localization $(20\%)$ . Seventy-two patients $(55.8\%)$ suffered from ICH at presentation. Fifty-three patients $(42.1\%)$ presented with multiple CCM, and familial history of CCM was seen in 35 participants $(27.1\%)$ ). Median follow-up time was 60 months for patients conservatively treated, 11 months for patients with an event during follow-up (median time until ICH event), and 6 months for patients that underwent surgical resection of the CCM during follow-up (median time until surgery). Detailed cohort characteristics are summarized in Table 1.  
+
+# Baseline Differences Between Surgically and Conservatively Treated Patients During FollowUp  
+
+In our cohort, 48 $(37.2\%)$ pediatric patients underwent surgical CCM removal. Mean follow-up of pediatrics patients going through surgery was $22.9{\pm}26.48\$ compared with $39.6{\pm}23.21\$ in those who were treated conservatively. Both groups revealed no differences regarding age $\mathrm{\Delta}P=0.826\$ ), sex $_{\mathrm{P}=0.758}$ ), CCM multiplicity $ ^{\prime}P_{=}0.468;$ ), brain stem location $_{(P=0.075}$ ), and familial history of CCM $\left(\mathtt{P}{=}0.418\right)$ ). Patients undergoing surgical removal of their lesion had a significant higher rate of ICH at presentation (OR, 6.30 $[95\%$ CI, $2.70\substack{-14.74}$ ; $P\mathrm{<}0.001$ ) and were less likely to be asymptomatic at diagnosis (OR, 0.11 $[95\%$ CI, $0.04\substack{-0.351}$ ; $P{<}0.001$ ). Detailed cohort characteristics are summarized in Table I in the Data Supplement.  
+
+# Baseline Clinical Data and ICH as Mode of Presentation at CCM Diagnosis  
+
+Logistic regression analysis with adjustments for age and sex identified brain stem CCM (BSCM; OR, 3.152 $[95\%$ CI, 1.151−8.633]; $P_{=0.026}$ ) and familial history of CCM (OR, 2.467 $[95\%$ CI, 1.038−5.860]; $P{=}0.041$ ) as statistically significant predictors of ICH at diagnosis (Table 2). In the multivariate logistic regression analysis including all 3 predictors, BSCM (OR, 3.624 $[95\%$ CI, 1.185−8.990]; $P{=}0.022,$ ) and familial history of CCM (OR, 2.528 $[95\%$ CI, 1.068−5.983]; $P_{=}0.035^{\circ},$ ) were confirmed as significant independent risk factors of bleeding as mode of presentation.  
+
+Table 1.  Demographic, Anatomic, and Clinical Characteristics   
+
+
+<html><body><table><tr><td>Characteristic</td><td>Frequency</td></tr><tr><td>Total number of CCM pediatric patients, n</td><td>129</td></tr><tr><td>Age, y,mean±SD</td><td>10.73±5.78</td></tr><tr><td>Sex, n (%)</td><td></td></tr><tr><td>Male</td><td>73 (56.6%)</td></tr><tr><td>Female</td><td>56 (43.4%)</td></tr><tr><td>MultipleCCM(≥2CCM),n (%)</td><td>53 (42.1%)</td></tr><tr><td>Family history of CCM, n (%)</td><td>35 (27.1%)</td></tr><tr><td>BSCM* n (%)</td><td>25 (20.0%)</td></tr><tr><td>ICH at presentation,n (%)</td><td>72 (55.8%)</td></tr><tr><td>CRE,t n (%)</td><td>46 (36.8%)</td></tr><tr><td>DVA,# n (%)</td><td>18 (15.8%)</td></tr><tr><td>Asymptomatic,S n (%)</td><td>42 (33.6%)</td></tr><tr><td>Surgery during follow-up period, n (%)</td><td>48 (37.2%)</td></tr></table></body></html>
+
+BSCM indicates brain stem cavernous malformation; CCM, cerebral cavernous malformation; CRE, cavernoma-related epilepsy; DVA, developmental venous anomaly; and ICH, intracerebral hemorrhage. \*Four patients missing. †Four patients missing. ‡Fifteen patients missing. §Four patients missing.  
+
+Table 2.  Logistic Regression Analysis Adjusted for Age and Sex: Baseline Characteristics and Risk of ICH as Mode of Presentation   
+
+
+<html><body><table><tr><td>Parameter</td><td>Pvalue</td><td>OR</td><td>95% CI</td></tr><tr><td>CRE</td><td>0.331</td><td>1.45</td><td>0.68-3.07</td></tr><tr><td>DVA</td><td>0.681</td><td>1.24</td><td>0.44-3.50</td></tr><tr><td>BSCM</td><td>0.026*</td><td>3.15</td><td>1.15-8.63</td></tr><tr><td>MultipleCCM</td><td>0.462</td><td>1.32</td><td>0.63-2.77</td></tr><tr><td>FamilialCCM</td><td>0.041*</td><td>2.47</td><td>1.04-5.86</td></tr></table></body></html>
+
+BSCM indicates brain stem cavernous malformation; CCM, cerebral cavernous malformation; CRE, cavernoma-related epilepsy; DVA, developmental venous anomaly; ICH, intracerebral hemorrhage; and OR, odds ratio. \*Statistical significance at an alpha-level of $R{<}0.05$ .  
+
+# Cumulative 5-Year Outcome: (Re)hemorrhage During Follow-Up  
+
+For (re)hemorrhage risk assessment during the 5-year follow-up period a Kaplan-Meier analysis was performed. A total of 17 events occurred during 358.1 person-years of follow-up, leading to 4.7 events per 100 person-years in our 5-year follow-up. Notably, a total of 59 patients underwent surgery for the CCM. Eleven of these after an ICH event, leading to 48 $(37.2\%)$ patients censored due to CCM removal. The 5-year completeness of follow-up was $78.3\%$ . Univariate Cox regression analysis identified ICH as mode of presentation (hazard ratios, 15.66 $[95\%$ CI, 2.04−119.93]; $P{=}0.008)$ ) and brain stem localization (hazard ratios, 2.984 $[95\%$ CI, 1.04−8.61]; $P_{=}0.043^{}$ ) as predictors for occurrence of (re)hemorrhage. Multivariate Cox regression analysis confirmed ICH as mode of presentation (hazard ratios, 14.01 $[95\%$ CI, 1.80−110.39]; $P{=}0.012,$ ) as an independent predictor.  
+
+Table 3.  Hemorrhage Risk per Year per Patient During Overall Follow-Up   
+
+
+<html><body><table><tr><td>Parameter</td><td>Total person-years</td><td>No.ofbleeds</td><td>Riskperyear</td></tr><tr><td>All pediatric CCM</td><td>688.9</td><td>28</td><td>4.1%</td></tr><tr><td>ICH at diagnosis</td><td>308.8</td><td>25</td><td>8.1%</td></tr><tr><td>CRE</td><td>263.9</td><td>11</td><td>4.2%</td></tr><tr><td>DVA</td><td>55.7</td><td>2</td><td>3.6%</td></tr><tr><td>BSCM</td><td>170.2</td><td>12</td><td>7.1%</td></tr><tr><td>MultipleCCM</td><td>350.5</td><td>17</td><td>4.8%</td></tr><tr><td>Asymptomatic</td><td>231</td><td>1</td><td>0.4%</td></tr><tr><td>FamilialCCM</td><td>243.1</td><td>15</td><td>6.2%</td></tr></table></body></html>
+
+BSCM indicates brain stem cavernous malformation; CCM, cerebral cavernous malformation; CRE, cavernoma-related epilepsy; DVA, developmental venous anomaly; and ICH, intracerebral hemorrhage.  
+
+Risk of (re)hemorrhage per year per patient during the maximum available follow-up in all patients was $4.1\%$ for the entire cohort, $8.1\%$ for patients with ICH as mode of presentation, $7.1\%$ for patients with BSCM, $6.2\%$ for patients with familial accumulation of CCM, $4.8\%$ for patients with multiple CCM, and $0.4\%$ for asymptomatic patients. Additionally, participants with DVA had a risk of $3.6\%$ and patients with CCM-related epilepsy $4.2\%$ (Table 3). The cumulative 5-year risk of (re)bleeding was $15.9\%$ $95\%$ CI, $10.2\%{-}23.6\%)$ for the entire cohort, $30.2\%$ $(20.2\%-42.3\%)$ for patients with ICH at diagnosis, $29.5\%$ $(13.9\%{-}51.1\%)$ for those with BSCM, and $17.2\%$ $(7.2\%-34.4\%)$ ) for those with familial history of CCM (Figure  1, Table  4). In subsequent analyses, logrank test showed ICH as mode of presentation $\left(P<0.001\right)$ ) and BSCM $'P{=}0.032,$ ) as independent risk factors to develop ICH during the 5-year follow-up, as well as a trend towards a decrease in the risk of re(bleeding) in children with associated DVA (Figures 1 and 2).  
+
+![](images/4f4a6137dd36deb00510478ba6f964b4dd0d18749e2e4bcd4639f74522ba6652.jpg)  
+Figure 1. Five-year outcome by risk factors. A, Kaplan-Meier curves of the complete cohort, (B) stratified by presence bleeding as MOP (intracerebral hemorrhage [ICH] as MOP=red), and (C) brain stem cerebral cavernous malformations (CCM; BSCM=red) are shown.  
+
+# DISCUSSION  
+
+CCM is one of the main causes of spontaneous ICH in pediatric patients.1–4 Bleeding events can bear irreversible functional deficits and are especially tragic in children, given their long life expectancy.11–13 There is a paucity of studies investigating the natural course of untreated CCM in children. In addition, existing studies are limited by short follow-up periods, small sample sizes or the inclusion of patients of up to 25 years of age.2,8,11,15,16,23,27 There also tend to be divergent conclusions, whereby some state higher bleeding rates in children compared with adults and report the presence of DVA as a risk factor for recurrent hemorrhage, whereas others observed equal rates.1,4,11,14,19,23 Our study analyzed a set of risk factors for (re)hemorrhage in pediatric CCM patients. We further stratified risk of (re)hemorrhage per year per patient according to each possible risk factor and assessed the risk of hemorrhage during a 5-year follow-up as well as the cumulative 5-year risk for (re)bleeding.  
+
+# Risk Factors for (Re)bleeding in Pediatric Patients With CCM  
+
+We found that after adjusting for age and sex, BSCM, and familial history of CCM were predictors of (re)bleeding, which was corroborated in the multivariate analysis. In accordance with the literature, BSCM have higher bleeding rates compared to other brain regions.6,18 Theories leading to this event address a possible underestimation of the real ICH rate of CCM in noneloquent areas, as eloquent ones become more frequently symptomatic, hence leading the patient to seek medical assistance and subsequent diagnosis. Additionally, we observed a (re)hemorrhage risk per year per patient of $7.1\%$ and  
+
+$6.2\%$ in patients with BSCM and familial history of CCM, respectively, compared with $4.1\%$ in the entire cohort and $0.4\%$ in asymptomatic patients. While some small trials on pediatric populations suggest higher risk of hemorrhage compared with adults,4,14–16 we found equal risks independent of age.  
+
+# DVA and Risk of (Re)bleeding in Pediatric Patients With CCM  
+
+According to Gross et al,8 the presence of DVA predicts CCM-associated ICH in pediatric patients. This observation is not consistent with our results and may be explained by confounding factors including the definition of ICH, proportion of asymptomatic cases, MRI data sets, and the number of familial cases. Our data showed a trend towards a decrease in the risk of re(bleeding) during follow-up after diagnosis with CCM, which is in accordance with large trials in adults.19,21  
+
+# Children With Familial History of CCM  
+
+The proportion of familial CCM varies among adult cohorts. Regarding the pediatric population, there have only been a handful of studies with divergent results.8,22,27 While Gross et $a^{1^{8}}$ found no correlation between familial cases and the risk of (re)hemorrhage, familial accumulation of CCM cases was a strong predictor of bleeding at diagnosis in our present cohort. In this study, we included a higher number of familial cases as compared to Gross et $a|^{8}$ $27.1\%$ versus $10\%$ ). This considerable difference may underlie our different findings, also considering the wellknown underestimation of familial cases at diagnosis.27  
+
+# Cumulative 5-Year (Re)hemorrhage Rates During Follow-Up  
+
+According to our Cox regression analysis of the 5-year follow-up, patients with ICH as mode of presentation and brain stem localization were more likely of experiencing (re)hemorrhage. To date, this is the first 5-year follow-up study of young patients aged between 0 and 18 years. Previous studies and systematic reviews on children with CCM have identified an increased risk of hemorrhage within the first 2 or 3 years after the initial hemorrhagic event.8,22 Our cumulative 5-year analysis showed a progressive risk of hemorrhage after each year in the entire cohort, which almost doubled when only assessing patients with ICH at diagnosis or those with BSCM. These findings suggest that in children, chances of (re) bleeding tend to increase over time, also beyond the third year of first ICH.  
+
+Table 4.  Cumulative 5-Year (Re)bleeding Risk   
+
+
+<html><body><table><tr><td>Parameter</td><td>2-year(95%CI)</td><td>3-year(95%CI)</td><td>4-year(95%Cl)</td><td>5-year(95%CI)</td></tr><tr><td>AllpediatricCCM</td><td>5.9% (2.7%—11.8%)</td><td>8.5% (4.5%—15%)</td><td>12.6% (7.6%—19.8%)</td><td>15.9%(10.2%-23.6%)</td></tr><tr><td>ICHatdiagnosis</td><td>11% (5.2%—21.2%)</td><td>13.9%(7.2%—24.5%)</td><td>22.8% (14.1%—34.5%)</td><td>30.2% (20.2%—42.3%)</td></tr><tr><td>BSCM</td><td>16% (5.3%-36.9%)</td><td>22.5% (9.2%—43.9%)</td><td>29.5% (13.9%—51.1%)</td><td>29.5% (13.9%—51.1%)</td></tr><tr><td>Familialcases</td><td>9.5% (2.7%—25.3%)</td><td>13.3%(4.8%-29.85%)</td><td>17.2% (7.2%—34.4%)</td><td>17.2% (7.2%—34.4%)</td></tr></table></body></html>
+
+BSCM indicates brain stem cavernous malformation; CCM, cerebral cavernous malformation; and ICH, intracerebral hemorrhage.  
+
+![](images/c0880cc6c8270e90726518e5606b8fa7f3caf66b1fe96511f08eeb6f42e76b1c.jpg)  
+Figure 2. Five-year outcome by risk factors. A, Kaplan-Meier curves stratified by sporadic in blue vs familiar lesion in red and (B) stratified by presence of developmental venous anomaly (DVA=red)  
+
+# Baseline Characteristics and Risk Factors of ICH in Children Compared With Adults  
+
+The largest studies of CCM in adults describe a cumulative 5-year risk of symptomatic ICH of ${\approx}20\%.^{6,17-19}$ Risk factors, such as BSCM or ICH as mode of presentation, increasing this risk in adult populations are well known.6 Our findings show comparable results with a cumulative 5-year risk of symptomatic ICH of $15.9\%$ for the entire cohort, as well as the same factors increasing the risk of ICH at follow-up.  
+
+# External Validity  
+
+Compared with other studies regarding CCM in the pediatric population, our cohort seems to be representative in terms of patient characteristics and predictors of ICH recurrence.8,23,27  
+
+Baseline characteristics of our study compared to Gross et $a^{18}$ (largest series available) were similar, with $44\%$ versus $54\%$ females, mean age of 10.7 versus 10.1 years, $55.5\%$ versus $62\%$ ICH as mode of presentation, and $34\%$ versus $26\%$ asymptomatic at diagnosis. This observation increases the external validity of our reported results.  
+
+# Strengths and Limitations  
+
+CCM is a rare vascular disease with a prevalence of $0.6\%$ in children and young adults,23 rendering single-center trials with large cohorts difficult. Our data were obtained from a tertiary referral center and is not population-based, which can lead to well-known information and selection biases. Another limitation of our study is the $78.3\%$ completeness of the 5-year follow-up with a considerable proportion of censoring, mainly due to surgical treatment in the meantime. This is within the typical range of observational studies but may have led to an overestimation or underestimation of outcome events.28 Typically, $60\%$ to $80\%$ completeness of follow-up is recommended to minimize bias.29 In our case, censoring due to surgical resection of the lesion may have contributed to a well-known bias of underestimation of ICH events during follow-up. Surgically treated patients had higher bleeding rates and presented more often with symptoms at diagnosis, which might have influenced the physician’s choice to remove the lesion, depending on clinical status, respectability, etc. Our results summarize a 5-year follow-up study on pediatric CCM patients, which is consistent with data on adult patients.17–19,21 It contributes novel and robust data. The fairly low number of ICH events occurring during follow-up restricted the number of possible variables in our Cox regression analysis model.19 Prospective multicenter studies are urgently needed to validate our assumptions and to examine new predictors of patient outcome.  
+
+# Conclusions  
+
+Pediatric patients with BSCM, ICH at diagnosis, and familial history of CCM are prone to develop (re)bleeding. Presence of DVA may reduce this risk, although our evidence for this association was not statistically significant. During untreated 5-year follow-up, pediatric and adult patients carry an equal susceptibility for (re)hemorrhage. The probability of ICH tends to increase over time, particularly in cases with ICH at presentation or brain stem localization.  
+
+# ARTICLE INFORMATION  
+
+Received April 3, 2021; final revision received June 7, 2021; accepted June 22, 2021.  
+
+The podcast and transcript are available at https://www.ahajournals.org/str/ podcast.  
+
+# Affiliations  
+
+Department of Neurosurgery and Spine Surgery (A.N.S., L.R., D.S., B.C., A.H., T.F.D., R.J., K.H.W., U.S., P.D.), Institute of Diagnostic and Interventional Radiology and Neuroradiology (Y.L.), Department of Pediatrics (S.T., A.D.M., C.D.-S.), and Institute for Medical Informatics, Biometry and Epidemiology (B.S.), University Hospital Essen, Germany.  
+
+# Sources of Funding  
+
+None.  
+
+# Disclosures  
+
+None.  
+
+Supplemental Materials   
+Online Tables I–II   
+Online Figure I  
+
+# REFERENCES  
+
+1.	 Consales A, Piatelli G, Ravegnani M, Pavanello M, Striano P, Zoli ML, Capra V, Rossi A, Garrè ML, Calevo MG, et al. Treatment and outcome of children with cerebral cavernomas: a survey on 32 patients. Neurol Sci. 2010;31:117–123. doi: 10.1007/s10072-009-0157-0   
+2.	 Bigi S, Capone Mori A, Steinlin M, Remonda L, Landolt H, Boltshauser E. Cavernous malformations of the central nervous system in children: presentation, treatment and outcome of 20 cases. Eur J Paediatr Neurol. 2011;15:109–116. doi: 10.1016/j.ejpn.2010.09.004   
+3.	 Batra S, Lin D, Recinos PF, Zhang J, Rigamonti D. Cavernous malformations: natural history, diagnosis and treatment. Nat Rev Neurol. 2009;5:659–670. doi: 10.1038/nrneurol.2009.177   
+4.	 Mottolese C, Hermier M, Stan H, Jouvet A, Saint-Pierre G, Froment JC, Bret P, Lapras C. Central nervous system cavernomas in the pediatric age group. Neurosurg Rev. 2001;24:55–71; discussion 72. doi: 10.1007/pl00014581   
+5.	 Al-Shahi Salman R, Berg MJ, Morrison L, Awad IA; Angioma Alliance Scientific Advisory Board. Hemorrhage from cavernous malformations of the brain: definition and reporting standards. Angioma Alliance Scientific Advisory Board. Stroke. 2008;39:3222–3230. doi: 10.1161/STROKEAHA. 108.515544   
+6.	 Horne MA, Flemming KD, Su IC, Stapf C, Jeon JP, Li D, Maxwell SS, White P, Christianson TJ, Agid R, et al; Cerebral Cavernous Malformations Individual Patient Data Meta-analysis Collaborators. Clinical course of untreated cerebral cavernous malformations: a meta-analysis of individual patient data. Lancet Neurol. 2016;15:166–173. doi: 10.1016/S1474-4422(15)00303-8   
+7.	 Gross BA, Lin N, Du R, Day AL. The natural history of intracranial cavernous malformations. Neurosurg Focus. 2011;30:E24. doi: 10.3171/ 2011.3.FOCUS1165   
+8.	 Gross BA, Du R, Orbach DB, Scott RM, Smith ER. The natural history of cerebral cavernous malformations in children. J Neurosurg Pediatr. 2016;17:123–128. doi: 10.3171/2015.2.PEDS14541   
+9.	 Gross BA, Smith ER, Goumnerova L, Proctor MR, Madsen JR, Scott RM. Resection of supratentorial lobar cavernous malformations in children. J Neurosurg Pediatr. 2013;12:367–373.   
+10.	 Gross BA, Smith ER, Scott RM. Cavernous malformations of the basal ganglia in children: Clinical article. J Neurosurg Pediatr. 2013;12:171–174.   
+11.	 Abla AA, Lekovic GP, Garrett M, Wilson DA, Nakaji P, Bristol R, Spetzler RF. Cavernous malformations of the brainstem presenting in childhood: surgical experience in 40 patients. Neurosurgery. 2010;67:1589–98; discussion 1598. doi: 10.1227/NEU.0b013e3181f8d1b2   
+12.	 Dammann P, Jabbarli R, Wittek P, Oppong MD, Kneist A, Zhu Y, Wrede K, Müller O, Forsting M, Sure U. Solitary sporadic cerebral cavernous malformations: risk factors of first or recurrent symptomatic hemorrhage and associated functional impairment. World Neurosurg. 2016;91:73–80. doi: 10.1016/j.wneu.2016.03.080   
+13.	 Sawarkar DP, Janmatti S, Kumar R, Singh PK, Gurjar HK, Kale SS, Sharma BS, Mahapatra AK. Cavernous malformations of central nervous system in pediatric patients: our single-centered experience in 50 patients and review of literature. Childs Nerv Syst. 2017;33:1525–1538. doi: 10.1007/s00381-017-3429-7   
+14.	 Song J, Qiao N, Xie L, Qiu T, Li P, Wu J, Zhu W, Chen L, He KM, Zhang N, et al. Clinical features and microsurgical treatment of pediatric patients with cerebral cavernous malformation. J Clin Neurosci. 2011;18:1303–1307. doi: 10.1016/j.jocn.2011.01.033   
+15.	 Aslan A, Börcek AÖ, Demirci H, Erdem MB. Cerebral cavernous malformation presenting in childhood: a single-centered surgical experience of 29 cases. Clin Neurol Neurosurg. 2020;194:105830. doi: 10.1016/j. clineuro.2020.105830   
+16.	 Bilginer B, Narin F, Hanalioglu S, Oguz $\mathsf{KK},$ Soylemezoglu F, Akalan N. Cavernous malformations of the central nervous system (CNS) in children: clinico-radiological features and management outcomes of 36 cases. Childs Nerv Syst. 2014;30:1355–1366. doi: 10.1007/ s00381-014-2442-3   
+17.	 Chen B, Saban D, Rauscher $\mathsf{S},$ Herten A, Rauschenbach L, Santos A, Li Y, Schmidt B, Zhu Y, Jabbarli R, et al. Modifiable cardiovascular risk factors in patients with sporadic cerebral cavernous malformations: obesity matters. Stroke. 2021;52:1259–1264. doi: 10.1161/STROKEAHA.120.031569   
+18.	 Al-Shahi Salman R, Hall JM, Horne MA, Moultrie F, Josephson CB, Bhattacharya JJ, Counsell CE, Murray GD, Papanastassiou V, Ritchie V, et al; Scottish Audit of Intracranial Vascular Malformations (SAIVMs) collaborators. Untreated clinical course of cerebral cavernous malformations: a prospective, population-based cohort study. Lancet Neurol. 2012;11:217–224. doi: 10.1016/S1474-4422(12)70004-2   
+19.	 Chen B, Herten A, Saban D, Rauscher S, Radbruch A, Schmidt B, Zhu Y, Jabbarli R, Wrede KH, Kleinschnitz C, et al. Hemorrhage from cerebral cavernous malformations: The role of associated developmental venous anomalies. Neurology. 2020;95:e89–e96. doi: 10.1212/WNL. 0000000000009730   
+20.	 Kashefiolasl S, Bruder M, Brawanski N, Herrmann E, Seifert V, Tritt $\mathsf{S},$ Konczalla J. A benchmark approach to hemorrhage risk management of cavernous malformations. Neurology. 2018;90:e856–e863. doi: 10.1212/WNL.0000000000005066   
+21.	 Flemming KD, Link MJ, Christianson TJ, Brown RD Jr. Prospective hemorrhage risk of intracerebral cavernous malformations. Neurology. 2012;78:632–636. doi: 10.1212/WNL.0b013e318248de9b   
+22.	 Ghali MG, Srinivasan VM, Mohan AC, Jones JY, Kan PT, Lam S. Pediatric cerebral cavernous malformations: Genetics, pathogenesis, and management. Surg Neurol Int. 2016;7(suppl 44):S1127–S1134. doi: 10.4103/ 2152-7806.196921   
+23.	 Al-Holou WN, O’Lynnger TM, Pandey AS, Gemmete JJ, Thompson BG, Muraszko KM, Garton HJ, Maher CO. Natural history and imaging prevalence of cavernous malformations in children and young adults. J Neurosurg Pediatr. 2012;9:198–205. doi: 10.3171/2011.11.PEDS11390   
+24.	 Dammann P, Wrede K, Zhu Y, Matsushige T, Maderwald S, Umutlu L, Quick HH, Hehr U, Rath M, Ladd ME, et al. Correlation of the venous angioarchitecture of multiple cerebral cavernous malformations with familial or sporadic disease: a susceptibility-weighted imaging study with 7-Tesla MRI. J Neurosurg. 2017;126:570–577. doi: 10.3171/2016.2.JNS152322   
+25.	 Collins GS, Reitsma JB, Altman DG, Moons KG. Transparent Reporting of a multivariable prediction model for Individual Prognosis or Diagnosis (TRIPOD): the TRIPOD statement. Ann Intern Med. 2015;162:55–63. doi: 10.7326/M14-0697   
+26.	 Grambsch PM, Therneau TM. Proportional hazards tests and diagnostics based on weighted residuals. Biometrika [Internet]. 1994;81:515–526. doi: 10.1093/biomet/81.3.515   
+27.	 Acciarri N, Galassi E, Giulioni M, Pozzati E, Grasso V, Palandri G, Badaloni F, Zucchelli M, Calbucci F. Cavernous malformations of the central nervous system in the pediatric age group. Pediatr Neurosurg. 2009;45:81–104. doi: 10.1159/000209283   
+28.	 von Allmen RS, Weiss S, Tevaearai HT, Kuemmerli C, Tinner C, Carrel TP, Schmidli J, Dick F. Completeness of follow-up determines validity of study findings: results of a prospective repeated measures cohort study. PLoS One. 2015;10:e0140817. doi: 10.1371/journal.pone.0140817   
+29.	 Kristman V, Manno M, Côté P. Loss to follow-up in cohort studies: how much is too much? Eur J Epidemiol. 2004;19:751–760. doi: 10.1023/b:ejep. 0000036568.02655.f8  

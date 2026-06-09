@@ -1,0 +1,36 @@
+![](images/1e843e1a18e8cb2360061cdd9de244c09cd4c4d7dc4c86b64278603615f2d271.jpg)  
+
+# Letter to the Editor Regarding: Single versus Double Burr Hole for Drainage of Chronic Subdural Hematoma: Randomized Controlled Study  
+
+![](images/4cb48d7c4fa5cbed226580654dccfe3531576073ebb20f8bfa97477a1809db6b.jpg)  
+
+# LETTER:  
+
+he article entitled “Single versus Double Burr Hole for Drainage of Chronic Subdural Hematoma: Randomized Controlled Study” by Sale1 is significant to clinical practice and interesting to us. For the Methodology and Results, we have some constructive comments accordingly:  
+
+First, the protocol was not previously registered. Research protocol should be submitted before initiation of a study. Informed consent should be obtained before every research involving human beings.  
+
+Second, the inclusion and exclusion criteria were not described. Patients with imaging diagnosis of subacute or chronic subdural hematoma were enrolled; however, whether they had symptoms before surgery was not reported.  
+
+Third, in the manuscript, the secondary outcome was resolution of presenting features. However, this was not reported in the results. Adverse events including wound infection rate and second surgery were not reported.  
+
+Fourth, the modified Rankin Scale is a commonly used scale in the measurement of subsequent disability. It has become the most widely used clinical outcome measure for stroke clinical trial.3  
+
+Fifth, some research reported meticulous irrigation and use of a drain after burr-hole drainage of chronic subdural hematoma were associated with reduced recurrence and mortality at 6 months.4 In this study, all patients underwent irrigation and use of subdural drains. Therefore from our perspective, the number of burr holes does not affect the recurrence rate of chronic subdural hematoma.  
+
+We appreciate Dr. Sale and his colleagues for this contribution.   
+We hope our comments are constructive. Liyu Ran and Shishu Huang   
+Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital and West China School of Medicine, Sichuan University, Chengdu, PR China   
+To whom correspondence should be addressed: Shishu Huang, Ph.D.   
+[E-mail: h0794062@scu.edu.cn]  
+
+Conflict of interest statement: The authors declare that the article content was composed in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.  
+
+https://doi.org/10.1016/j.wneu.2022.05.074.  
+
+# REFERENCES  
+
+1. Sale D. Single versus double burr hole for drainage of chronic subdural hematoma: randomized controlled study. World Neurosurg. 2021;146:e565-e567.   
+2. World Medical Association Declaration of Helsinki: ethical principles for medical research involving human subjects. JAMA. 2013;310:2191-2194.   
+3. Quinn TJ, Dawson J, Walters MR, Lees KR. Exploring the reliability of the modified Rankin scale. Stroke. 2009;40:762-766.   
+4. Santarius T, Kirkpatrick PJ, Ganesan D, et al. Use of drains versus no drains after burr-hole evacuation of chronic subdural haematoma: a randomised controlled trial. Lancet. 2009;374:1067-1073.  

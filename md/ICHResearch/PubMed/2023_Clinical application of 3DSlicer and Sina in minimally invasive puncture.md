@@ -1,0 +1,170 @@
+# Clinical application of 3DSlicer and Sina in minimally invasive puncture drainage of elderly patients with spontaneous intracerebral hemorrhage under local anesthesia  
+
+Xiaolin Hou, MD, Dingjun Li, MD, Yuan Yao, MD, Lin Zeng, MD, and Chengxun Li, MD  
+
+Background: Decreased organ function and poor physical compensatory capacity in elderly patients diagnosed with spontaneous intracerebral hemorrhage (ICH) can make surgical treatment procedures challenging and risky. Minimally invasive puncture drainage (MIPD) combined with urokinase infusion therapy is a safe and feasible method of treating ICH. This study aimed to compare the treatment efficacy of MIPD conducted under local anesthesia using either 3DSlicer $^+$ Sina application or computer tomography (CT)guided stereotactic localization of hematomas in elderly patients diagnosed with ICH. Methods: The study sample included 78 elderly patients $(\ge65\$ years of age) diagnosed with ICH for the first time. All patients exhibited stable vital signs and underwent surgical treatment. The study sample was randomly divided into two groups, either receiving 3DSlicer+Sina or CT-guided stereotactic assistance. The preoperative preparation time; hematoma localization accuracy rate; satisfactory hematoma puncture rate; hematoma clearance rate; postoperative rebleeding rate; Glasgow Coma Scale (GCS) score after 7 days; and modified Rankin scale (mRS) score 6 months after surgery were compared between the two groups. Results: No significant differences in gender, age, preoperative GCS score, preoperative hematoma volume (HV), and surgical duration were observed between the two groups (all p-values $>0.05$ ). However, the preoperative preparation time was shorter in the group receiving 3DSlicer $^+$ Sina assistance compared to that receiving CT-guided stereotactic assistance (p-value $<$ 0.001). Both groups exhibited significant improvement in GCS scores and reduction in HV after surgery (all p-values $<0.001$ ). The accuracy of hematoma localization and puncture was $100\%$ in both groups. There were no significant differences in surgical duration, postoperative hematoma clearance rate, rebleeding rate, postoperative GCS and mRS scores between the two groups (all p-values $>~0.05)$ . Conclusions: A combination of 3DSlicer and Sina is effective in accurately identifying hematomas in elderly patients with ICH exhibiting stable vital signs, thus simplifying MIPD surgeries conducted under local anesthesia. This procedure may also be preferred over CT-guided stereotactic localization in clinical practice due to its ease of use and accuracy in hematoma localization.  
+
+Keywords: Intracerebral hemorrhage—Minimally invasive puncture drainage— 3DSlicer—Sina—Local anesthesia—Elderly   
+$\copyright$ 2023 Elsevier Inc. All rights reserved.  
+
+# Introduction  
+
+The incidence of intracerebral hemorrhage (ICH) increases with age and it is often considered to be a medical emergency as it is associated with poor long-term outcomes such as high mortality and disability rates.  The lack of evidence on clinically significant outcomes with commonly used surgical treatment measures such as craniotomy and minimally invasive puncture drainage (MIPD) have brought ICH under increasing scientific scrutiny. 2 Previous evidence suggest that guiding minimally invasive techniques such as clot aspiration using stereotactic methods can provide superior clinical outcomes compared to traditional craniotomy. 3,4  
+
+Elderly patients with multiple underlying diseases and declining organ function exhibit limited compensatory abilities, making surgery more challenging and dangerous. Craniotomy is a highly intrusive treatment measure that requires general anesthesia which can further increase the risk of artificial damage to the brain, lungs, and other organs in elderly patients and, consequently, worsen prognosis.  This emphasizes the role of minimally invasive procedures under local anesthesia, with Matsumoto et al., (1984) previously reporting that MIPD conducted under local anesthesia with computed tomographyguided stereotactic assistance was a suitable alternative for the emergency treatment of elderly or high-risk patients diagnosed with ICH without any symptoms of brain herniation. 6  
+
+Accurate localization of hematomas and the selection of optimal puncture routes are critical for the success of surgical treatment measures in elderly patients, and the 3DSlicer and Sina application have been previously shown to aid this process effectively. 7,8 These software tools are simple to use and allow precise hematoma localization, thus reducing surgical difficulty. Therefore, the current study compared the treatment efficacy of MIPD conducted under local anesthesia with either 3DSlicer $^+$ Sina or CT-guided stereotactic assistance in elderly patients diagnosed with ICH.  
+
+# Materials and methods  
+
+# Participants  
+
+This prospective study included 76 patients aged ${>}65$ years who were diagnosed with single-site spontaneous ICH and underwent MIPD treatment at the Chengdu University of Traditional Chinese Medicine (CDTCM) Hospital between January 2018 and December 2022. The study received ethical approval from the CD-TCM Hospital Ethics Committee, and informed consent was collected from all patients prior to commencement of the study.  
+
+The study sample was randomly divided into two groups using the completely random number table method, with Groups A and B receiving 3DSlicer $^{\cdot+}$ Sina and CT-guided stereotactic assistance, respectively. All procedures were carried out by the same experienced neurosurgeon within 6 to 24 hours of ICH onset.  
+
+The inclusion criteria were as follows: 1) patient’s first diagnosis of CT-confirmed single-site ICH; 2) patient age between 65 and 93 years; 3) supratentorial hemorrhage volume of $30{-}65~\mathrm{~ml}$ accompanied by a midline shift ${>}5\mathrm{mm},$ , compression of the cricoid pool on one side, or rupture of the hematoma into the ventricles resulting in hydrocephalus; 4) cerebellar hemorrhage volume of $7{-}15~\mathrm{mL}$ accompanied by brainstem compression, fourth ventricular compression with hydrocephalus, or rupture of the hematoma into the ventricle causing hydrocephalus; 5) stable vital signs; 6) oxygen saturation $\ge90\%$ measured using a finger pulse oximeter; and 7) Glasgow Coma Scale (GCS) score ${\ge}8$ . The hematoma volume (HV) was calculated using a 3DSlicer.  
+
+Patients were excluded if they exhibited 1) ICH caused by hematological disease, aneurysm, Moyamoya disease, arteriovenous malformation (AVM), anticoagulant drugs, or other factors; 2) brain tumor hemorrhagic stroke; 3) brainstem hemorrhage; 4) deep coma; 5) dilated pupils; 6) unstable vital signs; 7) GCS score ${<}8.$ ; or 8) need for ventilator support.  
+
+# Group A: 3DSlicer $^+$ Sina assistance  
+
+Group A included 17 males and 21 females with a mean $[\pm$ standard deviation (SD)] age of 72.7 $(\pm6.1)$ years, mean supratentorial HV of $37.2(\pm5.5)\mathrm{ml},$ and mean cerebellar HV of 9.6 $(\pm2.5)$ ml. Hemorrhages were observed in the supratentorial lobe in 14 $(36.8\%)$ patients, basal ganglia in 10 $(26.3\%)$ patients, thalamus-basal ganglia in 6 $(15.8\%)$ patients, cerebellum in 8 $(21.0\%)$ patients, and ventricles in 8 $(21.0\%)$ patients. Furthermore, 16 $(22.2\%)$ patients exhibited associated hydrocephalus, of which 10 $(13.9\%)$ were diagnosed with supratentorial ICH and 6 $(8.3\%)$ with infratentorial ICH.  
+
+# Group B: CT-guided stereotactic assistance  
+
+Group B included 20 males and 18 females with a mean $\mathrm{(\pmSD)}$ age of 74.8 $(\pm5.0)$ years, mean supratentorial HV of 36. $.6(\pm3.4)\mathrm{ml},$ , and mean cerebellar HV of 8.8 $(\pm3.8)\mathrm{~m~}$ l. Hemorrhages were observed in the supratentorial lobe in 13 $(34.2\%)$ patients, basal ganglia in 13 $(34.2\%)$ patients, thalamus-basal ganglia in 5 $(13.2\%)$ patients, cerebellum in 7 $(18.4\%)$ patients, and ventricles in 10 $(26.3\%)$ patients. Furthermore, 17 $(23.6\%)$ patients exhibited associated hydrocephalus, of which 12 $(16.7\%)$ were diagnosed with supratentorial ICH and 6 $(6.9\%)$ with infratentorial ICH.  
+
+# Surgical procedures determination of hematoma location and puncture site  
+
+Group A: 3DSlicer $^+$ Sina assistance  
+
+The patients’ head CT Dicom data were imported into the 3DSlicer (https://download.slicer.org/; Figures 1 A and B) and the segment editor module was used to remove the head baffle and generate new CT NIFTI data. Thereafter, the threshold, islands, scissors, and smoothing tools were used to reconstruct the hematoma (Figures 2 A and B), and the volume rendering module was used to create a 3D model of the head which was then rotated to the surgical position and the transparency adjusted until the hematoma was visible. The draw tube tool was then used to simulate the surgical puncture channel and direction such that the critical brain functions and vascular areas remained unaffected. The depth and angle of the puncture was calculated (Figures 2 C-E) and a screenshot of the model was saved (Figures 2 F and G).  
+
+![](images/4e6b4863b4bb8e13dc5edc87cb13ee8fa83b42399d5c7b84b7f1b071eed6672f.jpg)  
+Figure 1. (A) Preoperative computed tomography (CT) scan revealed a large left thalamichemorrhage ruptured into the ventricle. (B) Ventricular dilatation, representing the presence of earlyhydrocephalus. (C/D) Postoperative CT scan showed satisfactory drainage tubeslocation at thethalamus and ventricular, excellent evacuation of hematoma with urokinase, ventricular shrinkage,and no hydrocephalus.  
+
+The images were then imported into the Sina application and the patient’s ear screen, auricle, nasal tip, and nasal root were used as markers, with any overlaps being corrected by adjusting the position of the phone (Figures $2\mathrm{~H~}$ and I). The preoperative preparation duration was defined as the time elapsed between 3D reconstruction of the hematoma and identification of the hematoma puncture site.  
+
+# Group B: CT-guided stereotactic assistance  
+
+After administration of local anesthesia, a stereotactic device was fitted on the patients’ head and CT scanning was carried out. A target point in the largest section of the hematoma was selected to minimize the risk of affecting vital brain functions and blood vessels. The $\mathsf{X},\mathsf{Y},$ , and $Z$ coordinates of the target point and the depth of the punctured tube was calculated. The preoperative preparation duration was defined as the time elapsed between installation of the stereotactic device and identification of the hematoma puncture site.  
+
+![](images/131a47e28dc4ca7e2b90620bd6f54057513f98555d971d25c7cc42a3d3935ca5.jpg)  
+Figure 2. (A/B) The 3DSlicer performed 3D reconstruction of the hematoma, and simulatedpunctured drainage tubs wereobserved on the preoperative axial and coronal CT. (C)The thalamichematoma was punctured in the direction of the vertical brain surface, and the depth of the puncturedrain was about 5.5 cm. (D/E) The angle between the bilateral EVD tubes, and the sagittal line isapproximately 20 degree and the depth of the tubes are about 4.5 cm. (F/G)The location of thehematoma and puncture point of the tube on the head. (H/I) Sina APP projects $F$ and G images ontothe patient’s head to determine the location of the hematoma puncture site.  
+
+# Hematoma puncture and drainage  
+
+After administration of local anesthesia at the hematoma puncture site, a $4\mathrm{cm}$ incision was made on the scalp and fixed with a nipple expander. Thereafter, cranial drilling was carried out and the dura was opened to allow slow insertion of the puncture drainage tube, ensuring that the blood vessels on the surface of the cerebral cortex remained unaffected. To prevent over-aspiration and secondary bleeding, the needle core was withdrawn and $2/3$ of the HV was steadily aspirated. Patients with hydrocephalus caused by hematoma rupture into the ventricle also underwent external ventricular drainage (EVD).  
+
+Following completion of the surgical procedure, cranial CT scanning was performed to determine whether the puncture drainage tube had been positioned correctly. The remaining hematoma was subsequently dissolved using saline solution containing $4\mathrm{ml}$ of urokinase (50,000 U) administered 12 times daily. After three hours, the drainage conduit was re-opened. Further CT scanning of the head was carried out every two days to allowing monitoring of the drainage tube and remaining hematoma. The drainage catheter was removed once the hematoma clearance rate ranged between $80\%-90\%$ and no evidence of hydrocephalus or any other associated effects were observed (Figures 1 C and D).  
+
+# Observation index and effect evaluation  
+
+The preoperative preparation time; hematoma localization accuracy rate; satisfactory hematoma puncture rate (where satisfactory indicates location of the drainage tube at the largest level of the hematoma cavity and less satisfactory indicates deviation of the drainage tube from the largest level of the hematoma cavity); hematoma clearance rate [(preoperative HV - residual HV)/preoperative $\mathrm{HV}{\times}100\%\mathrm{]}$ ]; postoperative re-bleeding rate; GCS score after 7 days; and modified Rankin scale (mRS) score 6 months after surgery were compared between the two groups.  
+
+A chi-square test was used to compare categorical variables (expressed as counts and percentages), while numerical data with a normal distribution [expressed as mean and standard deviation (SD)] were compared using a t-test. All statistical analyzes were performed using SPSS (19.0; SPSS Inc., Chicago, IL), and a p-value $<0.05$ was considered to be statistically significant.  
+
+Table 1. Clinical characteristics of patients   
+
+
+<html><body><table><tr><td></td><td>3Dslicer +Sina APP</td><td>CT stereotaxic</td><td>P value</td></tr><tr><td>Sex(male/fmale)</td><td>17/21</td><td>20/18</td><td>0.491</td></tr><tr><td>Mean age(y)</td><td>72.7±6.1</td><td>74.8±5.0</td><td>0.114</td></tr><tr><td>Pre-operative GCS</td><td>9.1±3.4</td><td>9.2±3.0</td><td>0.935</td></tr><tr><td>SupratentorialHV(ml)</td><td>37.2±5.5</td><td>36.6±3.4</td><td>0.515</td></tr><tr><td>Cerebellar HV(ml)</td><td>9.5±2.4</td><td>10.4±4.1</td><td>0.231</td></tr><tr><td>Hematoma location:(right/left)</td><td>20/18</td><td>17/21</td><td>0.491</td></tr><tr><td>Supratentorial lobe</td><td>14 (36.8%)</td><td>13 (34.2%)</td><td>0.811</td></tr><tr><td>Basal ganglia</td><td>10 (26.3%)</td><td>13 (34.2%)</td><td>0.454</td></tr><tr><td>Thalamus-basal ganglia</td><td>6 (15.8%)</td><td>5 (13.2%)</td><td>0.744</td></tr><tr><td>Cerebellum</td><td>8 (21.0%)</td><td>7 (18.4%)</td><td>0.773</td></tr><tr><td>Hemorrhage into the ventricles</td><td>8 (21.0%)</td><td>10 (26.3%)</td><td>0.589</td></tr><tr><td>ICH-associated hydrocephalus:</td><td>16 (22.2%)</td><td>17 (23.6%)</td><td>0.843</td></tr><tr><td>Supra-ICH</td><td>10 (13.9%)</td><td>12 (16.7%)</td><td>0.643</td></tr><tr><td>Infratentorial-ICH</td><td>6 (8.3%)</td><td>5 (6.9%)</td><td>0.754</td></tr><tr><td>Surgery timing after onset(h)</td><td>7.4±4.8</td><td>8.6±5.1</td><td>0.306</td></tr><tr><td>Pre-operative preparation time(min)</td><td>8.5±3.4</td><td>15.5±2.7</td><td>0.000</td></tr><tr><td>Post-operative HV (ml)</td><td>12.7±0.6</td><td>13.2±0.5</td><td>0.599</td></tr><tr><td>Post-operative GCS at 7 days</td><td>12.6±1.9</td><td>12.1±2.2</td><td>0.188</td></tr></table></body></html>
+
+Data presented as mean standard deviation or n $(\%)$ . The 3DSlicer $^+$ Sina APP group had less preoperative preparation time than the CTguided stereotaxic group. APP, application; CT, computed tomography; GCS, Glasgow Coma Scale; ICH, Intracerebral hemorrhage; HV, hematoma volume.  
+
+# Results  
+
+No statistically significant differences in gender, age, preoperative GCS score, HV, postoperative HV, or surgical duration were observed between the two groups (pvalue ${>}0.05$ ). The preoperative preparation time was longer in Group B (CT-guided stereotactic assistance) compared to Group A (3DSlicer $^+$ Sina assistance; pvalue $<0.001$ ; Table 1).  
+
+Comparison of the pre- and postoperative HV and GCS scores showed that both groups exhibited a significant decrease in HV (p-value $<0.001$ , Figures 3 A and B) and an improvement in GCS scores (p-values $<0.001$ , Figures 3 C and D) postoperatively. Additionally, the hematoma and puncture site localization accuracy rates were identical in both groups $(100\%)$ .  
+
+No statistically significant differences in surgical duration, postoperative hematoma clearance rate, re-bleeding rate, or postoperative GCS and mRS scores were observed between the two groups (all p-values ${>}0.05$ , Table 2).  
+
+# Discussion  
+
+Numerous studies to date have examined the efficacy and safety of surgical treatment measures for ICH, with large-scale trials such as STICH I and STICH II suggesting that early surgical intervention for hematomas offered no significant advantage over initial conservative treatment measures. Moreover, the prognosis for elderly patients appeared to worsen with age. 10,11 A recent meta-analysis found that neurosurgical hematoma evacuation could be beneficial, particularly when performed promptly using minimally invasive techniques made more effective and efficient with the help of neuro-navigation systems. 12  
+
+The rapid progression and high morbidity, mortality, and disability rates of ICH in elderly patients often necessitates emergency treatment, and the prognosis of these patients is dependent on the quality of medical equipment and the expertise of the medical staff available. The increased risks associated with the presence of underlying diseases, poor compensatory capacity of various organs, and the use of general anesthesia for craniotomy often result in poor treatment outcomes and, as a result, the majority of elderly patients diagnosed with spontaneous ICH are treated conservatively. 5 Kaye KW first suggested that local anesthesia could be used safely in elderly patients in 1990 and, since then, emphasis has been laid on its use wherever practicable resulting in a decrease in the risk of surgical complications, shorter duration of hospitalization, and enhanced patient acceptance 13,14-16  
+
+The risk factors for ICH in elderly patients include arterial wall dysplasia, atherosclerosis, diabetes and, most commonly, hypertension. The majority of cerebral hemorrhages in elderly patients occur in the lobar region, accounting for approximately $12\%{-15\%}$ of cases. 17,18 Craniotomies can prove to be challenging in such patients due to difficulties associated with controlling bleeding, resulting in high rates of re-bleeding and poor surgical outcomes. Recent technological and medical advancements have demonstrated, however, that the risk of postoperative rebleeding in this patient population is comparable to that of other types of cerebral hemorrhage 19  
+
+![](images/c2e12a0bfb3f3d4a72cd1d4bdeae5e560f2f329ac3e6ca6942eae26bb1bcb028.jpg)  
+Figure 3. Pre-and post-operative hematoma volume (HV) and Glasgow Coma Scale (GCS) scoreswere compared in both groups; (A/B) HV was significantly reduced $\it{(P_{<}0.001)}$ and (C/D) GCSscores were improved $\it{(P_{<}0.001)}$ after surgery.  
+
+Bardutzky et al., 20 suggested that bedside MIPD combined with urokinase infusion therapy was a safe and feasible method of treating ICH, while Sun et al., 21 proposed that this procedure could also reduce the risk of postoperative rebleeding, thus decreasing mortality in patients with basal ganglion hemorrhages. As a result, MIPD was identified as a dependable and effective method for the treatment of ICH, particularly in geriatric and vulnerable patients.  
+
+For ICH treatment, various minimally invasive surgical procedures are available the majority of which are performed with the aid of neuro-navigation utilizing techniquies such as endoscopy or microscopy for hematoma removal or CT stereotactic for MIPD.  
+
+Katsuki et al., 22 and Hayashi et al., 23 showed that endoscopic procedures could be performed under local anesthesia and were less invasive and had shorter surgical durations than craniotomies. Consequently, the gradual replacement of conventional craniotomy by minimally invasive neurosurgical techniques can be attributed to an increase in our understanding of the benefits of this technique, with the shift primarily being driven by increased public acceptance and the perceived inevitability of this procedure becoming the treatment of choice in the future. Furthermore, the use of local anesthesia during MIPD can also minimize the risk of ventilator-associated pneumonia.  
+
+Table 2. Comparison of postoperative characteristics between the two groups   
+
+
+<html><body><table><tr><td></td><td>3Dslicer+SinaAPP</td><td>CTstereotaxic</td><td>Pvalue</td></tr><tr><td>The accuracy of localization and puncture(%)</td><td>100</td><td>100</td><td></td></tr><tr><td>Operation time(min)</td><td>22.7±3.2</td><td>21.5±4.8</td><td>0.172</td></tr><tr><td>Hematoma clearance rate(%)</td><td>87.7±3.1</td><td>90.5±2.1</td><td>0.417</td></tr><tr><td>Rebleeding rate(%)</td><td>10.5 (4/38)</td><td>15.8 (6/38)</td><td>0.497</td></tr><tr><td>Post-operative GCS at 7 days</td><td>12.6±1.9</td><td>12.1±2.2</td><td>0.188</td></tr><tr><td>mRSat6months</td><td>3.0±1.7</td><td>3.2±1.4</td><td>0.546</td></tr></table></body></html>
+
+Data presented as mean standard deviation or n $(\%)$ . No significant differences were found between the two groups. APP, application; CT, computed tomography; GCS, Glasgow Coma Scale; mRS, modified Rankin scale.  
+
+Endoscopic treatment of ICH with neuro-navigation is a minimally invasive approach with high accuracy; however, the high associated costs have limited the use of these devices, particularly in developing countries, resulting in low prevalence of these techniques. In the 1990s, Matsumoto et al., 6 and Mohadjer et al., 24 suggested that CT-guided stereotactic assisted MIPD was a suitable emergency treatment measure for patients diagnosed with ICH in various locations. However, difficulties in accurately localizing the intracranial hematomas prevented widespread use of this technique at the time.  
+
+Although using 3D CTguided stereotactic methods for the localization of intracranial hematomas is beneficial, it is associated with certain limitations such as the need for equipment installation and a second CT scan which can be time consuming and also challenging for young neurosurgeons to master. More recently, 3D printed navigation molds have been used for preoperative planning of MIPD and satisfactory surgical outcomes have been observed. 25,26 Although this technique can be easily learned by novice neurosurgeons and the need for a second CT scan can be eliminated, its use is limited by the availability of 3D printing equipment. Moreover, the process of creating and printing a 3D model is time consuming, which can be unsuitable for emergency treatment of ICH. Bardutzky et al., 27 proposed an alternative approach wherein ICH management included free-hand bedside catheter evacuation using a 3D-reconstructed CT scan; however, this technique requires precise localization of the hematoma and puncture site and calculation of the puncture direction and depth. These tasks require the expertize of an experienced neurosurgeon and may, therefore, be challenging for less experienced practitioners.  
+
+3DSlicer is a free open-source 3D medical image processing software that supports multiple operating systems (Windows, Linux, and Mac). It is simple to learn and implement and is widely used for preoperative planning, accurate calculation of hematoma volume, and simulation of the surgical path for hematoma removal during treatment of ICH. 8 Sina is a free Android medical image projection application that is also easy to implement and is extensively used for precise real-time lesion localization during neurosurgery. 28 A combination of the 3DSlicer and Sina application have been previously used for preoperative planning when treating various brain lesions such as tumors and ICH. 29,7  
+
+Based on the evidence provided by Bardutzky et al., 27 and Sun et al., 7 the current study used a combination of the 3DSlicer and Sina application to carry out 3D reconstruction, lesion localization, and simulation of the drainage tube puncture access to enable free-hand hematoma puncture and drainage. The accuracy of hematoma localization using this method was found to be comparable to that of CT-guided stereotaxis, with no significant differences in hematoma puncture and clearance efficacy being observed. However, the former procedure is more intuitive, provides a 3D image, does not require a second CT scan, has a shorter preoperative preparation time, and is easier to perform.  
+
+As the free-hand MIPD procedure is performed and is, therefore, less accurate than a 3D printed puncture channel, neurosurgeons can benefit from preoperative 3D simulation of the hematoma puncture direction and depth. This procedure does not require extensive equipment or neurosurgical experience, making it suitable for use even in countries with under-developed health care systems. Furthermore, 3D-printed navigation molds to ascertain the direction and depth of the puncture can be particularly beneficial in patients with deep brainstem hemorrhages that are difficult to treat using free-hand MIPD. 30 Although the current study only included patients diagnosed with ${\mathrm{ICH}},$ previous evidence suggests that these procedures can also be used for the treatment of epidural hematomas. 31  
+
+# Limitations  
+
+The current study had several limitations. Firstly, the sample size was small thus limiting generalizability of the findings, and larger studies are needed to confirm this. Secondly, this study assessed the efficacy of MIPD conducted under local anesthesia using 3DSlicer $^+$ Sina or CT-guided stereotaxis only and no other therapeutic measures were evaluated.  
+
+# Conclusion  
+
+In conclusion, a combination of the 3DSlicer and Sina application can be used for accurately identifying hematomas. This procedure may also be preferred over CTguided stereotactic localization in clinical practice due to its ease of use and ability to simplify MIPD surgeries conducted under local anesthesia in elderly ICH patients exhibiting stable vital signs.  
+
+# Human and animal rights  
+
+The authors declare that the work described has been carried out in accordance with the Declaration of Helsinki of the World Medical Association revised in 2013 for experiments involving humans as well as in accordance with the EU Directive 2010/63/EU for animal experiments.  
+
+# Author contributions  
+
+All authors attest that they meet the current International Committee of Medical Journal Editors (ICMJE) criteria for Authorship.  
+
+# Declaration of Competing Interest  
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.  
+
+Funding: This work did not receive any grant from funding agencies in the public, commercial, or not-for-profit sectors.  
+
+# References  
+
+1. Inoue Y, Miyashita F, Minematsu K, et al. Clinical Characteristics and Outcomes of Intracerebral Hemorrhage in Very Elderly. J Stroke Cerebrovasc Dis 2018;27:97-102. 2. Cordonnier C, Demchuk A, Ziai W, et al. Intracerebral haemorrhage: current approaches to acute management. Lancet 2018;392:1257-1268.   
+3. Bauer AM, Rasmussen PA, Bain MD. Initial Single-Center Technical Experience With the BrainPath System for Acute Intracerebral Hemorrhage Evacuation. Oper Neurosurg (Hagerstown) 2017;13:69-76.   
+4. Ziai W, Nyquist P, Hanley DF. Surgical Strategies for Spontaneous Intracerebral Hemorrhage. Semin Neurol 2016;36:261-268.   
+5. Yang K, Zhang Y, Song J, et al. Minimally invasive puncture and drainage versus craniotomy: basal ganglia intracerebral hemorrhage in elderly patients. J Integr Neurosci 2019;18:193-196.   
+6. Matsumoto K, Hondo H. CT-guided stereotaxic evacuation of hypertensive intracerebral hematomas. J Neurosurg 1984;61:440-448.   
+7. Sun GC, Chen $\mathrm{xL,}$ Hou ${\mathrm{YZ}},$ et al. Image-guided endoscopic surgery for spontaneous supratentorial intracerebral hematoma. J Neurosurg 2017;127:537-542.   
+8. Liao ${\mathrm{R}},$ Liu $\mathrm{L},$ Song B, et al. 3D-Slicer Software-Assisted Neuroendoscopic Surgery in the Treatment of Hypertensive Cerebral Hemorrhage. Comput Math Methods Med 2022;2022:7156598.   
+9. Chen M, Li $Z,$ Ding J, et al. Comparison of Common Methods for Precision Volume Measurement of Hematoma. Comput Math Methods Med 2020;2020:6930836.   
+10. Mendelow AD, Gregson BA, Rowan EN, et al. Early surgery versus initial conservative treatment in patients with spontaneous supratentorial lobar intracerebral haematomas (STICH II): a randomised trial. Lancet 2013;382:397-408.   
+11. Mendelow AD, Gregson BA, Fernandes HM, et al. Early surgery versus initial conservative treatment in patients with spontaneous supratentorial intracerebral haematomas in the International Surgical Trial in Intracerebral Haemorrhage (STICH): a randomised trial. Lancet 2005;365:387-397.   
+12. Kobata H, Ikeda N. Recent Updates in Neurosurgical Interventions for Spontaneous Intracerebral Hemorrhage: Minimally Invasive Surgery to Improve Surgical Performance. Front Neurol 2021;12:703189.   
+13. Kaye KW. Surgery using local anesthesia in the elderly. Clin Geriatr Med 1990;6:85-99.   
+14. Pan W, Ruan B. Surgical decompression via the unilateral intervertebral foraminal approach with local anesthesia for treating elderly patients with lumbar central canal stenosis. Neurosurg Focus 2021;51:E5.   
+15. Mahmood SD, Waqas M, Baig ${\mathrm{MZ}},$ et al. Mini-Craniotomy Under Local Anesthesia for Chronic Subdural Hematoma: An Effective Choice for Elderly Patients and for Patients in a Resource-Strained Environment. World Neurosurg 2017;106:676-679.   
+16. Balentine CJ, Meier J, Berger M, et al. Using local rather than general anesthesia for inguinal hernia repair is associated with shorter operative time and enhanced postoperative recovery. Am J Surg 2021;221:902-907.   
+17. Poyuran $\mathrm{R},$ Mahadevan A, Arimappamagan A, et al. Cerebrovascular pathology in cerebral amyloid angiopathy presenting as intracerebral haemorrhage. Virchows Arch 2019;474:235-245.   
+18. Thanvi B, Robinson T. Sporadic cerebral amyloid angiopathyan important cause of cerebral haemorrhage in older people. Age Ageing 2006;35:565-571.   
+19. Petridis AK, Barth H, Buhl R, et al. Outcome of cerebral amyloid angiopathic brain haemorrhage. Acta Neurochir (Wien) 2008;150:889-895.   
+20. Bardutzky J, Hieber M, Roelz ${\mathrm{R}},$ et al. Cerebral amyloid angiopathy-related intracerebral hemorrhage: Feasibility and safety of bedside catheter hematoma evacuation with urokinase. Clin Neurol Neurosurg 2020;190:105655.   
+21. Sun H, Liu H, Li D, et al. An effective treatment for cerebral hemorrhage: minimally invasive craniopuncture combined with urokinase infusion therapy. Neurol Res 2010;32:371-377.   
+22. Katsuki M, Kakizawa Y, Nishikawa A, et al. Endoscopic hematoma removal of supratentorial intracerebral hemorrhage under local anesthesia reduces operative time compared to craniotomy. Sci Rep 2020;10:10389.   
+23. Hayashi T, Karibe H, Akamatsu $\Upsilon,$ et al. Endoscopic Hematoma Evacuation for Intracerebral Hemorrhage Under Local Anesthesia: Factors That Affect the Hematoma Removal Rate. World Neurosurg 2019;126:e1330- e1336.   
+24. Mohadjer M, Eggert R, May J, et al. CT-guided stereotactic fibrinolysis of spontaneous and hypertensive cerebellar hemorrhage: long-term results. J Neurosurg 1990;73:217-222.   
+25. Xu $HZ,$ Guo J, Wang C, et al. A Novel Stereotactic Aspiration Technique for Intracerebral Hemorrhage. World Neurosurg 2022.   
+26. Zhang J, Cheng H, Zhou S, et al. 3D-printed modelguided endoscopic evacuation for basal ganglia hemorrhage. Sci Rep 2020;10:5196.   
+27. Bardutzky J, Shah M, Lambeck J, et al. Emergency FreeHand Bedside Catheter Evacuation of Large Intracerebral Hematomas Following Thrombolysis for Ischemic Stroke: A Case Series. Neurocrit Care 2020;33:207-217.   
+28. Hou X, Yang DD, Li D, et al. 3D Slicer and Sina appilication for surgical planning of giant invasive spinal schwannoma with scoliosis: A case report and literature review. Neurochirurgie 2020;66:396-399.   
+29. Zhou L, Wang W, Wei H, et al. Clinical application of 3D Slicer combined with Sina/MosoCam multimodal system in preoperative planning of brain lesions surgery. Sci Rep 2022;12:19258.   
+30. Wang $\mathrm{Q},$ Guo W, Liu Y, et al. Application of a 3D-Printed Navigation Mold in Puncture Drainage for Brainstem Hemorrhage. J Surg Res 2020;245:99-106.   
+31. Zhao $\mathrm{\Delta}X,$ Jiang H, Liu G, et al. Efficacy analysis of 33 cases with epidural hematoma treated by brain puncture under CT surveillance. Turk Neurosurg 2014;24:323-326.  

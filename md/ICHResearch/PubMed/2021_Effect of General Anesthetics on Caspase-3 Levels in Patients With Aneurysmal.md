@@ -1,0 +1,132 @@
+# Effect of General Anesthetics on Caspase-3 Levels in Patients With Aneurysmal Subarachnoid Hemorrhage: A Preliminary Study  
+
+Mukilan Balasubramanian, DM,\* Aswini Kuberan, MD,† Amit Rawat, MD,‡   
+Sivashanmugam Dhandapani, Mch, $\S$ Nidhi Panda, $MD^{*}$ Ajay Kumar, MD,∥ Asish K. Sahoo, DM,\* Munish Kumar, $PhD,^{*}$ Tanavi Sharma, PhD,\* Paul S. Garcia, MD, $PhD,\P$ and Hemant Bhagat, $DM^{*}$  
+
+Background: General anesthesia has been associated with neuronal apoptosis and activation of caspases. Apoptosis is a crucial factor in early brain injury following aneurysmal subarachnoid hemorrhage (aSAH). We conducted a double-blind, prospective, randomized pilot study to evaluate the effect of 4 anesthetic agents on cerebrospinal fluid (CSF) and serum caspase-3 levels in aSAH patients.  
+
+Materials and Methods: A total of 44 good-grade aSAH patients with preoperative lumbar drain scheduled for surgical clipping or endovascular coiling were randomized to receive maintenance of anesthesia with propofol, isoflurane, sevoflurane, or desflurane. Caspase-3 levels were measured in CSF and serum samples collected at baseline, 1 hour after induction, and 1 hour after cessation of anesthesia.  
+
+Results: Compared with baseline, there was a decrease in CSF caspase-3 levels and an increase in serum caspase-3 levels 1 hour after exposure to all 4 anesthetic agents; levels returned to baseline values after cessation of anesthesia. Median CSF caspase-3 levels at baseline, 1 hour after anesthesia exposure, and 1 hour after cessation of anesthesia were 0.0679, 0.0004, and $0.0689\mathrm{ng/mL}$ , respectively $(P<0.05)$ . Median serum caspase-3 levels at baseline, 1 hour after anesthesia exposure, and 1-hour after cessation of anesthesia were 0.0028, 0.0682, and $0.0044\mathrm{ng/}$ mL, respectively $(P<0.05)$ .  
+
+Copyright $\copyright$ 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited. This paper can be cited using the date of access and the unique DOI number which can be found in the footnotes.  
+
+Conclusions: Propofol, isoflurane, sevoflurane, or desflurane have similar effects on CSF and serum caspase-3. The reduction of intraoperative CSF caspase-3 levels suggests a possible role for general anesthesia in neuroresuscitation by slowing the neuronal apoptotic pathway.  
+
+Key Words: aneurysmal subarachnoid hemorrhage, anesthetics, caspase-3  
+
+(J Neurosurg Anesthesiol 2019;00:000–000)  
+
+Aneurysmal subarachnoid hemorrhage (aSAH) is a type of hemorrhagic stroke that activates acute neuroinflammatory and neuroapoptotic pathways,1,2 leading to worsened neuronal injury.3 Many aSAH patients receive general anesthesia (GA) for interventions to secure the aneurysm and prevent aneurysmal rebleeding, or for the management of complications such as hydrocephalus. Although GA has been used for decades, we are still pondering on its physiological mechanism of action and molecular targets. Various biological effects of anesthetic agents, including mitochondrial dysfunction, neuroinflammation, and neuronal apoptosis, have been described in different subsets of patients.4–6 In this context, it is pertinent to evaluate the effects of GA on ongoing neuroapoptosis in patients with aSAH.  
+
+The final common neurodegenerative pathway after neurological injury is neuroapoptosis with activation of caspases.7 Caspase-3, also referred to as Yama (Hindu god of death), is a key mediator of apoptosis that is also activated by various anesthetic agents.6,8–10 Caspase-3 levels in blood and cerebrospinal fluid (CSF) have been used as a marker of neuroapoptosis.3,11,12 We hypothesized that anesthetics may affect serum and CSF caspase-3 levels in patients with aSAH. Consequently, the aim of this study was to evaluate the effect of 4 anesthetic agents on serum and CSF caspase-3 levels after aSAH.  
+
+# MATERIALS AND METHODS  
+
+We conducted a double-blinded randomized trial to evaluate the effect of 4 anesthetic agents on CSF and serum caspase-3 levels in aSAH patients. This trial was approved by the local Institutional Ethics Committee and registered on Clinicaltrials.gov (NCT03213392). Written informed consent was obtained from all participants or next of kin. Patients aged 18 to 65 years with good-grade aSAH (Hunt and Hess score I-II, WFNS I-II, Fisher grade 1 to 2) who had a lumbar catheter placed for CSF drainage as a strategy to prevent cerebral vasospasm and who were scheduled to undergo either surgical clipping by supraorbital keyhole craniotomy or endovascular coiling were prospectively enrolled into the trial. Exclusion criteria were pregnancy, giant aneurysms, preexisting neurological or neurodegenerative disease, psychiatric disease, history of drug abuse, cancer, or any immune deficiency. Patients were excluded following recruitment and randomization if any of the following intraoperative complications occurred: massive blood loss, prolonged $(>20\mathrm{min})$ temporary clipping time, severe intraoperative brain swelling requiring extended craniotomy, lobectomy, or leading to inability to replace the bone flap.  
+
+# Randomization  
+
+Patients eligible for inclusion in the study were sequentially allocated to receive propofol, isoflurane, sevoflurane, or desflurane for maintenance of anesthesia using a computer-generated double-blinded stratified randomization system (www.randomiser.org). Concealment was ensured using sequentially numbered sealed opaque envelopes. A single researcher (H.B.), who was not involved in data collection or patient follow-up, opened the envelope. The anesthetics were administered according to group allocation. Patients and operating surgeons were blinded to anesthesia type.  
+
+# Anesthesia  
+
+Intraoperative monitoring consisted of noninvasive and invasive blood pressure, electrocardiography, pulse oximetry, capnography, and state entropy. After preloading with normal saline $(10\mathrm{mL}/\mathrm{kg})$ , anesthesia was induced in all patients with fentanyl $2\upmu\mathrm{g/kg}$ , propofol 1 to $2\mathrm{mg/kg}$ , and vecuronium $0.1\mathrm{mg/kg}$ to facilitate tracheal intubation. Maintenance of anesthesia was according to group allocation with a 50:50 oxygen:air mix and fentanyl infusion (0.5 to $2\upmu\mathrm{g/kg/h}$ ). Depth of anesthesia was titrated to maintain state entropy between 40 and 60, and the ventilation was adjusted to maintain end-tidal carbon dioxide between 32 and $36\mathrm{mmHg}$ . Normothermia was maintained throughout. Residual neuromuscular blockade was reversed at the end of the procedure and the patients extubated. Those patients who could not be extubated for clinical reasons were transferred to the neurosurgical intensive care unit for ventilatory support and further management.  
+
+Copyright $\copyright$ 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited. This paper can be cited using the date of access and the unique DOI number which can be found in the footnotes.  
+
+# Data Collection  
+
+Demographic (age, sex, weight, aSAH grade, comorbidities) and intraoperative (intervention type, duration of anesthesia, duration of intervention, time since ictus) data were recorded.  
+
+# CSF and Serum Samples  
+
+CSF and serum samples were collected preoperatively (baseline), 1 hour after induction of anesthesia, and 1 hour after cessation of anesthesia. Using a sterile aseptic technique, $2\mathrm{mL}$ of CSF was collected from the lumbar drain via the 3-way port closest to the patient. Venous blood was simultaneously collected into plain vacutainers. The CSF samples were centrifuged and pipetted into cryovials in 1-mL aliquots. Blood samples were allowed to clot in the plain vacutainers at room temperature for 1 hour and then centrifuged at $2000\mathrm{rpm}$ for 15 minutes to separate out the serum, which was pipetted into cryovials in $1{\cdot}\mathrm{mL}$ aliquots. All samples were stored at $-80^{\circ}\mathrm{C}$ until analysis.  
+
+# Caspase-3 Analysis  
+
+The CSF and serum samples were processed in the laboratory by a blinded investigator (A.R.). Total (activated and nonactivated) caspase 3 levels were assessed using enzyme analysis with a high sensitivity quantitative ELISA kit (CASP3 Elisa kit-human caspase 3 ELISA kit-MBS7220664, MyBioSource, San Diego) with precoated antigen wells and known standard with a double-antibody sandwich technique (Infinite 200 PRO NanoQuant, Tecan Trading AG, Switzerland). A competitive enzyme immunoassay technique utilizing a monoclonal anti-CASPASE-3 antibody and a caspase-3-HRP (horseradish peroxidase) conjugate was used. The product of the enzyme-substrate reaction forms a bluecolored complex that turns yellow after adding stop solution. The intensity of color measured spectrophotometrically is inversely proportional to the caspase-3 concentration. A standard curve is plotted relating intensity of the color (optical density) to the concentration of standards.  
+
+# Statistical Methods  
+
+As this was a preliminary study, we recruited 44 patients as a sample size of convenience on the basis of feasibility and financial resources. Statistical analysis was performed using Statistical Package for Social Sciences (SPSS Inc., Chicago, IL, version 16.0 for Windows). Data are presented as mean or median for all quantitative variables, with SD or SE for measures of dispersion. Normality of data was checked by the Shapiro-Wilk test of normality. For normally distributed data, means of 2 different groups were compared using a t test. For skewed data and ordinal data, the Mann-Whitney test or KruskalWallis test was applied. Qualitative or categorical variables are presented as frequencies and proportions. Proportions were compared using $\chi^{2}$ or Fisher exact tests. For timerelated normally distributed data, 1-way analysis of variance and, for skewed data, Friedman 2-way analysis of variance, were applied. Post hoc analysis was conducted for significant  
+
+# 2 | www.jnsa.com  
+
+Copyright $\copyright$ 2019 Wolters Kluwer Health, Inc. All rights reserved.  
+
+![](images/608e8275e75581f00bc97bc299ff782b238196dcd3d4e155310b14773ba92f39.jpg)  
+FIGURE 1. Consort flow diagram of patient participation. CSF indicates cerebrospinal fluid.  
+
+data. All statistical tests were 2-sided and performed at a significance level of $\upalpha$ error of $5\%$ .  
+
+# RESULTS  
+
+A total of 202 aSAH patients scheduled for surgical clipping or endovascular coiling under GA were screened for eligibility; 158 were excluded and 44 included in the study. Baseline serum samples were collected in all 44 patients. However, owing to exclusion of patients due to surgical complications, serum samples were analyzed in 32 patients. Of the 32 patients included in the final analysis, CSF samples were obtained and analyzed in 24 (Fig. 1).  
+
+Patient characteristics were similar between groups (Table 1). CSF and serum caspase-3 levels at baseline, 1hour after induction of anesthesia, and 1 hour after cessation of anesthetic exposure were also similar between the 4 groups (Fig. 2).  
+
+Copyright $\copyright$ 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited. This paper can be cited using the date of access and the unique DOI number which can be found in the footnotes.  
+
+CSF caspase-3 levels decreased from baseline 1 hour after anesthesia exposure, with return to baseline levels after cessation of anesthesia; median CSF caspase-3 levels at baseline, 1 hour after anesthesia exposure, and 1 hour after cessation of anesthesia were 0.0679, 0.0004, and $0.0689\mathrm{ng/mL}$ , respectively $(P<0.05)$ (Fig. 2A). Serum caspase-3 levels increased from baseline 1 hour after anesthesia, with return to baseline levels after cessation of anesthesia; median serum caspase-3 levels at baseline, 1 hour after anesthesia exposure, and 1 hour after cessation of anesthesia were 0.0028, 0.0682, and $0.0044\mathrm{ng/mL}$ , respectively $(P<0.05)$ (Fig. 2B).  
+
+# DISCUSSION  
+
+This study found no differences in anesthesia-induced changes in CSF and serum caspase-3 during maintenance of anesthesia with propofol, isoflurane, sevoflurane, or desflurane, suggesting that all 4 agents had a similar effect on neuronal apoptosis. Following aSAH, early brain injury occurs within 72 hours and is a major determinant of neurological outcome. Of the multiple complex mechanisms of early brain injury, apoptosis is regarded as one of the most crucial factors.14,15 Although many molecules are involved in the apoptotic pathway, caspase-3 is the common essential component.16  
+
+TABLE 1. Patient Characteristics   
+
+
+<html><body><table><tr><td></td><td>Propofol (n = 8)</td><td>Isoflurane (n =8)</td><td>Sevoflurane (n =8)</td><td>Desflurane (n=8)</td></tr><tr><td>Age (y)</td><td>60</td><td>46</td><td>43.5</td><td>54.5</td></tr><tr><td>Sex(male/female)</td><td>0/8</td><td>4/4</td><td>3/5</td><td>5/3</td></tr><tr><td>Weight (kg)</td><td>62.5±10.69</td><td>65±6.546</td><td>68.75±9.910</td><td>72.5±13.093</td></tr><tr><td>ASAgradeIE/IIE</td><td>5/3</td><td>5/3</td><td>6/2</td><td>4/4</td></tr><tr><td>Comorbidities HTN/DM/COPD/obesity</td><td>2/1/0/0</td><td>2/2/0/0</td><td>1/1/0/0</td><td>3/1/0/0</td></tr><tr><td>Hunt andHess grade (I/II/III)</td><td>2/6/0</td><td>0/8/0</td><td>0/8/0</td><td>2/6/0</td></tr><tr><td>Fisher grade (I/II/III/IV)</td><td>6/2/0/0</td><td>5/3/0/0</td><td>7/1/0/0</td><td>5/3/0/0</td></tr><tr><td>WFNS grade (I/II)</td><td>6/2</td><td>4/4</td><td>5/3</td><td>8/0</td></tr><tr><td>Duration of anesthesia (min)</td><td>230.88±88.45</td><td>202.50 ± 66.39</td><td>216.50± 52.86</td><td>255.88±71.80</td></tr><tr><td>Duration ofintervention (min)</td><td>176.75±81.3</td><td>146.38±55.78</td><td>169.13 ± 46.71</td><td>187.38± 74.170</td></tr><tr><td>Time from aSAH to admission (d)</td><td>1.5</td><td>2.5</td><td>1.5</td><td>4</td></tr><tr><td>Time from aSAH tointervention (d)</td><td>3</td><td>2.5</td><td>3</td><td>4.5</td></tr><tr><td>Clipping/coiling</td><td>4/4</td><td>4/4</td><td>4/4</td><td>4/4</td></tr></table></body></html>
+
+Values are presented as mean $\pm\mathrm{SD}$ . ASA indicates American Society of Anesthesiologists; aSAH, aneurysmal subarachnoid hemorrhage; COPD, chronic obstructive pulmonary disease; DM, diabetes mellitus; HTN, hypertension; WFNS, World Federation of Neurosurgical Societies.  
+
+Caspase-3 is not detected in the serum or CSF of healthy adults16; hence, measurable levels before induction of anesthesia in our study is suggestive of aSAH-related early brain injury and neuroapoptosis.16,17 All 4 anesthetic agents resulted in a decrease in CSF caspase-3 levels compared with baseline, suggesting that anesthesia might have a resuscitative effect on the ongoing biochemical process of early brain injury and thereby potentially prevent further neuronal damage. Reductions in cerebral ATP consumption, excitotoxicity, or metabolic oxygen demand secondary to anesthesia are plausible explanations for these postconditioning effects.18 However, these effects were temporary; CSF caspase-3 level returned to baseline levels  
+
+Copyright $\copyright$ 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited. This paper can be cited using the date of access and the unique DOI number which can be found in the footnotes.  
+
+after cessation of anesthesia. Thus, our findings suggest a transient resuscitative role of anesthesia in this context rather than a protective effect. Although there are no data comparing the intraoperative effects of anesthetic agents on CSF bio-markers, our postoperative findings are similar to those of Berger et al19 who found no difference in markers of Alzheimer disease in patients undergoing neurosurgical procedures with isoflurane or propofol anesthesia.  
+
+The effects of anesthesia on intraoperative serum caspase-3 levels in this study were opposite to those on CSF caspase-3 levels. We identified increases in serum caspase-3 after exposure to anesthesia, likely reflecting the systemic effects of anesthetic agents. Our observations are similar to those of Loop et al10 who found that anesthesia can stimulate apoptotic changes in human T cells or lymphocytes, leading to raised serum caspase-3 levels.  
+
+The differences in CSF and serum caspase-3 level responses to anesthesia may be due to the differential effects of anesthetic agents on different organ systems. CSF is the biofluid that bathes the central nervous system and, consequently, the effects of anesthetics on the injured brain are  
+
+![](images/059f08b358f2fc4e3f8b2d84a034bd6a9a4c44193a5b8012487ea4d82cb4fecf.jpg)  
+FIGURE 2. CSF caspase-3 levels (A); serum caspase-3 levels (B). Data are shown as median with error bars indicating $95\%$ confidence interval. # $\cdotP<0.05$ . CSF indicates cerebrospinal fluid.  
+
+4 | www.jnsa.com  
+
+better reflected by CSF caspase-3 levels. Serum caspase-3, on the other hand, predominantly reflects apoptotic changes in human immunologic cells.10 The results of our study raise the possibility that administration of anesthetics might provide transient postconditioning neuroresuscitation following aSAH. This finding is clinically relevant in the present era of debate with regard to the neurotoxic potential of anesthetic agents.  
+
+The major limitation of our study is the small sample size. Another drawback is that we used only one biomarker—caspase-3—and limited the study to the perioperative period. Moreover, the relationship between CSF caspase-3 levels and brain injury is an indirect one. Further studies are required to confirm our findings and to correlate caspase-3 levels with different severity of aSAH.  
+
+In conclusion, maintenance of anesthesia with propofol, isoflurane, sevoflurane, or desflurane had a similar effect on CSF and serum caspase-3 in aSAH patients. There was a decrease in CSF and increase in serum caspase-3 levels following anesthesia, with return to near baseline levels after cessation of anesthesia. The reduction in CSF caspase-3 levels during general anesthesia raises the possibility of a postconditioning and neuroresuscitative effect in the context of an acute neurological insult.  
+
+# ACKNOWLEDGMENT  
+
+The authors acknowledge the contribution of Late Professor K.K. Mukherjee who helped in conceptualizing and supporting the research work.  
+
+# REFERENCES  
+
+1. Hanafy KA. The role of microglia and the TLR4 pathway in neuronal apoptosis and vasospasm after subarachnoid hemorrhage. J Neuroinflammation. 2013;10:83.   
+2. Okada T, Suzuki H. Toll-like receptor 4 as a possible therapeutic target for delayed brain injuries after aneurysmal subarachnoid hemorrhage. Neural Regen Res. 2017;12:193–196.   
+3. Wang J, Wang JF, Hu XM. Caspase-3 in serum predicts outcome after aneurysmal subarachnoid haemorrhage. Clin Chim Acta. 2016; 460:196–202.   
+4. Hudson AE, Hemmings HC Jr. Are anesthetics toxic to the brain? Br J Anaesth. 2011;107:30–37.  
+
+Copyright $\copyright$ 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited. This paper can be cited using the date of access and the unique DOI number which can be found in the footnotes.  
+
+5. Cheng Y, He L, Prasad V, et al. Anesthesia-induced neuronal apoptosis in the developing retina: a window of opportunity. Anesth Analg. 2015;121:1325–1335.   
+6. Lei X, Guo Q, Zhang J. Mechanistic insights into neurotoxicity induced by anesthetics in the developing brain. Int J Mol Sci. 2012;13: 6772–6799.   
+7. Yon JH, Daniel-Johnson J, Carter LB, et al. Anesthesia induces neuronal cell death in the developing rat brain via the intrinsic and extrinsic apoptotic pathways. Neuroscience. 2005;135:815–827.   
+8. Tewari M, Quan LT, O’Rourke K, et al. Yama/CPP32 beta, a mammalian homolog of CED-3, is a CrmA-inhibitable protease that cleaves the death substrate poly(ADP-ribose) polymerase. Cell. 1995; 81:801–809.   
+9. Zhang Y, Dong Y, Wu X, et al. The mitochondrial pathway of anesthetic isoflurane-induced apoptosis. J Biol Chem. 2010;285: 4025–4037.   
+10. Loop T, Dovi-Akue D, Frick M, et al. Volatile anesthetics induce caspase-dependent, mitochondria-mediated apoptosis in human T lymphocytes in vitro. Anesthesiology. 2005;102:1147–1157.   
+11. Pascotini ET, Flores AE, Kegler A, et al. Apoptotic markers and DNA damage are related to late phase of stroke: involvement of dyslipidemia and inflammation. Physiol Behav. 2015;151:369–378.   
+12. Uzan M, Erman H, Tanriverdi T, et al. Evaluation of apoptosis in cerebrospinal fluid of patients with severe head injury. ActaNeurochir (Wien). 2006;148:1157–1164.   
+13. Sabri M, Lass E, Macdonald RL. Early brain injury: a common mechanism in subarachnoid hemorrhage and global cerebral ischemia. Stroke Res Treat. 2013;2013:394036.   
+14. Connolly ES Jr, Rabinstein AA, Carhuapoma JR, et al. Guidelines for the management of aneurysmal subarachnoid hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2012;43: 1711–1737.   
+15. Chen S, Feng H, Sherchan P, et al. Controversies and evolving new mechanisms in subarachnoid hemorrhage. Prog Neurobiol. 2014;115: 64–91.   
+16. Harter L, Keel M, Hentze H, et al. Caspase-3 activity is present in cerebrospinal fluid from patients with traumatic brain injury. J Neuroimmunol. 2001;121:76–78.   
+17. Kacira T, Kemerdere R, Atukeren P, et al. Detection of caspase-3, neuron specific enolase, and high-sensitivity C-reactive protein activities in both cerebrospinal fluid and serum of patients after aneurysmal subarachnoid hemorrhage. Neurosurgery. 2007;60:674–679.   
+18. Jevtovic-Todorovic V. General anesthetics and neurotoxicity: how much do we know? Anesthesiol Clin. 2016;34:439–451.   
+19. Berger M, Nadler JW, Friedman A, et al. The effect of propofol versus isoflurane anesthesia on human cerebrospinal fluid markers of Alzheimer’s disease: results of a randomized trial. J Alzheimers Dis. 2016;52:1299–1310.  
