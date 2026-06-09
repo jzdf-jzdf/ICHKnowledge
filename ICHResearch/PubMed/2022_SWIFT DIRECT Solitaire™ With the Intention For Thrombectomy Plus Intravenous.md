@@ -1,0 +1,146 @@
+# SWIFT DIRECT: SolitaireTM With the Intention For Thrombectomy Plus Intravenous t-PA Versus DIRECT SolitaireTM Stent-retriever Thrombectomy in Acute Anterior Circulation Stroke: Methodology of a randomized, controlled, multicentre study  
+
+Urs Fischer1 $\circledcirc$ , Johannes Kaesmacher2 ${\mathfrak{o}}_{i}$ , Patricia S Plattner2, Lukas Butilkofer', Pasquale Mordasini², Sandro Deppeler2, Christoph Cognard4, Vitor M Pereira5, Adnan H Siddiqui6 Michael T Froehler', Anthony J Furlan, René Chapot”, Daniel Strbian10, Martin Wiesmann11, Jenny Bressan1 $\circledcirc$ Stefanie Lerch1 $\circledcirc$ , David S Liebeskind13, Jeffery L Saver12 and Jan Gralla2; on behalf of the SWIFT DIRECT study investigators  
+
+# Abstract  
+
+Rationale: Whether treatment with intravenous alteplase prior to mechanical thrombectomy (MT) in acute ischemic stroke patients with large vessel occlusion is beneficial remains unclear.  
+
+Aim: To determine whether patients experiencing acute ischemic stroke due to occlusion of the intracranial internal carotid artery or the M1 segment of the middle cerebral artery who are referred to an endovascular stroke center and who are candidates for intravenous alteplase will have non-inferior functional outcome at 90 days when treated with MT alone (direct MT) with stent retrievers compared to patients treated with combined intravenous thrombolysis (IVT) with alteplase plus MT $(|\mathsf{VT}+\mathsf{MT})$ with stent retrievers.  
+
+Sample size: To randomize 404 patients 1:1 to direct MT or combined IVTþMT.  
+
+Methods and design: A multicenter, prospective, randomized, open-label, blinded-endpoint (PROBE) trial utilizing an adaptive statistical design.  
+
+Outcomes: The primary efficacy endpoint is functional independence (modified Rankin Scale 0–2) at 90 days. Secondary clinical efficacy outcomes include change in National Institutes of Health Stroke Scale score from baseline to day 1 and health-related quality of life at 90 days. Secondary technical efficacy outcomes include successful reperfusion prior to start of MT and time from randomization to successful reperfusion. Safety outcomes include all serious adverse events, symptomatic intracranial hemorrhage, and mortality up to 90 days.  
+
+Discussion: SWIFT DIRECTwill inform physicians whether direct MT in acute ischemic stroke patients with large vessel occlusion is equally or more efficacious than combined treatment with intravenous alteplase and MT.  
+
+Trial registration: ClinicalTrials.gov Identifier: NCT03192332  
+
+# Keywords  
+
+Ischemic stroke, large vessel occlusion, alteplase, stent retriever  
+
+Received: 16 June 2021; accepted: 24 August 2021  
+
+# Introduction and rationale  
+
+Randomized-controlled studies have shown that patients with an acute ischemic stroke (AIS) with a large vessel occlusion (LVO) in the anterior circulation who are eligible for intravenous thrombolysis (IVT) with alteplase benefit more from mechanical thrombectomy (MT) following IVT than from IVT alone.1 However, as all these studies evaluated MT on the background of administering IVT to IVT-eligible patients, they did not address, in a randomized fashion, whether IVT before MT adds additional benefit compared with direct MT alone.2–4 An individual patient data meta-analysis comparing use versus non-use of MT in IVT-eligible patients treated with $\mathbf{IVT+MT}$ with use versus non-use of MT in IVT-ineligible patients treated with direct MT found no significant difference in the treatment benefit conferred by MT.1  
+
+IVT prior to MT may benefit patients by yielding faster reperfusion, before MT device placement, by conditioning thrombi to respond better to MT resulting in more frequent endovascular clot removal, and by dissolving residual or newly embolized thrombi in distal vessels beyond device reach.2 Conversely, IVT prior to MT may harm patients by causing clot fragmentation and distal embolization beyond device reach before the start of device treatment and by increasing the risk of symptomatic intra- and extracranial haemorrhage.2 Furthermore, the benefit from fast reperfusion with IVT alone is constrained by the low responsiveness of LVO thrombi to systemic lytic treatment. In a large cohort study, rates of pre-interventional reperfusion with IVT in directly admitted patients with occlusions of the intracranial internal carotid artery (ICA) or M1 segment of the middle cerebral artery (MCA) were low.  
+
+Several meta-analyses compared direct MT with $\mathbf{IVT+MT}$ in observational series.6,7 However, these meta-analyses are prone to selection bias and results are conflicting. Therefore, randomized trial evidence is needed to demonstrate whether direct MT in patients with anterior circulation LVO is equally or more efficacious than $\mathbf{IVT+MT}$ .  
+
+# Methods  
+
+# Study design  
+
+SWIFT DIRECT is a multicenter, prospective, randomized (1:1), open-label, blinded-endpoint (PROBE) study utilizing an adaptive statistical design. The treatment arm under investigation is direct MT, the standard arm is $\mathbf{IVT+MT}$ . Patient flow is depicted in Figure 1. The trial is being conducted in 48 stroke centers in Switzerland, Finland, France, Germany, Spain, Austria, United Kingdom, and Canada. The first patient was enrolled in October 2017.  
+
+# Patient population  
+
+The trial population consists of patients who present with AIS due to imaging-confirmed occlusion of a proximal anterior circulation artery. Patients have to be candidates for alteplase, and be able to undergo MT within 75 minutes from computed tomography angiography (CTA) or magnetic resonance angiography (MRA) to arterial puncture and within $90\mathrm{min}$ from door to arterial puncture. Target vessels are the intracranial ICA, the M1 segment of the MCA or both. The inclusion and exclusion criteria are listed in Table 1.  
+
+# Randomization and blinding  
+
+Randomization has to be performed within $4\mathrm{h}15\mathrm{min}$ after stroke symptom onset. Patients are randomly assigned to one of the two treatment arms before potential initiation of alteplase using probabilistic minimization implemented in a web-based data management system. Allocation is stratified by the National Institutes of Health Stroke Scale (NIHSS) ( $\leq17$ versus ${>}17$ ), age $\mathord{<}70$ years versus $\ge70$ years), occlusion location (‘‘M1 only’’ versus ‘‘intracranial ICA or intracranial ICA and M1’’), tandem lesion (tandem versus non-tandem) and Alberta Stroke Program Early CT Score (ASPECTS 4–7 versus 8–10). For each patient withdrawing consent before the final outcome assessment, an additional patient is included.  
+
+![](images/5f74b8992875cc863c46fc2653eff29d0647cf7f2298a180e9248b9ae7fa36b4.jpg)  
+Figure 1. Trial flowchart.   
+R: randomization; MT: mechanical thrombectomy; IV t-PA: intravenous t-PA; MRI: magnetic resonance imaging; NCCT: non-contrast computed tomography; MRA; magnetic resonance angiography; CTA: computed tomography angiography: NIHSS: National Institutes of Health Stroke Scale; mRS: modified Rankin Scale; EuroQol: health-related quality of life measurement.  
+
+The allocation of a patient is displayed to the treating physicians after randomization. Assessment of the primary outcome at 90 days is performed by an independent and blinded certified rater using validated standards during either a clinical visit or a telephone interview. Raters are certified in the modified Rankin Scale (mRS). An independent central core lab evaluates clinical imaging data.  
+
+# Treatment  
+
+The experimental intervention is direct MT initiated with a commercially available stent-retriever revascularization device of the SolitaireTM type, not preceded by alteplase. The control intervention is alteplase followed by MT with a device as described above. In both treatment groups, thrombectomy is performed with a balloon-guide catheter placed in the access vessel and/or a distal aspiration catheter in the target vessel. In patients randomized to the control arm alteplase has to be started within $4.5\mathrm{h}$ after stroke symptom onset but not before randomization takes place. The alteplase treatment $(0.9\mathrm{mg/kg}$ body weight (max. $90\mathrm{mg}$ ) for $60\mathrm{min}$ , $10\%$ as initial bolus) adheres to local practice and should comply with international guidelines. Fulldose alteplase is given whenever possible. As soon as possible after alteplase starts, MT is initiated. In both treatment arms, trial sites strive to reduce any treatment delays to an absolute minimum. Standard diagnostic procedures and concomitant medical therapies are conducted according to international stroke guidelines. Administration of intra-arterial thrombolytics is not permitted. Rescue device use with clinically available stent retrievers, aspiration devices or both is permitted if three initial stent retriever attempts are not successful. The number of device passes is not limited by the protocol and is at the discretion of the treating interventionalist in accordance with the instructions for use.  
+
+Table 1. Inclusion and exclusion criteria.   
+
+
+<html><body><table><tr><td>Inclusion criteria</td></tr><tr><td>· Informed consent as documented by signature</td></tr><tr><td>· Age ≥18 years</td></tr><tr><td>· Clinical signs consistent with an acute ischemic stroke</td></tr><tr><td>· Neurological deficit with a NlHSS of ≥5 and <30 (deficits judged to be clearly disabling at presentation)</td></tr><tr><td>·Patient is eligible for IV t-PA</td></tr><tr><td>·Patient is eligible for endovascular treatment</td></tr><tr><td>· Randomization no later than 4 hours 15 minutes after stroke symptom onset and initiation of IV t-PA must be started within 4 hours 30 minutes of stroke symptom onset (onset time is measured from the time when the subject was last seen well)</td></tr><tr><td>· Occlusion (mTICI O-I) of the intracranial ICA, the MI segment of the MCA, or both, confirmed by CT or MR angiography, accessibleforMT</td></tr><tr><td>Core-infarct volume of ASPECTS greater than or equal to 4 based on baseline CT or MRl (a region has to have diffusion abnormality in 20% or more of its volume to be considered MR-ASPECTS-positive)</td></tr><tr><td>Exclusion criteria</td></tr><tr><td>· Acute intracranial hemorrhage</td></tr><tr><td>·Any contraindication for IV t-PA</td></tr><tr><td>·Pre-treatment with IV t-PA</td></tr><tr><td>· In-hospital stroke</td></tr><tr><td>· Pregnancy or lactation</td></tr><tr><td></td></tr><tr><td>· Known current participation in a clinical trial</td></tr><tr><td>· Renal insufficiency as defined by a serum creatinine >2.0 mg/dl (or I76.8 μmol/l) or glomerular filtration rate <30 mL/min and/or known history of renal insufficiency or requirement for hemodialysis or peritoneal dialysis</td></tr><tr><td>·Severe comorbid condition with life expectancy less than 90 days at baseline</td></tr><tr><td>·Known advanced dementia or significant pre-stroke disability (mRS ≥2)</td></tr><tr><td>· Foreseeable difficulties in follow-up due to geographic reasons (e.g. patients living abroad)</td></tr><tr><td>Comorbid disease or condition that would confound the neurological and functional evaluations or compromise survival or ability to complete follow-up assessments</td></tr><tr><td>· Subject currently uses or has a recent history of illicit drug(s) or abuses alcohol</td></tr><tr><td>· Known history of arterial tortuosity, pre-existing stent, other arterial disease and/or known disease at the femoral access site that would prevent the device from reaching the target vessel and/or preclude safe recovery after MT</td></tr><tr><td>· Radiologically confirmed evidence of mass effect or intracranial tumor (except small meningioma)</td></tr><tr><td>·Radiologically confirmed evidence of cerebral vasculitis</td></tr><tr><td>CTA/MRA evidence of carotid dissection</td></tr><tr><td>· Evidence of additional distal intracranial vessel occlusion in another territory (i.e. A2 segment of anterior cerebral artery or M3, M4 segment of MCA) on initial NCCT/MRI or CTA/MRA</td></tr></table></body></html>
+
+NIHSS: National Institutes of Health Stroke Scale; ICA: internal carotid artery; MCA: middle cerebral artery; mTICI: modified thrombolysis in cerebral infarction; ASPECTS: Alberta Stroke Program Early CT Score; mRS: modified Rankin Scale; CTA: computed tomography angiography; MRA: magnetic resonance angiography.  
+
+# Clinical and imaging evaluation  
+
+After clinical evaluation, all patients undergo either non-contrast computed tomography (NCCT) and CTA or magnetic resonance (MR) and MRA. Clinical examination and radiological follow-up with either NCCT/CTA or MR/MRA is performed at $24\pm6$ hours. Follow-up clinical examination is done at 7–10 days or at discharge, if earlier. At $90\pm15$ days after randomization, the mRS and the EuroQol $5\mathrm{D}{-}3\mathrm{L}$ are assessed during a clinical examination or telephone interview. All trial procedures are summarized in supplemental Table 1.  
+
+# Primary outcome  
+
+The primary outcome is functional independence assessed as $\mathrm{mRS~}0{-}2$ at $90\pm15$ days after randomization.  
+
+# Secondary outcomes  
+
+The secondary clinical efficacy outcomes are: (1) allcause mortality at 90 days; (2) level of disability at 90 days (mRS shift analysis); (3) change in NIHSS at $24\pm6$ hours post-randomization; (4) time from arrival at emergency department to reperfusion $(\mathrm{mTICI}\geq2\mathrm{b})$ ; and (5) health-related quality of life as assessed by the EuroQol 5D-3L at 90 days.  
+
+The secondary technical efficacy outcomes are: (1) successful reperfusion (mTICI 2b–3) prior to endovascular device deployment; (2) successful reperfusion (mTICI 2b–3) at completion of all endovascular procedures; and (3) total reperfusion (mTICI 3) at completion of all endovascular procedures. Safety outcomes are: (1) all serious adverse events up to 90-day follow-up visit; (2) symptomatic and asymptomatic intracranial hemorrhage at $24\pm6\mathrm{h}$ postrandomization; symptomatic intracranial hemorrhage, defined as any parenchymal hematoma type 1 (PH1), parenchymal hematoma type 2 (PH2), remote intracranial hemorrhage, subarachnoid hemorrhage (SAH), or intraventricular hemorrhage (IVH) associated with a $\geq4$ -point worsening on the NIHSS within $24\mathrm{{h}}$ ; (3) severe and moderate bleeding at $24\pm6\mathrm{h}$ postrandomization.  
+
+# Data safety monitoring board (DSMB)  
+
+An independent DSMB was convened to monitor the trial. The DSMB meets after randomization of 50, 100, 150 and 350 patients to review safety data. One prespecified interim analysis will occur after 202 patients have reached the primary endpoint.  
+
+# Sample size calculation  
+
+We plan to include a total of 404 subjects in the trial. The sample size calculation is based on a proportion of functional independence at 90 days of $62\%$ in the control arm and a non-inferiority margin of $12\%$ (absolute difference). A sample size reassessment after 202 patients are enrolled will be based on the observed proportion of functional independence, and a maximum of 430 patients might be included (if the proportion of functional independence is $50\%$ ).  
+
+# Statistical analysis  
+
+Primary efficacy, defined as functional independence $(\mathrm{mRS}0{-}2)$ at 90 days, will be assessed for non-inferiority of the experimental arm to the standard arm using a one-sided type 1-error rate of $5\%$ with a prespecified non-inferiority margin of $12\%$ . For the comparison between the two groups, we will calculate a MantelHaenszel risk difference stratified for the stratification factors used in randomization with a corresponding one-sided lower $95\%$ confidence limit.8 If the lower limit lies above $-12\%$ , we will claim non-inferiority. If we can demonstrate non-inferiority, we will additionally test for superiority of the test versus the control group at the nominal two-sided significance level of 0.05 using a stratified Cochran-Mantel-Haenszel test. Since testing is nested (i.e. hierarchical), this procedure has no implication on the type-1 error rate. Secondary binary outcomes will be analyzed using the Mantel-Haenszel risk difference with two-sided $95\%$ CI and the Cochran-Mantel-Haenszel test, both stratified for the stratification factors used in randomization. Secondary continuous outcomes will be analyzed using linear regression with the stratification factors and the baseline values (if applicable) as covariates. Time-toevent outcomes will be analyzed using Kaplan-Meier curves, stratified log-rank tests and restricted mean survival times calculated from flexible parametric survival models.  
+
+The primary efficacy analyses will be performed according to the intention-to-treat principle including all randomized patients. Missing data will be imputed with multiple imputation methods. The per-protocol analysis will exclude patients who did not receive treatment as assigned or had other predefined major protocol deviations. The primary outcome will be analyzed for subgroups defined by the stratification factors for randomization using regression models with the treatment group, the subgroup and their interaction as covariates. Safety will be analyzed in all randomized patients who received one of the study interventions according to the treatment they actually received.  
+
+# Interim analysis  
+
+After 202 patients reach the primary outcome at 90 days, an interim analysis will be conducted, including (re)assessments of sample size and conditional power. Sample size will be recalculated using the observed functional independence in the combined group as reference. The targeted sample size will be increased if the recalculated sample size is larger than the initial one (i.e. if the observed functional independence is closer to $50\%$ than the assumed $62\%$ ). This procedure is not expected to inflate the type 1-error rate,9 which was confirmed using Monte-Carlo simulations. Conditional power will assume the observed proportion of functional independence in the control group for all future observations (i.e. non-inferiority). Stopping for futility based on conditional power is conservative concerning the type 1-error rate.  
+
+# Study organization and funding  
+
+SWIFT DIRECT is an investigator-initiated clinical trial. The sponsor of the trial is the University hospital Bern (Inselspital) and the trial is supported by Medtronic Minneapolis, USA. The clinical trial is managed by the Neuro Clinical Trial Unit at the Department of Neurology, University Hospital Bern, Switzerland. The database, central data monitoring and statistical analyses are performed by the CTU Bern at the University of Bern, Switzerland.  
+
+# Trial status  
+
+Recruitment of SWIFT DIRECT was stopped on 7 May 2021 after the target sample size had been randomized. In total, 408 patients have been randomized into the trial.  
+
+# Discussion  
+
+SWIFT DIRECT will address the question whether IVT prior to MT improves the outcome of anterior circulation stroke patients with LVO in a randomized clinical trial. Compared with other trials, distinctive aspects of the SWIFT DIRECT trial design include: participation of 48 highly experienced endovascular stroke centers in Europe and North America; focus on patients with a single proven LVO in the ICA or M1 MCA prior to randomization, excluding patients with peripherally located or multiple occlusions; enrolment only of patients with good access vessels; enrolment of patients only when there is immediate availability of the interventional team and access to the neuro-catheterization suite; use of stent retrievers as initial MT; and strong encouragement to use balloon-guiding catheters in the access vessel or distal aspiration catheters. Furthermore, full dose of alteplase in the control arm is given whenever possible, even after successful reperfusion is first achieved with MT.  
+
+SWIFT-DIRECT is one of six randomized clinical trials launched contemporaneously to test whether direct MT is a non-inferior option to the current standard of care combination of $\mathbf{IVT+MT}$ . An overview of these trials is given in Supplemental Table 2.  
+
+In a study-level meta-analysis of four trials comparing direct MT with $\mathbf{IVT+MT}$ , similar rates of functional independence $(\mathrm{mRS~}0{-}2\$ at 90 days) were observed in both treatment groups, with crude outcome rates of $46.0\%$ with direct MT and $45.5\%$ with $\mathrm{IVT+MT}$ .14 The point estimate for the risk difference was $1\%$ in favor of direct MT and the lower $95\%$ bound of the risk difference was $4\%$ in favor of combined $\mathbf{IVT+MT}$ . Accordingly, the combined results from these four trials statistically support non-inferiority when wider non-inferiority margins in the literature of $5\%-15\%$ are employed, but do not statistically support non-inferiority when the more stringent minimally clinically important difference (MICD) of $1.3\%$ is employed.15 Selection of the non-inferiority margin is a key challenge in non-inferiority trial design. There are two established approaches to margin selection. When the goal is to demonstrate reasonable comparability between the two treatments, a ‘‘fixed margin’’ is selected that ensures that new treatment delivers at least a substantial fraction of the benefit of the standard therapy. These are known as ‘‘reasonable comparability’’ trials.15 When the goal is to demonstrate indistinguishability between two treatments, the mMCID is selected, but for binary outcomes, this typically requires unfeasibly large sample sizes for individual trials to accomplish. SWIFT DIRECT employed the fixed margin approach. In the ESCAPE, MR CLEAN, and REVASCAT trials, EVT was associated with absolute improvement in the rate of $\mathrm{mRS~}0{-}2$ at 3 months by $13.5–23.7\%$ . It was therefore judged that a $12\%$ margin would indicate that direct EVT provided at the very least an important fraction of the benefit of combined therapy. In recent EVT noninferiority trials, non-inferiority margins were between $10\%$ and $15\%$ . Thus, SWIFT DIRECT’s non-inferiority margin falls squarely in the middle of eight recently reported EVT trials. In addition, the SWIFT DIRECT data will be contributed to a planned individual participant data level pooled analysis of all salient trials – (Improving Reperfusion strategies in Ischemic Stroke (IRIS) consortium: DEVT, DIRECT-MT, DIRECT-SAFE, MR CLEAN-NO IV, SKIP, and SWIFT-DIRECT). This pooled analysis will have adequate power to probe non-inferiority margins in the $1.5\%-5\%$ range in which studies have suggested the MICD lies.  
+
+SWIFT DIRECT will provide important additional information. First, it will contribute data on patient groups underrepresented in previous studies, including non-Asian patients. This data will help to determine the generalizability of earlier findings to a larger population. Second, the trial will contribute data on treatment techniques incompletely explored in previous trials, including frequent use of balloonguiding or distal aspiration catheters, first MT treatment with stent retrievers, and continuation of IVT even after first achievement of successful reperfusion. This data will help to determine the generalizability of earlier findings to a wider range of IVT and MT techniques. Third, the trial will provide additional power for both study-level and individual patient-level meta-analyses, potentially enabling noninferiority to be statistically significantly demonstrated for the stringent, minimal clinically important difference-based, non-inferiority margin of $1.3\%$ . Fourth, the additional meta-analytic sample size will also enable greater power in testing for potential superiority of direct MT versus combined $\mathbf{IVT+MT}$ . Fifth, the additional meta-analytic sample size will increase power when evaluating for possible heterogeneity of responses to study treatments in important patient subgroups.  
+
+# Declaration of conflicting interests  
+
+The author(s) declared the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: This trial is financially supported by Medtronic (Minneapolis, USA). This is an academic investigator-initiated trial. Medtronic has no role in the design of the trial or the protocol and has no influence on data acquisition, data management, data analyses or scientific interpretation and publication of the results. Therefore, no conflict of interest needs to be declared.  
+
+# Funding  
+
+The author(s) disclosed receipt of the following financial support for the research, authorship and/or publication of this article: This IIT is financially supported by Medtronic Minneapolis, USA.  
+
+# ORCID iDs  
+
+Urs Fischer $\circledcirc$ https://orcid.org/0000-0003-0521-4051 Johannes Kaesmacher $\circledcirc$ https://orcid.org/0000-0002-9177- 2289 Jenny Bressan $\circledcirc$ https://orcid.org/0000-0002-5078-569X Stefanie Lerch $\circledcirc$ https://orcid.org/0000-0002-9929-9289  
+
+# References  
+
+1. Goyal M, Menon BK, van Zwam WH, et al. Endovascular thrombectomy after large-vessel ischaemic stroke: a metaanalysis of individual patient data from five randomised trials. Lancet 2016; 387: 1723–1731.   
+2. Fischer U, Kaesmacher J, Mendes Pereira V, et al. Direct mechanical thrombectomy versus combined intravenous and mechanical thrombectomy in large-artery anterior circulation stroke: a topical review. Stroke 2017; 48: 2912–2918.   
+3. Fischer U, Kaesmacher J, Molina CA, Selim MH, Alexandrov AV and Tsivgoulis G. Primary thrombectomy in tPA (tissue-type plasminogen activator) eligible stroke patients with proximal intracranial occlusions. Stroke 2018; 49: 265–269.   
+4. Chandra RV, Leslie-Mazwi TM, Mehta BP, et al. Does the use of IV tPA in the current era of rapid and predictable recanalization by mechanical embolectomy represent good value? J Neurointerv Surg 2016; 8: 443–446.   
+5. Kaesmacher J, Giarrusso M, Zibold F, et al. Rates and quality of preinterventional reperfusion in patients with direct access to endovascular treatment. Stroke 2018; 49: 1924–1932.   
+6. Mistry EA, Mistry AM, Nakawah MO, et al. Mechanical thrombectomy outcomes with and without intravenous thrombolysis in stroke patients: a meta-analysis. Stroke 2017; 48: 2450–2456.   
+7. Kaesmacher J, Mordasini P, Arnold M, et al. Direct mechanical thrombectomy in tPA-ineligible and -eligible patients versus the bridging approach: a meta-analysis. J Neurointerv Surg 2019; 11: 20–27.   
+8. Klingenberg B. A new and improved confidence interval for the Mantel-Haenszel risk difference. Stat Med 2014; 33: 2968–2983.   
+9. Friede T and Kieser M. Sample size recalculation in internal pilot study designs: a review. Biometr J Biometrische Zeitschrift 2006; 48: 537–555.   
+10. Yang P, Zhang Y, Zhang L, et al. Endovascular thrombectomy with or without intravenous alteplase in acute stroke. N Engl J Med 2020; 382: 1981–1993.   
+11. Suzuki K, Matsumaru Y, Takeuchi M, et al. Effect of mechanical thrombectomy without vs with intravenous thrombolysis on functional outcome among patients with acute ischemic stroke: the SKIP randomized clinical trial. JAMA 2021; 325: 244–253.   
+12. Zi W, Qiu Z, Li F, et al. Effect of endovascular treatment alone vs intravenous alteplase plus endovascular treatment on functional independence in patients with acute ischemic stroke: the DEVT randomized clinical trial. JAMA 2021; 325: 234–243.   
+13. Roos YBWEM, Majoie CBLM, et al. Intravenous thrombolysis followed by endovascular thrombectomy versus direct endovascular thrombectomy: a randomized controlled trial. In: International stroke conference, 2021.   
+14. Podlasek A, Dhillon PS, Butt W, Grunwald I and England T. Direct mechanical thrombectomy without intravenous thrombolysis versus bridging therapy for acute ischemic stroke: A meta-analysis of randomized controlled trials. Int J Stroke   
+2021; 16: 621–631.   
+15. Lin CH, Saver JL, Ovbiagele B, Huang WY, Lee M. Endovascular thrombectomy without versus with intravenous thrombolysis in acute ischemic stroke: a non-inferiority metaanalysis of randomized clinical trials. J Neurointerv Surg   
+2022; 14: 227–232.  

@@ -1,0 +1,200 @@
+Original research  
+
+# Endovascular therapy in acute ischemic stroke with poor reperfusion is associated with worse outcomes compared with best medical management: a HERMES substudy  
+
+Nathaniel Rex $\circledcirc$ ,1,2 Johanna M Ospel,2 Scott B Brown,3 Rosalie V McDonough,2 Nima Kashani $\circledcirc$ ,4 Michael D Hill $\circledcirc$ ,5 Diederik W J Dippel $\circledcirc$ ,6 Bruce Campbell,? Keith W Muir $\circledcirc$ ndhauil Tudor G Jovin,11 Peter J Mitchell,12 Phil White,13 Charles B L M Majoie 14 Jeffrey L Saver $\circledcirc$ ,15 Mayank Goyal $\circledcirc$  
+
+►	 Additional supplemental material is published online only. To view, please visit the journal online (http://dx. doi.org/10.1136/jnis-2023- 020411).  
+
+For numbered affiliations see end of article.  
+
+Correspondence to Dr Mayank Goyal; mgoyal2412@gmail.com  
+
+Received 6 April 2023 Accepted 21 July 2023 Published Online First 2 August 2023  
+
+# ABSTRACT  
+
+Background  Functional outcomes in patients with acute ischemic stroke (AIS) with large vessel occlusion (LVO) undergoing endovascular treatment (EVT) with poor reperfusion were compared with patients with AISLVO treated with best medical management only. Methods  Data are from the HERMES collaboration, a patient-level meta-analysis of seven randomized EVT trials. Baseline characteristics and functional outcomes (modified Rankin Scale (mRS) score at 90 days) were compared between patients with poor reperfusion (defined as modified Thrombolysis in Cerebral Infarction Score 0–1 on the final intracranial angiography run as assessed by the central imaging core laboratory) and patients in the control arm with multivariable logistic ordinal logistic regression adjusted for pre-specified baseline variables.  
+
+Results  972 of 1764 patients from the HERMES collaboration were included in the analysis: 893 in the control arm and 79 in the EVT arm with final mTICI 0–1. Patients with poor reperfusion who underwent EVT had higher baseline National Institutes of Health Stroke Scale than controls (median 19 (IQR 15.5–21) vs 17 (13–21), $\mathsf{P}{=}0.011$ ). They also had worse $\mathsf{mRS}$ at 90 days compared with those in the control arm in adjusted analysis (median 4 (IQR 3–6) vs median 4 (IQR 2–5), adjusted common OR 0.59 $95\%$ CI 0.38 to 0.91)). Symptomatic intracranial hemorrhage was not different between the two groups ( $3.9\%$ vs $3.5\%$ , $\mathsf{P{=}}0.75$ , adjusted OR 0.94 $(95\%\mathrm{C}|0.23\$ to 3.88)).  
+
+Conclusion  Poor reperfusion after EVT was associated with worse outcomes than best medical management, although no difference in symptomatic intracranial hemorrhage was seen. These results emphasize the need for additional efforts to further improve technical EVT success rates.  
+
+# INTRODUCTION  
+
+The goal when treating acute ischemic stroke (AIS) due to large vessel occlusion (LVO) is tissue reperfusion via vessel recanalization. Until several years ago, intravenous thrombolysis (IVT) was the  
+
+# WHAT IS ALREADY KNOWN ON THIS TOPIC  
+
+$\Rightarrow$ The benefit of endovascular treatment (EVT) has been demonstrated in various patient populations. Additionally, it has been shown that patients who undergo EVT with unsuccessful (mTICI 0–2a) reperfusion have equivocal outcomes to those receiving best medical management.  
+
+# WHAT THIS STUDY ADDS  
+
+$\Rightarrow$ This study quantifies the difference in outcome between patients with failed reperfusion (mTICI 0–1) and patients with large vessel occlusion receiving best medical management.  
+
+# HOW THIS STUDY MIGHT AFFECT RESEARCH,PRACTICE OR POLICY  
+
+$\Rightarrow$ Our results show exceedingly poor outcomes in patients with failed reperfusion, emphasizing the need to improve technical EVT success rates.  
+
+only available treatment option to do so. In 2015, however, endovascular thrombectomy (EVT) was proven to be more effective in recanalizing LVO compared with best medical management, including IVT.1 Since then, EVT has become the standard of care for patients with AIS with LVO presenting within 24 hours from onset and limited ischemic changes on baseline imaging, with a number needed to treat of ${\sim}2.5$ .1 Additional EVT trials have continued and continue to broaden EVT eligibility criteria to include late-presenting patients, those with large ischemic core at baseline, and there are ongoing trials for EVT in more distal occlusions.2–6 However, EVT is not without risks, and successful reperfusion cannot always be achieved. Successful reperfusion, defined as antegrade reperfusion of more than half of the previously occluded target artery ischemic territory (modified Thrombolysis in Cerebral Infarction score $({\mathrm{mTICI}})$ 2b–3), used to occur in only $70\%$ of EVT cases,1 although recent trials report rates closer to $90\%$ .7 While previous studies have shown that patients undergoing EVT without successful reperfusion do not have worse clinical outcomes than those treated with best medical management,7 these studies included patients with partial reperfusion (ie, some degree of reperfusion but $<50\%$ , mTICI 2a). How outcomes of patients with poor reperfusion (ie, final mTICI 0 or 1) compare with patients treated with best medical management has not been well studied.  
+
+The aim of this study was therefore to investigate the association of EVT with the clinical outcome in patients with poor reperfusion, defined as mTICI of 0–1.  
+
+# METHODS Study design/study cohort  
+
+The HERMES (Highly Effective Reperfusion Using Multiple Endovascular Stroke Trials) collaboration is a prospective patient level meta-analysis of seven randomized controlled trials that evaluated the benefit of EVT over and beyond best medical management: the MR CLEAN trial (Multicenter Randomized Clinical Trial of Endovascular Therapy for Acute Ischemic Stroke in the Netherlands),8 the ESCAPE trial (Endovascular Treatment for Small Core and Anterior Circulation Proximal Occlusion with Emphasis on Minimizing CT to Recanalization Times),9 the EXTEND-IA trial (Extending the Time for Thrombolysis in Emergency Neurologic Deficits-Intra-Arterial),1° the SWIFT PRIME trial (Solitaire with the Intention for Thrombectomy as Primary Endovascular Treatment),11 the REVASCAT trial (Randomized Trial of Revascularization with Solitaire FR Device vs Best Medical Therapy in the Treatment of Acute Stroke Due to Anterior Circulation Large Vessel Occlusion Presenting within Either Hours of Symptom Onset),12 the PISTE trial (Pragmatic Ischemic Thrombectomy Evaluation),13 and the THRACE trial (Trial and Cost-Effectiveness Evaluation of Intra-Arterial Thrombectomy in Acute Ischemic Stroke).14 The details of the HERMES patient sample and search strategy have been previously reported.1 15 In brief, the original investigators searched PubMed for randomized controlled trials comparing EVT with standard of care medical therapy from 2010 to 2017, with the resulting meta-analysis being a post-hoc analysis of individual patient data. Patient consent was obtained in each of the trials prior to enrolment, unless the presiding ethics board allowed for deferral of consent.  
+
+The primary objective of the current study was to evaluate differences in clinical outcomes in patients undergoing EVT with poor reperfusion (defined as mTICI 0–1) compared with control arm patients treated with best medical management including IV alteplase, if indicated. To control for the potential early reperfusion due to IV alteplase use in the control group, we performed additional subgroup analyses: (a) including only patients who did not show indications of early neurological improvement post-thrombolysis (whereby early neurological  improvement was used as a proxy for early reperfusion), and (b) only including patients who did not receive alteplase. We deliberately defined ‘poor reperfusion’ as mTICI 0–1 in order to avoid any potentially confounding effects from the restoration of partial blood flow that could occur in patients with a final mTICI score of 2a. mTICI scores were assessed by a central imaging core laboratory blinded to clinical outcomes.  
+
+# Outcome measures  
+
+The primary outcome measure was functional outcome across the modified Rankin Scale (mRS) at 90 days (mRS shift analysis). Secondary outcomes included different dichotomizations of the mRS—namely, excellent $(\mathrm{mRS~}0{-}1)$ , good $(\mathrm{mRS~}0{-}2)$ , and poor $(\mathrm{mRS}~5{-}6)$ functional outcome at 90 days—as well as early neurological improvement (ENI, defined as an improvement in National Institutes of Health Stroke Scale (NIHSS) score of at least 10 points compared with baseline in the first 24 hours), change in NIHSS at 24 hours compared with baseline, and final infarct volume as measured on 24 hours CT or MRI. Safety outcomes were mortality at 90 days, symptomatic intracranial hemorrhage (sICH, as defined in each constituent trial), and space occupying parenchymal hematoma exceeding $30\%$ of the infarct volume (PH2 according to the Heidelberg Bleeding Classification) at 24 hours.16  
+
+# Statistical analysis  
+
+We compared baseline, imaging, and procedural (where relevant) characteristics of patients who underwent unsuccessful reperfusion with those of patients in the control arm using standard descriptive statistics as appropriate.  
+
+For adjusted analysis, ordinal logistic regression was used for the primary outcome (ordinal $\scriptstyle{\mathrm{mRS}}/{\mathrm{mRS}}$ shift analysis) and change in NIHSS at 24 hours compared with baseline, and binary logistic regression was used for binary outcomes (mRS 0–1, mRS 0–2, mRS 5–6, mortality, ENI, PH2 at 24 hours, and sICH at 24 hours). Notably, 90-day mRS was not available for 21 subjects in the HERMES meta-analysis, of which 16 were in the control group and one was in the mTICI 0–1 group. These patients were included in the baseline characteristics section, but not the associated grotta bars. Analyses were adjusted for the following prespecified baseline characteristics: age, sex, NIHSS, Alberta Stroke Program Early CT Score (ASPECTS), occlusion location (terminal internal carotid artery vs M1 segment of the middle cerebral artery vs M2 segment of the middle cerebral artery), alteplase treatment, and time from onset to randomization. Missing data were minimal and thus not imputed; only available data were used for the analysis.  
+
+We performed sensitivity analysis on two subgroups. First, we excluded patients with clinical signs of early recanalization in the control group, defined as NIHSS score of 0–2 at 24 hours.17 Second, we considered only patients who did not receive IV alteplase in the control group. For the purpose of this study, we defined early neurological improvement as an improvement in the NIHSS score at 24 hours of at least 10 points compared with baseline. The rationale behind excluding those patients from the control arm was that we were interested in comparing patients in the control arm without recanalization to patients with failed EVT, and we used (a) the presence of early neurological improvement and (b) treatment with IV alteplase as proxies for recanalization in the sensitivity analyses, since control arm patients with ENI and control arm patients receiving IV alteplase are more likely to recanalize (see online supplemental table with outcomes of patients who achieved mTICI 0–2a for reference).  
+
+![](images/c5e5653936ea0ee13531790a0a041a18e7de3ad432d0f620a025654a25b526c2.jpg)  
+Figure 1  Flowchart of the HERMES study showing trial population information as well as data availability by outcome for the primary analysis.  
+
+Table 1  Baseline characteristics of EVT patients with poor reperfusion versus control arm patients   
+
+
+<html><body><table><tr><td></td><td>EVT with final mTICI 0/1 (n=79)</td><td>Best medical management (n=893)</td><td></td></tr><tr><td>Characteristic Age (years)</td><td>Mean±SD (N), median (IQR) or % (n/N) 65.2±13.3 (79), 4.0 (54.1-75.5)</td><td>Mean±SD (N), median (IQR) or % (n/N) 65.7±13.5 (890), 67.8 (58.0-76.0)</td><td>P value 0.589</td></tr><tr><td>Women</td><td>40.5% (32/79)</td><td>47.3% (421/891)</td><td>0.401</td></tr><tr><td>Systolic blood pressure (mmHg)</td><td>147.7±24.4 (79), 150.0 (132.0-166.0)</td><td>145.3±24.5 (886), 144.0 (129.0-161.0)</td><td>0.400</td></tr><tr><td>Diabetes mellitus</td><td>11.4% (9/79)</td><td>17.5% (156/889)</td><td>0.211</td></tr><tr><td>Hypertension</td><td>48.1% (38/79)</td><td>58.8% (523/890)</td><td>0.075</td></tr><tr><td>Atrial fibrillation</td><td>34.0% (18/53)</td><td>32.6% (223/684)</td><td>0.879</td></tr><tr><td>Prior stroke</td><td>14.1% (11/78)</td><td>10.3% (92/889)</td><td>0.210</td></tr><tr><td>Hyperlipidemia</td><td>34.7% (26/75)</td><td>40.2% (351/873)</td><td>0.161</td></tr><tr><td>Glucose (mg/dL)</td><td>129.1±34.9 (79), 125.5 (106.4-145.8)</td><td>130.1±57.8 (863), 120.0 (103.6-140.4)</td><td>0.276</td></tr><tr><td>NIHSS at baseline*</td><td>18.4±4.6 (79), 19.0 (15.5-21.0)</td><td>16.9±5.3 (887), 17.0 (13.0-21.0)</td><td>0.011</td></tr><tr><td>ASPECTS at baseline</td><td>7.1±2.0 (77), 7.0 (6.0-8.0)</td><td></td><td>0.057</td></tr><tr><td>tPA delivered</td><td>94.9% (75/79)</td><td>7.5±2.0 (876), 8.0 (7.0-9.0)</td><td>0.303</td></tr><tr><td>Occlusion location</td><td></td><td>90.6% (809/893)</td><td>0.806</td></tr><tr><td>ICA</td><td>31.5% (23/73)</td><td></td><td></td></tr><tr><td>M1</td><td>63.0% (46/73)</td><td>27.4% (227/829)</td><td></td></tr><tr><td>M2</td><td></td><td>64.8% (537/829)</td><td></td></tr><tr><td>Collateral grade</td><td>5.5% (4/73)</td><td>7.7% (64/829)</td><td></td></tr><tr><td>0</td><td>1.8% (1/55)</td><td></td><td>0.262</td></tr><tr><td>1</td><td></td><td>1.2% (8/651)</td><td></td></tr><tr><td>2</td><td>25.5% (14/55)</td><td>16.6% (108/651)</td><td></td></tr><tr><td>3</td><td>43.6% (24/55)</td><td>42.2% (275/651)</td><td></td></tr><tr><td>Onset to randomization (min)</td><td>29.1% (16/55) 204.8±69.7 (79), 197.0 (146.5-247.0)</td><td>39.9% (260/651)</td><td>0.327</td></tr><tr><td>Onset to alteplase administration (min)</td><td>）120.8±49.0 (74),116.5 (77.0-154.5)</td><td>201.8±84.9 (889),184.0 (140.0-250.0)</td><td>0.506</td></tr><tr><td>Onset to puncture (min)</td><td>265.8±72.9 (73), 270.0 (210.0-315.0)</td><td>127.9±59.9 (809),120.0 (85.0-161.0) NA</td><td>NA</td></tr></table></body></html>
+
+Note that not all baseline characteristics and treatment/workflow variables were available for all patients; hence, the denominator is smaller than the overall number of patients with failed EVT/overall number of control arm patients in some cells. \*Statistically significant difference. ASPECTS, Alberta Stroke Program Early CT Score; EVT, endovascular treatment; ICA, internal carotid artery; mTICI, modified Thrombolysis in Cerebral Infarction; NIHSS, National Institutes of Health Stroke Scale; tPA, tissue plasminogen activator.  
+
+Statistical analyses were performed with SAS software, version 9.4 (SAS Institute, Cary, North Carolina) and R, version 3.3 (R Foundation for Statistical Computing, Vienna, Austria).  
+
+# RESULTS  
+
+Of the 1764 patients included in the HERMES meta-analysis 972 patients were included in this study (893 in the control arm and 79 in the EVT arm with final mTICI 0–1). Of note, not all variables were available for all patients (figure 1). The EVT group was much smaller than the control group because EVT resulted in some degree of reperfusion (ie, final mTICI 2a or greater) in most cases. Table  1 compares the baseline characteristics of the two groups. Except for the baseline NIHSS, which was higher in the EVT patients with poor reperfusion (median 19 (IQR 15.5–21) vs median 17 (13–21) respectively, $\mathrm{P}{=}0.011;$ ), no differences in baseline variables were seen (table 1).  
+
+# Outcomes in EVT patients with poor reperfusion versus control arm patients  
+
+Primary outcome data were available for all included patients (table 2). mRS at 90 days was worse in the poor reperfusion EVT group than in the control arm (median 4 (IQR 3–6) vs median 4 (IQR 2–5)). In the adjusted analysis, EVT without successful reperfusion was associated with worse ordinal mRS at 90 days compared with best medical management (aOR 0.59, $95\%\mathrm{CI}0.38\$ to 0.91, table  2). Table  2 also compares secondary and safety outcomes in EVT patients with poor reperfusion versus control arm patients. Poor reperfusion after EVT was associated with lower chances of achieving an excellent outcome $(\mathrm{mRS~}0{-}1$ at 90 days: aOR 0.26 ( $95\%$ CI 0.07 to 0.98)), higher risk of a poor outcome $(\mathrm{mRS}~5{-}6\$ at 90 days, aOR 1.72 ( $95\%$ CI 1.00 to 2.94)), higher risk of death at 90 days (aOR 2.46 ( $95\%$ CI 1.42 to 4.27)), lower likelihood of ENI (aOR 0.39 $g_{\bar{{}}}9\zeta\%\mathrm{CI}0.18$ to 0.83)) an less improvement in the NIHSS score between 24 hours and baseline (beta 3.0 $95\%$ CI 1.49 to 4.51)). For $\mathrm{mRS~}0{-}2$ and the other secondary and safety outcomes, no differences were seen.  
+
+# Sensitivity analyses  
+
+Two sensitivity analyses were performed, one in which patients with early neurological improvement in the control group were excluded and one in which patients who received IV alteplase in the control group were excluded. In sensitivity analysis 1, only a small fraction of the original control cohort $\mathbf{\chi}_{\mathrm{n}=103}$ , $12\%$ ) showed early neurological improvement and were therefore excluded. Exclusion of these patients yielded similar effect size estimates, although the differences in ordinal mRS, excellent outcome, and ENI did not achieve statistical significance (online supplemental table 1). After excluding patients who received IV alteplase, few patients were left for the analysis, which yielded similar effect size estimates to the main analysis although, due to the small sample size, only the association of EVT with poor reperfusion and mortality and change between 24 hour and baseline NIHSS remained significant (online supplemental table 2). Grotta bars for the primary analysis and the two sensitivity analyses are shown in figure 2. Outcomes for the cohort of patients in the EVT group that achieved mTICI 0–2a were slightly better than the mTICI 0–1 group, although similarly many failed to reach statistical significance (online supplemental table 3).  
+
+Table 2  Primary, secondary and safety outcomes in EVT patients with poor reperfusion versus control arm patients   
+
+
+<html><body><table><tr><td>Outcome</td><td>EVTmTICI0-1 Median (IQR) or % (n/N) ormean±SD</td><td>Control Median (IQR)or %(n/N) ormean±SD</td><td>aOR/acORorbeta LCL</td><td>UCL</td><td>P value</td></tr><tr><td>mRS (ordinal) at 90 days</td><td>4 (3-6)</td><td>4 (2-5)</td><td>0.59 0.38</td><td>0.91</td><td>0.0160</td></tr><tr><td>mRS 0-1 at 90 days</td><td>3.8% (3/78)</td><td>16.6% (146/877)</td><td>0.26 0.07</td><td>0.98</td><td>0.0471</td></tr><tr><td>mRS 0-2 at 90 days</td><td>21.8% (17/78)</td><td>30.6% (268/877)</td><td>0.82 0.42</td><td>1.60</td><td>0.5573</td></tr><tr><td>mRS 5-6 at 90 days</td><td>41.0% (32/78)</td><td>28.7% (252/877)</td><td>1.72 1.00</td><td>2.94</td><td>0.0496</td></tr><tr><td>Mortality at 90 days</td><td>34.2% (27/79)</td><td>17.3% (153/884)</td><td>2.46 1.42</td><td>4.27</td><td>0.0014</td></tr><tr><td>Early neurological improvement</td><td>10.4% (8/77)</td><td>23.8% (204/857)</td><td>0.39 0.18</td><td>0.83</td><td>0.0156</td></tr><tr><td>PH2at 24hours</td><td>2.6% (2/77)</td><td>4.8% (42/874)</td><td>0.42 0.10</td><td>1.80</td><td>0.2408</td></tr><tr><td>SymptomaticICH at 24 hours</td><td>3.9% (3/76)</td><td>3.5% (31/877)</td><td>0.94 0.23</td><td>3.88</td><td>0.9352</td></tr><tr><td>Change in NIHSS at 24hours</td><td>0.11±6.49</td><td>-3.16±6.69</td><td>3.00 1.49</td><td>4.51</td><td>0.0001</td></tr><tr><td>Final infarct volume</td><td>172.09±144.72</td><td>93.74±105.58</td><td>57.00</td><td>28.78 85.22</td><td><0.0001</td></tr></table></body></html>
+
+acOR, adjusted common OR; aOR, adjusted OR; ENI, early neurological improvement; EVT, endovascular treatment; ICH, intracerebral hemorrhage; LCL, lower confidence limit; mRS, modified Rankin Scale; mTICI, modified Thrombolysis in Cerebral Infarction; NIHSS, National Institutes of Health Stroke Scale; PH2, parenchymal hematoma type 2; UCL, upper confidence limit.  
+
+# DISCUSSION  
+
+We found that patients who underwent EVT with failed reperfusion following EVT had significantly worse outcomes than patients who did not undergo EVT. Sensitivity analyses in which only patients without early neurological improvement and those without IV alteplase treatment were included in the control arm showed similar results, although these were not always statistically significant.  
+
+Overall, our results indicate that patients with failed EVT fare worse than those receiving best medical management. This is consistent with prior publications which suggest that patients with final mTICI 0 (ie, lack of any reperfusion on the final angiogram) show worse outcomes than those treated with best medical management.7 18  
+
+Baseline factors that could (at least partially) explain such outcome differences include onset to treatment time, baseline ASPECTS, procedural complications, and baseline clinical status. However, the two groups in this study had similar baseline characteristics, except for baseline NIHSS which was slightly higher in EVT patients with poor reperfusion. Of note, the fact that the differences in outcome persisted in adjusted analysis suggests that the baseline NIHSS alone does not explain the worse prognosis of EVT patients with poor reperfusion.  
+
+The reasons for failed reperfusion are manifold and include procedural difficulties due to clot characteristics (age, organization, location, embolic vs non-embolic), vessel tortuosity, and other patient-specific anatomical challenges.19 Indeed, these factors have been shown to be associated with poor reperfusion and poor outcomes.20 Furthermore, both time to revascularization21 and number of retrieval attempts have been shown to be associated with failed reperfusion and worse clinical outcom e.22–24 Repeated contrast injections and workflow-related factors are other potential explanations. Since the HERMES collaboration did not capture detailed information on vascular anatomy, procedural characteristics and complications, we were unable to assess these factors in detail.25  
+
+![](images/dd1170ae4c9bd31d60cf1e725d1a602c569f830763badb882d281061b792d809.jpg)  
+Figure 2  Modified Rankin Scale sore of EVT patients with poor reperfusion (final mTICI 0–1) who underwent EVT versus best medical management in (A) the entire sample, (B) the sample after excluding patients who received IV alteplase, and (C) the sample after excluding patients with early neurological improvement. Note that there were 79 patients with final mTICI 0–1 in $\mathsf{A}\mathrm{-}\mathsf{C},$ as stated in table 1, but mRS was missing in one of them. Also note that there were 84 patients without tPA in the control arm in (B), but mRS was missing for four patients. Lastly, note that there were 774 patients without early neurological improvement in (C), but mRS was missing for seven. ENI, early neurologic improvement; EVT, endovascular treatment; mRS, modified Rankin Scale; mTICI, modified Thrombolysis in Cerebral Infarction; tPA, tissue plasminogen activator.  
+
+Another potential explanation for worse outcomes in EVT patients with poor reperfusion is endovascular damage created by mechanical manipulation and subsequent vessel wall injury during the procedure. Although studies have shown iatrogenic endothelial injury occurs during EVT, its clinical significance is uncertain, and since no histological specimens were available, we were unable to confirm or refute this hypothesis.26 27 The results of this study suggest that EVT may cause clinically significant damage, but this damage is masked when partial reperfusion is achieved.  
+
+Hemorrhage alone is unlikely to explain the worse outcomes in patients with failed reperfusion in this study since the prevalence of sICH in those receiving EVT with poor reperfusion versus those receiving best medical management did not differ significantly.28  
+
+In summary, we observed clearly worse outcomes in EVT patients with poor reperfusion compared with those receiving best medical management, and the underlying reasons for this difference can neither be explained by baseline characteristics nor by intracranial hemorrhage. Procedural complications and EVT-induced vessel wall injury could potentially explain the observed differences, although this cannot be proven in the current study due to lack of detailed procedural information and histological specimens. One retrospective study has indicated that baseline NIHSS, low number of EVT attempts, stroke etiology, and less infarct growth between baseline and 24 hours may be predictors of favorable outcomes in patients with failed EVT.18 Ultimately, however, the reasons for the harm of failed EVT, reliable markers to prospectively identify patients at high risk of such harm, and potential strategies to mitigate the harmful effects of failed reperfusion—for example, through rescue maneuvers or neuroprotective drugs—will need to be investigated in future research.  
+
+# Study limitations  
+
+This study has several limitations besides the lack of detailed procedural information and histological specimens. The different trials had slightly different inclusion and exclusion criteria and core laboratory imaging definitions, which introduces some heterogeneity. Moreover, since the HERMES trials have been performed, there have been improvements in devices and clinician experience over time, which has probably led to improved reperfusion rates and may have reduced procedural complications, and the results may look different if the study were to be repeated today. Confounding factors such as stroke etiology and procedural complications may have influenced our results as well, and the limited number of patients with failed EVT may limit the reliability of our results. Last, the HERMES dataset included only patients treated in comprehensive stroke centers and thus may lack generalizability to the entire stroke patient population.  
+
+# CONCLUSIONS  
+
+Poor reperfusion after EVT was associated with worse outcomes compared with best medical management. While the reasons for these differences remain unclear, our results emphasize the need for additional efforts to further improve technical EVT success rates.  
+
+# Author affiliations  
+
+1Diagnostic Imaging, Warren Alpert Medical School of Brown University, Providence,   
+Rhode Island, USA   
+2Department of Radiology, University of Calgary Cumming School of Medicine,   
+Calgary, Alberta, Canada   
+3Brightresearch LLC, Chicago, Illinois, USA   
+4Neuroradiology, University of Saskatchewan, Saskatoon, Saskatchewan, Canada   
+5Clinical Neurosciences, University of Calgary Cumming School of Medicine, Calgary,   
+Alberta, Canada   
+6Neurology, Erasmus MC University Medical Center, Rotterdam, The Netherlands   
+7Department of Neurology, The Royal Melbourne Hospital, Melbourne, Victoria,   
+Australia   
+8Department of Neurology, University of Glasgow, Glasgow, UK   
+9Neuroradiology, Université de Lorraine, Nancy, France   
+1ialetialicaliilivi   
+Lorraine, Nancy, France   
+11Neurology, Cooper University Hospital, Camden, New Jersey, USA   
+12Radiology, The Royal Melbourne Hospital, Parkville, Victoria, Australia   
+13Newcastle University Faculty of Medical Sciences, Newcastle upon Tyne, UK   
+14Radiology and Nuclear Medicine, Amsterdam UMC - Locatie AMC, Amsterdam,   
+North Holland, The Netherlands   
+15Comprehensive Stroke Center and Neurology, David Geffen School of Medicine,   
+Los Angeles, California, USA  
+
+X Rosalie V McDonough @rosevmcd, Nima Kashani @nimakashani and Michael D Hill $@$ mihill68  
+
+Collaborators  HERMES collaboration.  
+
+Contributors  NR, SBB, JO: Conceptualization, literature search, drafting and critica revision of the manuscript and figures. MG: Conceptualization, critical revision of the manuscript and figures. Remaining authors: critical revision of the manuscript. MG is the guarantor of the study data/results.  
+
+Funding  The HERMES collaboration was funded by Medtronic.  
+
+Competing interests  JO received consulting fees from Nicolab. SBB receives support from the University of Calgary and is on the data safety and monitoring advisory board of the TESLA study. RVM is a shareholder of Collavidence. MDH received support from Medtronic via a grant to the University of Calgary for the HERMES collaboration (now complete and inactive). He reports additional support from Boehringer Ingelheim to the University of Calgary for the TEMPO-2 trial, from Biogen to the University of Calgary, and from NoNo to the University of Calgary for the ESCAPE-NA1 trial and the ESCAPE-NEXT trial, as well as money from the Canadian Institutes for Health Research for the ESCAPE-NA1 and ESCAPE-NEXT trials, as well as from Alberta Innovates to the University of Calgary for the QuICR Alberta Stroke Program for the ESCAPE-NA1 trial. He additionally reports paid work for the adjudication of clinical trial outcomes from Sun Pharma and Brainsgate. He is on the data safety monitoring board for the RACECAT trial, Oncovir Hiltonel trial, DUMAS trial, ARTESIA trial, and BRAIN-AF trial. He is the president of the Canadian Neurological Sciences Federation and Canadian Stroke Consortium. He has private stocks in Circle Inc and PureWeb Inc. KWM has received grants from the British Heart Foundation, The Stroke Association, and Innovate UK for the ATTEST-2 and TEMPO-2 trials. He has accepted consulting fees from Boehringer-lngelheim, Abbvie, and Biogen. He has received lecture fees from Boehringer Ingelheim. He is on the data safety and monitoring board of the ARREST trial. PJM has received royalties or licenses from Medtronic and Stryker for institutional research support, and support from Stryker, Medtronic, and Microvention for attending meetings and/or travel. MG has received grants from NoNo, Medtronic, and Cerenovus via the University of Calgary. He has received royalties or licenses from GE Healthcare and Microvention. He has received consulting fees from Microvention, Medtronic, Stryker, and Mentice. He has stock or stock options in Circle Neurovascular.  
+
+# Patient consent for publication  Not applicable.  
+
+Ethics approval The HERMES trial is a meta-analysis of seven randomized controlled trials that each received IRB/ethics committee approval at their respective institutions. Approval was not needed for the conglomoration of patient data, per the original publication in Lancet. Participants gave informed consent to participate in the study before taking part.  
+
+Provenance and peer review  Not commissioned; externally peer reviewed.  
+
+Data availability statement  Data may be obtained from a third party and are not publicly available. Data from this study are available from the corresponding author and after approval by the HERMES executive committee on reasonable request.  
+
+Supplemental material  This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and  
+
+responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.  
+
+# ORCID iDs  
+
+Nathaniel Rex http://orcid.org/0000-0003-3028-1336 Nima Kashani http://orcid.org/0000-0002-9752-784X Michael D Hill http://orcid.org/0000-0002-6269-1543 Diederik W J Dippel http://orcid.org/0000-0002-9234-3515 Keith W Muir http://orcid.org/0000-0001-9535-022X Charles B L M Majoie http://orcid.org/0000-0002-7600-9568 Jeffrey L Saver http://orcid.org/0000-0001-9141-2251 Mayank Goyal http://orcid.org/0000-0001-9060-2109  
+
+# REFERENCES  
+
+1	 Goyal M, Menon BK, van Zwam WH, et al. Endovascular thrombectomy after large-vessel ischaemic stroke: a meta-analysis of individual patient data from five randomised trials. Lancet 2016;387:1723–31.   
+2	 Sporns PB, Fiehler J, Ospel J, et al. Expanding indications for endovascular thrombectomy - how to leave no patient behind. Ther Adv Neurol Disord   
+2021;14:175628642199890.   
+3	 Bendszus M, Bonekamp S, Berge E, et al. A randomized controlled trial to test efficacy and safety of thrombectomy in stroke with extended lesion and extended time window. Int J Stroke 2019;14:87–93.   
+4	 Sarraj A, Hassan AE, Abraham M, et al. A randomized controlled trial to optimize patient’s selection for endovascular treatment in acute ischemic stroke (SELECT2): study protocol. Int J Stroke 2022;17:689–93.   
+5	 Huo X, Ma G, Tong X, et al. Trial of endovascular therapy for acute ischemic stroke with large infarct. N Engl J Med 2023;388:1272–83.   
+6	 Yoshimura S, Sakai N, Yamagami H, et al. Endovascular therapy for acute stroke with a large ischemic region. N Engl J Med 2022;386:1303–13.   
+7	 Ospel JM, Hill MD, Demchuk A, et al. Clinical impact of EVT with failed reperfusion in patients with acute ischemic stroke:results from the ESCAPE and ESCAPE-NA1 trials. Neuroradiology 2021;63:1883–9.   
+8	 Berkhemer OA, Fransen PSS, Beumer D, et al. A randomized trial of intraarterial treatment for acute ischemic stroke. N Engl J Med 2015;372:11–20.   
+9	 Goyal M, Demchuk AM, Menon BK, et al. Randomized assessment of rapid endovascular treatment of ischemic stroke. N Engl J Med 2015;372:1019–30.   
+10 Campbell BCV, Mitchell PJ, Kleinig TJ, et al. Endovascular therapy for ischemic stroke with perfusion-imaging selection. N Engl J Med 2015;372:1009-18.   
+11Saver JL, Goyal M, Bonafe A, et al. Stent-retriever thrombectomy after intravenous t-PA vs.t-PA alone in stroke. N Engl J Med 2015;372:2285-95.   
+12 Jovin TG, Chamorro A, Cobo E, et al. Thrombectomy within 8 hours after symptom onset in ischemic stroke. N Engl J Med 2015;372:2296–306.   
+13 Muir KW, Ford GA, Messow C-M, et al. Endovascular therapy for acute ischaemic stroke: the Pragmatic Ischaemic Stroke Thrombectomy Evaluation (PISTE) randomised controlled trial. J Neurol Neurosurg Psychiatry 2017;88:38–44.   
+14 Bracard S, Ducrocq X, Mas JL, et al. Mechanical thrombectomy after intravenous alteplase versus alteplase alone after stroke (THRACE): a randomised controlled trial. Lancet Neurol 2016;15:1138–47.   
+15 Badhiwala JH, Nassri F, Alhazzani W,et al. Endovascular thrombectomy for acute ischemic stroke: a meta-analysis. JAMA 2015;314:1832-43.   
+16von Kummer R, Broderick JP, Campbell BCV,et al.The Heidelberg bleeding classification: classification of bleeding events after ischemic stroke and reperfusion therapy. Stroke 2015;46:2981–6.   
+17Kharitonova T, Mikulik R, Roine RO, et al. Association of early National Institutes of Health Stroke Scale improvement with vessel recanalization and functional outcome after intravenous thrombolysis in ischemic stroke. Stroke 2011;42:1638–43.   
+18 Marnat G, Gory B, Sibon l, et al. Mechanical thrombectomy failure in anterior circulation strokes: outcomes and predictors of favorable outcome. Eur J Neurol 2022;29:2701–7.   
+19 Kim BM. Causes and solutions of endovascular treatment failure.J Stroke 2017;19:131–42.   
+20 Dutra G,TolhuisenM, Aes HBR,et al. Thrombus imaging characteristics and outcomes in acute ischemic stroke patients undergoing endovascular treatment. Stroke 2019;50:2057–64.   
+21 Mulder MJHL, Jansen IGH, Goldhoorn R-JB, et al. Time to endovascular treatment and outcome in acute ischemic stroke: MR CLEAN registry results. Circulation 2018;138:232–40.   
+22 Flottmann F, Brekenfeld C, Broocks G, et al. Good clinical outcome decreases with numberof retrieal attmts in stroe thrmbectmy: byond thefirst-pass efft Stroke 2021;52:482–90.   
+23 Flottmann F, van Horn N, Maros ME,et al. More retrieval attempts are associated with poorer functional outcome after unsuccessful thrombectomy. Clin Neuroradiol 2022;32:361–8.   
+24 Diprose WK, Sutherland LJ, Wang MTM, et al. Contrast-associated acute kidney injr in endovascular thrombectomy patients with and without baseline renal impairment. Stroke 2019;50:3527–31.   
+25 Inoue T, Fushimi K.Stroke care units versus general medical wards for acute management of stroke in Japan. Stroke 2013;44:3142–7.   
+26Pasarikovski CR RamjstJ, da Costa L,et al.Optical coherence tomgraphy maging after endovascular thrombectomy for basilar artery occlusion: report of 3 cases. J Neurosurg 2019:1–6.   
+27 OspelJ, Rex N, Kandregula S, et al. The vessel has been recanalized: now what? Neurotherapeutics 2023;20:679–92.   
+28 Janssen PM, Roozenbeek B, Coutinho JM, et al. Effect of workflow improvements on time to endovascular thrombectomy for acute ischemic stroke in the MR CLEAN Registry. SVIN 2023;3:e000733.  

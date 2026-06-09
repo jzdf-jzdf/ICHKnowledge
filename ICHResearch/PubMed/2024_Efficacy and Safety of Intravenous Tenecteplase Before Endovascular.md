@@ -1,0 +1,185 @@
+# PROTOCOL  
+
+# Efficacy and Safety of Intravenous Tenecteplase Before Endovascular Thrombectomy for Acute Ischemic Stroke: The Multicenter, Randomized, BRIDGE-TNK Trial Protocol  
+
+Zhongming Qiu $\circledcirc$ , MD\*; Fengli Li $\circledcirc$ , MD\*; Dongjing Xie, MD\*; Guangxiong Yuan, MD\*; Thanh N. Nguyen $\circledcirc$ , MD; Kai Zhou $\circledcirc$ , MD; Raul G. Nogueira $\circledcirc$ , MD; Jeffrey L. Saver $\circledcirc$ , MD; Bruce C.V. Campbell $\circledcirc$ , MBBS, PhD; Gregory W. Albers $\circledcirc$ , MD; Hongfei Sang $\circledcirc$ , MD; Linyu Li $\circledcirc$ , MS; Yan Tian, MS; Zhaoyou Meng, MD; Duolao Wang $\circledcirc$ , PhD; Wenjie Zi $\circledcirc$ , MD; Qingwu Yang $\circledcirc$ , MD; on behalf of the BRIDGE-TNK investigatorst  
+
+BACKGROUND: Six randomized trials have not detected a difference between intravenous alteplase plus endovascular thrombectomy and endovascular thrombectomy alone in stroke. Tenecteplase, a recombinant human tenecteplase tissue-type plasminogen activator, is a genetically modified variant of alteplase. It is unclear whether the outcomes are different if alteplase is replaced with tenecteplase. This trial aims to determine whether intravenous tenecteplase within 4.5 hours of time last known well confers benefit in patients with acute ischemic stroke with large-vessel occlusion who undergo endovascular thrombectomy.  
+
+METHODS: BRIDGE-TNK (Thrombectomy With Versus Without rhTNK-tPA in Stroke) is an investigator-initiated, multicenter, prospective, randomized, open-label trial with blinded end point evaluation conducted at 40 thrombectomy-capable centers in China. This trial will randomize 544 patients with intravenous thrombolysis–eligible stroke (272 in each arm) with large-vessel occlusion within 4.5 hours of last known well to receive bridging intravenous tenecteplase with endovascular thrombectomy (tenecteplase-plus-thrombectomy group) or endovascular thrombectomy alone (thrombectomy-alone group). The primary outcome is the proportion of patients achieving functional independence, defined as a score of 0 to 2 on the modified Rankin Scale, at 90 days. Safety will be assessed via symptomatic intracranial hemorrhage at 48 hours and death at 90 days.  
+
+CONCLusIONs: BRIDGE-TNK willprovide important data on the role of intravenous tenecteplase before endovascular thrombectomy in patients with acute ischemic stroke with large-vessel occlusion who can be treated within 4.5 hours of last known well.  
+
+REGISTRATI0N: URL: https://clinicaltrials.gov. Unique identifier: NCTO4733742  
+
+<html><body><table><tr><td colspan="2">Nonstandard Abbreviations and Acronyms</td></tr><tr><td>DIRECT-MT</td><td>Direct Intra-Arterial Thrombectomy in Order to RevascularizeAcute Ischemic Stroke Patients With Large Vessel</td></tr><tr><td>DIRECT-SAFE</td><td>OcclusionEfficiently in Chinese Tertiary Hospitals A Randomized Controlled TrialofDIRECT Endovascular Clot RetrievalVersusStandard Bridging Thrombolysis</td></tr><tr><td>DIRECT-TNK</td><td>WithEndovascular Clot Retrieval Randomization to Endovascular Treatment Alone or Preceded by Systemic Thrombolysis</td></tr><tr><td>EVT</td><td>With Tenecteplase in Ischemic Stroke endovascular thrombectomy</td></tr><tr><td>EXTEND-IATNK</td><td>TenecteplaseVersus AlteplaseBefore Endovascular Therapy for</td></tr><tr><td>LVO MR CLEAN-NOIV</td><td>Ischemic Stroke large-vessel occlusion Intravenous Treatment FollowedbyEndovascular TreatmentVersusDirect Endovascular Treatment for Acute Ischemic Stroke</td></tr><tr><td>mRS RESCUE BT</td><td>Caused by a Proximal Intracranial Occlusion modifiedRankinScale Endovascular Treatment WithVersus Without Tirofiban for Patients With Large Vessel Occlusion</td></tr><tr><td>SWIFT-DIRECT</td><td>Stroke Solitaire With the Intention for Thrombectomy Plus Intravenous t-PAVersus DirectSolitaire Stent- Retriever Thrombectomy in Acute Anterior Circulation Stroke</td></tr></table></body></html>  
+
+Ccular thrombectomy (EVT) are recommended for eligible patients with acute ischemic stroke due to large-vessel occlusion (LVO) in American and Chinese guidelines.1,2 Intravenous thrombolysis is a doubleedged sword with both potential benefits and risks.3,4  
+
+Six randomized controlled trials since 2018 have assessed the role of intravenous thrombolysis before EVT in patients with thrombolysis-eligible stroke presenting within 4.5 hours of symptom onset.3–8 An individual-­ level pooled analysis of these 6 trials, the Improving Reperfusion Strategies in Acute Ischemic Stroke collaboration, included 2313 patients with acute ischemic stroke with LVO within 4.5 hours of last known well. However, it established neither noninferiority nor superiority of EVT alone compared with intravenous thrombolysis plus EVT.9 The design of these trials was not identical, but all trials used alteplase, and only $2.2\%$ (25/2313) received tenecteplase, which was insufficient for any analysis to study the treatment effect of tenecteplase.9 Moreover, the Improving Reperfusion Strategies in Acute Ischemic Stroke meta-analysis showed that the benefit of bridging thrombolysis was time dependent, with earlier treatment associated with better outcome.10  
+
+Tenecteplase, a recombinant human tenecteplase tissue-type plasminogen activator, is a new generation of fibrinolytic that has 3 amino acids modifications versus alteplase. Compared with alteplase, tenecteplase has a longer plasma half-life, higher fibrin specificity, greater resistance to plasminogen activator inhibitor-1, and higher speed of thrombolysis, making it more likely that tenecteplase can achieve successful reperfusion with a single intravenous bolus.11 A randomized controlled trial comparing tenecteplase with alteplase before mechanical thrombectomy in ischemic stroke showed that tenecteplase was associated with a higher rate of recanalization and lower disability level than alteplase.12 It is uncertain whether tenecteplase bridging thrombectomy may yield more favorable outcomes than thrombectomy alone.  
+
+Therefore, we designed the BRIDGE-TNK (Randomized Trial of Thrombectomy With Versus Without rhTNK-tPA in Stroke), to test the hypothesis that intravenous tenecteplase before EVT will improve clinical outcome in patients with acute ischemic stroke secondary to LVO who are treatable within 4.5 hours of last known well and will not increase the incidence of symptomatic intracranial hemorrhage or death.  
+
+# METHODS  
+
+# Transparency and Openness Promotion  
+
+The data that support the findings of this study are available from the corresponding author upon reasonable request.  
+
+# Study Design  
+
+The BRIDGE-TNK is an investigator-initiated, multicenter, prospective, randomized, open-label trial with blinded evaluation of outcomes, aiming to evaluate the superiority of intravenous tenecteplase plus endovascular thrombectomy (tenecteplase-plusthrombectomy group), compared with endovascular thrombectomy alone (thrombectomy-alone group), to increase the 90-day functional independence in patients with acute LVO stroke who are treatable within 4.5 hours of last known well (Figure 1). The trial is designed and conducted according to the Declaration of Helsinki and has been registered at www.clinicaltrials.gov (identifier NCT04733742). The protocol (version 2.0) was approved by the ethics committee of Xinqiao Hospital, Army Medical University, and all participating hospitals before enrollment. The trial diagram and visit plan are shown in Figure 2.Eligible subjects will be consecutively enrolled across ${\approx}40$ Chinese stroke centers, all of which conduct at least 50 endovascular thrombectomies annually using a stent retriever, contact aspiration devices, stent retriever combined with contact aspiration, angioplasty with balloon or stenting, and so on. Moreover, all neurointerventionalists must successfully conduct no less than 10 procedures per year and have ${>}5$ years of experience in thrombectomy. To ensure the high quality of the trial, training on the protocol and thrombectomy techniques will be conducted semiannually.  
+
+![](images/0bd038482053cb9bf1bece62d01d1deffcdcffebe620b8eb82f13a7863149531.jpg)  
+Figure 1.  Trial logo.  
+
+Inclusion criteria include the following:  
+
+# Patient Population Inclusion Criteria  
+
+Eligible patients must meet all of the following criteria.  
+
+1. Age $218$ years.   
+2. Patient with acute ischemic stroke who is eligible for intravenous thrombolysis treatment within 4.5 hours of time last known well.   
+3.	 No significant prestroke functional disability: for age ${<}80$ years, prestroke modified Rankin scale (mRS) $\leq2;$ ; for age ${\ge}80$ years, prestroke mRS ${\le}1$ .   
+4. Occlusion of the internal carotid artery (cervical or intracranial), the first or second segment of the middle cerebral artery, vertebrobasilar artery, or the first segment of the posterior cerebral artery proven on computed tomography (CT) or magnetic resonance (MR) angiography.   
+5. EVT is planned by clinical care team.   
+6. The patient or their legal representative provides written informed consent.  
+
+![](images/cd2b7cd58305dc0cb5560e15c6f84b844bb96254d9b9f5b163f31314785f8086.jpg)  
+Figure 2.  The trial diagram and visit plan. CT indicates computed tomography; CTA, computed tomography angiography; MRA, magnetic resonance angiography; MRI, magnetic resonance imaging; mRS, modified Rankin Scale; and NIHSS, National Institutes of Health Stroke Scale.  
+
+# Exclusion Criteria  
+
+Eligible patients do not have any of the following conditions.  
+
+1.	 Intracranial hemorrhage on baseline CT or MR.   
+2.	 Contraindication to intravenous thrombolytics.   
+3.	 Already received intravenous thrombolytic after index stroke.   
+4.	 Known pregnancy or breastfeeding, or serum beta human chorionic gonadotropin test is positive on admission.   
+5. Contraindication to radiographic contrast agents, nickel, titanium metals, or their alloys.   
+6. Current participation in another investigational drug clinical trial.   
+7.	 Arterial tortuosity and/or other arterial disease that would lead to unstable access platform or prevent the thrombectomy device from reaching the target vessel.   
+8.	 Patient with a preexisting neurological or psychiatric disease that would confound the outcome assessments.   
+9.	 Patient with occlusions in ${}^{22}$ vascular territories (eg, bilateral territories, or anterior and posterior circulation).   
+10.	 Mass effect or intracranial neoplasm on baseline CT or MR (except small meningioma).   
+11.	 Intracranial arteriovenous malformation or aneurysm on baseline CT or MR angiography.   
+12.	 Any terminal disease with a life expectancy $^{<6}$ months.   
+13. Unlikely to be available for follow-up at 90 days.  
+
+# Randomization  
+
+Randomization will be performed immediately via a web-based application on a mobile phone or computer (https://jinlingshu.com) after  the patient's eligibility has been established. Eligible patients will be randomly assigned in a 1:1 ratio to the tenecteplaseplus-thrombectomy   group  or  thrombectomy-alone group. Permuted block randomization will be used to maximize the balance between the 2 groups. Both the patient and physician will be aware of the treatment assignment. Trained investigators who are blinded to treatment assignment will evaluate the mRS score at 90 days using a structured questionnaire.13  
+
+# Treatments Tenecteplase-Plus-Thrombectomy Group  
+
+Patients assigned to the tenecteplase-plus-thrombectomy group will be treated with intravenous tenecteplase followed by EVT. Tenecteplase is manufactured and supplied by CSPC Recomgen Pharmaceutical (Guangzhou) Co., Ltd. Tenecteplase, as a lyophilized powder stored in glass vials (16 mg per vial) will be reconstituted in $3\mathrm{ml}$ of sterile water for injection $(0.25\mathsf{mg}/\mathsf{kg};$ maximum dose, 25 mg), and delivered intravenously as a bolus for ${\approx}5$ to 10 seconds followed by a saline flush. EVT will include mechanical thrombectomy with stent retrievers and/or thromboaspiration, balloon angioplasty, stenting, intra-arterial thrombolysis, or a combination of these approaches.  
+
+# Thrombectomy-Alone Group  
+
+Patients assigned to the thrombectomy-alone group wil receive EVT without intravenous tenecteplase pretreatment. The recommended strategies of EVT are the same as for the tenecteplase-plus-thrombectomy group.  
+
+After the endovascular procedure, all enrolled patients in both groups will receive treatment as per the current American or Chinese stroke guidelines.1,2  
+
+# Efficacy End Points Primary Outcome  
+
+The primary end point is patients with functional independence (defined as a score of 0–2 on the mRS) at $90\pm14$ days after randomization.  
+
+# Secondary Outcomes  
+
+These secondary outcomes will be recorded and analyzed.  
+
+1.	 Successful reperfusion at initial angiogram before EVT. Successful reperfusion is defined as Expanded Treatment in Cerebral Infarction score of 2b50 $(50\%-66\%$ reperfusion of the territory), 2b67 $(67\%-89\%)$ , 2c $(90\%-99\%)$ , or 3 ( $100\%$ on angiography.   
+2. Successful   reperfusion   at   end-of-procedure angiography.   
+3. First-pass effect, defined as Expanded Treatment in Cerebral Infarction $\scriptstyle\geq2\mathrm{c}$ after the first thrombectomy pass.14   
+4. Modified first-pass effect, defined as Expanded Treatment in Cerebral Infarction ${\ttz2b}$ after the first thrombectomy pass.14   
+5.	 National Institutes of Health Stroke Scale score at 5 to 7 days or discharge.   
+6. Disability level measured by the mRS at $90\pm14\mathrm{days}$ .   
+7. Patients with excellent outcome, defined as mRS 0 to 1 at $90\pm14$ days.   
+8. Patients with independent ambulation, defined as mRS 0 to 3 at $90\pm14$ days.   
+9. Health-related quality of life (European Quality Five-Dimension   Five-Level   sScale  sScore)  at $90\pm14$ days.  
+
+# Safety End Points  
+
+The following are the safety endpoint of this trial.  
+
+1.	 Any radiologic intracranial hemorrhage rate within 48 hours.   
+2. Symptomatic intracranial hemorrhage rate within 48 hours (Heidelberg classification).15   
+3. Mortality at $90\pm14$ days.   
+4. Procedure-related complications such as arterial perforation, iatrogenic arterial dissection, arterial access site hematoma, and retroperitoneal hematoma.   
+5.	 Serious adverse events.  
+
+# Data and Safety Monitoring Board  
+
+The independent data and safety monitoring board is composed of 3 specialists in the fields of stroke, neurothrombectomy, and biostatistics, all of whom do not participate in the BRIDGE-TNK trial and are external to the study sponsors. The data and safety monitoring board will meet once a year to monitor the progress of the trial. The data and safety monitoring board will review the frequency (percentage) of serious adverse events and provide recommendations on whether to suspend, continue, or stop the trial.  
+
+PASS software version 15.0 (NCSS, LLC, Kaysville, UT).  
+
+# Statistical Analysis  
+
+Statistical analyses of efficacy outcomes will be performed in the modified intention-to-treat data set and will be adjusted for age, baseline National Institutes of Health Stroke Scale score, baseline Alberta Stroke Program Early Computed Tomography Score, occlusion site, and time from last known well to randomization. The primary analysis of BRIDGE-TNK will compare the rate of functional independence between the 2 groups. For the primary outcome and other binary outcomes, differences between the 2 arms will be analyzed with the use of modified Poisson regression with robust error estimation.18 Analysis of the European Quality Five-Dimension Five-Level scale score and mRS shift (the full range of the mRS is considered) will be performed using linear regression and ordinal logistic regression, respectively. Analyses of safety outcomes will be conducted on the basis of the safety data set. Safety outcomes in both groups will be reported as frequency counts and percentages. Secondary analyses will be analyzed for the same primary outcome in the following subgroups: by age (using median age threshold), sex, time to randomization, stroke pathogenesis (cardioembolic  versus  large-artery   atherosclerosis versus unknown), site of arterial occlusion, baseline Alberta Stroke Program Early Computed Tomography Score, and patients receiving angioplasty or stenting. Unadjusted and adjusted risk ratios, mean differences, and common odds ratios will be presented with their corresponding $95\%$ CIs. The significance level for all analyses is a 2-sided $\alpha{=}0.05$ . Statistical analysis will be conducted on the SAS 9.4 system with Windows (SAS Institute, Cary, NC).  
+
+# Sample Size Estimates  
+
+Based on 2 Chinese randomized controlled trials of direct mechanical thrombectomy for acute large-vessel occlusive stroke,3,5 it is assumed that the proportion of functional independence in the thrombectomy-alone group is $41\%$ . Combining the results of 3 randomized controlled trials of intravenous tenecteplase followed by EVT in patients with stroke with LVO,12,16,17 we hypothesize that the proportion of functional independence in the tenecteplase-plus-thrombectomy group will be $54\%$ . Up to 462 (231 patients per arm) patients would provide $80\%$ power at a 2-sided $\alpha{=}0.05$ significance level. The sample size will be inflated to 544 (272 patients per arm) to account for a possible attrition rate of $15\%$ for protocol violations, treatment failure, and loss to follow-up. This calculation was conducted using  
+
+# DISCUSSION  
+
+The BRIDGE-TNK randomized trial will provide important data on the efficacy and safety of intravenous tenecteplase before EVT in patients with acute ischemic stroke due to LVO presenting within 4.5 hours of last known well. This trial will be conducted concurrently with the DIRECT-TNK (Randomization to Endovascular Treatment Alone or Preceded by Systemic Thrombolysis With Tenecteplase in Ischemic Stroke; NCT05199194) trial led by Nogueira et  al in Brazil. Both trials randomized their first patients in May 2022, and the databases will be pooled after each of the 2 trials are published and completed.  
+
+The study investigators considered that it was ethical to deny participants access to a proven treatment (tenecteplase) for the following reasons. First, this trial was designed and registered in January 2021 on the basis of the results of the DIRECT-­MT (Direct IntraArterial Thrombectomy in Order to Revascularize Acute Ischemic Stroke Patients With Large Vessel Occlusion Efficiently in Chinese Tertiary Hospitals),5 DEVT (Direct Endovascular Thrombectomy vs Combined Intravenous Thrombolysis and Endovascular Thrombectomy for Patients With Acute Large Vessel Occlusion in the Anterior Circulation),3 SKIP (The Direct Mechanical Thrombectomy in Acute Large Vessel Occlusion Stroke)4 and EXTEND-IA TNK (Tenecteplase Versus Alteplase Before Endovascular Therapy for Ischemic Stroke) trials12 available at that time (MR CLEAN-NO IV (Intravenous Treatment Followed by Endovascular Treatment Versus Direct Endovascular Treatment for Acute Ischemic Stroke Caused by a Proximal Intracranial Occlusion),7 SWIFT-DIRECT (Solitaire With the Intention for Thrombectomy Plus Intravenous t–PA Versus Direct Solitaire Stent–Retriever Thrombectomy in Acute Anterior Circulation Stroke)8 and DIRECT-­ SAFE (A Randomized Controlled Trial of DIRECT Endovascular Clot Retrieval Versus Standard Bridging Thrombolysis With Endovascular Clot Retrieval)6 trials were ongoing as of January 2021). The DIRECT-­MT and DEVT trials had met their prespecified noninferiority margins and had point estimates favoring the direct EVT strategy. The Japanese SKIP trial showed that the proportion of patients with functional independence (mRS 0-2) at 90days in the EVT-alone group was numerically higher than that in the bridging thrombolysis group $(59.4\%$ versus $57.3\%$ ; odds ratio, 1.09 $[97.5\%$ CI, 0.63 to ∞], $P$ value for noninferiority $_{'=0.18,}$ ).4 Accordingly, we used the EVT-alone group as the control group, and the Ethics Committee approved the BRIDGE-TNK trial. This was consistent with the subSequent recommendation of the DIRECT-SAFE trial data and safety monitoring board to terminate that trial on the basis of a meta-analysis of DIRECT-MT, DEVT, SKIP, and MR CLEAN-NO IV that demonstrated a pooled adjusted odds ratio of 0.94 ( $95\%$ CI, 0.81–1.09). The lower boundary of the 2-sided $95\%$ CI (1-sided $97.5\%$ CI) did not cross the odds ratio 0.8 noninferiority margin. Second, it was also consistent with later updates to stroke guidelines in China2 and Japan19 that recommended that EVT alone could be used as an alternative to bridging thrombolysis when EVT could be performed rapidly. Finally, although the recent Improving Reperfusion Strategies in Acute Ischemic Stroke meta-analysis of individual patient data from 2313 patients in all 6 trials did not establish noninferiority of direct EVT using a stricter noninferiority margin of $5\%$ , the proportion of patients achieving functional independence (mRS 0–2) in the bridging thrombolysis group was $50.7\%$ versus $49\%$ with EVT alone, with an absolute risk difference of ${\approx}1.7\%$ .9 There are no data showing a statistically significant benefit associated with intravenous alteplase. Therefore, omitting the thrombolytic is not likely to substantially disadvantage patients in BRIDGE-TNK, which recruits patients only from  thrombectomy-capable  comprehensive  stroke centers.  
+
+The BRIDGE-TNK trial excludeS patients with arterial tortuosity and/or other arterial disease that would lead to an unstable access platform or prevent the thrombectomy device from reaching the target vessel. In addition, our multicenter collaborative teams have conducted several endovascular stroke treatment trials (such as DEVT3 and RESCUE BT [Endovascular Treatment With Versus Without Tirofiban for Patients With Large Vessel Occlusion Stroke]20), with an excellent rate of successful recanalization rate of ${\approx}90\%$ , which provides reassurance that patients not receiving thrombolytic in BRIDGE-TNK are very likely to have successful thrombectomy. The centers participating in this trial have streamlined workflow for noncontrast $\mathsf{CT}\mathrm{+CT}$ angiography or MR imaging $+\mathsf{MR}$ angiography, to minimize any delay to intravenous thrombolysis. Functional independence is the primary end point of BRIDGE-TNK and is a widely accepted end point in this population.  
+
+Our trial has limitations. First, a placebo-controlled trial design is the most ideal approach to decrease potential bias. Unfortunately, the manufacturer was unable to provide a placebo for tenecteplase. Therefore, we opted for the prospective, randomized, open-label trial with blinded evaluation of outcomes design to reduce bias by blinding end point assessors. In addition, written informed consent needs to be obtained by the patient or their legal representative before trial enrollment, which will delay the initiation of intravenous thrombolysis. Therefore, the time from last known well to randomization and to puncture time will be calculated. We will also calculate the time interval from hospital arrival to randomization and to puncture and the time from intravenous thrombolysis to puncture and list all these variables in the table of baseline characteristics. Finally, given all the data currently available, the $9\%$ difference used for the power calculation may be optimistic. If we had powered the study on the basis of the $1.7\%$ difference observed in the Improving Reperfusion Strategies in Acute Ischemic Stroke meta-analysis,9 the sample size would be 27 152, which is not feasible. If the BRIDGETNK results are not definitive, the sample size of 544 will provide a more accurate indication of the sample size for a definitive trial.  
+
+Trial enrollment of BRIDGE-TNK began on May 9, 2022, and is ongoing. At the time of initial submission of this article, 444 patients had been randomized. Enrollment is expected to end in August 2024, while follow-up for the final patient is targeted to finish in November 2024.  
+
+# CONCLUSIONS  
+
+In summary, BRIDGE-TNK is designed to determine the role of intravenous tenecteplase within 4.5 hours in patients with acute ischemic stroke with LVO who are undergoing EVT. This trial will help contribute robust evidence for the adjunct use of tenecteplase within a 4.5-hour time window.  
+
+# ARTICLE INFORMATION  
+
+Received May 23, 2024; accepted September 11, 2024.  
+
+# Affiliations  
+
+Xinqiao Hospital and The Second Affiliated Hospital, Army Medical University (Third Military Medical University), Chongqing, China (Z.Q., F.L., D.X., K.Z., L.L., Y.T., Z.M., W.Z., Q.Y.); Xiangtan Central Hospital, Xiangtan, China (G.Y.); Boston Medical Center, Boston, MA (T.N.N.); UPMC Stroke Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA (R.G.N.); David Geffen School of Medicine at University of California at Los Angeles, Los Angeles, CA (J.L.S.); Melbourne Brain Centre at the Royal Melbourne Hospital, University of Melbourne, Parkville, Vic, Australia (B.C.C.); Stanford Stroke Center, Stanford University, Palo Alto, CA (G.W.A.); Affiliated Hangzhou First People’s Hospital, School of Medicine, Westlake University, Hangzhou, China (H.S.); and Global Health Trials Unit, Liverpool School of Tropical Medicine, Liverpool, UK (D.W.).  
+
+# Sources of Funding  
+
+The BRIDGE-TNK trial is sponsored by (1) CSPC Recomgen Pharmaceutical (Guangzhou) CO., Ltd; (2) National Natural Science Foundation of China (No. 82090040); (3) key project of clinical new technology of the Second Affiliated Hospital of Army Medical University (2021JSLC0001); and (4) Chongqing Science and Health Joint Medical Research Project (No. 2023GGXM007). Tenecteplase is provided free of charge by CSPC Recomgen Pharmaceutical (Guangzhou) Co., Ltd. The sponsors had no role in the trial design, conduct, data collection, interpretation, drafting, or submission of the trial protocol.  
+
+# Disclosures  
+
+Dr Nguyen is on the advisory board for Aruna Bio and Brainomix and is associate editor of Stroke. The remaining authors have no disclosures to report.  
+
+# Supplemental Material  
+
+Data S1  
+
+# REFERENCES  
+
+1.	 Powers WJ, Rabinstein AA, Ackerson T, Adeoye OM, Bambakidis NC, Becker K, Biller J, Brown M, Demaerschalk BM, Hoh B, et al. Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke; a Journal of Cerebral Circulation. 2019;50:e344–e418. doi: 10.1161/str.0000000000000211   
+2.	 Chinese Society of Neurology, Chinese Stroke Society, Neurology NIGoCSo. Chinese guidelines for the endovascular treatment of acute ischemic stroke 2022. Chinese Journal of Neurology. 2022;55:565– 580.doi: 10.3760/cma.j.cn113694-20220225-00137   
+3.	 Zi W, Qiu Z, Li F, Sang H, Wu D, Luo W, Liu S, Yuan J, Song J, Shi Z, et  al. Effect of endovascular treatment alone vs intravenous alteplase plus endovascular treatment on functional independence in patients with acute ischemic stroke: the DEVT randomized clinical trial. JAMA. 2021;325:234–243. doi: 10.1001/jama.2020.23523   
+4.	 Suzuki K, Matsumaru Y, Takeuchi M, Morimoto M, Kanazawa R, Takayama Y, Kamiya Y, Shigeta K, Okubo S, Hayakawa M, et al. Effect of mechanical thrombectomy without vs with intravenous thrombolysis on functional outcome among patients with acute ischemic stroke: the SKIP randomized clinical trial. JAMA. 2021;325:244–253. doi: 10.1001/ jama.2020.23522   
+5.	 Yang P, Zhang Y, Zhang L, Zhang Y, Treurniet KM, Chen W, Peng Y, Han H, Wang J, Wang S, et al. Endovascular thrombectomy with or without intravenous alteplase in acute stroke. N Engl J Med. 2020;382:1981– 1993. doi: 10.1056/NEJMoa2001123   
+6.	 Mitchell PJ, Yan B, Churilov L, Dowling RJ, Bush SJ, Bivard A, Huo XC, Wang G, Zhang SY, Ton MD, et  al. Endovascular thrombectomy versus standard bridging thrombolytic with endovascular thrombectomy within $4{\cdot}5\mathrm{~h~}$ of stroke onset: an open-abel, blinded-endpoint, randomised non-inferiority trial. The Lancet. 2022;400:116-125. doi: 10.1016/s0140-6736(22)00564-5   
+7.	 LeCouffe NE, Kappelhof M, Treurniet KM, Rinkel LA, Bruggeman AE, Berkhemer OA, Wolff L, van Voorst H, Tolhuisen ML, Dippel DWJ, et al. A randomized trial of intravenous alteplase before endovascular treatment for stroke. N Engl J Med. 2021;385:1833–1844. doi: 10.1056/ NEJMoa2107727   
+8.	 Fischer U, Kaesmacher J, Strbian D, Eker O, Cognard C, Plattner PS, Bütikofer L, Mordasini P, Deppeler S, Pereira VM, et al. Thrombectomy alone versus intravenous alteplase plus thrombectomy in patients with stroke: an open-label, blinded-outcome, randomised non-inferiority trial. The Lancet. 2022;400:104-115. doi: 10.1016/s0140-6736(22)00537-2   
+9.	 Majoie CB, Cavalcante F, Gralla J, Yang P, Kaesmacher J, Treurniet KM, Kappelhof M, Yan B, Suzuki K, Zhang Y, et al. Value of intravenous thrombolysis in endovascular treatment forlarge-vessel anterior circulatinstrdidpipantdtnisfsiranmd trials. Lancet (London, England). 2023;402:965–974. doi: 10.1016/ S0140-6736(23)01142-x   
+10. Kaesmacher J, Cavalcante F, Kappelhof M, Treurniet KM, Rinkel L, Liu J, Yan B, Zi W, Kimura K; Eker OF, et al. Time to treatment with intravenous thrombolysis before thrombectomy and functional outcomes in acute ischemic stroke: a meta-analysis. JAMA. 2024;331:764-777. doi: 10.1001/jama.2024.0589   
+11.	 Tanswell P, Modi N, Combs D, Danays T. Pharmacokinetics and pharmacodynamics of tenecteplase in fibrinolytic therapy of acute myocardial infarction. Clin Pharmacokinet. 2002;41:1229–1245. doi: 10.2165/0 0003088-200241150-00001   
+12. Campbel BCV, Mitchell PJ, Churilov L, Yassi N, Kleinig TJ, Dowling RJ, Yan B, Bush SJ, Dewey HM, Thijs V, et  al. Tenecteplase versus alteplase before thrombectomy for ischemic stroke. N Engl J Med. 2018;378:1573–1582. doi: 10.1056/NEJMoa1716405   
+13. Patel N, Rao VA, Heilman-Espinoza ER, Lai R, Quesada RA, Flint AC. Simple and reliable determination of the modified rankin scale score in neurosurgical and neurological patients: the mR-9Q. Neurosurgery. 2012;71:971–975. doi: 10.1227/NEU.0b013e31826a8a56   
+14. Zaidat OO, Castonguay AC, Linfante I, Gupta R, Martin CO, Holloway WE, Mueller-Kronast N, English JD, Dabus G, Malisch TW, et al. First pass effect: a new measure for stroke thrombectomy devices. Stroke. 2018;49:660–666. doi: 10.1161/strokeaha.117.020315   
+15. von Kummer R, Broderick JP, Campbell BC, Demchuk A, Goyal M, Hil MD, Treurniet KM, Majoie CB, Marquering HA, Mazya MV, et  al. The heidelberg bleeding classification: classification of bleeding events after ischemic stroke and reperfusion therapy. Stroke. 2015;46:2981–2986. doi: 10.1161/STROKEAHA.115.010049   
+16. CambellBCV, Mitchell PJ, Churlo L, Yassi N, Keinig TJ, Dowing RJ, Yan B, Bush SJ, Thijs V, Scroop R, et al. Effect of intravenous tenecteplase dose on cerebral reperfusion before thrombectomy in patients with large vessel occlusion ischemic stroke: the EXTEND-IA TNK part 2 randomized clinical trial. JAMA. 2020;323:1257–1265. doi: 10.1001/jama.2020.1511   
+17.	 Bala F, Singh N, Buck B, Ademola A, Coutts SB, Deschaintre Y, Khosravani H, Appireddy R, Moreau F, Phillips S, et al. Safety and efficacy of tenecteplase compared with alteplase in patients with large vessel occlusion stroke: a prespecified secondary analysis of the ACT randomized clinical trial. JAMA Neurol. 2023;80:824–832. doi: 10.1001/jamaneurol.2023.2094   
+18.ZouG.Amodifed poissonregressonapproach toprosective stdies with binary data. Am J Epidemiol. 2004;159:702–706. doi: 10.1093/aje/ kwh090   
+19. Miyamoto S, Ogasawara K, Kuroda S, Itabashi R, Toyoda K, Itoh Y, Iguchi Y, Shiokawa Y, Takagi Y, Ohtsuki T, et al. Japan stroke society guideline 2021 for the treatment of stroke. Int J Stroke. 2022;17:1039– 1049. doi: 10.1177/17474930221090347   
+20.QiuZ,LiFSang H,LuW,LiuS,LiuW,GuZ,LiH,unD,Hung W, et al. Effect of intravenous tirofiban vs placebo before endovascular thrombectomy on functional outcomes in large vessel occlusion stroke: the RESCUE BT randomized clinical trial. JAMA. 2022;328:543–553. doi: 10.1001/jama.2022.12584  

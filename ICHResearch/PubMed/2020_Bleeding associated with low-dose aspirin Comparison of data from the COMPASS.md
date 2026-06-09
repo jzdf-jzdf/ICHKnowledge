@@ -1,0 +1,116 @@
+Short communication  
+
+# Bleeding associated with low-dose aspirin: Comparison of data from the COMPASS randomized controlled trial and routine clinical practice  
+
+Luis A. García Rodríguez a,⁎, Pareen Vora b, Gunnar Brobert c, Montse Soriano-Gabarró b, Lucía Cea Soriano d  
+
+a Spanish Centre for Pharmacoepidemiologic Research (CEIFE), Madrid, Spain   
+b Epidemiology, Bayer AG, Berlin, Germany   
+c Epidemiology, Bayer AB, Stockholm, Sweden   
+d Department of Public Health and Maternal and Child Health, Faculty of Medicine, Complutense University of Madrid, Spain  
+
+# articleinfo  
+
+# abstract  
+
+Article history:   
+Received 4 May 2020   
+Received in revised form 5 June 2020   
+Accepted 24 June 2020   
+Available online 3 July 2020  
+
+Keywords:   
+Intracranial bleeding   
+Gastrointestinal bleeding   
+Aspirin   
+Observational   
+Trials  
+
+Randomized controlled trials (RCTs) have strong internal validity but often have limited external validity. Observational studies have good generalizability and an increasing role in key healthcare decision making. We compared incidence rates of intracranial and major gastrointestinal bleeds in the low-dose aspirin arm $\overset{\cdot}{N}=9126\overset{\cdot}{.}$ ) of the COMPASS double-blind RCT (conducted at 602 centres in 33 countries) with those from an observational cohort of preventative low-dose aspirin users $\dot{\boldsymbol{N}}=54,140;$ in a primary care database representative of the UK general population – The IQVIA Medical Research Data UK (IMRD-UK). In our observational study analysis, we restricted follow-up to 2 years to be comparable with the duration of the COMPASS trial. Among low-dose aspirin users, incidence rates per 1000 person-years ( $95\%$ confidence intervals [CIs]) in the IMRD-UK cohort and COMPASS trial participants, respectively, were 0.6 (0.5–0.8) vs. 1.4 (0.9–2.1) for intracranial bleeds, and 3.5 (3.1–3.8) vs. 3.7 (2.9–4.8) for major gastrointestinal bleeds. These broadly comparable bleeding rates among COMPASS trial participants and an observational cohort of low-dose aspirin users in IMRD-UK support the use of the latter for generating robust therapeutic evidence, and indicate that the rates from the COMPASS trial are broadly consistent with realistic population-based rates.  
+
+$\circledcirc$ 2020 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http:// creativecommons.org/licenses/by-nc-nd/4.0/).  
+
+# 1. Introduction  
+
+In August 2017 results of the Cardiovascular Outcomes for People Using Anticoagulation Strategies (COMPASS) double-blind randomized controlled trial (RCT) were published. [1] The trial (conducted at 602 centres in 33 countries) was designed to evaluate the efficacy of concomitant use of low-dose aspirin ( $100~\mathrm{mg}$ once daily) and rivaroxaban ( $2.5~\mathrm{mg}$ twice daily) versus low-dose aspirin ( $100~\mathrm{mg}$ once daily) alone for the secondary prevention of cardiovascular disease (CVD) outcomes among individuals with stable atherosclerotic vascular disease. COMPASS was stopped for superiority after a mean follow-up of 23 months, with participants in the low-dose aspirin plus rivaroxaban arm found to have a $24\%$ lower rate of the composite outcome of CVD death, stroke or myocardial infarction (MI) than those in the low-dose aspirin monotherapy arm. Major bleeding events were higher in the rivaroxaban plus low-dose aspirin arm vs. low-dose aspirin monotherapy arm ( $3.1\%$ vs. $1.9\%$ ) but there was no significant difference in the rate of fatal bleeding between these two groups.  
+
+The estimates of the absolute risk of major bleeding among users of low-dose aspirin for secondary CVD prevention from the COMPASS trial are valuable due to the high internal validity or RCTs. Yet, for the most part, generalizability of findings to the wider target population is limited. Participants from the initial sampled population are those that meet selection criteria, and they are subsequently studied under trial conditions. Exclusion criteria in the COMPASS trial included a high risk of bleeding at baseline, recent stroke or previous haemorrhagic or lacunar stroke, severe heart failure, advanced kidney disease, and the need for dual antiplatelet therapy, other non-aspirin antiplatelet therapy or oral anticoagulant therapy. In addition, the limited duration of clinical trials means that risk estimates may not be reflective of longer drug use.  
+
+Population-based studies using observational data sources that are representative of the general population provide a complementary means of quantifying clinical outcomes. Such research studies require strong methodological rigour in order to minimize confounding and biases that are more problematic in the absence of randomization, yet they have high external validity and an increasing role in key healthcare decision making [2–4]. Recently, we used the IQVIA Medical Research Data UK (IMRD-UK) in the UK (formerly The Health Improvement Network [THIN]) – a database of primary care electronic health records (EHRs) – to estimate the absolute risk of both intracranial and gastrointestinal (GI) bleeds among new users of low-dose aspirin. Here, we compare these findings with those from the COMPASS trial as an example of how population-based observational studies with strong methodological rigour can generate robust therapeutic evidence comparable to RCTs.  
+
+# 2. Methods  
+
+# 2.1. Data source and study design  
+
+Details of IMRD-UK can be found elsewhere [5]. Briefly, the database contains the anonymised longitudinal primary care EHRs of approximately $6\%$ of the UK population contributed from general practices across the UK [5]. As of September 2017, the database contains pseudonymised electronic medical records (EMRs) from over 17 million patients in the UK, 3.1 million of which are actively registered in a THIN contributing GP practice [6]. The database has been shown to be representative of the UK population in terms of demography, chronic disease prevalence and mortality rates [7]. The data entered by general practitioners reflect information recorded as part of routine patient care, and this includes patient information sent by letter or email from secondary care. Using data from the IMRD-UK, we conducted a cohort study to estimate the incidence of major bleeding events among new users of low-dose aspirin [8,9].  
+
+# 2.2. Low-dose aspirin cohort in the IMRD-UK  
+
+A post-authorization safety study was conducted to assess the risk of major bleeding events (intracranial and GI bleeds) among new users of low-dose aspirin (EPIdemiological Study on the Safety of Aspirin in THIN [EPISAT]). In this study, we identified a cohort of individuals aged 40–84 years in the IMRD-UK who had a first prescription for low-dose aspirin (75 or $300~\mathrm{mg}$ ) between 1 January 2000 and 31 December 2012 $\overset{\cdot}{N}=199,079\overset{\cdot}{.}$ . For the vast majority of these individuals (more than $95\%$ ), their first low-dose aspirin prescription was a dose of $75~\mathrm{mg}$ . We followed-up the cohort from the date of their first lowdose aspirin prescription to the end of December 2013 (maximum follow-up 14 years) to identify incident cases of intracranial and major GI bleeds (two separate follow-ups, one for each bleeding outcome). Exclusion criteria were a diagnosis of cancer, alcohol abuse, coagulopathies, esophageal varices or chronic liver disease any time before study entry, and not meeting data completeness requirements. Details about the study design, identification and validation of the identified bleeding outcome (by manual review of patient records including free text comments and linkage to hospitalization data) along with estimated incidence rates of these bleeds among the study cohort, have been published previously [8,9].  
+
+Among the original 199,079 low-dose aspirin cohort members, 54,140 were classified as having CVD antecedents, defined as having a record of myocardial infarction, angina, unstable angina, revascularization procedures, peripheral artery disease or ischaemic heart disease at any time before their first low-dose aspirin prescription (or in the 30 days after). Therefore, for this present investigation to be more in line with participants in the COMPASS trial, we restricted the cohort to these 54,140 individuals (hereafter, referred to as the observational EPISAT study cohort). We did not, however, apply additional inclusion criteria to individuals aged below 65 years as was undertaken in the COMPASS trial; for example, documentation of atherosclerosis involving at least two vascular beds or at least two additional risk factors [1]. Demographic and clinical characteristics of individuals in the EPISAT observational study and of the participants in COMPASS, along with features of the two study designs are shown in the Table 1.  
+
+# 2.3. Statistical analysis  
+
+Incidence rates of intracranial and GI bleeds per 1000 person-years with $95\%$ confidence intervals (CIs) were calculated among the  
+
+Table 1 Comparison of main study features and baseline patient characteristics: COMPASS trial vs.   
+
+
+<html><body><table><tr><td colspan="3">he EPISATobservational cohort studyintheUK.</td></tr><tr><td></td><td>COMPASS trial N =9126</td><td>EPISAT observational study N = 54,140</td></tr><tr><td>Randomization/study entry period</td><td>March 2013 to May 2016</td><td>Jan 2000 to 31Dec2012</td></tr><tr><td>Follow-up duration Inclusion criteria</td><td>Mean of 23 months ·CAD/PAD or both ·Patients with CAD aged <65yearswererequired tohavedocumentedath-</td><td>Meanof70.6months(5.9 years) ·CVD antecedents,defined as having a record of myo- cardialinfarction,unstable angina,revascularization</td></tr><tr><td>Exclusion criteria</td><td>erosclerosisinvolving≥2 vascular beds or ≥ 2 addi- tional risk factors(current smoking,diabetes mellitus,eGFR<60 ml per minute,heart failure,or non-lacunar ischemic stroke≥1monthearlier)</td><td>procedures,cerebrovascu- lar disease, peripheral artery disease orischae- mic heart disease at any time before the start of follow-up (or in the 30 days after) ·Aged40-84years ·≥2years'registrationwith the primary carepractice ·>1year of computerized prescription history ·>1healthvisit/encounter</td></tr><tr><td>·Non-cardiovascular condi-</td><td>·Highbleeding risk ·Recent stroke or previous hemorrhagic or lacunar stroke ·Severe heart failure ·Advanced stable kidney disease (eGFR<15 ml per minute) ·Use of DAT,</td><td>in theprevious3years Aged≥70yearswitha follow-up >1 year and with fewer than two recorded consultations with a PCPduring their entire follow-up(a proxy forincomplete and/or invalid data recording) ·Any of the following before thestart of follow-up:</td></tr><tr><td></td><td>tionsdeemed by the investigator tobe associ- ated with a poor prognosis</td><td>·a prescription for low-- dose aspirin ·a diagnosis of cancer ·alcohol abuse ·coagulopathies · esophageal varices ·chronic liver disease</td></tr><tr><td>Dose of low-dose ASA Gastrointestinal</td><td>100 mg once daily ·65 cases</td><td>75 mg once daily(for the vast majority of patients; 92.9%) ·342 cases(capping</td></tr><tr><td>bleeding</td><td>·Bleeding that led to pre- sentationtoanacutecare ·facility or hospitalization; fatal or non-fatal</td><td>follow-up at 2 years) ·935cases(with unre- stricted follow-up) ·Hospitalized cases (hospi- talizationin theirEMR within 15 days before or</td></tr><tr><td>Intracranialbleeding·24 cases</td><td>·Bleeding that led to pre- sentationtoanacutecare facility or hospitalization; fatal or non-fatal</td><td>·Cases referred to second- ary care ·63 cases (capping follow-- up at 2 years) ·214 cases(with unre- stricted follow-up) ·A coded entry of ICB</td></tr><tr><td>Mean age (years)</td><td>68.2</td><td>unless there wasevidence to the contraryfollowing validation [6] 64.6</td></tr><tr><td>Males, % CAD*, %</td><td>78.0 90.5</td><td>60.3</td></tr><tr><td>PAD, %</td><td>27.4</td><td>81.3 12.0</td></tr><tr><td>Heart failure,% Hypertension,%</td><td>21.7</td><td>5.2</td></tr><tr><td>Diabetes mellitus, %</td><td>75.4</td><td>44.3</td></tr><tr><td>Previous myocardial infarction,%</td><td>38.1 62.7</td><td>12.8 34.3</td></tr></table></body></html>  
+
+Table 1 (continued)   
+
+
+<html><body><table><tr><td></td><td>COMPASStrial N=9126</td><td>EPISAT observational study N = 54,140</td></tr><tr><td>Diuretic,%</td><td>30.1</td><td>24.8</td></tr><tr><td>NSAID,%</td><td>5.2</td><td>15.3</td></tr><tr><td>PPI, %</td><td>35.8</td><td>18.6</td></tr></table></body></html>  
+
+Abbreviations: CAD, coronary artery disease; COMPASS, Cardiovascular Outcomes for People Using Anticoagulation Strategies; EPISAT, EPIdemiological Study on the Safety of Aspirin in THIN; NSAID, non-steroidal anti-inflammatory drug; PAD, peripheral artery disease; PPI, proton pump inhibitor; GI, gastrointestinal; RCT, randomized controlled trial.  
+
+Note: In the calculation of incidence rates, analysis were performed using all available follow-up as well as capping follow-up at 2 years (to be comparable with the mean follow-up in COMPASS). In COMPASS, patients characteristics were determined at baseline. In EPISAT, age and sex were determined at baseline; comorbidities were determined by coded entries any time before baseline; comedications were determined by prescriptions that lasted to/over baseline or in the 30 days before.  
+
+⁎ In EPISAT, CAD was based on coded entries for at least one of the following before baseline: acute myocardial infarction, ischaemic heart disease; percutaneous coronary intervention, coronary artery bypass graft, angina, and unstable angina. In COMPASS, CAD was defined as myocardial infarction in the last 20 years or multi-vessel coronary disease with symptoms or with a history of stable or unstable angina, or multi-vessel percutaneous coronary intervention or multi-vessel CABG surgery [1].  
+
+† Statins only in EPISAT.  
+
+observational EPISAT study cohort of new users of low-dose aspirin, using the Poisson distribution, as the number of bleeding events divided by person-years of follow-up. We restricted follow-up duration to the first 2 years to be comparable with the mean follow-up in the COMPASS trial. The analysis emulated an RCT intention-to-treat analyses, i.e. individuals were followed to the earliest of the aforementioned endpoints irrespective of whether they discontinued low-dose aspirin therapy. We also repeated our analysis using the total observational followup in EPISAT (i.e. not restricting to 2 years). Comparison was made with incidence rates of intracranial and GI bleeds in the COMPASS trial.  
+
+# 3. Results  
+
+Results are shown in the Fig. 1. Total (non-restricted) person-years of follow-up among the low-dose aspirin cohort was 18 times higher in the EPISAT low-dose aspirin cohort than in the low-dose aspirin arm of the COMPASS trial: 313,859 vs. 17,499 person-years in the intracranial bleeding follow-up, and 312,336 vs. 17,460 person-years in the GI bleeding follow-up. Mean follow-up duration was 5.8 years (median 5.9 years) in the EPISAT cohort (mean follow-up in the COMPASS trial was 23 months). In the main analysis, restricting follow-up in EPISAT to the first 2 years, the incidence rate of intracranial bleeding was slightly lower than the rate seen in COMPASS, while the incidence rate of GI bleeding was very similar. The incidence rate of intracranial bleeding was 0.6 per 1000 person-years $95\%$ CI: 0.5–0.8) in EPISAT, and 1.3 per 1000 person-years ( $95\%$ CI: 0.9–2.1) in COMPASS – a difference of 0.5 fewer events per 1000 person-years in the EPISAT. The incidence rate of GI bleeding was 3.5 per 1000 person-years $95\%$ CI: 3.1–3.8) in EPISAT, and 3.7 per 1000 person-years ( $95\%$ CI: 2.9–4.8) in the COMPASS trial – a difference of 0.2 fewer events per 1000 personyears in EPISAT. When using the total (unrestricted) follow-up in EPISAT, the incidence rate of both intracranial and GI bleeding remained similar to the rates in main analysis.  
+
+# 4. Discussion  
+
+We have shown that the incidence rates of intracranial and GI bleeding observed in the COMPASS double-blind RCT are broadly comparable with those observed in an observational cohort of new users of lowdose aspirin identified from the IMRD-UK after validation of outcomes. These largely comparable incidence rates were observed despite the COMPASS trial not being restricted to the UK population and the inclusion of several additional restrictive criteria when compared with the EPISAT observational low-dose aspirin study. While the incidence rate of GI bleeding was very similar in COMPASS and EPISAT, the incidence rate of intracranial bleeding in EPISAT was close to half that in COMPASS. Yet, it should be noted that the absolute number of intracranial bleeding cases were low in both studies (63 in EPISAT and 24 in COMPASS), while for GI bleeding there were 342 cases in EPISAT and 65 in COMPASS.  
+
+These data on major bleeding outcomes among low-dose aspirin users from two different study designs (observational and experimental) are mutually supportive and arise from their complementary strengths. Firstly, these findings support the use of high-quality observational studies for generating robust therapeutic evidence comparable to RCTs. Secondly, they show that the incidence rates from the COMPASS trial are broadly consistent with realistic population-based rates, i.e. are generalizable to the target population. This study adds to the growing appreciation of using both RCT and observational data for healthcare decision making.  
+
+![](images/53e40a1c2189cb75df4a7920b3e360ca33c66b4f40837c1739ee18a887797ce3.jpg)  
+Fig. 1. Comparison of incidence rates of intracranial and major GI bleeds per 1000 person-years $(95\%\mathrm{CI})$ in the COMPASS RCT and observational cohort of new-users of low-dose aspirin in EPISAT observational study. Note: Number of intracranial bleeding events was: 24 (COMPASS), 63 (EPISAT, restricted 2-year follow-up), 214 (EPISAT, total unrestricted follow-up). Number of GI bleeding events was: 65 (COMPASS), 342 (EPISAT, restricted follow-up to 2-years), 935 (EPISAT, total unrestricted follow-up). ⁎Randomization from March 2013–May 2016. †Start of follow-up was 1 Jan 2000–31 Dec 2012; end of follow-up was 31 Dec 2013; mean follow-up was 70.6 months (median was 66.5 months). Abbreviations: CI, confidence interval; COMPASS, Cardiovascular Outcomes for People Using Anticoagulation Strategies; EPISAT, EPIdemiological Study on the Safety of Aspirin in THIN; GI, gastrointestinal; RCT, randomized controlled trial.  
+
+# Funding  
+
+No research funding was provided for this analysis. Bayer AG funded the COMPASS clinical trial and the EPIdemiological Study on the Safety of Aspirin in THIN (EPISAT), the low-dose aspirin cohort study using the IMRD-UK.  
+
+# Author contributions  
+
+LAGR, PV, MS-G and GB contributed to the study concept, LAGR, LCS, AR contributed to the study design, acquisition and analysis of data. All authors contributed to the interpretation of the data, the revision of manuscript drafts and the decision to submit the final approved manuscript for publication.  
+
+# Declaration of Competing Interest  
+
+LAGR, AR and LCS work for CEIFE, which has received research funding from Bayer AG for other studies. LAGR has previously received honoraria for serving on advisory boards for Bayer AG. PV and MS-G are employees of Bayer AG and GB is an employee of Bayer AB.  
+
+# Acknowledgments  
+
+We thank EpiMed Communications for medical writing assistance funded by Bayer AG.  
+
+# References  
+
+[1] J.W. Eikelboom, S.J. Connolly, J. Bosch, G.R. Dagenais, R.G. Hart, O. Shestakovska, et al., Rivaroxaban with or without aspirin in stable cardiovascular disease, N. Engl. J. Med. 377 (2017) 1319–1330.   
+[2] T.R. Frieden, R.E. Sherman, S.A. Anderson, G.J. Dal Pan, G.W. Gray, T. Gross, et al., Evidence for health decision making - beyond randomized, controlled trials, N. Engl. J. Med. 377 (2017) 465–475.   
+[3] H. Bell, A.J. Wailoo, M. Hernandez, R. Grieve, R,.L.G. Faria, et al., The use of real world data for the estimation of treatment effects in NICE decision making, Report by the decision support unit, 17th June 2016, (updated 12th December). Available at https://scharr.dept.shef.ac.uk/nicedsu/methods-development/real-world-data/.   
+[4] N.A. Dreyer, Making observational studies count: shaping the future of comparative effectiveness research, Epidemiology. 22 (2011) 295–297.   
+[5] THIN, The Health Improvement Network, https://www.the-health-improvementnetwork.co.uk/ 2020 Accessed 29 April 2020.   
+[6] NHS Health Research Authority, IQVIA Medical Research Data, https://www.hra.nhs. uk/planning-and-improving-research/application-summaries/research-summaries/ the-health-improvement-network-thin-database/ 2020 Accessed 29 April 2020.   
+[7] B.T. Blak, M. Thompson, H. Dattani, A. Bourke, Generalisability of the Health improvement network (THIN) database: demographics, chronic disease prevalence and mortality rates, Inform. Prim. Care. 19 (2011) 251–255.   
+[8] L. Cea Soriano, D. Gaist, M. Soriano-Gabarro, L.A. Garcia Rodriguez, Incidence of intracranial bleeds in new users of low-dose aspirin: a cohort study using the Health improvement network, J. Thromb. Haemost. 15 (2017) 1055–1064.   
+[9] L. Cea Soriano, A. Lanas, M. Soriano-Gabarró, L.A. García Rodríguez, Incidence of upper and lower gastrointestinal bleeding in new users of low-dose aspirin, Clin. Gastroenterol. Hepatol. 17 (2018) 887–895.  

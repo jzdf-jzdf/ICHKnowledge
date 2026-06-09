@@ -1,0 +1,172 @@
+Anticoagulation Use and   
+Endovascular Thrombectomy in   
+Patients with Large Core   
+Stroke: A Secondary Analysis   
+of the SELECT2 Trial   
+Deep K. Pujara, MBBS $\circledcirc\boxed{\cdot}$ ,1   
+M. Shazam Hussain, MD $\boxed{\begin{array}{rl}\end{array}}$ ,2   
+Michael G. Abraham, MD $\boxed{\begin{array}{rl}\end{array}}$ ,3   
+Santiago Ortega-Gutierrez, MD $\sqsubseteq$ ,4   
+Michael Chen, MD $\boxed{\begin{array}{rl}\end{array}}$ ,5   
+Scott E. Kasner, MD $\circledcirc$ ,6   
+Leonid Churilov, PhD,7   
+Clark W. Sitton, MD,8   
+Spiros Blackburn, MD,9   
+Sophia Sundararajan, MD,1   
+Yin C. Hu, MD,10   
+Nabeel A. Herial, MD $\sqsubseteq$ ,11   
+Ronald F. Budzik, MD,12   
+William J. Hicks, MD $\boxed{\scriptsize{\cdot}}$ 13   
+Juan F. Arenillas, MD, PhD ,14   
+Jenny P. Tsai, MD $\sqsubseteq$ ,15   
+Osman Kozak, MD,16   
+Dennis J. Cordato, PhD,17   
+Nathan W. Manning, MBBS,18   
+Ricardo A. Hanel, MD,19   
+Amin N. Aghaebrahim, MD,19   
+Teddy Y. Wu, PhD $\sqsubseteq$ ,20   
+Pere Cardona Portela, MD $\boxed{\star}$ ,21   
+Natalia Pérez de la Ossa, MD, PhD ,22   
+Joanna D. Schaafsma, MD $\boxed{\begin{array}{rl}\end{array}}$ ,23   
+Jordi Blasco, MD, PhD $\boxed{\begin{array}{rl}\end{array}}$ ,24   
+Navdeep Sangha, MD $\boxed{\star\star}$ ,25   
+Steven Warach, MD $\circledcirc\boxed{\cdot}$ ,26   
+Chirag D. Gandhi, MD,27   
+Fawaz Al-Mufti, MD $\sqsubseteq$ ,27   
+Timothy J. Kleinig, PhD,28   
+Faisal Al-Shaibi, MD,29   
+Kelsey R. Duncan, MD,30   
+Faris Shaker, MBChB $\leftrightsquigarrow$ ,9   
+Hannah Johns, PhD,7 Wei Xiong, MD,29   
+Michael DeGeorgia, MD,29   
+Amanda Opaskar, MD,29   
+Jeffrey Sunshine, MD,30   
+Abhishek Ray, MD,30   
+Pascal Jabbour, MD ,11   
+Nicholas Bambakidis, MD,30   
+Cathy Sila, MD,29   
+Thanh N. Nguyen, MD $\boxed{\begin{array}{rl}\end{array}}$ ,31   
+James C. Grotta, MD $\boxed{\begin{array}{rl}\end{array}}$ 32   
+Ameer E. Hassan, DO $\sqsubseteq$ ,33   
+Marc Ribo, MD $\sqsubseteq$ ,34   
+Michael D. Hill, MD ,35   
+Bruce C. Campbell, PhD 36 and   
+Amrou Sarraj, MD, 29   
+For SELECT2 Investigators  
+
+Endovascular thrombectomy (EVT) safety and efficacy in patients with large core infarcts receiving oral anticoagulants (OAC) are unknown. In the SELECT2 trial (NCT03876457), 29 of 180 $(16\%)$ vitamin K antagonists 15, direct OACs 14) EVT, and 18 of 172 $(10\%)$ vitamin K antagonists 3, direct OACs 15) medical management (MM) patients reported OAC use at baseline. EVT was not associated with better clinical outcomes in the OAC group (EVT 6 [4–6] vs MM 5 [4–6], adjusted generalized odds ratio 0.89 [0.53–1.50]), but demonstrated significantly better outcomes in patients without OAC (EVT 4 [3–6] vs MM 5 [4–6], adjusted generalized odds ratio 1.87 [1.45–2.40], $p=0.02,$ . The OAC group had higher comorbidities, including atrial fibrillation $(70\%$ vs $17\%$ , congestive heart failure $(28\%$ vs $10\%$ , and hypertension $(87\%$ vs $72\%$ , suggesting increased frailty. However, the results were consistent after adjustment for these comorbidities, and was similar regardless of the type of OACs used. Whereas any hemorrhage rates were higher in the OAC group receiving EVT $(86\%$ in OAC vs $70\%$ in no OAC), no parenchymal hemorrhage or symptomatic intracranial hemorrhage were observed with OAC use in both the EVT and MM arms. Although we did not find evidence that the effect was due to excess hemorrhage or confounded by underlying cardiac disease or older age, OAC use alone should not exclude patients from receiving EVT. Baseline comorbidities and ischemic injury extent should be considered while making individualized treatment decisions.  
+
+ANN NEUROL 2024;96:887–894  
+
+ral anticoagulation is frequently used as a preferred strategy for primary and secondary stroke prevention   
+in cardiac diseases, such as atrial fibrillation and heart fail  
+ure with reduced ejection fraction. In addition, direct oral   
+anticoagulants are also recommended for prevention of   
+thromboembolic events in certain patients with active   
+malignancies.2 However, despite the proven and substan  
+tial efficacy of anticoagulation for stroke prevention, it is   
+an imperfect treatment, sometimes due to patient factors  
+
+# ANNALS of Neurology  
+
+(lack of adherence to treatment or necessary interruption for a surgical procedure, or stroke from another cause) and sometimes for apparently random reasons, anticoagulation simply does not prevent all cardioembolic strokes. Anticoagulated patients are also high-risk patients for the very reasons that they are anticoagulated. Clinicians face significant challenges in how to best manage the acute phase of stroke, as ongoing therapeutic anticoagulation renders these patients largely ineligible to receive intravenous (IV) thrombolysis. Additionally, outcomes after endovascular thrombectomy (EVT) in patients with oral anticoagulants (OAC) are shown to be worse than those without OACs,3 presumably due to underlying comorbidities. Some indications like congestive heart failure with reduced ejection fraction and solid organ tumors impart poor prognosis by themselves. Also, atrial fibrillation, one of the most common indications for OACs, is shown to present with worse collateral status and demonstrate larger infarct growth after EVT,4 which may worsen outcomes.  
+
+In contrast, large ischemic strokes have a prognosis that is already poor. Furthermore, there is a perceived increase in hemorrhage risk in patients with large estimated ischemic core volumes in the setting of OAC use. Although efficacy and safety of EVT in large strokes has been recently established in multiple clinical trials,5–8 the risks and benefits of EVT in those with large strokes and OAC use have not been as well characterized. We aimed to evaluate EVT treatment effect modification by OAC status in large core strokes in the SELECT2 trial.  
+
+# Methods  
+
+Data are from the SELECT2 randomized, controlled trial, which evaluated the efficacy and safety of EVT in patients with large ischemic strokes. Detailed inclusion and exclusion criteria, and trial conduct are published elsewhere.6,9 The trial protocol received relevant local institutional review board approval at all participating sites, and all participants or their surrogates provided written informed consent. The data used to perform analyses would not be made available publicly. The analyses codes and outputs supporting results reported in the manuscript will be shared upon reasonable request for the purpose of replication after approval from the SELECT2 steering committee.  
+
+Patients were stratified based on anticoagulant use and type (vitamin K antagonists [VKAs]; ie, warfarin vs direct OACs [DOACs]) at baseline.  
+
+The primary outcome was functional neurological outcome, described using the modified Rankin Scale score (mRS) at 90-day follow-up (Fig.). mRS scores of 5 and 6 were combined to avoid considering a shift from 6 to 5 a success. Secondary outcomes were functional independence $(\mathrm{mRS}\quad0{-}2)$ , independent ambulation $(\mathrm{mRS~}0{-}3)$ , and complete dependence or death $(\mathrm{mRS~}5-\$ 6) at 90-day follow-up; any intracranial hemorrhage on follow-up imaging, intracranial hemorrhage type, symptomatic intracranial hemorrhage (ICH; defined using the SITS-MOST criteria),10 and parenchymal hematoma were also evaluated. The primary cause of death was ascertained by manual review of narrative adverse event reporting.  
+
+![](images/632e59364aaccdd9789ce9bc94e338e8f607bc0bb64b4b7dd5bf08893adfe338.jpg)  
+Pujara et al: Anticoagulation Use and Endovascular Thrombectomy   
+FIGURE: Distribution of 90-day modified Rankin Scale $(\mathsf{mRS})$ scores at 90-day follow-up in the SELECT2 trial, stratified based on baseline oral anticoagulant (OAC) use and treatment received. In patients without OAC use at baseline, a robust shift toward better outcomes was observed, whereas outcomes were largely similar for endovascular thrombectomy (EVT) and medical management (MM) patients with baseline OAC use. [Color figure can be viewed at www.annalsofneurology.org]  
+
+EVT treatment effect for the primary outcome was evaluated using probabilistic index models.11,12 Probabilistic index models estimate the adjusted odds of a patient with a higher value of the covariate having better mRS outcome than a patient with a lower value of that covariate. Treatment effect estimates for a shift in mRS were reported using adjusted generalized odds ratios (aGenOR) and $95\%$ confidence intervals $(95\%$ CI), with ties split equally between groups. Dichotomized secondary outcomes were estimated as adjusted relative risk (aRR) ratios generated using Poisson regression models with robust standard errors.13 All models were adjusted for age, National Institutes of Health Stroke Scale at presentation, time from last known well to randomization, computed tomography (CT) Alberta Stroke Program Early CT Score (ASPECTS), and estimated ischemic core volumes (larger of the CT hypodensity and CT perfusion/magnetic resonance imaging core volume). Multiplicative interaction terms between OAC use and treatment status were used to assess presence of heterogeneity in relevant regression models. All analyses were performed using STATA $17^{14}$ (StataCorp, College Station, TX, USA) and R version 4.2.2 (The R Foundation for Statistical Computing, Vienna, Austria).15 As the research aim of the study was to describe the association between OAC use and clinical outcomes, including observed magnitudes of treatment effect, rather than to claim causal effects, data were analyzed under the as-treated principle. Results under intention-to-treat approach were reported as sensitivity analyses. All hypotheses were evaluated with two-sided tests, $\boldsymbol{\phi}$ values $<0.05$ were considered statistically significant. Analyses were considered exploratory with no adjustments for multiplicity. Missing data were not imputed.  
+
+# Results  
+
+Among 352 enrolled patients, 178 patients were randomized to receive EVT, and 2 additional patients crossed over from medical therapy to receive EVT. In the as-treated population, OAC use at baseline was documented in 47 (29 of 180 $[16\%]$ EVT and 18 of 172 $[10\%]$ medical management [MM]) patients (Supplementary Table S1–S3). Patients on oral anticoagulation were older (OAC 72 [62–79] years vs no OAC 66 [58–75] years) and had higher comorbidities (congestive heart failure OAC $28\%$ vs no OAC $10\%$ , atrial fibrillation OAC $70\%$ vs no OAC $17\%$ , hypertension $87\%$ vs $72\%$ , and diabetes mellitus $36\%$ vs $30\%$ ). These patients also received IV thrombolytic agents less frequently (OAC $8.5\%$ , all taking factor $\mathrm{Xa}$ inhibitors, vs no OAC $20.7\%$ ).  
+
+We observed significant treatment effect modification by OAC status $\langlep_{\mathrm{interaction}}=0.02\rangle$ , with EVT associated with better clinical outcomes among patients without OAC use (mRS scores—EVT 4 [3–6] vs MM 5 [4–6], aGenOR 1.87, $95\%$ CI 1.45–2.40), but not among patients with OAC use (EVT: 6 [4–6] and MM 5 [4–6], aGenOR 0.89, $95\%$ CI $0.53\mathrm{-}1.50$ ; Tables 1 and 2). Largely similar results were also observed for complete dependence or death (mRS 5–6; OACs: EVT 20 $[69\%]$ vs MM 12 $[67\%]$ , aRR 1.05, $95\%$ $\mathrm{~C~I~}0.73\substack{-1.50}$ ; no OACs: EVT 64 $[43\%]$ vs MM 90 $[60\%]$ , aRR 0.71, $95\%$ $\mathrm{~C~I~}0.58{-}0.87$ , $\begin{array}{r}{\ p_{\mathrm{interaction}}=0.06,}\end{array}$ ) and independent ambulation (OACs: EVT 64 $[43\%]$ vs MM 29 $[19\%]$ , aRR 1.27, $95\%$ $\mathrm{~C~I~}0.40{-}4.05$ , no OACs: EVT $4[14\%]$ vs MM 2 $[11\%]$ , aRR 2.17, $95\%$ CI $1.55{-}3.04.$ $\ensuremath{p_{\mathrm{interaction}}}=0.46\$ . Models adjusting for cardiac comorbidities (atrial fibrillation and congestive heart failure separately and as a composite) demonstrated largely similar results (Table 2). Furthermore, sensitivity analyses under the intention-to-treat approach (Supplementary Table S4) and in a propensitymatched analysis (Supplementary Table S5) demonstrated results largely supportive of the overall results. Results from sensitivity analysis excluding patients with documented vessel perforation were also consistent with primary results (Supplementary Table S6).  
+
+<html><body><table><tr><td colspan="5">TABLE 1. Clinical Outcomes in the SELECT2 trial, Stratified Based on Baseline Oral Anticoagulant Use and Treatment Received</td></tr><tr><td colspan="3">OACs- OACs--best endovascular</td><td>No OACs--best medical care</td><td>No OACs- endovascular thrombectomy</td></tr><tr><td></td><td>medical care n = 18</td><td>thrombectomy n = 29</td><td>n = 154</td><td>n = 151</td></tr><tr><td>Successful reperfusion (mTICI 2b-3)</td><td></td><td>25 (86.2%)</td><td></td><td>119 (78.8%)</td></tr><tr><td>Distribution of modifiedRankin Scale scores at 90-day follow-up</td><td>5 (4-6)</td><td>6 (4-6)</td><td>5 (4-6)</td><td>4 (3-6)</td></tr><tr><td>Functional independence (mRS 0-2) at 90-day follow-up</td><td>1 (5.6%)</td><td>1 (3.4%)</td><td>11 (7.3%)</td><td>35 (23.3%)</td></tr><tr><td>Independent ambulation (mRS 0-3) at 90-day follow-up</td><td>2 (11.1%)</td><td>4 (13.8%)</td><td>29 (19.2%)</td><td>64 (42.7%)</td></tr><tr><td>Complete dependence or death (mRS 5-6) at 90-day follow-up</td><td>12 (66.7%)</td><td>20 (69.0%)</td><td>90 (59.6%)</td><td>64 (42.7%)</td></tr><tr><td>All-cause mortality within 90-day follow-up period</td><td>8 (44.4%)</td><td>15 (51.7%)</td><td>62 (41.1%)</td><td>54 (36.0%)</td></tr><tr><td>Death within 21 days (presumably due to progression of index stroke)</td><td>7 (38.9%)</td><td>11 (37.9%)</td><td>51 (33.1%)</td><td>44 (29.1%)</td></tr><tr><td>Symptomatic intracerebral hemorrhage</td><td>0 (0.0%)</td><td>0 (0.0%)</td><td>2 (1.3%)</td><td>1 (0.7%)</td></tr><tr><td>Any intracerebral hemorrhage</td><td>7 (38.9%)</td><td>24 (85.7%)</td><td>52 (33.8%)</td><td>106 (70.2%)</td></tr><tr><td>Heidelberg bleeding classification</td><td></td><td></td><td></td><td></td></tr><tr><td>No hemorrhage</td><td>11 (61.1%)</td><td>4 (14.3%)</td><td>101 (65.6%)</td><td>41 (27.2%)</td></tr><tr><td>la—Hemorrhagic transformation type 1</td><td>2 (11.1%)</td><td>9 (32.1%)</td><td>27 (17.5%)</td><td>42 (27.8%)</td></tr><tr><td>1b—-Hemorrhagic transformation type 2</td><td>5 (27.8%)</td><td>15 (53.6%)</td><td>22 (14.3%)</td><td>59 (39.1%)</td></tr><tr><td>1c—Parenchymal hematoma type 1 (<30%)</td><td>0 (0.0%)</td><td>0 (0.0%)</td><td>0 (0.0%)</td><td>4 (2.6%)</td></tr><tr><td>2—Parenchymal hematoma type 2 (≥30%)</td><td>0 (0.0%)</td><td>0 (0.0%)</td><td>2 (1.3%)</td><td>1 (0.7%)</td></tr><tr><td>3a—-Remote parenchymal hematoma</td><td>0 (0.0%)</td><td>0 (0.0%)</td><td>1 (0.6%)</td><td>0 (0.0%)</td></tr><tr><td>3c—Subarachnoid hemorrhage</td><td>0 (0.0%)</td><td>0 (0.0%)</td><td>0 (0.0%)</td><td>4 (2.6%)</td></tr><tr><td>3d—Subdural hemorrhage</td><td>0 (0.0%)</td><td>0 (0.0%)</td><td>1 (0.6%)</td><td>0 (0.0%)</td></tr><tr><td>Follow-up infarct volume (ml)</td><td>177.2 (138.5-243.9)</td><td>168.5 (137.2-267.0)</td><td>168.3 (108.7-252.6)</td><td>181.0 (116.9-270.8)</td></tr><tr><td>Infarct growth from baseline core (ml)</td><td>57.0 (26.5-163.9)</td><td>89.3 (48.4-125.5)</td><td>65.8 (24.2-108.2)</td><td>69.0 (20.6-144.1)</td></tr></table></body></html>
+
+$\mathrm{mRS}=$ modified Rankin Scale; mTICI $=$ modified treatment in cerebral infarction; $\mathrm{OACs}=$ oral anticoagulants.  
+
+The functional and safety outcomes were largely similar between those with VKAs and direct oral anticoagulants, and poorer than those receiving no oral anticoagulants (Supplementary Tables S7 and S8).  
+
+For patients receiving OACs, the likelihood of independent ambulation decreased with increasing ischemic core volume (aRR 0.85, $95\%$ CI 0.76–0.96 for each $10{\cdot}\mathrm{ml}$ increase in core volume), but no such relationship was observed with CT ASPECTS (aRR 0.93, $95\%$ CI 0.69–1.25 for each ASPECTS point loss).  
+
+<html><body><table><tr><td colspan="5">TABLE 2. Endovascular Thrombectomy Treatment Effect Estimates in SELECT2 Patients Stratified Based on Oral AnticoagulantUse,Without and WithAdjustmentfor CardiacComorbidities</td></tr><tr><td colspan="5">mRS distribution at 90-day follow-up (aGenOR with 95% CI)</td></tr><tr><td>EVT treatment effect</td><td>Median (IQR) mRS</td><td>No cardiac comorbidity adjustment</td><td>Adjustment for cardiac comorbidity (any of CHF or Afib or both)</td><td>Adjustment for CHF and Afb independently</td></tr><tr><td>No OAC</td><td>EVT4.0(3.0-6.0)versus</td><td>1.87 (1.45-2.40)</td><td>1.88 (1.46-2.41)</td><td>1.89 (1.47-2.43)</td></tr><tr><td>OAC</td><td>MM 5.0 (4.0-6.0) EVT 6.0 (4.0-6.0)versus</td><td>0.89 (0.53-1.50)</td><td>0.83 (0.49-1.41)</td><td>0.82 (0.48-1.41)</td></tr><tr><td>Interaction</td><td>MM 5.0 (4.0-6.0)</td><td>0.018</td><td>0.012</td><td>0.028</td></tr><tr><td colspan="5"></td></tr><tr><td>mRS0-2at90-dayfollow-up EVT treatment effect</td><td>% mRS 0-2</td><td>No cardiac comorbidity</td><td>Adjustment for cardiac comorbidity (any of</td><td>Adjustment for CHF and Afb</td></tr><tr><td>No OAC</td><td>EVT 35 (23.3%) versus</td><td>adjustment 3.12 (1.68-5.78)</td><td>CHF or Afb or both) 3.10 (1.66-5.78)</td><td>independently 3.11 (1.68-5.77)</td></tr><tr><td>OAC</td><td>MM 11 (7.3%) EVT 1 (3.4%) versus</td><td>Not stable</td><td>Not stable</td><td>Not stable</td></tr><tr><td>Interaction</td><td>MM 1 (5.6%)</td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td colspan="5">mRS 0-3 at 90-day follow-up</td></tr><tr><td>EVT treatment effect</td><td>% mRS 0-3</td><td>No cardiac comorbidity adjustment</td><td>Adjustment for cardiac comorbidity (any of CHF or Afb or both)</td><td>Adjustment for CHF and Afb independently</td></tr><tr><td>No OAC</td><td>EVT 64 (42.7%) versus MM 29 (19.2%)</td><td>2.17 (1.55-3.04)</td><td>2.18 (1.56-3.04)</td><td>2.17 (1.55-3.03)</td></tr><tr><td>OAC</td><td>EVT 4 (13.8%) versus MM 2 (11.1%)</td><td>1.27 (0.40-4.05)</td><td>2.15 (0.52-8.98)</td><td>2.32 (0.52-10.36)</td></tr><tr><td>Interaction</td><td></td><td>0.457</td><td>0.434</td><td>0.463</td></tr><tr><td colspan="5">mRS 5-6 at 90-day follow-up</td></tr><tr><td>EVT treatment effect</td><td>% mRS 5-6</td><td>No cardiac comorbidity adjustment</td><td>Adjustment for cardiac comorbidity (any of CHF or Afb or both)</td><td>Adjustment for CHF and Afb independently</td></tr><tr><td>No OAC</td><td>EVT 64 (42.7%) versus MM 90 (59.6%)</td><td>0.71 (0.58-0.87)</td><td>0.70 (0.58-0.86)</td><td>0.71 (0.58-0.87)</td></tr><tr><td>OAC</td><td>EVT 20 (69.0%) versus</td><td>1.05 (0.73-1.50)</td><td>1.09 (0.76-1.57)</td><td>1.10 (0.76-1.58)</td></tr><tr><td>Interaction</td><td>MM 12 (66.7%)</td><td>0.058</td><td>0.044</td><td>0.095</td></tr><tr><td colspan="5">Afb = atrial fbrillation; aGenOR = adjusted generalized odds ratio; CHF = congestive heart failure; EVT = endovascular thrombectomy;</td></tr></table></body></html>  
+
+No parenchymal hemorrhage or symptomatic ICH were observed with OAC use in both the EVT and MM arms. Occurrence of any intracerebral hemorrhage was numerically higher in EVT patients receiving OACs (OACs 24 $[86\%]$ vs no OACs 106 $[70\%]$ , aRR 1.18, $95\%$ CI 0.98–1.43, $p=0.076,$ . Of note, 1 EVT patient on OACs did not have a follow-up imaging obtained and died during hospitalization. Otherwise, follow-up infarct volume and infarct growth from baseline core did not differ (Table 1). No association between the presence of hemorrhage and functional outcome was observed overall, or within OAC or non-OAC subgroups (Supplementary Table S9).  
+
+Only 4 patients with OAC use did not achieve successful reperfusion (modified treatment in cerebral infarction 2b–3), precluding evaluation for association of reperfusion status with OAC use in EVT patients. Similarly, the limited number of patients receiving IV thrombolytics $(n=4)$ ) in this population prevented analysis of potential modification of the association of OAC use and clinical outcomes by IV thrombolytics use.  
+
+The primary cause of death for patients is provided in Supplementary Table S10 and S11. Among patients with OAC use and available follow-up imaging, 5 of 11 $(45\%)$ patients with HI1, 9 of 20 $(45\%)$ with HI2, and 8 of 15 $(53\%)$ ) patients with no hemorrhage died within 90-day follow-up. Of note, 3 EVT patients had underlying systemic malignancy, which contributed to their/families’ decision to pursue palliative care in addition to the poor prognosis due to stroke. Additionally, $27\%$ of the deaths among EVT patients with baseline OAC use were attributed to pneumonia/sepsis/multiorgan failure as the primary cause, as compared with only $4\%$ in EVT patients and $7\%$ in MM patients without baseline OAC use, suggesting potential frailty (Supplementary Table S10 and S11). Three patients had hemorrhagic transformation attributed as the primary cause of death that occurred after the timeframe for treatment-related symptomatic ICH; one patient who had undergone hemicraniectomy developed significant hemorrhagic transformation associated with brainstem herniation at day 8. One other patient developed hemorrhagic complications after hemicraniectomy procedure on day 2, and 1 patient developed hemorrhagic transformation on day 10 of admission causing death, thus unlikely to be related to OAC use.  
+
+# Discussion  
+
+In a secondary analysis of the SELECT2 trial, we did not observe a significant association between treatment and functional outcome in those with baseline OAC use, whereas those without OAC use demonstrated significantly better outcomes with EVT, with evidence of significant treatment effect modification. Patients on OACs had high comorbidities as an indicator of frailty. This association, however, was preserved even after adjusting for baseline cardiac comorbidities and was similar regardless of the type of OACs used. Importantly, the impact of OAC use on symptomatic ICH was limited, with no patients with baseline OAC use demonstrating symptomatic ICH or parenchymal hematoma. A larger ischemic core volume was associated with a decreased likelihood of independent ambulation, but a similar relationship with ASPECTS was not detected. The results were similar across primary and multiple sensitivity analyses, and suggested consistent EVT effect modification by OAC use.  
+
+The prevalence of OAC in SELECT2 was consistent with prior studies from EVT registries that reported OAC use in 10 to $22\%$ of participants.3,16 Analysis from a prospective, national EVT registry demonstrated significantly worse outcomes in those receiving OAC among patients receiving EVT. However, the association no longer remained significant after adjusting for prognostic comorbidities. A meta-analysis17 of the subject demonstrated worse functional outcome and higher mortality in patients receiving EVT. However, the majority of patients in these analyses presented with limited ischemic changes. The present study, representing the first results from a randomized clinical trial restricted to large strokes, demonstrated poor outcomes after thrombectomy with OACs. Furthermore, we did not observe improved outcomes with EVT in patients with large strokes and OAC use at baseline. The results were largely consistent across multiple sensitivity analyses, although definitive indication for baseline OAC use was not available for adjustment.  
+
+The proportion of patients who developed parenchymal hematoma and symptomatic ICH in SELECT2 was low, and did not differ significantly between EVT patients with and without OACs. We acknowledge the lower SICH rate compared with previous literature, but emphasize that the central blinded core laboratory adjudication by two independent experts who reached consensus was more robust than many observational analyses. DOACs are associated with less frequent primary intracerebral hemorrhages as compared with patients receiving VKAs. A prior study demonstrated higher symptomatic ICH after EVT in patients receiving VKAs as compared with DOACs.18 We did not observe such finding in our study (no symptomatic ICH in patients receiving OACs), though the proportion of patients demonstrating any ICH was higher with VKAs than DOACs.  
+
+When stratified based on the type of hemorrhages across patients receiving OACs, the proportion of death remained relatively stable at $53\%$ for no hemorrhage, $45\%$ for HI1, and $45\%$ for HI2. Three patients receiving OACs reported death due to hemorrhagic complications, but they were unlikely to be related to OAC use due to alternate proximal cause or time delay between OAC use and hemorrhagic transformation. However, deaths due to elective hospice care because of underlying systemic malignancy were reported in a notable proportion of EVT patients on OACs $(20\%)$ . Additionally, deaths due to pneumonia, sepsis, and/or multiorgan failure were also more frequent among EVT patients with baseline OAC use, suggesting higher underlying frailty in this subpopulation, which may provide a plausible explanation for the observed nominally higher mortality and lack of treatment effect.  
+
+Understanding the prognosis and chances of poststroke recovery in the presence of underlying comorbidities, especially in patients with large core strokes, can help inform individualized treatment decision-making. The present results showed that it is unlikely that OAC use in itself shares a causal relationship with worse clinical outcomes and loss of EVT treatment effect in patients with large strokes, as shown by the absence of parenchymal hemorrhage and symptomatic ICH. However, OAC use is a potential marker of frailty with prognostic utility for treating physicians at the pointof-care decision-making, prompting a discussion with the family about prognosis and acceptability of post-treatment outcomes.  
+
+To our knowledge, the present study is the first to compare EVT with best medical care in a subgroup with documented OAC use at baseline. Our analysis is exploratory, with limited sample size, and should not preclude patients from receiving EVT solely based on OAC use. Symptomatic ICH and parenchymal hemorrhage were reassuringly rare in the population receiving OACs, and suggest that bleeding was unlikely to be the main cause of poor clinical outcomes.  
+
+The limitations of the study include the post-hoc nature of the analysis and the small sample size, which limited precision. However, the direction and magnitude of findings were consistent across secondary outcomes. We did not have OAC indications available to truly adjust for underlying pathophysiology. The association of OAC use with poor outcome persisted after multiple sensitivity analyses, but we cannot exclude some residual confounding by indication. A limited number of patients in the trial received IV thrombolytics despite OAC use. We did not have available information about OACs reversal before EVT, so cannot evaluate if reversal improves EVT safety in this population. Data on compliance with DOACs were also not available. Furthermore, the limited sample size prevented detailed evaluation of association of OAC use and treatment effect across various ASPECTS and volume strata or definitive conclusions about the risk profiles of VKAs versus DOACs or individual DOACs. Further analyses with larger sample size, such as a pooled, patient-level meta-analysis from large core trials, may be informative.  
+
+In conclusion, in patients with large ischemic strokes from the SELECT2 trial, we observed a significant EVT treatment effect modification based on OAC status, as patients on OAC achieved limited EVT benefit. However, patients on OACs had significantly higher baseline comorbidity, indicating high frailty. This may, in part, explain the findings. Although hemorrhagic transformation appeared to be more frequent with OACs, we did not observe parenchymal hemorrhage or symptomatic ICH in patients with OAC use. These patients should not be excluded from receiving EVT based on OAC use alone. Future studies from pooled large core randomized control trials are needed to ascertain the utility of EVT in patients with large strokes and baseline OAC use.  
+
+# Acknowledgments  
+
+The SELECT2 trial was funded by Stryker Neurovascular through research grants to UH Cleveland Medical Center and UT McGovern Medical School. This secondary analysis of the trial did not receive any funding. The primary funding source did not participate in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.  
+
+# Author Contributions  
+
+D.P., M.H., B.C., and A.S. participated in the conception and design of the study. All authors participated in the acquisition and/or analysis of the data. D.P., M.H., B.C., and A.S. drafted a significant proportion of the manuscript and figures.  
+
+# Potential Conflicts of Interest  
+
+Nothing to report.  
+
+# Data Availability  
+
+Individual patient-level data will not be made available. Analysis codes and outputs will be made available for the purpose of reproducing results after a reasonable request to the corresponding author and subsequent approval from the trial steering committee.  
+
+# References  
+
+1. January CT, Samuel WL, Hugh C, et al. 2019 AHA/ACC/HRS focused update of the 2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation. J Am Coll Cardiol 2019;74:104–132. https://doi.org/10.1016/j.jacc.2019.01.011.   
+2. Lyman GH, Carrier M, Ay C, et al. American Society of Hematology 2021 guidelines for management of venous thromboembolism: prevention and treatment in patients with cancer. Blood Adv 2021;5: 927–974. https://doi.org/10.1182/bloodadvances.2020003442.  
+
+# ANNALS of Neurology  
+
+3. Goldhoorn RJB, van de Graaf RA, van Rees JM, et al. Endovascular treatment for acute ischemic stroke in patients on oral anticoagulants. Stroke 2020;51:1781–1789. https://doi.org/10.1161/STROKEAHA.   
+119.028675.   
+4. Tu HTH, Campbell BCV, Christensen S, et al. Worse stroke outcome in atrial fibrillation is explained by more severe hypoperfusion, infarct growth, and hemorrhagic transformation. Int J stroke Off J Int Stroke Soc 2015;10:534–540. https://doi.org/10.1111/ijs.12007.   
+5. Yoshimura S, Sakai N, Yamagami H, et al. Endovascular therapy for acute stroke with a large ischemic region. N Engl J Med 2022;386:   
+1303–1313. https://doi.org/10.1056/NEJMoa2118191.   
+6. Sarraj A, Hassan AE, Abraham MG, et al. Trial of endovascular thrombectomy for large ischemic strokes. N Engl J Med 2023;10:   
+1259–1271. https://doi.org/10.1056/NEJMoa2214403.   
+7. Huo X, Ma G, Tong X, et al. Trial of endovascular therapy for acute ischemic stroke with large infarct. N Engl J Med 2023;10:1272–1283. https://doi.org/10.1056/NEJMoa2213379.   
+8. Bendszus M, Fiehler J, Subtil F, et al. Endovascular thrombectomy for acute ischaemic stroke with established large infarct: multicentre, open-label, randomised trial. Lancet 2023;402:1753–1763. https://doi. org/10.1016/S0140-6736(23)02032-9.   
+9. Sarraj A, Hassan AE, Abraham M, et al. A randomized controlled trial to optimize patient’s selection for endovascular treatment in acute ischemic stroke (SELECT2): study protocol. Int J stroke Off J Int Stroke Soc.   
+2022;17:689–693. https://doi.org/10.1177/17474930211035032.   
+10. Wahlgren N, Ahmed N, Davalos A, et al. Thrombolysis with alteplase for acute ischaemic stroke in the safe implementation of thrombolysis in stroke-monitoring study (SITS-MOST): an observational study. Lancet 2007;369:275–282. https://doi.org/10.1016/S0140-6736(07)60149-4.   
+11. Thas O, De Neve J, Clement L, Ottoy J-P. Probabilistic index models. J R Stat Soc Ser B 2012;74:623–671. https://doi.org/10. 1111/j.1467-9868.2011.01020.x.   
+12. De Schryver M, De Neve J. A tutorial on probabilistic index models: regression models for the effect size P(Y1<Y2). Psychol Methods 2019;24:403–418. https://doi.org/10.1037/met0000194.   
+13. Zou G. A modified Poisson regression approach to prospective studies with binary data. Am J Epidemiol 2004;159:702–706. https:// doi.org/10.1093/aje/kwh090.   
+14. StataCorp. Stata statistical software: Release 17. Published online 2021.   
+15. R Core Team. R: a language and environment for statistical computing, 2021. https://www.r-project.org/.   
+16. Rebello LC, Haussen DC, Belagaje S, et al. Endovascular treatment for acute ischemic stroke in the setting of anticoagulation. Stroke 2015;46:3536–3539. https://doi.org/10.1161/STROKEA HA.115.011285.   
+17. Chen JH, Hong CT, Chung CC, et al. Safety and efficacy of endovascular thrombectomy in acute ischemic stroke treated with anticoagulants: a systematic review and meta-analysis. Thromb J 2022;20: 35. https://doi.org/10.1186/s12959-022-00394-y.   
+18. Meinel TR, Kniepert JU, Seiffge DJ, et al. Endovascular stroke treatment and risk of intracranial hemorrhage in anticoagulated patients. Stroke 2020;51:892–898. https://doi.org/10.1161/STROKEAHA.119. 026606.  

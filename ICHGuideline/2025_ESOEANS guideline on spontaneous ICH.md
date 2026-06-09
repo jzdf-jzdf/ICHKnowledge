@@ -1,0 +1,2597 @@
+# European Stroke Organisation (ESO) and European Association of Neurosurgical Societies (EANS) guideline on stroke due to spontaneous intracerebral haemorrhage
+
+European Stroke Journal
+
+1–80
+
+© European Stroke Organisation 2025
+
+Article reuse guidelines:
+
+sagepub.com/journals-permissions
+
+https://doi.org/10.1177/23969873251340DOI: 10.1177/23969873251340815
+
+journals.sagepub.com/home/eso
+
+S Sage
+
+Thorsten Steiner1,2 , Jan C Purrucker2 , Diana Aguiar de Sousa3,4,5 , Trine Apostolaki-Hansson6 , Jürgen Beck7, Hanne Christensen8 , Charlotte Cordonnier9 , Matthew B Downer10,11 , Helle Eilertsen12,13 , Rachael Gartly14 , Stefan T Gerner15 , Leonard Ho16,17 , Silje Holt Jahr18,19 Catharina JM Klijn20 , Nicolas Martinez-Majander21 Kateriine Orav22 , Jesper Petersson23 , Andreas Raabe24 , Else Charlotte Sandset25 , Floris H Schreuder20 , . David Seiffge26 and Rustam Al-Shahi Salman27
+
+# Abstract
+
+Spontaneous (non-traumatic) intracerebral haemorrhage (ICH) affects \~3.4 million people worldwide each year, causing \~2.8 million deaths. Many randomised controlled trials and high-quality observational studies have added to the evidence base for the management of people with ICH since the last European Stroke Organisation (ESO) guidelines for the management of spontaneous ICH were published in 2014, so we updated the ESO guideline. This guideline update was
+
+1 Department of Neurology, Varisano Klinikum Frankfurt, Frankfurt, Germany
+
+2 Department of Neurology, Heidelberg University Hospital, Heidelberg, Germany
+
+3 Stroke Center, Lisbon Central University Hospital, ULS São José, Lisbon, Portugal
+
+4 Faculdade de Medicina, Universidade de Lisboa, Lisbon, Portugal
+
+5 Gulbenkian Institute for Molecular Medicine, Lisbon, Portugal
+
+6 Department of Neurology, Skåne University Hospital, Malmö, Sweden
+
+7 Department of Neurosurgery, Medical Center, University of Freiburg, Freiburg, Germany
+
+8 Copenhagen University Hospital, Bispebjerg, Denmark
+
+9 University of Lille, Inserm, CHU Lille, U1172, LilNCog - Lille Neuroscience and Cognition, Lille, France
+
+10Wolfson Centre for Prevention of Stroke and Dementia, Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK
+
+11Faculty of Medicine, Memorial University of Newfoundland, St. John’s, Canada
+
+12Institute of Clinical Medicine, Faculty of Medicine, University of Oslo, Oslo, Norway
+
+13Department of Geriatric Medicine Oslo University Hospital, Oslo, Norway
+
+14School of Medicine, Dentistry & Nursing, University of Glasgow, Glasgow, UK
+
+15Department of Neurology, University Hospital Erlangen, Erlangen, Germany
+
+16European Stroke Organisation, Basel, Switzerland
+
+17Advanced Care Research Centre, University of Edinburgh, Edinburgh, UK
+
+18Institute of Clinical Medicine, Faculty of Medicine, University of Oslo, Oslo, Norway
+
+19Department of Neurology, Akershus University Hospital, Lørenskog, Norway
+
+20Department of Neurology, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre, Nijmegen, Netherlands
+
+21Department of Neurology, Helsinki University Hospital, Helsinki, Finland
+
+22Department of Neurology, North Estonia Medical Centre, Tallinn, Estonia
+
+23Region Skåne, Malmö & Department of Neurology, Lund University, Lund, Sweden
+
+24University Department of Neurosurgery, Inselspital, Bern, Switzerland
+
+25University of Oslo, Institute of Clinical Medicine, Department of Neurology, Oslo, Norway
+
+26Department of Neurology, Inselspital University Hospital and University of Bern, Bern, Switzerland
+
+27Centre for Clinical Brain Sciences, The University of Edinburgh, Edinburgh, UK
+
+# Corresponding author:
+
+Thorsten Steiner, Klinikum Frankfurt Höchst GmbH, Gotenstr. 6-8, Frankfurt am Main 65929, Germany; Heidelberg University Hospital, Heidelberg, Germany.
+
+Email: thorsten\_steiner@med.uni-heidelberg.de
+
+guided by the European Stroke Organisation (ESO) standard operating procedures for guidelines and the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) framework, in collaboration with the European Association of Neurosurgical Societies (EANS). We identified 37 Population, Intervention, Comparator, Outcome (PICO) questions and prioritised clinical outcomes. We conducted systematic literature searches, tailored to each PICO, seeking randomised controlled trials (RCT) – or observational studies when RCTs were not appropriate, or not available – that investigated interventions to improve clinical outcomes. A group of co-authors allocated to each PICO screened titles, abstracts, and full texts and extracted data from included studies. A methodologist conducted study-level meta-analyses and created summaries of findings tables. The same group of co-authors graded the quality of evidence, and drafted recommendations that were reviewed, revised and approved by the entire group. When there was insufficient evidence to make a recommendation, each group of co-authors drafted an expert consensus statement, which was reviewed, revised and voted on by the entire group. The systematic literature search revealed 115,647 articles. We included 208 studies. We found strong evidence for treatment of people with ICH on organised stroke units, and secondary prevention of stroke with blood pressure lowering. We found weak evidence for scores for predicting macrovascular causes underlying ICH; acute blood pressure lowering; open surgery via craniotomy for supratentorial ICH; minimally invasive surgery for supratentorial ICH; decompressive surgery for deep supratentorial ICH; evacuation of cerebellar ICH > 15 mL; external ventricular drainage with intraventricular thrombolysis for intraventricular extension; minimally invasive surgical evacuation of intraventricular blood; intermittent pneumatic compression to prevent proximal deep vein thrombosis; antiplatelet therapy for a licensed indication for secondary prevention; and applying a care bundle. We found strong evidence against anti-inflammatory drug use outside of clinical trials. We found weak evidence against routine use of rFVIIa, platelet transfusions for antiplatelet-associated ICH, general policies that limit treatment within 24 h of ICH onset, temperature and glucose management as single measures (outside of care bundles), prophylactic antiseizures medicines, and prophylactic use of temperature-lowering measures, prokinetic anti-emetics, and/or antibiotics. New evidence about the management of ICH has emerged since 2014, enabling this update of the ESO guideline to provide new recommendations and consensus statements. Although we made strong recommendations for and against a few interventions, we were only able to make weak recommendations for and against many others, or produce consensus statements where the evidence was insufficient to guide clinical decisions. Although progress has been made, many interventions still require definitive, high-quality evidence, underpinning the need for embedding clinical trials in routine clinical practice for ICH.
+
+# Keywords
+
+Guideline, systematic review, stroke, intracerebral haemorrhage
+
+Date received: 18 March 2025; accepted: 24 April 2025
+
+# Plain language summary
+
+# Background
+
+Every year, around 3.4 million people have a type of stroke caused by bleeding in the brain that is not due to injury or another medical condition. The main causes of this kind of stroke include getting older, health issues like high blood pressure, and being exposed to air pollution. However, doctors and researchers are learning more and more about how to treat and prevent this condition, helping patients recover better and reducing the chances of it happening again. This guideline is an update of the last European Stroke Organisation guideline for people with bleeding in the brain, published in 2014.
+
+# How We Created This Guide
+
+To make sure this guide is based on the best available evidence, we followed a structured process recommended by the European Stroke Organisation (ESO) and the European Association of Neurosurgical Societies (EANS). We focused on finding the highest quality evidence about what care works best for patients with bleeding in the brain, and made recommendations guided by a framework called GRADE.
+
+We started with 37 important questions about care for people with stroke due to bleeding in the brain. To answer these, we looked at thousands of research papers and focused on the best available studies, especially ones where a treatment was compared reliably with an alternative. If there was not enough strong evidence to form a recommendation for clinical practice, we used expert opinions to create a consensus about a statement to guide clinical practice.
+
+# What We Found
+
+After looking at 115,647 studies, our findings for people with bleeding in the brain were:
+
+• What works best: We found strong evidence that patients get better when treated in specialized stroke units, and when their blood pressure is reduced to prevent more strokes.   
+What might help: There is weaker evidence supporting certain treatments, such as using scores to predict the cause of bleeding, early lowering of blood pressure, early use of some drugs to promote blood clotting, surgery to remove the bleeding (including approaches that use only a small hole in the skull), surgery to decompress the skull, drainage of blood in the fluid around the brain with a clot-busting drug, prevention of clots in veins by compression devices, and restarting blood-thinning medications for those who need them. There is also weaker evidence for patients getting better when a care bundle is used. These types of care require further study.   
+• What should be avoided: We found strong evidence that anti-inflammatory drugs should not be used unless it’s part of a research study.   
+What might not help: We found weaker evidence against routine policies to limit treatment, controlling body temperature, controlling blood sugar, and routine treatment to prevent seizures, as well as evidence against giving a platelet transfusion (a type of blood product).   
+Uncertain areas: We did not find enough reliable evidence about tests to look for causes of bleeding, scores to predict outcome, early use of several drugs to promote blood clotting, surgery with drainage of fluid with a clot-busting drug, drainage of blood in the fluid around the brain, brain pressure monitoring, blood thinning drugs to prevent clots in veins, routine use of medicine to prevent seizures, blood thinning drugs and devices to prevent strokes and heart attacks for people with an irregular heartbeat, and statins to prevent strokes and heart attacks. In these cases, we provide expert opinions to help guide medical decisions and encourage more reliable research to be done.
+
+# Why This Matters
+
+This guideline summarises the best available evidence and expert opinions, to inform the care of people with stroke due to bleeding in the brain. This guideline may help doctors and other healthcare professionals to improve care for people with bleeding in the brain. Although a lot of progress has been made since the last edition of this guideline, more large, reliable, definitive clinical trials are needed to identify ways of improving outcome after bleeding in the brain.
+
+# Table of Contents
+
+Abstract ....
+
+Plain language summary .
+
+Introduction ................
+
+Methods......
+
+Composition and approval of the Module Working Group ..........
+
+Development and approval of clinical questions ............. .. 6
+
+Literature search...... 6
+
+Evaluation of the quality of evidence and formulation of Evidence-based Recommendations and Consensus Statements..
+
+Guideline structure .........
+
+Results ........
+
+General management......
+
+Management on specialised units......
+
+Radiological investigation for underlying cause... .. 8
+
+Imaging Scores of acute ICH... .8
+
+Type of imaging for acute ICH .. 9
+
+Outcome prediction .......... 9
+
+Outcome scores. .9
+
+Withdrawal of treatment ........ .....10
+
+# Blood pressure management... 11
+
+Acute blood pressure alteration..
+
+# Haemostatic therapies .......... .... 16
+
+Spontaneous ICH not associated with antithrombotic drug use....... .....16
+
+rFVIIa ... ...16
+
+Tranexamic acid for spontaneous ICH.. ..18
+
+Spontaneous ICH associated with antiplatelet drug use............. ...20
+
+Platelet transfusion.... ...20
+
+Desmopressin... ...21
+
+Anticoagulant-associated ICH .... ..22
+
+ICH associated with use of vitamin K-antagonists... ..22
+
+Prothrombin complex concentrate (PCC) versus fresh frozen plasma (FFP) . ..22
+
+ICH associated with use factor Xa inhibitors (FXaI) .. ..23
+
+Prothrombin complex concentrates ...... ...23
+
+Andexanet alfa... ...24
+
+Tranexamic acid... ...26
+
+ICH associated with use factor II inhibitors.... ..26
+
+Idarucizumab.. ...26
+
+# Surgical management.... .27
+
+Supratentorial ICH.. ...27
+
+Any surgery aimed at haematoma removal.. ..27
+
+Haematoma removal by means of craniotomy and open standard surgical technique........ ..28
+
+Minimally invasive surgical removal (MIS) .. ..29
+
+Surgery with catheter placement plus thrombolysis.. ..31
+
+Decompressive craniectomy.... ....32
+
+ICH with intraventricular extension ........ ...33
+
+External ventricular drainage with or without combined lumbar drainage.. ..33
+
+External ventricular drainage with intraventricular thrombolysis.... ..34
+
+Surgical removal of the intraventricular blood ... ..35
+
+Infratentorial ICH .. ...37
+
+# Prevention and management of complications ..... ... 38
+
+Single measures for prevention and management of complications ..... .....38
+
+Physical measures to prevent venous thromboembolism... ...38
+
+Short-term antithrombotic therapy to prevent DVT/PE . ...40
+
+Temperature management ....... .....42
+
+Blood glucose control .... .....43
+
+Intracranial pressure (ICP) monitoring... ..43
+
+Anti-inflammatory treatment ....... ..44
+
+Anti-seizure medications ......... ....47
+
+Care bundles.... ...49
+
+# Secondary prevention...... ..50
+
+Blood pressure .. ...50
+
+Oral anticoagulation (OAC)... ..52
+
+Left atrial appendage occlusion (LAAO) for atrial fibrillation .......... ..54
+
+Antiplatelet therapy ............... ...55
+
+Statins........ ....56
+
+# Discussion..... ... 58
+
+# References ............. ..... 71
+
+# Introduction
+
+Spontaneous intracerebral haemorrhage (ICH) is defined as non-traumatic intraparenchymal haemorrhage (which may expand into the cerebral ventricles) that is assumed to be due to underlying cerebral small vessel disease in the absence of a detected underlying macrovascular, neoplastic, infectious/inflammatory or haemodynamic cause.1 The five leading risk factors for disability-adjusted life years (DALYs) lost due to ICH are high systolic blood pressure, high body-mass index, ambient particulate matter pollution, high fasting plasma glucose and smoking, although the contributions of these risk factors vary between global regions.2
+
+In 2019, the global incidence of ICH was estimated at 3.41 million cases (95% CI 2.97–3.91), accounting for 28.8% of all strokes (Figure 1).2,3 The global prevalence was 20.6 million (18.0–23.3). Spontaneous ICH resulted in 2.89 million deaths (2.64–3.10) and was associated with 68.57 million (63.27–73.68) disability-adjusted life-years (DALY).2,3 Despite the decline in age-standardised rates for ICH incidence, from 1990 to 2020, the absolute number of new cases is increasing due to ageing populations globally.
+
+![](images/42c1031c6a28b4d991999821b079e53678729d1cd8192dcad713c4b951bac5b7.jpg)
+
+<details>
+<summary>heatmap</summary>
+
+| Country | % of DAILY |
+|---|---|
+| China | 10.2 |
+| India | 5.4 |
+| Brazil | 5.4 |
+| United States | 5.4 |
+| Canada | 5.4 |
+| Australia | 5.4 |
+| South Africa | 5.4 |
+| Russia | 5.4 |
+| Mexico | 5.4 |
+| Argentina | 5.4 |
+| Colombia | 5.4 |
+| Peru | 5.4 |
+| Venezuela | 5.4 |
+| Ecuador | 5.4 |
+| Bolivia | 5.4 |
+| Paraguay | 5.4 |
+| Uruguay | 5.4 |
+| Costa Rica | 5.4 |
+| Panama | 5.4 |
+| Jordan | 5.4 |
+| Israel | 5.4 |
+| Italy | 5.4 |
+| Germany | 5.4 |
+| Netherlands | 5.4 |
+| Belgium | 5.4 |
+| Austria | 5.4 |
+| Sweden | 5.4 |
+| Finland | 5.4 |
+| Denmark | 5.4 |
+| Norway | 5.4 |
+| Ireland | 5.4 |
+| Portugal | 5.4 |
+| Greece | 5.4 |
+| Iceland | 5.4 |
+| Greenland | 5.4 |
+| Antarctica | 0.7 |
+</details>
+
+Figure 1. Percent of total DALYs lost to intracerebral haemorrhage by country in 2021.3
+
+This trend is projected to persist in the European Union (EU) between 2019 and 2050, including an increase in related deaths, due to population growth, ageing and increased exposure to several important risk factors.4 Of the 16 identified risk factors for ICH, the 5 most important are elevated systolic blood pressure, high body-mass index, air pollution, diabetes mellitus and smoking. However, the relative importance of these factors varies across different countries and populations.3
+
+Since the last European Stroke Organisation (ESO) guidelines for the management of spontaneous ICH were published in 2014, many randomised controlled trials (RCTs) and high-quality observational studies have added to the evidence base for the management of people with ICH.5 This update focused on adding the most reliable subsequent evidence from randomised controlled trials, or systematic reviews of observational studies if RCTs were not available. This update was done in collaboration with the European Association of Neurosurgical Societies (EANS).
+
+# Methods
+
+This guideline was developed in accordance with ESO standard operating procedures (SOP), which are based on the Grading of Recommendations, Assessment, Development and Evaluations (GRADE) framework.6,7
+
+# Composition and approval of the Module Working Group
+
+This guideline was initiated by the ESO. Two chairpersons (TS, RASS) were selected to assemble and coordinate the guideline’s Module Working Group (MWG). The final group contained 23 experts within the following areas: neurology/neurointensive care (18), neurosurgery (2) and methodology (1). The EANS later joined the ESO MWG in a collaboration between EANS and ESO. The ESO Guideline Board and Executive Committee and the EANS council reviewed the intellectual and financial disclosures of all MWG members and approved the group’s composition. The full details of all MWG members and their disclosures are included in the Supplemental materials.
+
+# Development and approval of clinical questions
+
+The MWG developed a list of topics and corresponding questions of highest clinical relevance. Questions were formatted using the PICO (Population, Intervention, Comparator and Outcome) approach. These were reviewed by two external reviewers, as well as members of the ESO Guideline board and Executive Committee. A range of clinical outcomes were rated for each PICO by MWG members as critical, important or of limited importance according to GRADE criteria. Final decisions on outcomes were made using a Delphi consensus approach. The outcome ratings for each PICO question can be found in the Supplement.
+
+# Literature search
+
+The main priorities for this guideline update were the reliability and relevance of recent evidence. Consequently, the literature search prioritised RCTs, which we pooled in meta-analyses. If RCTs were unavailable, we reverted to meta-analyses of observational studies, or individual observational studies if meta-analyses were not available. The minimal criteria for including observational studies in quantitative meta-analyses were as follows: the presence of a control group, a reasonable number of events and patients to address the question of interest, and the absence of evidence of major bias (other than those attributable to non-randomised evaluations of the effects of treatments).
+
+For each PICO question, groups of members of the MWG and the guideline methodologist developed search strategies for the following databases: Medline (via Ovid), Embase (via Ovid) and Cochrane Library. Where a search strategy from an existing systematic review was available, this was used or adapted. Where there was a recent relevant systematic review on the question of interest, the corresponding search strategy and results were used and updated as necessary. The search strategies are shown in the Supplement.
+
+The ESO Guideline methodologist (LH) searched databases from January 2013 to May 2024, and PICO 6.2 (oral anticoagulation for atrial fibrillation after ICH) was updated in line with a recent RCT that was included in the guideline and had searched the literature up to January 2025.8 Additionally, reference lists of review articles, the authors’ personal reference libraries and previous guidelines were searched for further relevant records.
+
+The search results were loaded into the web-based Covidence platform (Health Innovation, Melbourne, Australia) for assessment by the MWG. Two or more MWG members were assigned to screen the titles and abstracts of publications registered in Covidence independently, followed by full text assessment of potentially relevant studies. Disagreements were resolved by discussion between the two reviewers or by a third MWG member.
+
+# Data extraction
+
+Data extraction and analysis was performed by the ESO methodologist (LH) and checked by the corresponding MWG members for each PICO. In the case that relevant data were not reported in an eligible study, the corresponding author was contacted. In case of no response, the co-authors of the study were also contacted. If no answer was received, data were considered as missing.
+
+# Data analysis
+
+Before conducting our meta-analyses, we carefully considered both fixed-effect and random-effects models. Given the heterogeneity in study design, populations, interventions, and comparators, we selected a random-effects model to estimate the average intervention effect (RevMan; https://revman.cochrane.org/). This approach aligns with the Cochrane Handbook and ESO guidelines, which recommend random-effects models when variability across studies is expected. While fixed-effect models assume identical studies and estimate a common effect size, this was not appropriate due to differences among independently conducted trials.9 We acknowledge that randomeffects models give relatively more weight to smaller studies compared to fixed-effect models.9
+
+Results were presented as odds ratios with associated 95% confidence intervals (95% CIs). Statistical heterogeneity across studies was assessed using the I2 statistic, and classified as moderate (⩾30%–49%), substantial (⩾50%– 74%) or considerable (⩾75%).3 Where appropriate, subgroup analyses were performed. The risk of bias as indicated in each forest plot was classified according to the following categories: (A) Random sequence generation (selection bias), (B) Allocation concealment (selection bias), (C) Blinding of participants and personnel (performance bias), (D) Blinding of outcome assessment (detection bias), (E) Incomplete outcome data (attrition bias), (F) Selective reporting (reporting bias), (G) Other bias. The risk of bias domains as per the ROBINS-I tool (for nonrandomised studies) were as follows: (A) Bias due to confounding, (B) Bias in selection of participants into the study, (C) Bias in classification of interventions, (D) Bias due to deviations from intended interventions, (E) Bias due to missing data, (F) Bias in measurement of outcomes, (G) Bias in selection of the reported result. In the risk of bias assessment, green label indicates ‘low risk of bias’, yellow label indicates ‘unclear risk of bias’ (or ‘moderate risk of bias’, in case of ROBINS-I assessment) and red label indicates ‘serious risk of bias’ (or, when specified, ‘very serious risk of bias’, in case of ROBINS-I).
+
+# Evaluation of the quality of evidence and formulation of evidence-based recommendations and consensus statements
+
+The risk of bias of each included RCT or observational study was assessed with the Cochrane Rob2 tool and the ROBINS-I tool (Risk Of Bias In Non-randomised Studies of Interventions), respectively.10 As recommended, the evidence synthesis did not use a quality ‘score’ threshold but classified overall risk of bias at study level and then in aggregate.
+
+The results of the data analyses were imported into the GRADEpro Guideline Development Tool (McMaster University, 2015; developed by Evidence Prime, Inc.). For each PICO question, and each outcome, the following were considered: risk of bias based on the type of available evidence (RCT or observational studies); consideration of inconsistency of results; indirectness of evidence, imprecision of results and other possible bias. LH generated the GRADE evidence profiles/summary of findings tables, which MWG members used to prepare ‘Evidence-based Recommendations’, based on the GRADE approach. The direction, strength and formulation of the recommendations (Table 1) were determined according to the GRADE evidence profiles and the ESO guideline SOP.11
+
+Finally, Expert Consensus Statements were added whenever the PICO group considered that there was insufficient evidence available to provide Evidence-based Recommendations and where practical guidance for routine clinical practice was regarded necessary. The Expert Consensus Statements were based on the opinions of the MWG members allocated to each PICO, with revision in discussion with TS and RASS where necessary, and voting by all expert MWG members to quantify the extent of consensus.
+
+# Guideline structure
+
+For practicality, the guideline is structured so that each PICO section begins with the Evidence-based Recommendation(s) and, where necessary, Expert Consensus Statement(s). A further paragraph describes ‘current evidence’, summarising the evidence from RCTs that supports the recommendation with respect to the prespecified outcomes of that PICO. Detailed descriptions of single studies or meta-analyses are provided in the Supplement. If relevant information beyond the prespecified outcomes is deemed important for forming the recommendation, an ‘additional information’ paragraph is included after the current evidence section.
+
+# Results
+
+# General management
+
+Management on specialised units
+
+PICO 1.1 In adults with spontaneous ICH, does admission to an organised stroke unit versus admission to a general ward reduce the risk of death or death/dependence?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous ICH, not requiring intensive care treatment, we recommend admission to an organised stroke unit to reduce the risk of death or dependence.
+
+Quality of evidence: Moderate ⊕⊕⊕
+
+Strength of recommendation: Strong for intervention ↑↑
+
+Table 1. Formatting based on strength of recommendations. 
+
+<table><tr><td>Strength of recommendation</td><td>Balance of desirable and undesirable consequences</td><td>Formatting</td></tr><tr><td>Strong recommendation for intervention</td><td>The desirable consequences clearly outweigh the undesirable consequences in most settings</td><td>‘We recommend’</td></tr><tr><td>Strong recommendation against intervention</td><td>The undesirable consequences clearly outweigh the desirable consequences in most settings</td><td>‘We recommend . . . not’</td></tr><tr><td>Weak recommendation for intervention</td><td>The desirable consequences probably outweigh the undesirable consequences in most settings</td><td>‘We suggest’</td></tr><tr><td>Weak recommendation against intervention</td><td>The undesirable consequences probably outweigh the desirable consequences in most settings or when the balance between desirable and undesirable consequences is closely balanced or uncertain</td><td>‘We suggest . . . not’</td></tr><tr><td>Ungraded consensus-based statement</td><td>The desirable consequences probably outweigh the undesirable consequences in most settings, but there is little evidence</td><td>‘We suggest’</td></tr></table>
+
+# Analysis of current evidence
+
+A single systematic review and meta-analysis was identified.12 The study was based on 8 randomised controlled trials (RCTs) including a total of 2657 patients. The RCTs recruited patients with ICH as well as patients with ischaemic stroke, the intervention was stroke unit care, and the comparator was general ward care. Death, or death/dependence were defined as critical outcomes. Stroke unit care reduced death or dependence overall (relative risk (RR) 0.81; 95% confidence interval (CI) 0.47– 0.92; p = 0.0009) with no difference in benefits for patients with ICH (RR, 0.79; 95% CI 0.61–1.00) than for patients with ischaemic stroke (RR 0.82; 95% CI 0.70–0.97). Stroke unit care reduced death overall (RR 0.79; 95% CI 0.64– 0.97; p = 0.02) and for patients with ICH (RR 0.73; 95% CI 0.54–0.97). No RCTs compared the effects of ICH management in an intensive care unit (ICU), neuro-intensive care unit (NICU) or high dependence unit (HDU) with those in a normal ward or a stroke unit.
+
+# Additional information
+
+In these RCTs, stroke unit care involved organised inpatient care in a hospital stroke unit provided by a multidisciplinary team with expertise in stroke management, a specialist in stroke and regular multidisciplinary team meetings.13 In the RCTs underlying the meta-analysis, care included managing vital signs, preventing complications and initiating rehabilitation efforts.
+
+In a large observational study, consecutive non-ventilated and non-comatose patients with ICH in a German statewide stroke registry, outcomes were compared according to admission ward. After adjusting for stroke severity, age, sex, pre stroke modified Rankin scale (mRS) score, comorbidities, referring medical unit, hospital level, complications during treatment, time to admission and length of hospital stay, treatment of people with ICH in an ICU and normal ward (NW) compared with admission to a stroke unit (SU) was associated with a higher risk of death in hospital (ICU vs SU: Odds ratio (OR) 2.11; 95% CI 1.75–2.55; NW vs SU: OR 1.52; 95% CI 1.23–1.89) and higher odds of an unfavourable functional outcome (ICU vs SU: OR 1.27; 95% CI 1.09–1.46; NW vs SU: OR 1.28; 95% CI 1.08–1.52). A subgroup analysis of severely affected ICH patients (NIHSS of 10–25) showed a lower risk of poor outcome when treatment took place in dedicated neurological ICUs (NICU) compared with stroke units.14
+
+# Radiological investigation for underlying cause
+
+Imaging scores of acute ICH
+
+PICO 1.2.1 In adults with spontaneous ICH, does the use of algorithms for targeted investigation versus standard of care improve the performance (calibration/discrimination/clinical utility) of prediction of underlying cause of ICH?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous ICH, we suggest using algorithms such as DIAGRAM for targeted investigation of ICH cause versus standard care to improve the performance (calibration/ discrimination/clinical utility) of prediction of underlying cause of ICH.
+
+Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: Weak for intervention ↑?
+
+# Analysis of current evidence
+
+The performance (calibration, discrimination and clinical utility) of predicting the underlying cause of ICH was defined as a critical outcome. Our literature search did not identify any RCTs or comparative diagnostic test accuracy studies comparing algorithms with standard care for targeted investigation and detection of ICH cause. Various scores have been developed but their impact on patient’s management remains uncertain.
+
+# Additional information
+
+To target the use of intra-arterial digital subtraction angiography (IADSA) at people with ICH according to their probability of harbouring a macrovascular cause (e.g. arteriovenous malformation, intracranial aneurysm, dural arteriovenous fistula, cavernous malformation or cerebral venous thrombosis),15 the diagnostic angiography to find vascular malformations (DIAGRAM) prediction score may be used to predict the probability of a macrovascular cause in people with ICH based on age (18–50 years vs 51– 70 years), ICH location (lobar, posterior fossa, deep), small vessel disease signs on plain computed tomography (CT, yes vs no) and CT angiography (CTA, abnormal vs normal).15,16 DIAGRAM showed good performance in a derivation cohort (c-statistic 0.83, 95% CI 0.78–0.88) and moderate performance in an external validation cohort (c-statistic 0.66, 95% CI 0.58–0.74), but performance improved when CTA results were added (c-statistic 0.91 (95% CI 0.88–0.94), and 0.88 (95% CI 0.83–0.94) respectively). Other scores such as the simple ICH score and secondary ICH score have been developed to predict the probability of a macrovascular cause of ICH.17–19 After performing a non-contrast CT, the guideline authors suggest that younger people with lobar (or cerebellar) ICH, and absence of a history of hypertension should be further investigated with CTA, magnetic resonance imaging (MRI) or MR-angiography (MRA), or IADSA. Rather than using history of hypertension to guide investigation (since it is a highly prevalent risk factor), searching for markers of small vessel disease on brain imaging (CT or MRI) seems more appropriate.20 However, these prediction scores have been developed in selected populations, and generalisability of their diagnostic performance needs to be investigated.
+
+Type of imaging for acute ICH
+
+PICO 1.2.2 In adults with spontaneous ICH will cerebral computed tomographic angiography (CTA) or venography (CTV), or magnetic resonance angiography (MRA) or venography (MRV) versus intraarterial digital subtraction angiography (IADSA) provide better diagnostic performance to disclose underlying intracranial vascular malformations?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous ICH there is uncertainty about whether cerebral computed tomographic angiography (CTA) / venography (CTV), or magnetic resonance angiography (MRA) / venography (MRV) have superior diagnostic performance when compared with intraarterial digital subtraction angiography (IADSA) to disclose underlying intracranial vascular malformations, so we recommend recruitment to diagnostic test accuracy studies.
+
+Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement
+
+In adults with spontaneous ICH, we suggest using cerebral computed tomographic angiography (CTA)/venography (CTV), or magnetic resonance angiography (MRA)/venography (MRV) to select patients for intra-arterial digital subtraction angiography (IADSA) to disclose underlying intracranial vascular malformations.
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+Our literature search and a Cochrane review did not identify any RCTs or appropriate diagnostic studies comparing different imaging modalities with a reference standard of IADSA.21 The reference standard to disclose underlying intracranial vascular malformations remains IADSA as sensitivity and specificity is higher compared with other modalities. As IADSA is more invasive than MRI or CT, the clinical dilemma lies in availability and in determining for which patients the potential diagnostic gain outweighs the potential harms.22,23 No studies have systematically examined all ICH patients using both MRI and CTA compared with the reference standard of IADSA.
+
+# Additional information
+
+ICH is a heterogeneous disease, and clinicians should investigate the underlying cause of the bleeding,24 as this will guide acute management as well as secondary prevention. For example, some intracranial vascular malformations are associated with a high risk of rebleeding and will require specific management. Data are mostly available in convenience samples of people aged <70 years of age without hypertension, who were selected for investigation in everyday practice. Compared with IADSA, CTA and MRA have a sensitivity and specificity of >90% to detect intracranial vascular malformations in these highly selected populations.21 However, in the DIAGRAM prospective study of 298 adults aged <70 years, CTA/CTV performed within the first 7 days had a sensitivity of 74% and a specificity of 91%, suggesting that when CTA is normal, more investigations should be performed including IADSA, which therefore remains the reference standard.15 MRI can also provide information about underlying cavernous malformation or cerebral small vessel diseases.24
+
+Clinical complications from IADSA, most frequently significant puncture site haematomas and transient neurological events, are reported in approximately 1% of patients at experienced centres with a slightly higher probability in acute ICH. In the DIAGRAM study, the rate of complications of IADSA was 0.6%.15 These procedural risks must be weighed against the higher diagnostic value of IADSA on a case-by-case basis.25
+
+# Outcome prediction
+
+Outcome scores
+
+PICO 1.3.1 In adults with spontaneous ICH, does the use of algorithms for prediction of outcome versus clinicians’ evaluation improve the reliability of prediction of death or dependence?
+
+# Evidence-based Recommendation
+
+In adults with ICH, there is uncertainty whether outcome prediction tools have better predictive properties compared with clinicians’ evaluations, so we recommend recruitment to comparative prediction studies.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement
+
+In adults with spontaneous ICH, we suggest limiting the use of outcome prediction scores to providing prognostic information, rather than using them as the primary or sole method for predicting outcomes for adults with ICH, given the risk of a self-fulfilling prophecy.
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+Our updated systematic search was based on the systematic review and meta-analysis by Gregório et  al.26 up to September 2016. The study identified 72 prognostic tools across 59 studies, with corresponding discrimination and/ or calibration values available for death and/or functional outcomes. The update of this search identified an additional 28 papers evaluating 65 tools (Supplemental Tables 1 and 2, PICO 1). We defined a prediction tool as including at least three variables, and as being used within 48 h of admission to hospital. Only long-term outcomes were assessed: death and functional outcome occurring ⩾30 days. Prediction tools developed using machine learning methods and artificial intelligence software were not included in the present focused update due to a lack of clear best practice guidance.
+
+Of note: Our analysis examines the prognostic value of various scales for predicting mortality and functional outcomes in patients with intracerebral haemorrhage. However, it does not constitute a direct comparison between the predictive models embedded in these scales and the clinical assessments made by treating physicians. Our analysis focuses solely on evaluating the methodological properties of the prognostic tools, particularly their discriminatory ability, validity and applicability, without analysing clinical decision-making or assessing the potential superiority of one approach over the other.
+
+A total of 97 prediction tools were evaluated: death prediction tools (N = 30), functional outcome prediction tools (N = 20), and combined death and functional outcome prediction tools (N = 47). The large number of differing tools highlights the absence of consensus around predicting ICH outcomes. Prognostic discrimination varied between the tools, the Area Under the Receiver Operator Characteristic (AUROC) ranged from 0.64 to 0.93. Half of the tools assessed prediction tool calibration (N = 52, 54%).
+
+We used the Prediction model risk of Bias assessment Tool (PROBAST) to evaluate the quality of evidence (Supplemental Table 3, PICO-1).27 Sources of bias included a lack of high-quality external validations, a lack of blinding, analysis of small sample sizes and ambiguous reporting of missing data.26 For guideline recommendations we only considered tools with at least one external validation and where the evidence was categorised as low risk of bias and high applicability to the specific PICO question. We identified 14 tools in 11 publications that met our criteria.28–38
+
+For our quantitative analysis of the prognostic accuracy of selected tools, we assessed eligible development and validation studies. The original ICH score was described in six papers with an AUROC range of 0.82–0.92.28,31,34–37 This was followed by the max-ICH score described in three papers with an AUROC range of 0.77–0.88.34,35,38 The calibration of the ICH score was assessed using the Hosmer-Lemeshow test, yielding varying results (p =0.37, p>0.1, p < 0.001),31,35,37 and the max-ICH score was similarly assessed once (p=0.89).35 A meta-analysis was deemed unfeasible due to significant heterogeneity, driven by the limited number of studies using the same tool and the variations in assessed outcomes and their respective endpoints.
+
+# Additional information
+
+The ICH score is determined by age, ICH volume, infratentorial origin, Glasgow Coma Score (GCS), and intraventricular haemorrhage (IVH).28 The max-ICH score, also includes age, ICH volume and IVH, as well as NIHSS and use of oral anticoagulation.38 Several other reviews have looked at this question with similar findings, finding that the ICH score has undergone the most extensive external validation.39–41 Witsch et  al.42 favoured the max-ICH score according to their bespoke criteria for complete score validation. These reviews also highlight the lack of, and need for, further external validation of ICH prediction tools.39–42
+
+The properties of these prediction tools may be falsely improved due to the bias caused by withdrawing treatment from people with worse predicted outcome. The effect of this was not taken into consideration when the ICH score was initially developed, while the max-ICH score actively excluded patients with early care limitations.38 It is important to note that the original ICH score was created in 2001 and first validated in 2002, so there are limitations to this score given its historical development.28,43 This period predates the widespread implementation of stroke unit care, and death rates were higher.44 Thus, a prediction tool developed and validated in such cohorts may have resulted in predictive properties which do not accurately reflect the tool’s current performance.
+
+While ICH prediction tools have been extensively developed, uncertainty remains regarding their function and impact on management in clinical practice.45 Nonetheless, these tools are considered useful in clinical practice to inform outlook for individuals and clinicians, who must be aware of the limitations of the evidence available, and aid discussions with patients’ families.
+
+# Withdrawal of treatment
+
+PICO 1.3.2 For adults with ICH, does a policy for limitation of treatment, do not attempt cardiopulmonary resuscitation (DNR), or early initiation of palliative care orders within the first 24 h compared with standard of care influence the risk of death or dependence?
+
+# Evidence-based Recommendation
+
+In adults within 24 h of spontaneous ICH onset, there is insufficient evidence from randomised trials regarding the influence of policies on limitation of treatment and do-not-resuscitate orders on death and dependency.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: –
+
+# Expert consensus statement
+
+In adults within 24 h of spontaneous ICH onset, we suggest not implementing general policies that limit treatment or initiate do not attempt cardiopulmonary resuscitation orders.
+
+Vote: 15/15
+
+# Analysis of the current evidence
+
+No RCTs were identified from our systematic review that examined limitation of treatment, do not attempt cardiopulmonary resuscitation (DNR), and/or initiation of palliative care order within 24 h of acute spontaneous ICH. RCTs are unlikely to be acceptable to healthcare professionals or relatives, and therefore it is probable that highquality evidence will never be available on this topic.
+
+# Additional information
+
+All studies identified were considered of very low-quality evidence, as they were all retrospective observational studies that examined associations between early (i.e. within 24 h) limitation of care, DNR or palliative care with various outcomes for adults with ICH. All studies examined associations between initiation of such orders with outcomes (predominantly death or dependence) after adjustment for various other predictors. However, residual confounding is undoubtedly present in these studies, and a central issue surrounds the concept of ‘self-fulfilling’ prophecy, whereby initiation of withdrawal/limitation of care or DNR orders based on perceived predicted poor outcome inevitably increases the likelihood of worse outcomes.
+
+Some important conceptual differences between DNR and limitation/withdrawal of care should be noted. DNR refers to orders that prohibit resuscitation efforts. In the present discussion, we refer to the initiation of DNR after presentation/admission to hospital, whereby patients or substitute decision-makers put DNR orders in place after ICH onset. On the other hand, limitation or withdrawal of care, or initiation of palliative care, typically occurs following admission in people deemed to be terminally ill based on factors such as the predicted outcome, age and comorbidity/multimorbidity status.
+
+Identified observational studies have highlighted some differences in outcomes among ICH patients whereby DNR (Supplement on PICO 1.3.2: description of single studies), limitation or withdrawal of care was initiated within 24h. For instance, DNR orders started within 24h of admission has been associated with lower odds of receiving guideline-based treatment (such as admission to a stroke unit or DVT prophylaxis).46 People with ICH have also been found to have palliative care initiated within 24h of admission at greater rates than people with ischaemic stroke, after adjustment for multiple covariates. Further, some existing prognostic models for outcomes after ICH are confounded by the use of early DNR orders or limitation of care.47,48 Additionally, some retrospective observational data also suggest potentially different use of DNR, limitation or withdrawal of care, or palliative care between men and women.49,50
+
+The non-randomised ABC-ICH care bundle study included a secondary outcome of early (<24 h) DNR orders, although a DNR policy was not part of the carebundle itself; the care bundle was associated with a reduction in early DNR orders, and this reduction was a key mediator of the association between bundle implementation and reduced 30-day case fatality.51 (see also PICO 5.2)
+
+# Blood pressure management
+
+Elevated blood pressure (BP) is common in patients with ICH and is associated with increased risk of haematoma expansion (HE), death, and dependence.52–54 The primary rationale for lowering BP in acute ICH is to prevent haematoma expansion, and thereby clinical deterioration.
+
+# Acute blood pressure alteration
+
+PICO 2 In adults with acute spontaneous ICH, does altering blood pressure (BP) to a lower target compared with either no use of BP alteration to a specific target or using targets different from the lower range, result in reduced death or dependence, death or haematoma expansion (HE)?
+
+# Evidence-based Recommendation
+
+For adults with acute spontaneous ICH and systolic blood pressure of 150–220 mmHg, the overall balance of beneficial and adverse effects is uncertain, so we recommend recruitment to ongoing randomised controlled trials.
+
+Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: –
+
+# Expert consensus statements
+
+We suggest lowering systolic blood pressure below 140 mmHg within 6 h of symptom onset in minor or moderate ICH (haematoma volume < 30 mL) to reduce haematoma expansion.
+
+For adults with spontaneous ICH, we suggest avoiding a reduction in systolic blood pressure of more than 70 mmHg from baseline and to avoid active reduction of systolic blood pressure below 110 mmHg. Caution is advised when lowering very high systolic blood pressure (>220 mmHg), for patients with large haematoma volumes (>30 mL) or when there is planned haematoma evacuation.
+
+For adults with spontaneous minor or moderate ICH (haematoma volume < 30 mL), we suggest applying the following aspects:
+
+Initiating antihypertensive treatment as early as possible, ideally within the first 2 h following the onset of symptoms (acute phase):
+
+Lower systolic blood pressure to <140 mmHg and minimise variability in blood pressure fluctuations.   
+After lowering systolic blood pressure below the target threshold (up to 7 days, sub-acute phase):   
+•  Maintain systolic blood pressure below 140 mmHg.   
+For secondary prevention (after sub-acute phase)   
+Follow the recommendations on secondary prevention, specifically section Blood pressure on blood pressure management.
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+This analysis builds upon the ESO guidelines on blood pressure management in acute ischaemic stroke and ICH that included 12 RCTs.55 For the current guideline, two additional RCTs were identified.56,57 Fourteen RCTs were included in the updated analyses for this ICH guideline, comparing blood pressure lowering (either titrated to an intensive blood pressure target or using a fixed antihypertensive drug) with control (contemporaneous guideline standard blood pressure target or placebo, respectively) in 7031 participants assessed within 2–72 h of symptom onset (Supplement: description of single studies).56–69 Good functional outcome (defined as mRS 0–2) and death at 3–6 months after ICH were prioritised as critical outcomes, and haematoma expansion within 6 and 24 h as an important outcome.
+
+Blood pressure lowering treatment targeting lower BP compared with control did not improve good functional outcome at 3–6 months (OR 1.10, 95% CI 0.93–1.30, 11 RCTs, 6819 participants, very low certainty, Figure 2). Given the wide confidence interval and very low certainty of the evidence, this result should be interpreted with caution. The pooled estimate may be anchored by early, small studies with extreme effects, and may not reflect results from larger, more recent trials. Furthermore, the definition of ‘good functional outcome’ (mRS 0–2) may not fully capture clinically meaningful differences in functional status, especially across diverse patient populations.
+
+The effect of blood pressure lowering on good functional outcome did not differ according to time from symptom onset to treatment/randomisation (6, 24 and 72 h, Figure 3).
+
+Blood pressure lowering treatment compared with control did not affect death of any cause at 3–6 months (OR 0.93, 95% CI: 0.81–1.06, 14 RCTs, 7031 participants, low certainty, Figure 4).56–69 Although mortality is an important outcome, its interpretation is complex in the context of ICH, where early death can be influenced by factors unrelated to BP control. Additionally, the low certainty and narrow range of effects again raise concerns about the impact of study-level heterogeneity, selective reporting and insufficient statistical power to detect a modest but clinically relevant benefit.
+
+The effect of blood pressure lowering on death did not differ according to time from symptom onset to treatment/randomisation (6, 24 and 72 h, Figure 5).56–69
+
+Antihypertensive treatment targeting lower BP, regardless of time to treatment, compared with control showed a non-significant reduction in haematoma expansion (OR 0.79, 95% CI 0.62–1.01, 6 RCTs, 3034 participants, very low certainty, Figure 6).57–59,62,64,70
+
+![](images/2fd2a823cd6d32cc30ea19ead2e85f932daf409f4ba626ff7d96b659441fd082.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Vasodepressor Events | Vasodepressor Total | Control Events | Control Total | Weight | Odds ratio M-H, Random, 95% CI |
+| --- | --- | --- | --- | --- | --- | --- |
+| ATACH-2 2016 | 211 | 481 | 211 | 480 | 15.4% | 1.00 [0.77, 1.29] |
+| CHASE 2020 (ICH) | 46 | 126 | 37 | 116 | 6.9% | 1.23 [0.72, 2.09] |
+| ENOS 2016 (ICH) | 105 | 309 | 112 | 316 | 12.4% | 0.94 [0.67, 1.30] |
+| Gupta 2018 | 26 | 59 | 21 | 59 | 4.2% | 1.43 [0.68, 2.99] |
+| INTERACT 2008 | 108 | 203 | 106 | 201 | 10.3% | 1.02 [0.69, 1.51] |
+| INTERACT-2 2013 | 663 | 1382 | 627 | 1412 | 20.1% | 1.15 [0.99, 1.34] |
+| INTERACT-4 2024 (ICH) | 156 | 515 | 106 | 507 | 14.1% | 1.64 [1.24, 2.19] |
+| Koch 2008 | 8 | 20 | 10 | 19 | 1.6% | 0.60 [0.17, 2.14] |
+| PATICH 2017 | 29 | 96 | 19 | 99 | 5.0% | 1.82 [0.94, 3.54] |
+| RIGHT-2 2019 (ICH) | 6 | 74 | 11 | 71 | 2.3% | 0.48 [0.17, 1.38] |
+| Subtotal (95% CI) | — | 3265 | — | 3280 | 92.2% | 1.15 [0.98, 1.35] |
+| Total events: | 1358 | — | 1260 | — | — | — |
+| Heterogeneity: Tau² = 0.02; Chi² = 14.98, df = 9 (P = 0.09); I² = 40% Test for overall effect: Z = 1.70 (P = 0.09) |
+| SCAST 2014 | 83 | 144 | 86 | 130 | 7.8% | 0.70 [0.43, 1.14] |
+| Subtotal (95% CI) | — | 144 | — | 130 | 7.8% | 0.70 [0.43, 1.14] |
+| Total events: | 83 | — | 86 | — | — | — |
+| Heterogeneity: Not applicable Test for overall effect: Z = 1.45 (P = 0.15) |
+| Total (95% CI) | — | 3409 | — | 3410 | 100.0% | 1.10 [0.93, 1.30] |
+Favours [Control] Favours [Vasodepressor] Risk of Bias A B C D E F G
+</details>
+
+Figure 2. Effect on good functional outcome (mRS 0–2) at 3–6 months after intensive blood pressure lowering with any vasodepressor drug (note: some trials allowed use of non-vasodepressor blood-pressure lowering-drugs) compared with control in adults with acute intracerebral haemorrhage.
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Vasodepressor</td><td colspan="2">Control</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Risk of Bias A B C D E F G</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td></tr><tr><td colspan="9">2.8.1 Within 6 hours</td></tr><tr><td>ATACH-2 2016</td><td>211</td><td>481</td><td>211</td><td>480</td><td>15.2%</td><td>1.00 [0.77 , 1.29]</td><td></td><td></td></tr><tr><td>ENOS 2016 (ICH)</td><td>10</td><td>29</td><td>9</td><td>32</td><td>2.1%</td><td>1.35 [0.45 , 3.99]</td><td></td><td></td></tr><tr><td>INTERACT 2008</td><td>108</td><td>203</td><td>106</td><td>201</td><td>10.1%</td><td>1.02 [0.69 , 1.51]</td><td></td><td></td></tr><tr><td>INTERACT-2 2013</td><td>663</td><td>1382</td><td>627</td><td>1412</td><td>20.2%</td><td>1.15 [0.99 , 1.34]</td><td></td><td></td></tr><tr><td>INTERACT-4 2024 (ICH)</td><td>156</td><td>515</td><td>106</td><td>507</td><td>13.9%</td><td>1.64 [1.24 , 2.19]</td><td></td><td></td></tr><tr><td>RIGHT-2 2019 (ICH)</td><td>6</td><td>74</td><td>11</td><td>71</td><td>2.2%</td><td>0.48 [0.17 , 1.38]</td><td></td><td></td></tr><tr><td>Subtotal (95% CI)</td><td></td><td>2684</td><td></td><td>2703</td><td>63.7%</td><td>1.15 [0.94 , 1.41]</td><td></td><td></td></tr><tr><td>Total events:</td><td>1154</td><td></td><td>1070</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Heterogeneity:  $\text{Tau}^{2} = 0.03; \text{Chi}^{2} = 10.30, \text{df} = 5 (\text{P} = 0.07); \text{I}^{2} = 51\%$ </td></tr><tr><td colspan="9">Test for overall effect: Z = 1.38 (P = 0.17)</td></tr><tr><td colspan="9">2.8.2 Within 24 hours</td></tr><tr><td>Koch 2008</td><td>8</td><td>20</td><td>10</td><td>19</td><td>1.5%</td><td>0.60 [0.17 , 2.14]</td><td></td><td></td></tr><tr><td>PATICH 2017</td><td>29</td><td>96</td><td>19</td><td>99</td><td>4.8%</td><td>1.82 [0.94 , 3.54]</td><td></td><td></td></tr><tr><td>Subtotal (95% CI)</td><td></td><td>116</td><td></td><td>118</td><td>6.4%</td><td>1.20 [0.42 , 3.45]</td><td></td><td></td></tr><tr><td>Total events:</td><td>37</td><td></td><td>29</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Heterogeneity:  $\text{Tau}^{2} = 0.35; \text{Chi}^{2} = 2.31, \text{df} = 1 (\text{P} = 0.13); \text{I}^{2} = 57\%$ </td></tr><tr><td colspan="9">Test for overall effect: Z = 0.34 (P = 0.74)</td></tr><tr><td colspan="9">2.8.3 Within 72 hours</td></tr><tr><td>CHASE 2020 (ICH)</td><td>46</td><td>126</td><td>37</td><td>116</td><td>6.7%</td><td>1.23 [0.72 , 2.09]</td><td></td><td></td></tr><tr><td>ENOS 2016 (ICH)</td><td>95</td><td>280</td><td>103</td><td>284</td><td>11.6%</td><td>0.90 [0.64 , 1.28]</td><td></td><td></td></tr><tr><td>Gupta 2018</td><td>26</td><td>59</td><td>21</td><td>59</td><td>4.0%</td><td>1.43 [0.68 , 2.99]</td><td></td><td></td></tr><tr><td>SCAST 2014</td><td>83</td><td>144</td><td>86</td><td>130</td><td>7.6%</td><td>0.70 [0.43 , 1.14]</td><td></td><td></td></tr><tr><td>Subtotal (95% CI)</td><td></td><td>609</td><td></td><td>589</td><td>29.9%</td><td>0.96 [0.73 , 1.25]</td><td></td><td></td></tr><tr><td>Total events:</td><td>250</td><td></td><td>247</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Heterogeneity:  $\text{Tau}^{2} = 0.01; \text{Chi}^{2} = 3.67, \text{df} = 3 (\text{P} = 0.30); \text{I}^{2} = 18\%$ </td></tr><tr><td colspan="9">Test for overall effect: Z = 0.33 (P = 0.74)</td></tr><tr><td>Total (95% CI)</td><td></td><td>3409</td><td></td><td>3410</td><td>100.0%</td><td>1.10 [0.94 , 1.30]</td><td></td><td></td></tr><tr><td>Total events:</td><td>1441</td><td></td><td>1346</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Heterogeneity:  $\text{Tau}^{2} = 0.03; \text{Chi}^{2} = 19.34, \text{df} = 11 (\text{P} = 0.06); \text{I}^{2} = 43\%$ </td></tr><tr><td colspan="9">Test for overall effect: Z = 1.20 (P = 0.23)</td></tr><tr><td colspan="9">Test for subgroup differences:  $\text{Chi}^{2} = 1.22, \text{df} = 2 (\text{P} = 0.54), \text{I}^{2} = 0\%$ </td></tr></table>
+
+Figure 3. Effect on good functional outcome (mRS 0–2) at 3–6 months of intensive blood pressure (BP) lowering with any vasodepressor drug (note: some trials allowed use of non-vasodepressor blood-pressure lowering-drugs) compared with control following symptom onset in subgroups of adults with acute intracerebral haemorrhage stratified by time to treatment. This included trials enrolling patients within 6 h, those enrolling within 24 h (excluding trials enrolling patients within 6 h), and studies involving treatment within 72 h (excluding trials enrolling within 24 h). 
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Vasodepressor</td><td colspan="2">Control</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Risk of Bias A B C D E F G</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td></tr><tr><td colspan="9">2.2.1 3 months follow-up</td></tr><tr><td>ATACH-2 2016</td><td>33</td><td>500</td><td>34</td><td>500</td><td>7.5%</td><td>0.97 [0.59 , 1.59]</td><td></td><td></td></tr><tr><td>CHASE 2020 (ICH)</td><td>16</td><td>126</td><td>14</td><td>116</td><td>3.1%</td><td>1.06 [0.49 , 2.28]</td><td></td><td></td></tr><tr><td>CHHIPS 2009 (ICH)</td><td>2</td><td>18</td><td>0</td><td>7</td><td>0.2%</td><td>2.27 [0.10 , 53.39]</td><td></td><td></td></tr><tr><td>ENOS 2016 (ICH)</td><td>42</td><td>309</td><td>47</td><td>316</td><td>9.1%</td><td>0.90 [0.57 , 1.41]</td><td></td><td></td></tr><tr><td>Gupta 2018</td><td>11</td><td>59</td><td>14</td><td>59</td><td>2.3%</td><td>0.74 [0.30 , 1.79]</td><td></td><td></td></tr><tr><td>ICH ADAPT 2013</td><td>7</td><td>37</td><td>4</td><td>36</td><td>1.0%</td><td>1.87 [0.50 , 7.03]</td><td></td><td></td></tr><tr><td>INTERACT 2008</td><td>21</td><td>203</td><td>25</td><td>201</td><td>4.9%</td><td>0.81 [0.44 , 1.50]</td><td></td><td></td></tr><tr><td>INTERACT-2 2013</td><td>166</td><td>1394</td><td>170</td><td>1421</td><td>35.5%</td><td>0.99 [0.79 , 1.25]</td><td></td><td></td></tr><tr><td>INTERACT-4 2024 (ICH)</td><td>125</td><td>515</td><td>156</td><td>507</td><td>24.2%</td><td>0.72 [0.55 , 0.95]</td><td></td><td></td></tr><tr><td>Koch 2008</td><td>3</td><td>20</td><td>3</td><td>19</td><td>0.6%</td><td>0.94 [0.17 , 5.36]</td><td></td><td></td></tr><tr><td>MR ASAP 2022 (ICH)</td><td>16</td><td>35</td><td>11</td><td>20</td><td>1.5%</td><td>0.69 [0.23 , 2.08]</td><td></td><td></td></tr><tr><td>PATICH 2017</td><td>13</td><td>96</td><td>18</td><td>99</td><td>3.1%</td><td>0.70 [0.32 , 1.53]</td><td></td><td></td></tr><tr><td>RIGHT-2 2019 (ICH)</td><td>35</td><td>73</td><td>23</td><td>71</td><td>4.0%</td><td>1.92 [0.98 , 3.78]</td><td></td><td></td></tr><tr><td>Subtotal (95% CI)</td><td></td><td>3385</td><td></td><td>3372</td><td>97.1%</td><td>0.91 [0.79 , 1.05]</td><td></td><td></td></tr><tr><td>Total events:</td><td>490</td><td></td><td>519</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Heterogeneity:  $\text{Tau}^2 = 0.00; \text{Chi}^2 = 10.68, df = 12 (P = 0.56); I^2 = 0\%$ </td></tr><tr><td colspan="9">Test for overall effect: Z = 1.33 (P = 0.18)</td></tr><tr><td colspan="9">2.2.2 6 months follow-up</td></tr><tr><td>SCAST 2014</td><td>18</td><td>144</td><td>11</td><td>130</td><td>2.9%</td><td>1.55 [0.70 , 3.41]</td><td></td><td></td></tr><tr><td>Subtotal (95% CI)</td><td></td><td>144</td><td></td><td>130</td><td>2.9%</td><td>1.55 [0.70 , 3.41]</td><td></td><td></td></tr><tr><td>Total events:</td><td>18</td><td></td><td>11</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Heterogeneity: Not applicable</td></tr><tr><td colspan="9">Test for overall effect: Z = 1.08 (P = 0.28)</td></tr><tr><td>Total (95% CI)</td><td></td><td>3529</td><td></td><td>3502</td><td>100.0%</td><td>0.93 [0.81 , 1.06]</td><td></td><td></td></tr><tr><td>Total events:</td><td>508</td><td></td><td>530</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Heterogeneity:  $\text{Tau}^2 = 0.00; \text{Chi}^2 = 12.35, df = 13 (P = 0.50); I^2 = 0\%$ </td></tr><tr><td colspan="6">Test for overall effect: Z = 1.12 (P = 0.26)</td><td>Favours</td><td></td><td></td></tr><tr><td colspan="9">Test for subgroup differences:  $\text{Chi}^2 = 1.67, df = 1 (P = 0.20), I^2 = 40.0\%$ </td></tr></table>
+
+Figure 4. Effect on death within 3–6 months of intensive blood pressure (BP) lowering with any vasodepressor drug (note: some trials allowed use of non-vasodepressor blood-pressure lowering-drugs) compared with control in adults with acute intracerebral haemorrhage.
+
+![](images/d5e4a661f707ff57ab38cbdc3b0ccebb3ab7cad02fbd2f438b7461706c29d60b.jpg)  
+Figure 5. Effect on death within 3–6 months following symptom onset in subgroups of adults with spontaneous ICH stratified by time to treatment of intensive blood pressure (BP) lowering with any vasodepressor drug (note: some trials allowed use of non-vasodepressor blood-pressure lowering-drugs) compared with control. This included trials enrolling patients within 6 h, those enrolling within 24 h (excluding trials enrolling patients within 6 h), and studies involving treatment within 72 h (excluding trials enrolling within 24 h).
+
+![](images/5199340488fe6ba686c78f108e97caf6bb4723261137f827a5f2f15c2ba0a5f0.jpg)  
+Figure 6. Effect on haematoma expansion of intensive blood pressure (BP) lowering with any vasodepressor drug (note: some trials allowed use of non-vasodepressor blood-pressure lowering-drugs) compared with control in adults with acute intracerebral haemorrhage.
+
+However, blood pressure lowering within 6 h of symptom onset was associated with lower odds of haematoma expansion (OR0.76, 95% CI 0.60–0.95, 4 RCTs, 2919 participants, low certainty, with moderate heterogeneity within subgroups, Figure 7).
+
+This meta-analysis suggests that early BP lowering, within 6 h of symptom onset limits HE in patients with minor to moderate ICH. However, due to substantial clinical and methodological heterogeneity across included studies – such as differences in intervention protocols, patient characteristics, timing, and outcome definitions – interpretation of the pooled effect sizes must be approached with caution. Notably, standard randomeffects models may inadequately account for heterogeneity, and early small studies can anchor pooled estimates, limiting the influence of larger, later trials. Although there was a tendency towards better outcomes with lower BP targets, no statistically significant effect on functional outcomes or death was observed at 3 months. The quality of evidence is low or very low, as detailed in the evidence profile table (Supplemental Table 4). The evidence mainly applies to conscious patients with systolic BP below 220 mmHg. The effects on patients with large haematomas, those requiring surgical decompression, severely elevated BP (>220 mmHg) or severe premorbid disabilities remain uncertain.
+
+![](images/4020a5ffea659c8d6d32689bc18a42bda75771633c47b4f8d14720261929373f.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Vasodepressor Events | Vasodepressor Total | Control Events | Control Total | Weight | Odds ratio M-H, Random, 95% CI |
+|---|---|---|---|---|---|---|
+| 2.6.1 Within 6 hours | | | | | | |
+| ATACH-2 2016 | 85 | 450 | 104 | 426 | 26.7% | 0.72 [0.52, 1.00] |
+| INTERACT 2008 | 26 | 174 | 40 | 172 | 14.5% | 0.58 [0.34, 1.00] |
+| INTERACT-2 2013 | 128 | 491 | 125 | 473 | 29.5% | 0.98 [0.74, 1.31] |
+| INTERACT-4 2024 (ICH) | 55 | 371 | 76 | 362 | 22.6% | 0.65 [0.45, 0.96] |
+| Subtotal (95% CI) | | 1486 | | 1433 | 93.3% | 0.76 [0.60, 0.95] |
+| Total events: | 294 | | 345 | | | |
+| Heterogeneity: Tau² = 0.02; Chi² = 4.63, df = 3 (P = 0.20); I² = 35% Test for overall effect: Z = 2.39 (P = 0.02) |
+| 2.6.2 Within 24 hours | | | | | | |
+| ICH ADAPT 2013 | 9 | 37 | 4 | 36 | 3.5% | 2.57 [0.71, 9.27] |
+| Koch 2008 | 6 | 21 | 6 | 21 | 3.2% | 1.00 [0.26, 3.81] |
+| Subtotal (95% CI) | | 58 | | 57 | 6.7% | 1.64 [0.65, 4.13] |
+| Total events: | 15 | | 10 | | | |
+| Heterogeneity: Tau² = 0.00; Chi² = 1.00, df = 1 (P = 0.32); I² = 0% Test for overall effect: Z = 1.04 (P = 0.30) |
+| Total (95% CI) | | 1544 | | 1490 | 100.0% | 0.79 [0.62, 1.01] |
+| Total events: | 309 | | 355 | | | |
+Heterogeneity: Tau² = 0.03; Chi² = 8.03, df = 5 (P = 0.15); I² = 38% Test for overall effect: Z = 1.85 (P = 0.06) Test for subgroup differences: Chi² = 2.50, df = 1 (P = 0.11), I² = 60.1%<lcel><lcel><nl>
+</details>
+
+Figure 7. The effect on haematoma expansion in subgroups stratified by time to treatment of intensive blood pressure (BP) lowering with any vasodepressor drug (note: some trials allowed use of non-vasodepressor blood-pressure lowering-drugs) compared with control in adults with spontaneous ICH. This included studies enrolling patients within 6 h and those enrolling within 24 h (excluding trials enrolling within 6 h).
+
+# Additional information
+
+Most HE occurs within the first 3 h.71 Among the RCTs included in the meta-analysis, only those conducted in the prehospital phase (RIGHT-2, MR ASAP and INTERACT-4) recruited patients within an average of 3 h, although the INTERACT-4 trial managed to recruit all patients within 2 h.56,57,68 However, BP lowering in undifferentiated stroke should be avoided because its effect on people with ischaemic stroke appears to be harmful.72,73
+
+High systolic BP (SBP) variability during the acute phase of ICH is associated with poor outcomes.74–77 In addition to initiating treatment as soon as possible after symptom onset, post-hoc exploratory analyses and observational studies suggest that sustained reduction in systolic BP (<140 mmHg) is safe and associated with better functional outcomes.78–80 SBP reductions exceeding 70 mmHg within the first hour may offset potential benefits or cause harm (renal failure, neurological deterioration).81,82 A post hoc analysis of the ATACH-II trial revealed that targeting a SBP reduction within the range of 55–85 mmHg during the initial 2 h appeared to optimise the balance between benefits and the risk of adverse events in patients with mild-to-moderate ICH.83 In adults with an initial SBP of 220 mmHg or higher, intensive BP lowering was associated with higher rates of neurological deterioration within 24 h without reducing HE at 24 h or decreasing outcome at 90 days.84 The safety of intensive BP lowering in patients with moderate to large haematomas is uncertain due to limited data, but a post hoc analysis suggests decreased frequency of HE without affecting death or disability at 90 days.80 The majority of patients included in the clinical trials had minor to moderate haematoma volumes (<30 mL).57,58,62,64,80 In patients with large haematoma volumes (>30 mL), the safety and efficacy of intensive blood pressure is not well established.
+
+The optimal choice of antihypertensive drug(s) and the optimal duration of intensive BP lowering remain uncertain. To achieve rapid and sustained BP reduction without excessive lowering, the drugs used should be fast-acting with a short half-life. Various antihypertensives, meeting these criteria to varying degrees, have been tested in RCTs. These include labetalol, nicardipine, lisinopril, enalapril, candesartan, urapidil, hydralazine, glyceryl trinitrate and sodium nitroprusside, with their selection often guided by local availability. With the exception of venous vasodilators (such as nitrates), no safety concerns have been noted for these antihypertensives.85 The calcium channel antagonist clevidipine, with a half-life of 1.5 min, may be particularly effective in BP control.86 A novel strategy for BP lowering will address multiple factors by integrating analgesia, sedation and anti-sympathetic effects.87
+
+For blood pressure reduction as part of care bundle treatment, please refer to Section ‘Care bundles.’
+
+Given the uncertainties about the effects of blood pressure reduction on our chosen clinical outcomes overall and in sub-groups, and in patients with haematomas >30 mL, further research is warranted. The ICH ADAPT II trial was published after the completion of this guideline.88 The ongoing CLUTCH (NCT06402968) is comparing the effect of the short-acting clevidipine vs. standard antihypertensive therapy on SBP target with stability, which is defined as achieving a SBP of less than 150 mm Hg, but greater than 130 mm Hg, plus two subsequent consecutive recordings, taken at least 15 minutes apart, remaining within that 130- 150 mm Hg range. Other ongoing trials are TIME-ICH (NCT06760078), looking at the efficacy of TXA vs. placebo both groups including plus intensive blood pressure. and the observational study of Efficacy and Safety Study of Urapidil Alone or With Esmolol in Treating Acute Hypertensive Intracerebral Hemorrhage (NCT06635707).
+
+# Haemostatic therapies
+
+Haematoma expansion is associated with worse functional outcome and death.89–94 Haemostatic therapies aim to reduce the risk of haematoma expansion after acute ICH. The type and effects of haemostatic therapy may vary in studies that include ICH not associated with antithrombotic therapy, ICH associated with antiplatelet therapy, and ICH associated with anticoagulation.72 Clotting factors and antifibrinolytics have been used to treat acute spontaneous ICH. Platelet concentrates, and desmopressin have been used for ICH associated with antiplatelet therapy. For ICH associated with vitamin K-antagonists (VKAs), prothrombin complex concentrate (PCC) or fresh frozen plasma (FFP) have been used. Andexanet  alfa has been used for ICH associated with factor Xa inhibitors, while idarucizumab has been used for ICH associated with the direct thrombin inhibitor dabigatran.
+
+# Analysis of current evidence
+
+The literature search was based on the Cochrane systematic review, which included a literature search from 1949 to September 2022.95 The literature search for this guideline was updated from September 2022 to 31 May 2024 and identified four additional RCTs,96–99 resulting in the inclusion of 23 RCTs with 5495 participants (Supplement for PICO 3: description of single studies). The systematic search included RCTs of any haemostatic intervention (i.e. procoagulant treatments such as clotting factor concentrates, antifibrinolytic drugs, platelet transfusion or agents to reverse the action of antithrombotic drugs) compared with placebo, open control or an active comparator for acute spontaneous ICH. A description of the RCTs is provided in the Supplement. The guideline group graded the following outcomes to be critical or important for haemostatic therapies: death, death or dependence (modified Rankin Scale (mRS) 4–6) by day 90, haematoma expansion at 24 h, and thromboembolic adverse events. Most of our recommendations differ from those in the ESO Guideline on Reversal of Oral Anticoagulants in Acute Intracerebral Haemorrhage published in 2019.94 This is mainly due to a shift in the evaluation of the benefits versus risks of treatments, with thromboembolic adverse events specifically identified as a critical outcome.
+
+Spontaneous ICH not associated with antithrombotic drug use rFVIIa
+
+PICO 3.1.1 In adults with spontaneous ICH not associated with antithrombotic drug use, does haemostatic therapy using rFVIIa versus placebo or open control reduce death or dependence, death or haematoma expansion and not increase thromboembolic adverse events?
+
+# Evidence-based Recommendation
+
+For adults with spontaneous ICH not associated with antithrombotic drug use, there is uncertainty about the balance of beneficial and adverse effects of rFVIIa, so we suggest against its routine use and suggest recruitment to ongoing randomised controlled trials.
+
+Quality of evidence: Very Low ⊕
+
+Strength of recommendation: Weak against intervention ↓?
+
+# Analysis of current evidence
+
+Nine RCTs (1549 participants) compared rFVIIa versus placebo or open control,90,100–106 which are described in the Supplement (Supplement for PICO 3: description of single studies). The quality of evidence is low due to heterogeneity and risk of bias (Supplement for PICO 3 GRADE evidence profile rFVIIa).
+
+For the efficacy outcomes of death, death or dependence at 90days and haematoma expansion, there are no statistically significant differences between rFVIIa and placebo/open control, but the direction of the effect favours rFVIIa on death or dependence by day 90 (OR 0.71, 95% CI 0.46– 1.11; 8 RCTs, 1454 participants; I2 =46%; Figure 8), on death from any cause by day 90 (OR 0.69, 95% CI 0.43– 1.11; 9 RCTs, 1544 participants; I 2 =39%; Figure 9) and on haematoma expansion at 24h (OR 0.65, 95% CI 0.27– 1.56; 5 RCTs, 220 participants; very low-quality evidence; Figure 10).
+
+![](images/8c2a8bdaf02eebd2fcb9ad1174a1b9acd3bdf0d9c469f003750f9eec5d79e78e.jpg)  
+Figure 8. Effect on death or dependence (mRS 4–6) at day 90 of rFVIIa or placebo/open control in adults with spontaneous ICH not associated with antithrombotic drug use.
+
+![](images/3b2652e49c2a0f38f6da0d132a01e7704c3c8b0826db830882d11e14d45f32dc.jpg)  
+Figure 9. Effect on death from any cause by day 90 of rFVIIa versus placebo/open control for adults with spontaneous ICH not associated with antithrombotic drug use.
+
+![](images/fef49facfaf8c59a2e88500f3640008cff420e2321e542ad191feb3d2380085c.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Recombinant factor VIIa Events | Recombinant factor VIIa Total | Placebo/Open control Events | Placebo/Open control Total | Weight (%) | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI | Risk of Bias |
+|---|---|---|---|---|---|---|---|---|
+| Gladstone, 2019 (SPOTLIGHT and STOP-IT) | 13 | 32 | 16 | 37 | 42.6 | 0.90 [0.34, 2.34] | Favour [Recombinant factor VIIa] | Favours [Placebo/Open control] |
+| Li, 2012 | 4 | 32 | 11 | 32 | 30.7% | 0.27 [0.08, 0.98] | Favours [Recombinant factor VIIa] | Favours [Placebo/Open control] |
+| Mayer, 2005a | 8 | 36 | 1 | 11 | 13.5% | 2.86 [0.32, 25.80] | Favours [Recombinant factor VIIa] | Favours [Placebo/Open control] |
+| Mayer, 2006 | 23 | 32 | 7 | 8 | 13.2% | 0.37 [0.04, 3.40] | Favours [Recombinant factor VIIa] | Favours [Placebo/Open control] |
+| Total (95% CI) | 48 | 132 | 35 | 88 | 100.0% | 0.65 [0.27, 1.56] | Favours [Recombinant factor VIIa] | Favours [Placebo/Open control] |
+Heterogeneity: Tau² = 0.24; Chi² = 4.21, df = 3 (P = 0.24); I² = 29% Test for overall effect: Z = 0.97 (P = 0.33) Test for subgroup differences: Not applicable
+</details>
+
+Figure 10. Effect on haematoma expansion by 24 h of rFVIIa or placebo/open control in adults with spontaneous ICH not associated with antithrombotic drug use.
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Recombinant factor Vila</td><td colspan="2">Placebo/Open control</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Risk of Bias A B C D E F G</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td></tr><tr><td>Gladstone, 2019 (SPOTLIGHT and STOP-IT)</td><td>2</td><td>32</td><td>4</td><td>37</td><td>6.6%</td><td>0.55 [0.09 , 3.22]</td><td></td><td></td></tr><tr><td>Mayer, 2005a</td><td>1</td><td>37</td><td>1</td><td>11</td><td>2.5%</td><td>0.28 [0.02 , 4.85]</td><td></td><td></td></tr><tr><td>Mayer, 2005b</td><td>21</td><td>303</td><td>2</td><td>96</td><td>9.5%</td><td>3.50 [0.81 , 15.21]</td><td></td><td></td></tr><tr><td>Mayer, 2006</td><td>3</td><td>32</td><td>1</td><td>8</td><td>3.5%</td><td>0.72 [0.07 , 8.05]</td><td></td><td></td></tr><tr><td>Mayer, 2008 (FAST)</td><td>55</td><td>558</td><td>21</td><td>263</td><td>74.4%</td><td>1.26 [0.74 , 2.13]</td><td></td><td></td></tr><tr><td>Novo Nordisk, 2007 (F7ICH-1602)</td><td>1</td><td>45</td><td>2</td><td>45</td><td>3.5%</td><td>0.49 [0.04 , 5.59]</td><td></td><td></td></tr><tr><td>Total (95% CI)</td><td></td><td>1007</td><td></td><td>460</td><td>100.0%</td><td>1.20 [0.76 , 1.89]</td><td></td><td></td></tr><tr><td>Total events:</td><td>83</td><td></td><td>31</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Heterogeneity:  $\text{Tau}^2 = 0.00; \text{Chi}^2 = 4.56, df = 5 (P = 0.47); I^2 = 0\%$ </td></tr><tr><td colspan="6">Test for overall effect: Z = 0.79 (P = 0.43)</td><td colspan="3">Favours [Recombin]</td></tr><tr><td colspan="9">Test for subgroup differences: Not applicable</td></tr></table>
+
+Figure 11. Effect on thromboembolic adverse events of rFVIIa or placebo/open control in adults with spontaneous ICH not associated with antithrombotic drug use.
+
+For the safety outcome of thromboembolic adverse events, there is no statistically significant difference between rFVIIa and placebo/open control (OR 1.20, 95% CI 0.76–1.89; 7 RCTs, 1467 participants; very low-quality evidence, Figure 11), but the direction of effect favours placebo/open control.
+
+# Additional information
+
+Further analyses on death or dependence (measured by extended Glasgow Outcome Scale (GOS-E) 1–4) at day 90 show a direction of the effect favouring rFVIIa. There was no clear effect on all serious adverse events (Supplement PICO 3, forest plots on rFVIIa).
+
+Tranexamic acid for spontaneous ICH
+
+PICO 3.1.2 In adults with spontaneous ICH not associated with antithrombotic drug use, does haemostatic therapy using tranexamic acid compared with placebo or open control reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?
+
+# Evidence-based Recommendation
+
+For adults with spontaneous ICH not associated with antithrombotic drug use, there is uncertainty about the balance of clinical benefits (functional outcome, death and dependence) and adverse effects of tranexamic acid. Therefore, we recommend recruitment to ongoing randomised controlled trials.
+
+# Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: –
+
+# Expert consensus statement
+
+Tranexamic acid may be considered for reducing haematoma expansion, if enrolment in an ongoing randomised controlled trial is not possible.
+
+Vote: 13/15
+
+# Analysis of current evidence
+
+The literature search identified 8 RCTs (3061 participants) comparing tranexamic acid versus placebo/open control (Supplement for PICO 3: description of single studies).96,98,107–112 We did not include the ATICH trial of aminocaproic acid because it included only three patients and it was never published.113 The overall quality of evidence is moderate due to the high risk of bias, limited number of events and/or small sample size (Supplement for PICO 3 GRADE evidence profile TXA). Tranexamic acid for spontaneous ICH compared with placebo/open-label control had no statistically significant effect on death or dependence at day 90 (OR 1.00, 95% CI 0.86–1.16; 6 RCTs, 2881 participants; I2 = 0%; Figure 12), or death by day 90 (OR 1.00, 95% CI 0.83–1.20; 7 RCTs, 3001 participants; I 2 = 0%; Figure 13), but there was a non-significant reduction in death by day 7 favouring TXA (OR 0.82, 95% CI 0.63–1.07, 2 RCTs, 2526 participants, I 2 = 0%; Figure 14). However, tranexamic acid reduced haematoma expansion at 24 h compared with placebo/open control (OR 0.82, 95% CI 0.70–0.97; 7 RCTs, 2998 participants, I2 = 0%; Figure 15). Tranexamic acid did not cause a statistically significant difference in thromboembolic adverse events compared with placebo/open control (OR 1.18, 95% CI 0.82–1.68; 6 RCTs, 2971 patients; I 2 = 0%; Figure 16).
+
+![](images/e830d13e921e445bc263098764e0cc7a9f42748f57cfaee1f95332d64c74001c.jpg)  
+Figure 12. Effect on Death or dependence (mRS 4–6) at day 90 of tranexamic acid versus placebo/open control in adults with spontaneous ICH not associated with antithrombotic drug use.
+
+![](images/5e6c28c62905a6ca011da6dbb1b26789386d6407ec0a46fd2946e30074cc1bc2.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Antifibrinolytic drugs Events | Antifibrinolytic drugs Total | Placebo/Open control Events | Placebo/Open control Total | Weight | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI |
+|---|---|---|---|---|---|---|---|
+| Arumugam, 2015 | 0 | 15 | 0 | 15 | Not estimable | 0.79 [0.27, 2.28] | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?? ?
+Heterogeneity: Tau² = 0.00; Chi² = 2.57, df = 5 (P = 0.77); I² = 0%
+Test for overall effect: Z = 0.01 (P = 0.99)
+Test for subgroup differences: Not applicable
+Total (95% CI) : 1502 ; 1499 ; 100.0% : 1.00 [0.83, 1.20]
+Favours [Antifibrinolytic drugs] Favours [Placebo/Open control]
+</details>
+
+Figure 13. Effect on death from any cause by day 90 of tranexamic acid versus placebo/open control in adults with spontaneous ICH not associated with antithrombotic drug use.   
+![](images/0fc7ea70db8ddb49b0cded6d4262eae8476c863d8806ea05c78396e76d1f022a.jpg)  
+Figure 14. Effect on Death from any cause by day 7 of tranexamic acid versus placebo/open control in adults with spontaneous ICH not associated with antithrombotic drug use.
+
+![](images/f59dd9da4f3808134729cf734b43ed83e0dad84d75f9ef320eb96db0a9c58232.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Antifibrinolytic drugs Events | Antifibrinolytic drugs Total | Placebo/Open control Events | Placebo/Open control Total | Weight | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI |
+|---|---|---|---|---|---|---|---|
+| Arumugam, 2015 | 11 | 15 | 15 | 15 | 0.3% | 0.08 [0.00, 1.69] | ? ? ? ? ? ? ? |
+| Liu, 2021 (TRAIGE) | 36 | 89 | 34 | 82 | 7.4% | 0.96 [0.52, 1.77] | ? ? ? ? ? ? ? |
+| Meretoja, 2020 (STOP-AUST) | 22 | 50 | 26 | 50 | 4.4% | 0.73 [0.33, 1.59] | ? ? ? ? ? ? ? ? |
+| Ni, 2020 | 5 | 73 | 12 | 77 | 2.3% | 0.40 [0.13, 1.19] | ? ? ? ? ? ? ? ? |
+| Sprigg, 2014 (TICH-1) | 3 | 16 | 1 | 8 | 0.5% | 1.62 [0.14, 18.58] | ? ? ? ? ? ? ? ? |
+| Sprigg, 2018 (TICH-2) | 265 | 1161 | 304 | 1164 | 76.6% | 0.84 [0.69, 1.01] | ? ? ? ? ? ? ? ? ? |
+| Yassi, 2024 (STOP-MSU) | 37 | 97 | 43 | 101 | 8.5% | 0.83 [0.47, 1.47] | ? ? ? ? ? ? ? ? ? |
+| Total (95% CI) | 379 | 1501 | 435 | 1497 | 100.0% | 0.82 [0.70, 0.97] | Favours [Antifibrinolytic drugs] Favours [Placebo/Open control] |
+Heterogeneity: Tau² = 0.00; Chi² = 4.58, df = 6 (P = 0.60); I² = 0% Test for overall effect: Z = 2.32 (P = 0.02) Test for subgroup differences: Not applicable
+</details>
+
+Figure 15. Effect on haematoma expansion by 24 h of tranexamic acid versus placebo/open control in adults with spontaneous ICH not associated with antithrombotic drug use.
+
+![](images/72e2065805191ba5017437dbfbca6c41dcd5ac1aa4ce339c5b2c127da6a13c19.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Antifibrinolytic drugs Events | Total | Placebo/Open control Events | Total | Weight | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI | Risk of Bias |
+|---|---|---|---|---|---|---|---|---|
+| Liu, 2021 (TRAIGE) | 1 | 89 | 1 | 82 | 1.6% | 0.92 [0.06 , 14.96] | ? | ? |
+| Meretoja, 2020 (STOP-AUST) | 1 | 50 | 2 | 50 | 2.1% | 0.49 [0.04 , 5.58] | ? | ? |
+| Ni, 2020 | 0 | 73 | 0 | 77 | Not estimable | Not estimable | ? | ? |
+| Sprigg, 2014 (TICH-1) | 1 | 16 | 0 | 8 | 1.2% | 1.65 [0.06 , 44.97] | ? | ? |
+| Sprigg, 2018 (TICH-2) | 66 | 1161 | 54 | 1164 | 92.7% | 1.24 [0.86 , 1.79] | ? | ? |
+| Yassi, 2024 (STOP-MSU) | 1 | 98 | 3 | 103 | 2.4% | 0.34 [0.04 , 3.36] | ? | ? |
+| Total (95% CI) | 70 | 1487 | 60 | 1484 | 100.0% | 1.18 [0.82 , 1.68] | ? | ? |
+Heterogeneity: Tau² = 0.00; Chi² = 1.76, df = 4 (P = 0.78); I² = 0% Test for overall effect: Z = 0.89 (P = 0.37) Test for subgroup differences: Not applicable
+</details>
+
+Figure 16. Effect on thromboembolic adverse events of tranexamic acid versus placebo/open control in adults with spontaneous ICH not associated with antithrombotic drug use.
+
+Spontaneous ICH associated with antiplatelet drug use
+
+Platelet transfusion
+
+PICO 3.2.1 In adults with spontaneous ICH associated with antiplatelet drug use, does platelet transfusion versus placebo or open control reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?
+
+Evidence-based Recommendation In adults with spontaneous ICH associated with antiplatelet drug use we suggest against the use of platelet transfusion. Quality of evidence: Moderate ⊕⊕⊕ Strength of recommendation: Weak against intervention ↓?
+
+Analysis of current evidence
+
+The literature search identified one RCT that evaluated the effect of platelet transfusion in patients with spontaneous ICH associated with antiplatelet therapy (Supplement for PICO 3 description of single studies, and GRADE evidence profile for platelet transfusion).114 Platelet transfusion increased the likelihood of death or dependence by day 90 compared with open control for ICH associated with antiplatelet drug use (OR 2.04, 95% CI 1.12–3.74; 1 RCT, 190 participants; moderatequality evidence, Figure 17). There was no statistically significant difference in death by day 90 (OR 1.61, 95% CI 0.84–3.08; 1 RCT, 190 participants; moderatequality evidence, Figure 18) or haematoma expansion at 24 h (OR 1.62, 95% CI 0.85–3.09; 1 RCT, 153 participants; moderate-quality evidence, Figure 19) with platelet transfusion. There was no difference in thromboembolic adverse events (OR 3.96, 95% CI 0.43–36.08; 1 RCT, 190 participants; moderatequality evidence, Figure 20) with platelet transfusion. The overall quality of evidence is moderate due to the risk of bias and the limited number of events.
+
+![](images/9d0406f541bb2aaa12c9f645752a7a3df95c9d3cc172bfd34c476b0125a3870f.jpg)  
+Figure 17. Effect on death or dependence (mRS 4–6) at day 90 of platelet transfusion versus open control in adults with spontaneous ICH associated with antiplatelet drug use.
+
+![](images/7e6a8302b1462e415da9b92a6d188fedf661deaac9eebd6141ed85d39080c9f5.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Platelet transfusion Events | Platelet transfusion Total | Placebo/Open control Events | Placebo/Open control Total | Weight (%) | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI | Risk of Bias A B C D E F G |
+|---|---|---|---|---|---|---|---|---|
+| Baharoglu, 2016 (PATCH) | 31 | 97 | 21 | 93 | 100.0% | 1.61 [0.84 , 3.08] | Favours [Platelet transfusion] Favours [Placebo/Open control] |  |
+| Total (95% CI) | | 97 | | 93 | 100.0% | 1.61 [0.84 , 3.08] | Favours [Platelet transfusion] Favours [Placebo/Open control] |  |
+| Total events: | 31 | | 21 | | | | | |
+| Heterogeneity: Not applicable | | | | | | | | |
+| Test for overall effect: Z = 1.44 (P = 0.15) | | | | | | | | |
+| Test for subgroup differences: Not applicable | | | | | | | | |
+The plot includes a scatter plot with error bars showing the odds ratio between two groups.
+</details>
+
+Figure 18. Effect on death by day 90 of platelet transfusion versus open control in adults with spontaneous ICH associated with antiplatelet drug use.
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Platelet transfusion</td><td colspan="2">Placebo/Open control</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Risk of Bias A B C D E F G</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td></tr><tr><td>Baharoglu, 2016 (PATCH)</td><td>39</td><td>80</td><td>27</td><td>73</td><td>100.0%</td><td>1.62 [0.85 , 3.09]</td><td></td><td></td></tr><tr><td>Total (95% CI)</td><td></td><td>80</td><td></td><td>73</td><td>100.0%</td><td>1.62 [0.85 , 3.09]</td><td></td><td></td></tr><tr><td>Total events:</td><td>39</td><td></td><td>27</td><td></td><td></td><td></td><td><img src="images/8a32f6784ee2399fde388032c5f18a5f04218181165b4055823fc9f4f215cfcb.jpg"/></td><td></td></tr><tr><td colspan="9">Heterogeneity: Not applicable</td></tr><tr><td colspan="6">Test for overall effect: Z = 1.46 (P = 0.14)</td><td colspan="3">Favours [Pla]</td></tr><tr><td colspan="9">Test for subgroup differences: Not applicable</td></tr></table>
+
+Figure 19. Effect on haematoma expansion of spontaneous ICH associated with antiplatelet drug use treated with platelet transfusion versus open control.
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Platelet transfusion</td><td colspan="2">Placebo/Open control</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td colspan="6">Risk of Bias</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td></tr><tr><td>Baharoglu, 2016 (PATCH)</td><td>4</td><td>97</td><td>1</td><td>93</td><td>100.0%</td><td>3.96 [0.43 , 36.08]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total (95% CI)</td><td></td><td>97</td><td></td><td>93</td><td>100.0%</td><td>3.96 [0.43 , 36.08]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total events:</td><td>4</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td><img src="images/780fa6eeced1358242abe5bab3a8e1efcf27a40c49b21e3f3cc13bc200e3a240.jpg"/></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Heterogeneity: Not applicable</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test for overall effect: Z = 1.22 (P = 0.22)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Favours [Pl</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test for subgroup differences: Not applicable</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+Figure 20. Effect on thromboembolic adverse events of platelet transfusion versus open control in adults with spontaneous ICH associated with antiplatelet drug use.
+
+# Additional information
+
+The analysis of all serious adverse events revealed a direction of the effect favouring placebo/open control (Supplement figure PICO 3).
+
+Desmopressin
+
+PICO 3.2.2 In adults with spontaneous ICH associated with antiplatelet drug use, does desmopressin versus placebo or standard care reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous ICH associated with antiplatelet drug use, there is uncertainty about the beneficial and adverse effects of desmopressin, so we recommend inclusion in ongoing randomised controlled trials.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: -
+
+# Analysis of current evidence
+
+The literature search identified one RCT evaluating desmopressin in patients with spontaneous ICH associated with antiplatelet therapy (n = 54). That trial randomised 27 patients to desmopressin and 27 patients to placebo (Supplement for PICO 3 description of single studies).97 The overall quality of evidence is very low due to the risk of bias and the small number of events (Supplement for PICO 3, GRADE evidence profile for desmopressin). There were neutral results for the efficacy outcomes death at day 90 (OR 0.65, 95% CI 0.18–2.38, 54 participants, very low-quality evidence, Figure 21), death or dependence at day 90 (OR 0.86, 95% CI 0.30–2.51, 54 participants, very low-quality evidence, Figure 22), haematoma expansion at 24 h (OR 0.89, 95% CI 0.22–3.63, 46 participants, very low-quality evidence, Figure 23), and for the safety outcome thromboembolic events (OR 2.35, 95% CI 0.41–13.38, 54 participants, very low-quality evidence, Figure 24).
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Desmopressin</td><td colspan="2">Placebo/Open control</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Risk of Bias A B C D E F G</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td></tr><tr><td>Desborough, 2023 (DASH)</td><td>5</td><td>27</td><td>7</td><td>27</td><td>100.0%</td><td>0.65 [0.18 , 2.38]</td><td></td><td></td></tr><tr><td>Total (95% CI)</td><td></td><td>27</td><td></td><td>27</td><td>100.0%</td><td>0.65 [0.18 , 2.38]</td><td></td><td></td></tr><tr><td>Total events:</td><td>5</td><td></td><td>7</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Heterogeneity: Not applicable</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.1 Favours [D]</td><td></td></tr><tr><td>Test for overall effect: Z = 0.65 (P = 0.51)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test for subgroup differences: Not applicable</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+Figure 21. Effect on death at day 90 of desmopressin versus placebo for adults with spontaneous ICH associated with antiplatelet drug use.
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Desmopressin</td><td colspan="2">Placebo/Open control</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Risk of Bias A B C D E F G</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td></tr><tr><td>Desborough, 2023 (DASH)</td><td>14</td><td>27</td><td>15</td><td>27</td><td>100.0%</td><td>0.86 [0.30 , 2.51]</td><td></td><td></td></tr><tr><td>Total (95% CI)</td><td></td><td>27</td><td></td><td>27</td><td>100.0%</td><td>0.86 [0.30 , 2.51]</td><td></td><td></td></tr><tr><td>Total events:</td><td>14</td><td></td><td>15</td><td></td><td></td><td></td><td><img src="images/c2da33fac0672c0caa707454afda0939ad91ea0f1ee58b8b66eb60dbba834fe6.jpg"/></td><td></td></tr><tr><td colspan="9">Heterogeneity: Not applicable</td></tr><tr><td colspan="6">Test for overall effect: Z = 0.27 (P = 0.78)</td><td colspan="3">Favours</td></tr><tr><td colspan="9">Test for subgroup differences: Not applicable</td></tr></table>
+
+Figure 22. Effect on death or dependence at day 90 of desmopressin versus placebo for adults with spontaneous ICH associated with antiplatelet drug use.
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Desmopressin</td><td colspan="2">Placebo/Open control</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Risk of Bias A B C D E F G</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td></tr><tr><td>Desborough, 2023 (DASH)</td><td>5</td><td>24</td><td>5</td><td>22</td><td>100.0%</td><td>0.89 [0.22 , 3.63]</td><td></td><td></td></tr><tr><td>Total (95% CI)</td><td></td><td>24</td><td></td><td>22</td><td>100.0%</td><td>0.89 [0.22 , 3.63]</td><td></td><td></td></tr><tr><td>Total events:</td><td>5</td><td></td><td>5</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Heterogeneity: Not applicable</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test for overall effect: Z = 0.16 (P = 0.88)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test for subgroup differences: Not applicable</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+Figure 23. Effect on haematoma expansion at 24 h of desmopressin versus placebo for adults with spontaneous ICH associated with antiplatelet drug use.
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Desmopressin</td><td colspan="2">Placebo/Open control</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td colspan="6">Risk of Bias</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td></tr><tr><td>Desborough, 2023 (DASH)</td><td>1</td><td>27</td><td>1</td><td>27</td><td>100.0%</td><td>1.00 [0.06 , 16.85]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total (95% CI)</td><td></td><td>27</td><td></td><td>27</td><td>100.0%</td><td>1.00 [0.06 , 16.85]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total events:</td><td>1</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td colspan="6"><img src="images/850260c98949a09c8257fceed0d258b50145c10053bff05b24c628154b59dc2a.jpg"/></td></tr><tr><td>Heterogeneity: Not applicable</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test for overall effect: Z = 0.00 (P = 1.00)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Favours</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Test for subgroup differences: Not applicable</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+Figure 24. Effect on thromboembolic events of desmopressin versus placebo for adults with spontaneous ICH associated with antiplatelet drug use.
+
+# Anticoagulant-associated ICH
+
+ICH associated with use of vitamin K-antagonists
+
+Prothrombin complex concentrate (PCC) versus fresh frozen plasma (FFP)
+
+PICO 3.3.1. In adults with ICH associated with use of vitamin K-antagonists (VKA) does haemostatic therapy using PCC versus FFP reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?
+
+# Evidence-based Recommendation
+
+In adults with ICH associated with use of vitamin K-antagonists (VKA), there is continuing uncertainty about the beneficial and adverse effects of PCC versus FFP on clinical outcomes.
+
+# Quality of evidence: Very low ⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement
+
+In adults with ICH associated with use of vitamin K-antagonists (VKA), we suggest using 4-factor PCC dosages in the range from 30 to 50 IU/kg if INR ⩾ 2.0 and 10 IU/kg if INR is 1.3–1.9 combined with use of intravenous vitamin K (10 mg) to normalise and prevent subsequent increase of INR. Vote: 15/15
+
+# Analysis of current evidence
+
+Two RCTs have compared PCC with fresh frozen plasma (FFP) for treatment of patients with ICH associated with use of VKA (Supplement for PICO 3 description of single studies, and GRADE evidence profile for PCC vs FFP).115,116 In the FFP versus PCC in patients with intracranial haemorrhage related to vitamin K-antagonists (INCH) trial all patients received 10mg intravenous vitamin K. In the study by Boulis et al., only patients in the control group received subcutaneous vitamin K. The overall quality of evidence is very low due to high risk of bias and limited number of events. The RCTs had the speed of normalisation of INR as the primary outcome and were not powered to detect differences in clinical outcomes. The evidence was uncertain for the effect on death from any cause (OR 0.39, 95% CI 0.09–1.69; 2 RCTs, 42 participants; I 2 = 0%, indicating no heterogeneity between studies; very low evidence, Figure 25) or death or dependence by day 90 (OR 1.78, 95% CI 0.44–7.18; 1 RCT, 37 participants, Figure 26). There was a non-significant reduction in haematoma expansion with PCC plus vitamin K (OR 0.35, 95% CI 0.09–1.40; 1 RCT, 36 participants; all very low-quality evidence, Figure 27). (See Supplement for further description of trials).
+
+![](images/5f4b32ccfa32ac4d7d048895573e596ef661d82e1a80b98df0751679906433d7.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Prothrombin complex concentrates Events | Fresh frozen plasma Events | Fresh frozen plasma Total | Weight | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI | Risk of Bias |
+|---|---|---|---|---|---|---|---|
+| Steiner, 2016 (INCH) | 5 | 27 | 8 | 23 | 0.43 [0.12, 1.56] | 0.43 [0.12, 1.56] | ? |
+| Total (95% CI) | 5 | 27 | 8 | 23 | 0.43 [0.12, 1.56] | 0.43 [0.12, 1.56] | ? |
+Heterogeneity: Not applicable
+Test for overall effect: Z = 1.29 (P = 0.20)
+Test for subgroup differences: Not applicable
+Favours [Prothrombin complex concentrates]
+Favours [Fresh frozen plasma]
+</details>
+
+Figure 25. Effect on death of any cause by day 90 of PCC versus FFP for ICH associated with vitamin K-antagonist use.
+
+![](images/90fc48815781b2d4b20a6314a1a47d2c21498e7439325483de734b83e402084b.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Prothrombin complex concentrates Events | Fresh frozen plasma Events | Fresh frozen plasma Total | Weight | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI | Risk of Bias |
+|---|---|---|---|---|---|---|---|
+| Steiner, 2016 (INCH) | 17 | 27 | 14 | 23 | 100.0% | 1.09 [0.35 , 3.43] | ? |
+| Total (95% CI) | | 27 | | 23 | 100.0% | 1.09 [0.35 , 3.43] | |
+| Total events: | 17 | | 14 | | | | |
+Heterogeneity: Not applicable
+Test for overall effect: Z = 0.15 (P = 0.88)
+Test for subgroup differences: Not applicable
+Favours [Prothrombin complex concentrates]
+Favours [Fresh frozen plasma]
+</details>
+
+Figure 26. Effect on death or dependence (mRS 4–6) at 90days of PCC versus FFP for ICH associated with vitamin K-antagonist use.
+
+![](images/629cc3b678171a2280e3940efebb494336a2f49ed34fb52fc2d8ed25beeabd7b.jpg)  
+Figure 27. Effect on haematoma expansion by 24 of PCC versus FFP for ICH associated with vitamin K-antagonist use.
+
+# Additional information
+
+In the INCH trial, patients randomised to FFP treatment received rescue therapy with PCC if the INR had not normalised by 3 h after start of FFP-infusion, which was the primary outcome event. PCC was superior to FFP in normalising INR levels (aOR 30.6, 95% CI 4.7–197.9). In the expert consensus statement, we suggest a fixed dose of 30 or 50 U/kg. The fixed dose of 30 U/kg was used in INCH, the higher dose of 50 U/kg is recommended by the manufacturer. The analysis of all serious adverse events revealed a direction of the effect in favour of PCC (Supplemental Figure PICO 3).
+
+Our systematic literature search did not identify any RCT comparing vitamin K with placebo or open control. Four-factor PCC includes factors II, VII, IX and X, with factor VII having the shortest half-life time of approximately 4–6 h. The half-life of the effects of various vitamin K-antagonists ranges from 8 h to 6 days (acenocumarol: 8–11h, warfarin: 37–48 h, phenprocoumon: 96– 155 h). An increase in INR 12–24 h after reversal therapy with FFP or PCC without the addition of vitamin K has been reported.117 Consequently, the immediate intravenous administration of vitamin K is recommended, and may require repetition in order to prevent a rebound of the INR. The INR must be monitored until sustained normalisation is demonstrated.
+
+ICH associated with use factor Xa inhibitors (FXaI)
+
+Prothrombin complex concentrates
+
+PICO 3.3.2.1 In adults with ICH associated with factor Xa-inhibitor use, does PCC compared with standard care reduce death, dependence or haematoma expansion and not increase risk of thromboembolic adverse events?
+
+# Evidence-based Recommendation
+
+For adults with spontaneous ICH associated with factor Xa-inhibitor use there is uncertainty about the balance of beneficial and adverse effects of PCC, so we recommend recruitment to further randomised controlled trials.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement
+
+For adults with spontaneous ICH associated with factor Xainhibitor use PCC may be considered, but clinicians should carefully consider the balance between its unknown benefit for reducing haematoma expansion and poor clinical outcome, and the potential increase in thromboembolic events.
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+PCC has been used for the treatment of ICH associated with factor Xa-inhibitor use due to the historical lack of an alternative. The literature search did not identify any RCTs comparing the efficacy of PCC with other standard therapies (except for a subgroup of patients included in the ANNEXA-I trial).
+
+# Additional information
+
+Observational data (see Supplement) have not shown a clear association between PCC treatment and improved outcomes, such as reduced mortality, improved functional status or reduced haematoma expansion rates, compared with usual care.118,119 Limited observational data suggest that thromboembolic adverse events occur in a low rate after administration of PCC.120,121
+
+Andexanet alfa
+
+PICO 3.3.2.2 In adults with ICH associated with factor Xa-inhibitor use (apixaban, edoxaban or rivaroxaban) does haemostatic therapy using andexanet  alfa compared with standard care reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?
+
+# Evidence-based Recommendation
+
+In adults with acute spontaneous ICH associated with use of factor Xa-inhibitor (i.e. within 15 h after the last dose of apixaban, edoxaban or rivaroxaban), there is continuing uncertainty about the balance of clinical benefits (functional outcome, death and dependence) and adverse effects of andexanet alfa, so we recommend recruitment to randomised controlled trials.
+
+Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement
+
+In adults with spontaneous ICH associated with use of certain factor Xa-inhibitors (apixaban or rivaroxaban) within 15 h after the last dose of a factor Xa-inhibitor (or proven factor Anti-FXa activity > 100 ng/mL) and within 12 h since onset of symptoms we suggest considering the use of andexanet alfa to reduce haematoma expansion. The potential clinical benefit should be evaluated in sufficiently powered randomised controlled trials.
+
+Vote: 14/15
+
+# Analysis of current evidence
+
+One RCT (n = 530) investigated the effect of andexanet  alfa versus usual care (Supplement for PICO 3 description of single studies, and GRADE evidence profile for andexanet alfa).99 The primary outcome was haemostatic efficacy, defined as a combination of three different measures at 12 h after baseline: expansion of the haematoma volume of ⩽35%, an increase in NIHSS ⩽ 7 points, and no receipt of medical or surgical rescue therapy. The primary outcome was met with a significantly higher proportion of patients receiving andexanet alfa compared with usual care (150/224 (67%) vs 121/228 (53%), adjusted difference 13.4%, 95% CI 4.6–22.2). There was no difference between groups for death by day 30 (OR 1.12, 95% CI 0.76–1.65, 1 RCT, 530 participants, Figure 28) or death or dependence by day 30 (OR 1.15, 95% CI 0.78–1.69, 501 participants, Figure 29). The primary outcome was mainly driven by a reduction of haematoma expansion compared with usual care (haematoma expansion ⩽ 35% mL at 12 h: OR 1.86, 95% CI 1.26–2.74, 1 RCT, 496 participants; haematoma expansion > 12.5 mL by 12 h: OR 0.56, 95% CI 0.34–0.92, 1 RCT, 501 participants, Figure 30). Andexanet alfa increased the number of thromboembolic events compared with usual care (OR 1.92, 95% CI 1.00–3.70, 1 RCT, 530 participants, Figure 31). This was primarily due to a higher incidence of ischaemic strokes in patients who received andexanet  alfa (17/263, 6.5%) compared with those who received usual care (4/267, 1.5%; difference: 5%; 95% CI, 1.5–8.8). Additionally, the incidence of myocardial infarction was 1/263 in the andexanet  alfa group versus 4/267 in the usual care group (difference: 2.7%; 95% CI, −0.2 to 6.1).
+
+# Additional information
+
+The secondary endpoint of reduction in factor Xa activity within 2 h was achieved in 94.5% of patients treated with andexanet alfa compared with 26.9% of those who received standard care.99
+
+![](images/202660fddb7dce55db3490408a98bb9e8a2583e2a88974d6d5ed86d31e932558.jpg)  
+Figure 28. Effect on death by day 30 of andexanet alfa compared with standard care in adults with ICH associated with use of FXaI (intention-to-treat extended population).
+
+![](images/96a39eaf6c1e47174a8cb8b6ebef3f63fbde65bb4ff5ec62ec85297594c01610.jpg)  
+Figure 29. Effect on death or dependence (mRS 4–6) at day 30 of andexanet alfa compared with standard care in adults with ICH associated with use of FXaI (intention-to-treat extended population).
+
+![](images/c7eaffd7cd59d4cf6cdb659e5a707b3b8b0037b72b990a732bfdfe1e5ddc7e45.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Andexanet Events | Andexanet Total | Usual care Events | Usual care Total | Weight | Odds ratio M-H, Random, 95% CI |
+|---|---|---|---|---|---|---|
+| Connolly, 2024 (ANNEXA-I) | 187 | 247 | 156 | 249 | 100.0% | 1.86 [1.26, 2.74] |
+| Total (95% CI) | | 247 | | 249 | 100.0% | 1.86 [1.26, 2.74] |
+| Total events: | 187 | | 156 | | | |
+Risk of Bias: A B C D E F G
+Heterogeneity: Not applicable
+Test for overall effect: Z = 3.13 (P = 0.002)
+Test for subgroup differences: Not applicable
+</details>
+
+Figure 30. Effect on haematoma expansion ⩽ 35% by 12 h of andexanet alfa compared with standard care in adults with ICH associated with use of FXaI (data from the Efficacy Analysis Extended Population of the ANNEXA-I trial).
+
+![](images/c324bbc7461aad36a9eacb030c911f9f0ac8e1222d8dfa0dc60705ca97b15fbe.jpg)  
+Figure 31. Effect on thromboembolic adverse events of andexanet alfa compared with standard care in adults with ICH associated with use of FXaI (intention-to-treat extended population).
+
+Tranexamic acid
+
+PICO 3.3.2.3 In adults with ICH associated with use of factor Xa-inhibitor (FXaI, apixaban, edoxaban, rivaroxaban) does tranexamic acid compared with standard care reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?
+
+# Evidence-based Recommendation
+
+For adults with acute spontaneous ICH associated with use of factor Xa-inhibitors (FXaI, apixaban, edoxaban, rivaroxaban), there is uncertainty about the beneficial and adverse effects of TXA, therefore we recommend recruitment to ongoing randomised controlled trials.
+
+Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: -
+
+# Analysis of current evidence
+
+One RCT investigated tranexamic acid versus placebo in patients with ICH associated with FXaI (Supplement: Description of single studies).112 There was no difference between TXA and placebo in death or dependence by 90 days (OR 1.23, 95% CI 0.40–3.74, 1 RCT, 63 participants), death by 90 days (OR 1.22, 95% CI 0.45–3.31, 1 RCT, 63 participants) or haematoma expansion (OR 0.73, 95% CI 0.27–1.99, 1 RCT, 63 participants). There was no difference between TXA and placebo in thromboembolic adverse events (OR 2.07, 95% CI 0.35–12.22, 1 RCT, 63 participants). The overall quality of evidence is low due to the identification of only one RCT with a small sample size and a limited number of events.
+
+The ongoing TICH-3 RCT is including people with ICH associated with FXaI use (ISRCTN97695350).
+
+ICH associated with use factor II inhibitors
+
+Idarucizumab
+
+PICO 3.3.2.4 In adults with spontaneous ICH associated with use of a direct thrombin inhibitor (dabigatran) does idarucizumab compared with standard care reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?
+
+# Evidence-based Recommendation
+
+In adults with anticoagulant-associated ICH associated with the use of direct thrombin inhibitor there are no RCTs.
+
+Quality of evidence: Very Low ⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement
+
+In adults with anticoagulant-associated ICH associated with use of direct thrombin inhibitor (dabigatran) we suggest the immediate use of idarucizumab (2 × 2.5 g intravenously) to normalize the dTT (diluted thrombin time) and the ECT (ecarin clotting time).
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+Therapy with idarucizumab, a monoclonal antibody fragment which inactivates the anticoagulant effect of dabigatran, has been licensed worldwide since 2016. No completed or ongoing RCTs exploring the efficacy and/or safety of idarucizumab versus usual care for reversal of direct factor IIa-inhibitor therapy in adults with ICH were found in the literature search.
+
+The REVERSE-AD study was a prospective case series (n = 503) that evaluated a primary outcome of maximum percentage reversal of the effect of dabigatran within 4 h after administration of idarucizumab. The primary outcome was determined by normalisation of two coagulation parameters: the dTT (diluted thrombin time) and the ECT (ecarin clotting time). Fifty-three of the included patients suffered an ICH. All patients who suffered an ICH reached the primary endpoint of either normalisation of dTT or ECT. There were no serious thromboembolic adverse events within the first 5 days.122,123
+
+# Additional information
+
+A systematic review of 30 observational studies, involving 3602 patients, reported good haemostatic efficacy in 77.7% of patients with bleeding, regardless of location.124 The pooled proportion of thromboembolic events at any follow-up time was 2.0%.
+
+# Ongoing trials
+
+There are 10 ongoing RCTs investigating haemostatic therapy in intracerebral haemorrhage: rFVIIa is currently tested versus placebo or open control in acute spontaneous ICH (Naidech-2020 FASTEST).125 Antifibrinolytic therapies versus placebo or open control after acute spontaneous ICH are studied in seven RCTs (IRCT20191014045103N1; Jiang 2020 (THE-ICH); NCT03044184 (TRANSACT), NCT04742205; Pandian 2022 (INTRINSIC); Qi 2021 (TARGET); Sprigg 2022 (TICH-3)). Platelet transfusion versus open control is studied in one RCT (NCT00699621), PCC versus FFP in acute spontaneous ICH associated with anticoagulant drug use is investigated in one RCT (NCT02777424 (CLOT-CRANE); PCC (high-dose) versus PCC (low-dose) in patients on factor Xa inhibitor therapy (LEX-210; EudraCT 2021-000740-21)).
+
+# Surgical management
+
+Supratentorial ICH
+
+Any surgery aimed at haematoma removal
+
+PICO 4.1.1 In adults with acute spontaneous supratentorial ICH, does any surgery aimed at haematoma removal versus no surgery reduce the risk of death or dependence?
+
+# Evidence-based Recommendation
+
+In adults with acute spontaneous supratentorial ICH, we suggest for a surgical approach aiming at haematoma removal and prevention of secondary brain injury to reduce the risk of death, or dependence, taking into account additional factors such as haematoma location and volume, the patient’s neurological condition, timing, method of intervention, and the surgeon’s complication rate. Given differences in results and quality of evidence for surgical interventions, recommendations are further specified for craniotomy (PICO 4.1.2), minimally invasive surgical removal (PICO 4.1.3), and surgery with catheter placement plus thrombolysis (PICO 4.1.4).
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: Weak for intervention ↑?
+
+# Analysis of current evidence
+
+This PICO addresses available evidence on the general hypothesis that surgical haematoma removal for supratentorial ICH may prevent secondary injury. Death or dependence were assessed as critical outcomes. A total of 17 RCTs involving 3927 participants compared the effect of any surgical approach aimed at haematoma removal against no surgery on the risk of death (Supplement PICO 4: description of studies).126–142 The effect of surgery was evaluated at 3 months (four studies), 6 months (nine studies) or 12 months (four studies). Surgery aimed at haematoma removal compared with no surgical treatment reduced the risk of death at 3–12 months (OR 0.75, 95% CI 0.62–0.89, 17 RCTs, 3927 participants, low certainty, Figure 32, Supplement PICO 4.1.1 GRADE evidence profile).
+
+The effect of surgery aimed at haematoma removal against no surgery on good functional outcome was measured with the modified Rankin Scale score (11 studies) or equivalents (6 studies; See Supplement for description of studies). Surgery aimed at haematoma removal compared with no surgical treatment resulted in improved functional outcome (OR 1.68, 95% CI 1.29–2.18, 17 RCTs, 3838 participants, very low certainty, Figure 33).126–142
+
+# Additional information
+
+ICH volume is an important predictor of death and functional outcome for patients with supratentorial ICH.143 Besides the direct brain injury by compression and disruption of the parenchyma, blood degradation products and plasma-derived components trigger an inflammatory response leading to additional injury. Neurosurgical haematoma evacuation can affect clinical outcome, either via direct alleviation of the mass effect or by ameliorating secondary brain injury after ICH. The importance of haematoma volume reduction was shown in an exploratory, observational analysis of MISTIE-III, in which an end-oftreatment ICH volume of 15 mL or less was associated with a 10.5% additional increase in mRS score 0–3 at 1 year.130
+
+![](images/3a83cbe6940c2177b77d61008ec4e4353ecc9351f5665a9c84e62e853a8cc8c6.jpg)  
+Figure 32. Effect on death at 3–12 months of surgery aimed at haematoma removal compared with no surgery in adult people with acute spontaneous supratentorial ICH.
+
+![](images/908ea255600db35549117ed11fe3f7577881389cb72a26ffcfd1a7ff51d96373.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Surgical intervention with clot removal<lcel><fcel>Standard medical care<lcel><fcel>Weight<fcel>Odds ratio M-H, Random, 95% CI<fcel>Odds ratio M-H, Random, 95% CI<fcel>Risk of Bias<lcel><lcel><lcel><lcel><lcel><nl><ucel><fcel>Events<fcel>Total<fcel>Events<fcel>Total<ucel><ucel><ucel><fcel>A<fcel>B<fcel>C<fcel>D<fcel>E<fcel>F<fcel>G<nl><fcel>Auer, 1989<fcel>13<fcel>50<fcel>5<fcel>50<fcel>4.0%<fcel>3.16 [1.03, 9.69]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Batjer, 1990<fcel>2<fcel>8<fcel>2<fcel>13<fcel>1.3%<fcel>1.83 [0.20, 16.51]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Bhaskar, 2017<fcel>3<fcel>34<fcel>2<fcel>27<fcel>1.8%<fcel>1.21 [0.19, 7.81]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Hanley, 2016 (MISTIE II)<fcel>8<fcel>25<fcel>6<fcel>31<fcel>3.5%<fcel>1.96 [0.58, 6.67]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Hanley, 2019 (MISTIE III)<fcel>110<fcel>249<fcel>100<fcel>240<fcel>11.5%<fcel>1.11 [0.77, 1.59]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Hattori, 2004<fcel>61<fcel>121<fcel>39<fcel>121<fcel>9.3%<fcel>2.14 [1.27, 3.60]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Juvela, 1989<fcel>1<fcel>26<fcel>5<fcel>27<fcel>1.3%<fcel>0.18 [0.02, 1.62]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Kim, 2009<fcel>148<fcel>204<fcel>81<fcel>183<fcel>10.6%<fcel>3.33 [2.18, 5.08]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Mendelow, 2005 (STICH)<fcel>178<fcel>464<fcel>176<fcel>488<fcel>12.8%<fcel>1.10 [0.85, 1.44]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Mendelow, 2013 (STICH II)<fcel>167<fcel>295<fcel>146<fcel>284<fcel>11.9%<fcel>1.23 [0.89, 1.71]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Miller, 2008<fcel>0<fcel>5<fcel>0<fcel>4<ecel><fcel>Not estimable<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Morgenstern, 1998 (STICH)<fcel>5<fcel>15<fcel>3<fcel>16<fcel>2.2%<fcel>2.17 [0.42, 11.30]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Pantazis, 2006<fcel>18<fcel>54<fcel>5<fcel>54<fcel>4.2%<fcel>4.90 [1.66, 14.43]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Pradilla, 2024 (ENRICH)<fcel>74<fcel>147<fcel>57<fcel>139<fcel>10.0%<fcel>1.46 [0.91, 2.33]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Teernstra, 2003 (SICHPA)<fcel>7<fcel>36<fcel>6<fcel>33<fcel>3.6%<fcel>1.09 [0.32, 3.64]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Wang, 2009<fcel>154<fcel>194<fcel>119<fcel>181<fcel>10.1%<fcel>2.01 [1.26, 3.19]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Zuccarello, 1999<fcel>5<fcel>9<fcel>4<fcel>11<fcel>1.9%<fcel>2.19 [0.36, 13.23]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Total (95% CI)<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><xcel><nl><ucel><xcel><xcel><xcel><xcel><xcel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><nl><ucel><xcel><xcel><xcel><xcel><xcel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><nl><ucel><xcel><xcel><xcel><xcel><xcel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><nl><ucel><xcel><xcel><xcel><xcel><xcel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><nl><ucel><xcel><xcel><xcel><xcel><xcel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><nl><ucel><xcel><xcel><xcel><xcel><xcel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><nl><ucel><xcel><xcel><xcel><xcel><xcel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><ucel><nl><ucel><xcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl>
+</details>
+
+Figure 33. The effect on 3–12 months good functional outcome of surgery aimed at haematoma removal compared with no surgery in adult people with acute spontaneous supratentorial ICH.
+
+In addition to the extent of haematoma volume reduction, other factors might influence the outcome after surgery, including ICH location (lobar vs non-lobar), Glasgow Coma Score (GCS) at presentation and time between symptom onset and surgery. In an individual patient data meta-analysis (IPDMA) comprising 8 RCTs published from 1985 to 2010 involving 2186 participants, randomisation within 8 h of ICH onset and a GCS between 9 and 12 were associated with better outcome after surgery.139
+
+Results on the modifying effect of ICH location are conflicting. An exploratory subgroup analysis of STICH134 suggested a possible benefit of surgical treatment on lobar ICH, which was not confirmed in STICH-II.135 The IPDMA, which included both STICH trials, indicated a non-significant benefit for more superficial lobar haematomas without intraventricular haemorrhage with surgery (OR 0.68, 95% CI 0.44–1.06, 4 RCTs, 340 participants).144 More recently, minimally invasive surgery has been shown to improve functional outcome measured with utilityweighted mRS compared with no intervention, which appears attributable to intervention for lobar ICH.138
+
+Haematoma removal by means of craniotomy and open standard surgical technique
+
+PICO 4.1.2 In adults with acute spontaneous supratentorial ICH, does any haematoma removal by means of craniotomy and open standard surgical technique versus no surgery reduce the risk of death, or dependence?
+
+# Evidence-based Recommendation
+
+In non-comatose adults with acute spontaneous supratentorial lobar ICH where minimally invasive approaches are not available (see PICO 4.1.3), we suggest consideration of early surgical haematoma removal by means of open craniotomy and a standard surgical evacuation technique.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: Weak for intervention ↑?
+
+# Analysis of current evidence
+
+Surgical haematoma removal for supratentorial ICH by means of craniotomy compared with no surgical treatment did not reduce the risk of death at 3–12 months (OR 0.82, 95% CI 0.64–1.05, 6 RCTs, 1827 participants, low certainty, Figure 34, Supplement for PICO 4.1.2 GRADE evidence profile).123,127–130,132,134,135,137,142
+
+A total of 5 RCTs involving 1753 participants with supratentorial ICH compared the effect of surgery aimed at haematoma removal against no surgery on good functional outcome (mRS 0–3). Surgery did not improve functional outcome at 3–12months (OR 1.30, 95% CI 0.83–2.05, very low certainty, Figure 35).128,132,134,135,137
+
+# Additional information
+
+The role of craniotomy to perform surgical evacuation of supratentorial ICH remains uncertain. Results from two large RCTs have not shown a clear benefit on death or functional outcome. In STICH, 1033 patients with spontaneous supratentorial ICH that had occurred within 72 h, were randomised to surgery for evacuation of the haematoma (within 24 h of randomisation) versus initial conservative treatment.134 Primary outcome was the prognosis-based favourable outcome from the eGOS at 6 months, which was comparable between the two groups (26% in surgical group vs 24% in medical management group; OR 0.89, 95% CI 0.66–1.19, p = 0.414). It was considered that these results might have been attributed to the inclusion of patients with intraventricular extension and the late timing of the intervention.
+
+![](images/773cce8ade37477e2e14e13616b7bc177b02c5766913d2a03d2f0ae6b51023d0.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Standard surgical clot evacuation Events | Standard surgical clot evacuation Total | No clot removal Events | No clot removal Total | Weight | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI |
+|---|---|---|---|---|---|---|---|
+| Bhaskar, 2017 | 21 | 34 | 23 | 27 | 3.6% | 0.28 [0.08 , 1.00] | ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? / F Favours [Standard surgical clot evacuation] Favours [No clot removal] |
+| Juvela, 1989 | 13 | 26 | 11 | 27 | 4.9% | 1.45 [0.49 , 4.31] | ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? / F Favours [Standard surgical clot evacuation] Favours [No clot removal] Favours [No clot removal] |
+| Mendelow, 2005 (STICH) | 173 | 477 | 189 | 505 | 51.2% | 0.95 [0.73 , 1.23] | ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? / F Favours [Standard surgical clot evacuation] Favours [No clot removal] Favours [No clot removal] |
+| Mendelow, 2013 (STICH II) | 54 | 298 | 69 | 291 | 28.6% | 0.71 [0.48 , 1.06] | ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? + ? / F Favours [Standard surgical clot evacuation] Favours [No clot removal] Favours [No clot removal] |
+| Morgenstern, 1998 (STICH) | 3 | 17 | 4 | 17 | 2.1% | 0.70 [0.13 , 3.72] | ? + ? - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+| Pantazis, 2006 | 26 | 54 | 31 | 54 | 9.6% | 0.69 [0.32 , 1.47] | ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ? = ?
+Total (95% CI) Total events: Heterogeneity: Tau² = 0.01; Chi² = 5.70, df = 5 (P = 0.34); I² = 12% Test for overall effect: Z = 1.55 (P = 0.12) Test for subgroup differences: Not applicable
+Total events: Heterogeneity: Tau² = 0.01; Chi² = 5.70, df = 5 (P = 0.34); I² = 12% Test for overall effect: Z = 1.55 (P = 0.12) Test for subgroup differences: Not applicable
+</details>
+
+Figure 34. The effect on death at 3–12 months of surgery aimed at haematoma removal by means of craniotomy and open standard surgical technique compared with no surgery in adults with acute spontaneous supratentorial ICH.
+
+![](images/b64c533902c52e51cd535d1fe592260c7e745de0f20e0ca1ff9a17938856e101.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Standard surgical clot evacuation<lcel><fcel>No clot removal<lcel><lcel><fcel>Weight<fcel>Odds ratio M-H, Random, 95% CI<fcel>Odds ratio M-H, Random, 95% CI<fcel>Risk of Bias<lcel><lcel><lcel><lcel><lcel><nl><ucel><fcel>Events<fcel>Total<fcel>Events<fcel>Total<ecel><ucel><ucel><ucel><fcel>A<fcel>B<fcel>C<fcel>D<fcel>E<fcel>F<fcel>G<nl><fcel>Bhaskar, 2017<fcel>3<fcel>34<fcel>2<fcel>27<fcel>5.2%<fcel>1.21 [0.19, 7.81]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Juvela, 1989<fcel>1<fcel>26<fcel>5<fcel>27<fcel>3.8%<fcel>0.18 [0.02, 1.62]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Mendelow, 2005 (STICH)<fcel>178<fcel>464<fcel>176<fcel>488<fcel>40.5%<fcel>1.10 [0.85, 1.44]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Mendelow, 2013 (STICH II)<fcel>167<fcel>295<fcel>146<fcel>284<fcel>37.7%<fcel>1.23 [0.89, 1.71]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Pantazis, 2006<fcel>18<fcel>54<fcel>5<fcel>54<fcel>12.8%<fcel>4.90 [1.66, 14.43]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Total (95% CI)<ecel><fcel>873<ecel><fcel>880<fcel>100.0%<fcel>1.30 [0.83, 2.05]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Total events:<fcel>367<ecel><fcel>334<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Heterogeneity: Tau² = 0.11; Chi² = 9.80, df = 4 (P = 0.04); I² = 59%<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Test for overall effect: Z = 1.15 (P = 0.25)<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Test for subgroup differences: Not applicable<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl>
+</details>
+
+Figure 35. The effect on good functional outcome (mRS 0–3) of surgery aimed at haematoma removal by means of craniotomy and open standard surgical technique compared with no surgery on 3–12 months in adults with acute spontaneous supratentorial ICH.
+
+In STICH II, 601 patients with spontaneous superficial ICH affecting the lobar region within 1 cm of the cortex and without ventricular extension that had occurred within 48 h, were randomised to early craniotomy to evacuate haematoma (within 12 h after randomisation) or conservative treatment. The primary outcome was prognosis-based favourable outcome from the eGOS (extended Glasgow Outcome Scale) at 6 months, which was similar in both treatment arms (41% surgical group vs 38% medical management group; OR 0.86, 95% CI 0.62–1.20, p = 0.367).135
+
+As mentioned in PICO 4.1.1, an IPDMA from 8 studies published between 1985 and 2010 involving 2186 participants demonstrate that randomisation within 8 h of ictus and a GCS between 9 and 12 were associated with better outcome, whilst there was non-significant evidence that lobar ICH without intraventricular extension may benefit from surgery.144
+
+Minimally invasive surgical removal (MIS)
+
+PICO 4.1.3 In adults with acute spontaneous supratentorial ICH, does minimally invasive surgical removal (MIS) of the haematoma versus no surgery reduce the risk of death or dependence?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous supratentorial lobar ICH onset, we suggest minimally invasive evacuation of the haematoma within 24 hours of onset of the ICH to reduce mortality and to improve functional outcome, whereas the effect in deep haematomas remains uncertain, so we encourage recruitment to ongoing randomised controlled trials.
+
+# Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: Weak for intervention ↑?
+
+# Analysis of current evidence
+
+There are four RCTs comparing minimal invasive surgical techniques with medical management (Supplement for PICO 4.1.3 GRADE evidence profile).126,131,136,138 Minimal invasive surgery aimed at haematoma removal compared with no surgical treatment improved good functional outcome (mRS score of 0–3) at 3–6 months (OR 1.84,
+
+![](images/10ce699bc6cb089b59172e804f513219313a604983dc7e4e78335291e233d8cd.jpg)  
+Figure 36. The effect on functional outcome of minimally invasive surgical removal compared with no surgery in adults with acute spontaneous supratentorial.
+
+![](images/59ca72bccff1e1f25c7f846a4e101561305a23108bdd3d5be7d89474f7ad7734.jpg)  
+Figure 37. The effect on death of minimally invasive surgical removal compared with no surgery in adults with acute spontaneous supratentorial ICH.
+
+95% CI 1.29–2.61, 4 RCTs, 637 participants, low certainty, Figure 36) and reduced the risk of death at 1–12 months (OR 0.49, 95% CI 0.30–0.81, 4 RCTs, 637 participants, low certainty, Figure 37). Overall, the quality of evidence is low, which is mainly caused by the heterogeneity of the trials comparing different surgical techniques.
+
+Our recommendation is based on the ENRICH trial investigating 300 people with lobar or basal ganglia haemorrhage.138 This trial described itself as minimally-invasive because it took a trans-sulcal approach to the ICH with a tubular access device, and special attention was paid to align the approach along the long axis of the white matter tracts (parafascicular). Surgery had to be started within 24 h after the onset of stroke symptoms or the time the subject was last known to be well. At an interim analysis, the inclusion of deep ICH was stopped for futility based on a prespecified adaptation rule. The authors reported a better functional outcome with mean score on the utilityweighted modified Rankin scale at 180 days (the primary efficacy endpoint) of 0.458 in the surgery group compared with 0.374 in the control group, for a between-group difference of 0.084 (95% Bayesian credible interval, 0.005– 0.163) in the total population. Death by 30 days occurred in fewer patients in the surgery group than in the control group (30/147 vs 35/139, OR 0.76, 95% CI 0.44–1.33; Figure 37). The results of the analysis appeared to be attributable to the surgery effect in the lobar haemorrhage location only. The generalisability of these results is limited to the restricted population meeting the trial entry criteria with respect to the haematoma volume (30–80 mL as calculated by the ABC/2 method), level of consciousness (GCS 5–14), and a time from onset of symptoms to surgery (<24 h).
+
+# Additional information
+
+The term ‘minimally-invasive surgery’ is used for a combination of a mindset and surgical techniques with a special focus on maintaining tissue integrity and function. Historically, it developed from so-called standard surgery when additional imaging or intraoperative techniques and devices were developed. In ICH, the mindset and techniques that justify the use of the term minimally-invasive are a combination of localising eloquent cortex or subcortical tracts using imaging, navigation and mapping, minimising cortical incision, planning trajectories along the white matter fibres, respecting tissue at the haematoma borders, and avoiding coagulation close to small vessels (i.e. performing the surgery as if an eloquent tumour would be removed), with the aim to decompress the brain tissue and to significantly reduce the haematoma volume. Therefore, this approach should be analysed as a category separate from open surgery, where a combination of these methods might have been applied, but without prespecifying for all surgeries in the studies mentioned under PICO 4.1.2. The device used by the ENRICH group is, therefore, only an example of the minimally-invasive surgery mindset and surgical technique.
+
+Stereotactic aspiration and endoscopic removal of the haematoma may also improve functional outcome; however, the latter is based on an old, small underpowered RCT, and further trials are justified.131 In our analysis of other surgical techniques such as endoscopic haematoma removal or stereotactic aspiration, we excluded RCTs at high risk of bias or poor methodology.
+
+Surgery with catheter placement plus thrombolysis
+
+PICO 4.1.4 In adults with acute spontaneous supratentorial ICH, does surgery with catheter placement plus thrombolysis versus no surgery reduce the risk of death or dependence?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous supratentorial ICH, there is uncertainty about surgery with catheter placement plus thrombolysis over medical management alone, so we recommend recruitment to randomised controlled trials.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: -
+
+# Analysis of current evidence
+
+The combination of a small burr hole craniotomy with navigated or stereotactically-guided insertion of a catheter with subsequent, repeated lysis and drainage of the haematoma over time (several days) was evaluated in three RCTs with low to moderate bias due to heterogeneity and limited number of events (Supplement 4.1.4 GRADE evidence profile).124,125,129,130,134,139 The combined meta-analysis of three studies did not show an effect on death (OR 0.76, 95% CI 0.53–1.09, 660 patients, very low certainty, Figure 38) nor on functional outcome (OR 1.15, 95% CI 0.83–1.61, 614 patients, very low certainty, Figure 39).
+
+![](images/10e7c2282fc332a9f06119146c7e01ece0e6961b6d32a8b0e4c067db237b2af2.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Burr hole catheter placement with thrombolysis<lcel><fcel>No catheter placement<lcel><fcel>Weight<fcel>Odds ratio M-H, Random, 95% CI<fcel>Odds ratio M-H, Random, 95% CI<fcel>Risk of Bias<lcel><lcel><lcel><lcel><lcel><nl><ucel><fcel>Events<fcel>Total<fcel>Events<fcel>Total<ucel><ucel><ucel><fcel>A<fcel>B<fcel>C<fcel>D<fcel>E<fcel>F<fcel>G<nl><fcel>Hanley, 2016 (MISTIE II)<fcel>14<fcel>52<fcel>9<fcel>32<fcel>13.3%<fcel>0.94 [0.35, 2.52]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Hanley, 2019 (MISTIE III)<fcel>49<fcel>255<fcel>63<fcel>251<fcel>72.3%<fcel>0.71 [0.47, 1.08]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Teernstra, 2003 (SICHPA)<fcel>20<fcel>36<fcel>20<fcel>34<fcel>14.4%<fcel>0.88 [0.34, 2.26]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Total (95% CI)<ecel><fcel>343<ecel><fcel>317<fcel>100.0%<fcel>0.76 [0.53, 1.09]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Total events:<fcel>83<ecel><fcel>92<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Heterogeneity: Tau² = 0.00; Chi² = 0.37, df = 2 (P = 0.83); I² = 0%<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Test for overall effect: Z = 1.50 (P = 0.13)<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Test for subgroup differences: Not applicable<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl>
+</details>
+
+Figure 38. The effect on death at 6–12 months of surgery with catheter placement plus thrombolysis compared with no surgery in adults with acute spontaneous supratentorial ICH.
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Burr hole catheter placement with thrombolysis</td><td colspan="2">No catheter placement</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td colspan="5">Risk of Bias</td><td></td><td></td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td></tr><tr><td>Hanley, 2016 (MISTIE II)</td><td>8</td><td>25</td><td>6</td><td>31</td><td>7.3%</td><td>1.96 [0.58 , 6.67]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hanley, 2019 (MISTIE III)</td><td>110</td><td>249</td><td>100</td><td>240</td><td>85.2%</td><td>1.11 [0.77 , 1.59]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Teernstra, 2003 (SICHPA)</td><td>7</td><td>36</td><td>6</td><td>33</td><td>7.5%</td><td>1.09 [0.32 , 3.64]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total (95% CI)</td><td></td><td>310</td><td></td><td>304</td><td>100.0%</td><td>1.15 [0.83 , 1.61]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total events:</td><td>125</td><td></td><td>112</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="15">Heterogeneity: Tau² = 0.00; Chi² = 0.78, df = 2 (P = 0.68); I² = 0%</td></tr><tr><td colspan="15">Test for overall effect: Z = 0.85 (P = 0.40)</td></tr><tr><td colspan="15">Test for subgroup differences: Not applicable</td></tr></table>
+
+Figure 39. The effect on good functional outcome at 6–12 months of surgery with catheter placement plus thrombolysis compared with no surgery in adult people with acute spontaneous supratentorial ICH.
+
+# Additional information
+
+Of the three available RCTs,129,130,139 MISTIE III is the largest trial. MISTIE III analysed minimally-invasive catheter placement with aspiration and subsequent (repeated) thrombolysis using recombinant tissue plasminogen activator (rt-PA) of the haematoma.130 MISTIE III used neuronavigation to plan an entry point and select a trajectory along the long axis of the haematoma avoiding eloquent tissue, waited for haematoma stability, controlled treatment progress by repeated imaging, trained surgeons and assessed long-term outcome, among others. The outcome, despite a median ICH volume at admission of 41.8 mL, was better as expected and at 1 year 43% of patients had good functional outcomes (mRS 0–3), and 80% of patients were living at home or in active rehabilitation. MISTIE III did not follow an early treatment paradigm, instead, surgery commenced after a median of 58 h after symptom onset and ended after 123 h. The treatment effect was not significant. As a secondary endpoint MISTIE III could show a slight reduction in mortality in the treatment group, however, due to multiple testing, this finding should be interpreted with some caution. MISTIE III provided an exploratory observational analysis of the end-of-treatment (EOT) volume and showed that haematoma size reduction to 15 mL or less was associated with better functional outcome at 1 year. This finding and analysis of EOT volumes should be evaluated in future trials.
+
+# Decompressive craniectomy
+
+PICO 4.1.5 In adults with acute spontaneous supratentorial ICH, does decompressive craniectomy compared with no decompressive craniectomy reduce the risk of death, or dependence?
+
+# Evidence-based Recommendation
+
+In adults aged 18–75 years within 72 h of severe deep spontaneous ICH (i.e. GCS 8–13, NIHSS 10–30 and stable ICH volume 30–100 mL), we suggest consideration of decompressive surgery without haematoma removal to reduce the risk of death, or severe dependence (mRS 5–6).
+
+Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: Weak for intervention ↑?
+
+# Analysis of current evidence
+
+To date, only the SWITCH trial, has investigated the role of decompressive craniectomy without haematoma evacuation for 201 patients with ICH involving the basal ganglia or thalamus (Supplement 4.1.5 GRADE evidence profile).145 The main inclusion criteria included age ⩽ 75 years, ICH volume of 30–100 mL and surgery had to be performed ⩽72 h of ictus. Primary outcome was a score on the mRS of 5–6 at 180 days. Recruitment was prematurely stopped before reaching the planned sample size of 300 participants.
+
+Concerning death in the SWITCH trial the direction of effect favours decompressive surgery in our analyses (OR 0.55, 95% CI 0.27–1.10, Figure 40) and in the primary analysis of the primary outcome in the trial (adjusted risk ratio (aRR) 0.77, 95% CI 0.59–1.01, p = 0.057). There was weak evidence that decompressive craniectomy without haematoma removal might be superior to best medical treatment for good functional outcome (mRS 0–4, OR 1.73, 95% CI 0.98–3.04, Figure 41). Good functional outcome was defined as mRS grade 0–4, instead of mRS grade 0–3 as in most studies. This was done due to the inclusion of patients with severe deep ICH, who are likely to survive with some disability. In the surgical group mortality was not reduced at the cost of an increase in the group with an mRS of 5 (severely disabled, bedridden, constant care needed). The subgroup of adults with a deep ICH in the ENRICH trial, however, did not seem to profit from haematoma evacuation. Consequently, the SWITCH study currently remains the sole study to demonstrate a non-significant, but clinically relevant potential benefit of 13% absolute risk reduction in mortality among this group of patients with severe deep ICH.
+
+![](images/ee7338ddffa745f520bd804d48caaefc1280d10a1862698e41bf1d8603a3bd2b.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Decompressive surgery Events | Decompressive surgery Total | Standard care Events | Standard care Total | Weight | Odds ratio M-H, Random, 95% CI |
+|---|---|---|---|---|---|---|
+| Beck, 2024 (SWITCH) | 16 | 96 | 27 | 101 | 100.0% | 0.55 [0.27, 1.10] |
+| Total (95% CI) | | 96 | | 101 | 100.0% | 0.55 [0.27, 1.10] |
+| Total events: | 16 | | 27 | | | |
+| Heterogeneity: Not applicable
+Test for overall effect: Z = 1.70 (P = 0.09)
+Test for subgroup differences: Not applicable | Favourites [Decompressive surgery] Favourites [Standard care] | Favourites [Decompressive surgery] Favourites [Standard care]
+</details>
+
+Figure 40. The effect on death at 6 months of decompressive craniectomy without haematoma removal compared with no surgery in adult people with acute spontaneous deep, severe ICH.
+
+![](images/14baf9bd74727c509c4d68008859adf7e3da2fbdb7a35cdeb1fdcac642880758.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Decompressive surgery Events | Decompressive surgery Total | Standard care Events | Standard care Total | Weight | Odds ratio M-H, Random, 95% CI |
+|---|---|---|---|---|---|---|
+| Beck, 2024 (SWITCH) | 53 | 96 | 42 | 101 | 100.0% | 1.73 [0.98, 3.04] |
+| Total (95% CI) | | 96 | | 101 | 100.0% | 1.73 [0.98, 3.04] |
+| Total events: | 53 | | 42 | | | |
+Risk of Bias
+A B C D E F G
+Heterogeneity: Not applicable
+Test for overall effect: Z = 1.91 (P = 0.06)
+Test for subgroup differences: Not applicable
+Favours [Standard care]
+Favours [Decompressive surgery]
+</details>
+
+Figure 41. The effect on good functional outcome (mRS 0–4) at 6 months of decompressive craniectomy without haematoma removal compared with no surgery in adult people with acute spontaneous deep, severe ICH.
+
+# ICH with intraventricular extension
+
+External ventricular drainage with or without combined lumbar drainage
+
+PICO 4.2.1 In adults with ICH and intraventricular extension of the haemorrhage, does external ventricular drainage (EVD) with or without combined lumbar drainage (LD) reduce the risk of death or dependence, or shunt dependence?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous ICH and intraventricular extension of the haemorrhage there is uncertainty about the balance of beneficial and adverse effects of external ventricular drainage (EVD) with or without combined lumbar drainage (LD) on the risk of death, or dependence, or shunt dependence, so we recommend recruitment to randomised controlled trials.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement
+
+In adults with ICH, intraventricular extension of the haemorrhage and hydrocephalus contributing to an impaired level of consciousness, we suggest inserting an external ventricular drainage (EVD) to reduce mortality.
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+To date, no RCTs and no prospective studies have compared the use of external ventricular drain (EVD) versus no EVD for acute ICH. However, placement of an EVD in patients with overt hydrocephalus and decreased level of consciousness is regarded as a life-saving emergency procedure in clinical practice.
+
+# Additional information
+
+Intraventricular extension occurs in a significant proportion of patients with ICH (30%–40%). The mechanical obstruction and the blood breakdown products prevent resorption of cerebrospinal fluid (CSF), causing hydrocephalus in about 50% of these patients.146 The insertion of an EVD is usually recommended in patients with large IVH who developed a hydrocephalus which contributes to a decreased level of consciousness.147,148 It rapidly decreases intracranial pressure and is considered a life-saving emergency procedure in these patients. There are currently no specific recommendations for selecting patients with IVH for EVD in terms of timing or volume of the IVH, except for the presence of hydrocephalus and reduced level of consciousness. In some retrospective series, EVD was associated with reduced mortality at hospital discharge.147,148 Best available evidence is a propensity scoreadjusted model of retrospective data of 540 patients showing lower 30-day mortality in patients treated with an EVD compared with no EVD that had an ICH volume >11 mL (OR = 0.47, 95% CI 0.25–0.88), lower initial GCS (<13, OR 0.38, 95% CI 0.20–0.71) or IVH with increasing modified Graeb score (OR 1.09 per point, 95% CI 1.04– 1.13). There was no benefit for functional outcome in patients receiving an EVD.148
+
+Ongoing clinical trials: The Lumbar Drainage of Intraventricular Hemorrhage (DRAIN IVH, clinicaltrials. gov NCT06510842) trial investigates whether early insertion of a lumbar drainage in addition to the EVD compared to EVD alone leads to better functional outcome and reduced shunt dependency.
+
+External ventricular drainage with intraventricular thrombolysis
+
+PICO 4.2.2 In adults with acute spontaneous ICH and intraventricular extension of the haemorrhage, does external ventricular drainage (EVD) with intraventricular thrombolysis versus EVD without intraventricular thrombolysis reduce the risk of death, or dependence, or shunt dependence?
+
+# Evidence-based Recommendation
+
+In adults with acute spontaneous ICH and intraventricular extension, we suggest considering external ventricular drainage (EVD) with intraventricular thrombolysis to reduce death, though there is uncertainty about the balance of beneficial and adverse effects regarding dependence, and shunt dependence.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: Weak for intervention ↑?
+
+# Analysis of current evidence
+
+External ventricular drainage with intraventricular thrombolysis was investigated in three small and one larger RCTs with very serious risk of bias and serious imprecision (Supplement 4.2.2 GRADE evidence profile).144–147,149–152 Due to the high risk of bias and limited number of events, the quality of evidence was graded as very low. Meta-analysis of these four trials showed a lower death rate with the intervention when compared with controls (OR 0.46, 95% CI 0.23–0.94, 4 studies, 576 participants, very low certainty, Figure 42). In the largest trial with the highest quality (CLEAR) the reduction in death, came at the cost of an increase in surviving patients with a mRS of 5, which is a continuing source of debate.152 EVD with intraventricular thrombolysis compared to without thrombolysis did not improve the proportion of patients with good functional outcome (OR 1.13, 95% CI 0.81–1.60, 3 studies, 560 participants, very low certainty; note, there were different definitions of good functional outcome used in the trials: Clear-IVH: Barthel index score ⩾ 80 at 1 month,151 CLEAR-III: mRS ⩽ 3 at 6 months,152,149 Glasgow Outcome Score ⩾ 4 at 3 months, Figure 43). Shunt dependence rates were not lower with EVD with intraventricular thrombolysis versus EVD without intraventricular thrombolysis (OR 1.07, 95% CI 0.69–1.67, 2 studies, 521 participants, very low, Figure 44).
+
+Staykov et  al.153 conducted a randomised, open-label, parallel-group study of drainage plus fibrinolysis with or without lumbar drainage after proven patency of the third and fourth ventricles. The trial was stopped prematurely because of significant efficacy of the tested intervention. The primary endpoint, defined as permanent shunt placement (determined by a total of 3 unsuccessful EVD clamping attempts or the need for CSF drainage exceeding 14 days) was observed in 43% (7 of 16) of the control group versus 0% (0 of 14) of the intervention group (p = 0.007).
+
+![](images/1b79f51850c2babc456c87455a95584241184d58eabd01d9964f5ad157f21997.jpg)  
+Figure 42. The effect on death of external ventricular drainage with intraventricular thrombolysis versus external ventricular drainage without intraventricular thrombolysis in adult people with acute spontaneous ICH and intraventricular extension.
+
+![](images/716f003fd406056b24cf2a1b8d0b6445282e85915adc73056eedca83b715f587.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | EVD with intraventricular thrombolysis<lcel><fcel>EVD without intraventricular thrombolysis<lcel><fcel>Weight<fcel>Odds ratio M-H, Random, 95% CI<fcel>Odds ratio M-H, Random, 95% CI<fcel>Risk of Bias<lcel><lcel><lcel><lcel><lcel><nl><ucel><fcel>Events<fcel>Total<fcel>Events<fcel>Total<ucel><ucel><ucel><fcel>A<fcel>B<fcel>C<fcel>D<fcel>E<fcel>F<fcel>G<nl><fcel>Hanley, 2017 (CLEAR III)<fcel>117<fcel>246<fcel>110<ecel><fcel>245<fcel>93.3%<fcel>1.11 [0.78, 1.59]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Naff, 2011 (CLEAR IVH)<fcel>5<fcel>26<fcel>4<ecel><fcel>22<fcel>5.5%<fcel>1.07 [0.25, 4.60]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Tung, 1998<fcel>2<fcel>10<fcel>0<ecel><fcel>11<fcel>1.2%<fcel>6.76 [0.29, 159.95]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Total (95% CI)<ecel><fcel>282<ecel><ecel><fcel>278<fcel>100.0%<fcel>1.13 [0.81, 1.60]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Total events:<fcel>124<ecel><fcel>114<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Heterogeneity: Tau² = 0.00; Chi² = 1.24, df = 2 (P = 0.54); I² = 0%<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Test for overall effect: Z = 0.72 (P = 0.47)<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Test for subgroup differences: Not applicable<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl>
+</details>
+
+Figure 43. The effect on good functional outcome of external ventricular drainage with intraventricular thrombolysis versus external ventricular drainage without intraventricular thrombolysis in adult people with acute spontaneous ICH and intraventricular extension.
+
+![](images/c28792e99cca8579ab83c46512e716617f19ab547334678152e94730207d282c.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | EVD with intraventricular thrombolysis Events | EVD with intraventricular thrombolysis Total | EVD without intraventricular thrombolysis Events | EVD without intraventricular thrombolysis Total | Weight (%) | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI | Risk of Bias A B C D E F G |
+|---|---|---|---|---|---|---|---|---|
+| Hanley, 2017 (CLEAR III) | 46 | 249 | 44 | 251 | 94.5% | 1.07 [0.68 , 1.68] | 1.07 [0.68 , 1.68] | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?
+Total (95% CI) Total events: Heterogeneity: Tau² = 0.00; Chi² = 0.00; df = 1 (P = 0.94); I² = 0% Test for overall effect: Z = 0.30 (P = 0.76) Test for subgroup differences: Not applicable
+Favours [EVD with intraventricular thrombolysis] Favours [EVD without intraventricular thrombolysis]
+</details>
+
+Figure 44. The effect on shunt dependence of external ventricular drainage with intraventricular thrombolysis versus external ventricular drainage without intraventricular thrombolysis in adult people with acute spontaneous ICH and intraventricular extension.
+
+# Additional information
+
+The rationale to remove a larger amount of the intraventricular blood or to remove it faster by adding thrombolysis to EVD alone was investigated in few RCTs with a high risk of bias. In the largest trial, CLEAR III, patients with small to moderate ICH volume (<30 mL) obstructing hydrocephalus, and stable intraventricular haematoma were included. It demonstrated that the intraventricular administration of rt-PA could enhance haematoma resolution compared with saline.152 Median intraventricular haemorrhage volume before enrolment was 21.8 mL. However, randomisation was done 52 h after the ictus, treatment started 3 h later and commenced only 2.5 days further after randomisation. The primary outcome, that is, good functional outcome (mRS 0–3) at 6 months, in patients receiving rt-PA versus saline was neutral (48% vs 45%; risk ratio 1.06, 95% CI 0.88–1.28). Mortality was reduced by 11% in patients receiving rt-PA versus saline, but there was an almost equivalent increase of 8% of patients with an mRS of 5. This reduction in mortality at the cost of patients surviving with severe disability, is considered a main obstacle for implementation of this rt-PA protocol. Patients should be further included in studies of thrombolysis with refined protocols. Earlier start, larger IVH volume, and less EOT volume may be one of the features to be adapted and analysed. In a secondary analysis, a more effective haematoma clearance (>80%) seemed to improve functional outcome.
+
+Surgical removal of the intraventricular blood
+
+PICO 4.2.3 In adults with acute spontaneous ICH and intraventricular extension of the haemorrhage, does surgical removal of the intraventricular blood reduce the risk of death, or dependence, or shunt dependence?
+
+# Evidence-based Recommendation
+
+In adults with intraventricular extension of the ICH who require an external ventricular drainage (EVD), we suggest minimally invasive surgical evacuation of intraventricular blood to improve functional outcome and reduce shunt dependence.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: Weak for intervention ↑?
+
+# Analysis of current evidence
+
+Death and dependence (defined as mRS 4–6) at 1–6 months were prioritised as critical outcomes, and shunt dependence as an important outcome. Surgical removal of intraventricular blood mainly using neuro-endoscopy was investigated in five RCTs, however, with small sample size, and with a very serious risk of bias (Supplement 4.2.3 GRADE evidence profile).149–158 These studies were performed with endoscopy combined with EVD (with or without fibrinolysis), versus EVD alone (with or without fibrinolysis). All studies investigated mortality, with only three showing a trend towards lower death rate. Our meta-analysis also found a non-significant reduction in death (OR 0.50, 95% CI 0.24–1.02, 5 studies, 282 participants, very low certainty, Figure 45). In three studies, functional outcome was analysed showing higher proportions with good functional outcome (mRS 0–3; OR 3.51, 95% CI 1.83–6.72, 164 participants, very low certainty, Figure 46). Shunt dependence rates were lower with neuro-endoscopic removal of the blood (OR 0.17, 95% CI 0.09–0.31, 5 studies, 279 participants, very low certainty, Figure 47).
+
+# Additional information
+
+Intraventricular haemorrhage can result in secondary brain damage due to the presence of blood in the ventricles, the slow resolution and clearance rate, and the development
+
+![](images/70e26601830a03f993ce07471d7e98830f6c83b86888720bd3a190aebc53eca7.jpg)  
+Figure 45. The effect on death at 1–6 months of surgical removal of the intraventricular blood compared with no surgical removal of intraventricular blood in adult people with acute spontaneous ICH and intraventricular extension of the haemorrhage.
+
+![](images/e857f4bbca7df9dc93a498767bbbccc8fd911841b7b26957640bd16bf3ff2d67.jpg)  
+Figure 46. The effect on functional outcome at 2–6 months of surgical removal of the intraventricular blood compared with no surgical removal of intraventricular blood in adult people with acute spontaneous ICH and intraventricular extension of the haemorrhage.
+
+of chronic hydrocephalus. The rationale behind removing a larger amount of the haematoma and to wash-out the ventricular blood was investigated in several RCTs. Despite these trials, the quality of evidence remains very low due to substantial risks of bias because of small sample sizes, and the heterogeneity of trials, which included different intervention and control groups. Therefore, an adequately powered RCT comparing endoscopic removal with EVD versus EVD alone is still lacking. There is also still considerable uncertainty regarding patient selection, intraventricular haematoma volume, ICH volume, timing, and for the surgical procedure itself, including whether to perform septostomy and attempt to clear the contralateral ventricle, or whether to enter the third ventricle.
+
+![](images/8196ce0d3954a8a71a330b601a9416eae8f4be5cee4918381d68e7030bd3aa66.jpg)  
+Figure 47. The effect on shunt dependence at 1–6 months of surgical removal of the intraventricular blood compared with no surgical removal of intraventricular blood in adult people with acute spontaneous ICH and intraventricular extension of the haemorrhage.
+
+# Infratentorial ICH
+
+PICO 4.3 In adults with acute cerebellar haemorrhage, does surgery compared with medical management reduce the risk of death, or dependence?
+
+# Evidence-based Recommendation
+
+In adults with acute cerebellar haemorrhage, we suggest surgical evacuation of haematomas larger than 15 mL to improve survival.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: Weak for intervention ↑?
+
+# Analysis of current evidence
+
+The systematic literature search did not reveal any RCT comparing surgery with conservative management. Our recommendation is based on an IPDMA and expert opinion that surgical removal of the haemorrhage with or without EVD may be considered in patients who are deteriorating neurologically, have brainstem compression and/or hydrocephalus from ventricular obstruction.46,159–161
+
+In the IPDMA of observational studies which included 578 patients with a propensity score matched cohort, the proportion of patients who survived at 3 months (secondary endpoint) was significantly increased among patients who received surgical haematoma evacuation versus those who received conservative treatment (OR 0.44, 95% CI 0.26–0.72, 304 participants, 1 study, Figure 48). At 3 months, the adjusted predicted probabilities showed significant associations of surgical haematoma evacuation performed in ICH volumes of 15 mL or greater with increased survival, which was validated using observed data estimates (76/102 (74.5%)) versus those who received medical management (41/91 (45.1%); p < 0.001).160 The proportion of patients with a favourable functional status (mRS 0–3) at 3 months (primary endpoint) was not significantly different between surgery and medical management (OR 0.81, 95% CI 0.50–1.31, 304 participants, 1 study, Figure 49).160
+
+# Additional information
+
+The long-term prognosis of patients who survive a first spontaneous cerebellar ICH is poor and comparable to that of patients who survive a first supratentorial ICH.162 Because of the limited infratentorial space, cerebellar ICH is frequently associated with brainstem compression, hydrocephalus and herniation. Therefore, haematoma evacuation is often performed despite a lack of randomised evidence. The Canadian ICH best practice recommendations recommend that EVD should be placed in conjunction with haematoma evacuation in the setting of concurrent hydrocephalus.159 For patients with cerebellar ICH and ‘clinical hydrocephalus’, EVD alone may be potentially harmful, especially if the basal cisterns are compressed, and EVD alone may be insufficient when intracranial hypertension impedes blood supply to the brainstem.45
+
+![](images/87885c1651aeb45a9acfd2cbc207905ab80b09ad8f9ff3b34ceb1232a7d392b4.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Surgical haematoma evacuation Events | Surgical haematoma evacuation Total | Conservative treatment Events | Conservative treatment Total | Weight | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI |
+|---|---|---|---|---|---|---|---|
+| 4.8.1 At 3 months | | | | | | | |
+| Kuramatsu, 2019 (IPD Meta-analysis) | 33 | 152 | 59 | 152 | 100.0% | 0.44 [0.26 , 0.72] | |
+| Subtotal (95% CI) | | 152 | | 152 | 100.0% | 0.44 [0.26 , 0.72] | ◆ |
+| Total events: | 33 | | 59 | | | | |
+| Heterogeneity: Not applicable | | | | | | | |
+| Test for overall effect: Z = 3.21 (P = 0.001) | | | | | | | |
+| 4.8.2 Haematoma volume of 15 ml3 or greater (at 3 months) | | | | | | | |
+| Kuramatsu, 2019 (IPD Meta-analysis) | 26 | 102 | 50 | 91 | 100.0% | 0.28 [0.15 , 0.51] | ◆ |
+| Subtotal (95% CI) | | 102 | | 91 | 100.0% | 0.28 [0.15 , 0.51] | ◆ |
+| Total events: | 26 | | 50 | | | | |
+| Heterogeneity: Not applicable | | | | | | | |
+| Test for overall effect: Z = 4.10 (P < 0.0001) | | | | | | | |
+| 4.8.3 At 12 months | | | | | | | |
+| Kuramatsu, 2019 (IPD Meta-analysis) | 43 | 152 | 65 | 152 | 100.0% | 0.53 [0.33 , 0.85] | ◆ |
+| Subtotal (95% CI) | | 152 | | 152 | 100.0% | 0.53 [0.33 , 0.85] | ◆ |
+| Total events: | 43 | | 65 | | | | |
+| Heterogeneity: Not applicable | | | | | | | |
+| Test for overall effect: Z = 2.62 (P = 0.009) | | | | | | | |
+Favours [Surgical haematoma evacuation] Favours [Conservative treatment] Fàvours [Surgical haematoma evacuation] Favours [Conservative treatment]
+</details>
+
+Figure 48. The effect on death at 3 and 12 months of surgical haematoma evacuation compared with no surgery in adult people with acute cerebellar ICH.
+
+![](images/feb2415563f9961c9391cd351cde04f514293cc813189c7c54814980833ea637.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Surgical haematoma evacuation Events | Surgical haematoma evacuation Total | Conservative treatment Events | Conservative treatment Total | Weight | Odds ratio M-H, Random, 95% CI |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4.9.1 At 3 months |  |  |  |  |  |  |
+| Kuramatsu, 2019 (IPD Meta-analysis) | 47 | 152 | 54 | 152 | 100.0% | 0.81 [0.50 , 1.31] |
+| Subtotal (95% CI) |  | 152 |  | 152 | 100.0% | 0.81 [0.50 , 1.31] |
+| Total events: Heterogeneity: Not applicable | 47 |  | 54 |  |  |  |
+| Test for overall effect: Z = 0.85 (P = 0.39) |  |  |  |  |  |  |
+| 4.9.2 At 12 months |  |  |  |  |  |  |
+| Kuramatsu, 2019 (IPD Meta-analysis) | 47 | 152 | 53 | 152 | 100.0% | 0.84 [0.52 , 1.35] |
+| Subtotal (95% CI) |  | 152 |  | 152 | 100.0% | 0.84 [0.52 , 1.35] |
+| Total events: Heterogeneity: Not applicable | 47 |  | 53 |  |  |  |
+| Test for overall effect: Z = 0.73 (P = 0.46) |  |  |  |  |  |  |
+Favours [Surgical haematoma evacuation] Favours [Conservative treatment] |
+| Favours [Surgical haematoma evacuation] Fjavours [Conservative treatment] Favours [Surgical haematoma evacuation] Fjavours [Conservative treatment] Favours [Surgical haematoma evacuation] Favours [Conservative treatment] Favours [Surgical haematoma evacuation] Favours [Conservative treatment] Favours [Surgical haematoma evacuation] Favours [Conservative treatment] Favours [Surgical haematoma evacuation] Favours [Conservative treatment] Favours [Surgical haematoma evacuation] Favours [Conservative treatment] Favours [Surgical haematoma evacuation] Favours [Conservative treatment] Favours [Surgical haematoma Ecuador] Favours [Surgical haematoma Ecuador] Favours [Conservative Ecuador] Favours [Surgical haematoma Ecuador] Favours [Conservative Ecuador] Favours [Surgical haematoma Ecuador] Favours [Conservative Ecuador] Favours [Surgical haematoma Ecuador] Favours [Conservative Ecuador] Favours [Surgical haematoma Ecuador] Favours [Conservative Ecuador] Favours [Surgical haematoma Ecuador] Favours [Conservative Ecuador] Favours [Surgical haematoma Ecuador] Favours[Conservative Ecuador] Favours[Conservative Ecuador] Favours[Surgical haematoma Ecuador] Favours[Conservative Ecuador] Favours[Surgical haematoma Ecuador] Favours[Conservative Ecuador] Favours[Surgical haematoma Ecuador] Favours[Conservative Ecuador] Favours[Surgical haematoma Ecuador] Favours[Conservative Ecuador] Favours[Surgical haematoma Ecuador] Favours[Conservative Ecuador] Favours[Surgical haematoma Ecuador] Favours[Conservative Ecuador] Favours[Surgical Haematoma Ecuador] Favours[Conservative Ecuador] Favours[Surgical Haematoma Ecuador] Favours[Conservative Ecuador] Favours[Surgical Haematoma Ecuador] Favours[Conservative Ecuador] Favours[Surgical Haematoma Ecuador] Favours[Conservative Ecuador] Favours[Surgical Haematoma Ecuador] Favours[Conservative Ecuador] Favours[Surgical Haematoma Ecuador] Favours[Conservative Ecuador] Favours[Odds ratio M-H, Random, 95% CI]
+Favours[Surgical haematoma evacuation] Favours[Conservative treatment]
+</details>
+
+Figure 49. The effect on functional outcome at 3 months of surgical haematoma evacuation compared with no surgery in adult people with acute cerebellar ICH.
+
+# Prevention and management of complications
+
+Single measures for prevention and management of complications
+
+Physical measures to prevent venous thromboembolism
+
+PICO 5.1.1 In adults with spontaneous ICH, do physical measures to prevent deep vein thrombosis (DVT) or pulmonary embolism (PE) reduce venous thromboembolism, symptomatic pulmonary embolism/DVT or death compared with standard care?
+
+# Evidence-based Recommendation
+
+In immobile adults with spontaneous ICH, we suggest for intermittent pneumatic compression stockings for 30 days (or hospital discharge or independent ambulation, if sooner) to prevent proximal deep vein thrombosis. Continued uncertainty exists whether intermittent pneumatic compression reduces symptomatic pulmonary embolism and death.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: Weak for intervention ↑?
+
+# Analysis of current evidence
+
+The guideline group graded the following outcomes as critical: venous thromboembolism, symptomatic pulmonary embolism (PE), symptomatic deep venous thrombosis (DVT) and death. Our literature search identified four
+
+![](images/aeab4cce6b7877b950769aee68e8f1107aead9ca5b2da2f990e4790f8f8ba0a0.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Physical interventions Events | Physical interventions Total | Routine care Events | Routine care Total | Weight | Odds ratio M-H, Random, 95% CI |
+|---|---|---|---|---|---|---|
+| 1.1.1 Compression stockings vs Routine care | | | | | | |
+| CLOTS-1, 2009 | 205 | 1256 | 224 | 1262 | 48.2% | 0.90 [0.73, 1.11] |
+| Subtotal | | 1256 | | 1262 | 48.2% | 0.90 [0.73, 1.11] |
+| Total events: | 205 | | 224 | | | |
+| Test for overall effect: Z = 0.95 (P = 0.34) | | | | | | |
+| Heterogeneity: Not applicable | | | | | | |
+| 1.1.2 Intermittent pneumatic compression vs Routine care | | | | | | |
+| CLOTS-3, 2013 | 233 | 1438 | 304 | 1430 | 51.8% | 0.72 [0.59, 0.87] |
+| Subtotal | | 1438 | | 1430 | 51.8% | 0.72 [0.59, 0.87] |
+| Total events: | 233 | | 304 | | | |
+| Test for overall effect: Z = 3.46 (P = 0.0005) | | | | | | |
+| Heterogeneity: Not applicable | | | | | | |
+| Total | | 2694 | | 2692 | 100.0% | 0.80 [0.64, 1.01] |
+| Total events: | 438 | | 528 | | | |
+Test for overall effect: Z = 1.91 (P = 0.06) |
+| Test for subgroup differences: Chi² = 2.63, df = 1 (P = 0.10), I² = 62.0% Heterogeneity: Tau² = 0.02; Chi² = 2.63, df = 1 (P = 0.10); I² = 62%<lcel><lcel><lcel><lcel><lcel><lcel><nl>
+</details>
+
+Figure 50. Prevention of deep venous thrombosis by physical interventions versus routine care (follow-up: 30 days).
+
+![](images/4a322ef32cd8b1599108a1f205bd7f8db4c838cadc27a565b8aebc0ad7b1d054.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Physical interventions Events | Physical interventions Total | Routine care Events | Routine care Total | Weight | Odds ratio M-H, Random, 95% CI |
+| --- | --- | --- | --- | --- | --- | --- |
+| CLOTS-1, 2009 | 13 | 1256 | 20 | 1262 | 33.4% | 0.65 [0.32, 1.31] |
+| Subtotal | 13 | 1256 | 20 | 1262 | 33.4% | 0.65 [0.32, 1.31] |
+| Test for overall effect: Z = 1.20 (P = 0.23) | Not applicable | Not applicable | Not applicable | Not applicable | Not applicable | Not applicable |
+| CLOTS-3, 2013 | 29 | 1438 | 35 | 1430 | 66.6% | 0.82 [0.50, 1.35] |
+| Subtotal | 29 | 1438 | 35 | 1430 | 66.6% | 0.82 [0.50, 1.35] |
+| Test for overall effect: Z = 0.78 (P = 0.44) | Not applicable | Not applicable | Not applicable | Not applicable | Not applicable | Not applicable |
+| Total | 42 | 2694 | 55 | 2692 | 100.0% | 0.76 [0.51, 1.14] |
+Test for overall effect: Z = 1.33 (P = 0.18) |
+</details>
+
+Figure 51. Prevention of pulmonary embolism by physical interventions versus routine care (follow-up: 30 days).
+
+RCTs that compared physical measures with standard care (CLOTS-1, CLOTS-3), or with different physical measures (CLOTS-2, VICTORIAh) for the prevention of venous thromboembolism in patients with stroke, including ICH (Supplement GRADE evidence profile for PICO 5.1.1).163–166 The RCTs included mixed numbers of ICH patients (N=232, 9.2% (CLOTS-1); N=365, 11.7% (CLOTS-2); N =376, 13.1% (CLOTS-3); N=151, 100% (VICTORIAh)). The CLOTS-1 study compared graduated compression stockings against ‘routine care’, while the CLOTS-3 study compared intermittent pneumatic compression (IPC) with ‘routine care’. However, uncertainty exists over the actual rate and distribution of additional low molecular weight heparin (LMWH) administrations among the ICHsubgroups in both intervention arms and standard care. The studies included in the meta-analyses are presented separately for the types of physical measures acknowledging the different effects of the ‘passive’ measure of ‘stockings’ compared with the ‘active’ measures of ‘intermittent pneumatic compression’. As demonstrated in the metaanalysis in Figures 50 and 51, physical measures compared with ‘routine care’ tended to prevent deep venous thrombosis and pulmonary embolism (DVT, p=0.06; 2 RCTs, 5386 participants, very low certainty of evidence; PE, OR 0.76, 95% CI 0.51–1.14; very low certainty of evidence), but the effect was driven by intermittent pneumatic compressions (CLOTS-3) rather than compression stockings (CLOTS-1). Death was not significantly influenced (Figure 52. Prevention of death by physical interventions vs routine care (follow-up: 30 days)).163,165
+
+![](images/d0ea7eac1b3141c821620aea17a766b2df322ce31a06efbf71ad5f36ad68dabb.jpg)  
+Figure 52. Prevention of death by physical interventions versus routine care (follow-up: 30 days).
+
+The VICTORIAh trial evaluated the efficacy and safety of intermittent pneumatic compression (IPC) in addition to elastic compression stockings versus elastic compression stockings alone in people with spontaneous or traumatic ICH. The trial reported no symptomatic DVT until day 10, and deaths before day 10 were not attributed to venous thromboembolism.166 Additional IPC did not reduce the risk of asymptomatic venous thromboembolism in an adjusted analysis. Wearing of IPC was associated with more skin lesions, and the adherence was low. The CLOTS-2 study compared thigh-length stockings with below-knee stockings and found no significant difference in the adjusted odds ratio of any DVT or death.164
+
+# Additional information
+
+A randomised open-label trial (CIREA1) compared IPC with graduated compression stockings at 6 days in patients treated in the intensive care unit.167 The trial included heterogeneous patient groups but reported relative risk for a composite outcome (fatal PE, symptomatic PE, symptomatic DVT or asymptomatic DVT) also separately for spontaneous ICH patients (N = 135, outcomes IPC plus graduated compression stockings 6.6% vs graduated compression stockings alone 11.9%, RR 0.55, 95% CI 0.19– 1.66). Due to the limitation of a low statistical power, the results do not support superiority of the combination of IPC and graduated compression stockings.
+
+# Short-term antithrombotic therapy to prevent DVT/PE
+
+PICO 5.1.2 In adults with spontaneous ICH does short-term antithrombotic therapy to prevent deep vein thrombosis (DVT) and/or pulmonary embolism (PE) versus standard care reduce (symptomatic) venous thromboembolism, symptomatic pulmonary embolism, or death without increasing the risk of recurrent ICH?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous ICH, there is uncertainty whether subcutaneous low-molecular-weight heparins (LMWH) at prophylactic doses starting as early as 24 h after ICH onset and established stability of the ICH prevent venous thromboembolism, symptomatic deep vein thrombosis (DVT), pulmonary embolism (PE), or death, without increasing the risk of recurrent ICH, so we recommend recruitment to randomised controlled trials.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement:
+
+Low-molecular-weight heparins (LMWH) prophylaxis after ICH might be used for venous thromboembolism prevention in standard clinical practice if intermittent pneumatic compression is not available or feasible. The use should be limited to immobile patients, as well as patients at high prothrombotic risk (due to comorbidities, or prothrombotic medications).
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+The guideline group graded the following outcomes as critical: venous thromboembolism (VTE), symptomatic pulmonary embolism (PE), symptomatic deep venous thrombosis (DVT) death and recurrent ICH.
+
+![](images/464f667261411caa2f4bf3d52bede903b6a58fd859abc314d99bcfa4a6af7f3e.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Start anticoagulation Events | Start anticoagulation Total | Avoid anticoagulation Events | Avoid anticoagulation Total | Weight (%) | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI |
+|---|---|---|---|---|---|---|---|
+| Dickmann 1988 | 2 | 23 | 4 | 23 | 13.6 | 0.45 [0.07, 2.76] | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ???
+Total events: 20
+Test for overall effect: Z = 0.49 (P = 0.62)
+Test for subgroup differences: Not applicable
+Heterogeneity: Tau² = 0.00; Chi² = 0.63, df = 2 (P = 0.73); I² = 0% Favours [Start anticoagulation] Favours [Avoid anticoagulation]
+</details>
+
+Figure 53. Prevention of death by short-term anticoagulation versus routine care for (follow-up: range 10 days–90 days).
+
+![](images/7fa894420dbdcb8a16ab6af7d1be475877a2dc419c0f1c4747bbe44e2e4dd370.jpg)  
+Figure 54. Prevention of symptomatic or asymptomatic venous thrombosis by short-term anticoagulation versus routine care for (follow-up: range 10 days–21 days).
+
+![](images/f35a35dbb2ef280573e5d7c917495d4886ea292765fbf998d9c67a0912250751.jpg)  
+Figure 55. Prevention of symptomatic or asymptomatic pulmonary embolism by short-term anticoagulation versus routine care (follow-up: range 10 days–90 days).
+
+Our literature search identified four distinct RCTs that explicitly addressed the early prevention of venous thromboembolism by administering heparin or low-molecular weight heparin (LMWH) to the cohort of acute spontaneous ICH (Supplement PICO 5.1.2: description of single studies).168–172 All trials were included in a Cochrane Review before.173 A synthesis of the findings reveals considerable heterogeneity amongst the included trials with regard to their inclusion criteria, interventions, and outcome assessments (prevention of death, symptomatic or asymptomatic deep vein thrombosis, and pulmonary embolism; Figures 53–55, quality of evidence table: see Supplement). Trial details are summarised in the Supplement.
+
+The Cochrane meta-analyses included 4 small RCTs investigating 171 patients treated with early heparin therapy, compared with later start,168,171 co-administration with graduated compression stocking s,169 or co-administration with IPC (PREVENTIHS).170 Importantly, Boeer et al.168,172 reports on a small two-stage trial (N = 68), primarily comparing heparin $( 3 \times 5 0 0 0 ~ | \mathsf { E } ~ \mathsf { s . c . } / \mathsf { d } )$ starting at day 4 versus day 10, but secondarily adding a non-randomised third group, starting heparin at day 2. Notably, patients were allowed to receive a potentially prothrombotic high-dose of dexamethasone (starting with 48 mg/d) for treatment of cerebral oedema. Compared with patients with later start of heparin (day 4 vs 10 after diagnosis of ICH), earlier start at day 2 reduced the incidence of pulmonary embolism assessed by pulmonary perfusion scintigraphy at day 10.164 Bleeding risk was not increased by earlier administration.168 The non-randomised open-label extension group (commencing at day 2) by Boeer et  al., added after knowledge of the outcomes in the intervention group (starting at day 4) in the trial by Dickmann et al.172 introduces serious bias and was not included in the Cochranes analyses.
+
+![](images/51bfcd75b6b0bca8bc04c0ab731bb92a7ded9c392ef3fcb50679e16dc4cb06c8.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Start anticoagulation Events | Start anticoagulation Total | Avoid anticoagulation Events | Avoid anticoagulation Total | Weight (%) | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI |
+|---|---|---|---|---|---|---|---|
+| Dickmann 1988 | 1 | 23 | 3 | 23 | 62.1 | 0.30 [0.03, 3.15] | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ???
+Test for overall effect: Z = 1.64 (P = 0.10)
+Test for subgroup differences: Not applicable
+Heterogeneity: Tau² = 0.00; Chi² = 0.23, df = 1 (P = 0.63); I² = 0%<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl>
+</details>
+
+Figure 56. Risk of recurrent intracerebral haemorrhage by short-term anticoagulation versus routine care (follow-up range: up to 10 days).
+
+The meta-analysis showed no prevention of deaths (3 RCTs, N=258, OR 0.85, 95% CI 0.43–1.65, very low certainty of evidence, Figure 53, Supplement GRADE evidence profile for PICO 5.1.2). The incidence of symptomatic or asymptomatic thrombosis was, with very low certainty, not influenced by (early) short-term prophylactic anticoagulation versus routine care (4 RCTs, N=333, OR 0.92, 95% CI 0.43–1.96, Figure 54). The rate of symptomatic or asymptomatic pulmonary embolism showed a non-significant reduction (OR 0.39, 95% CI 0.13–1.14, p=0.08; 3 RCTs, 333 participants, very low certainty of evidence, Figure 55). The occurrence of recurrent intracerebral haemorrhage was not increased (2 RCTs, N=119 OR 0.21, 95% CI 0.03– 1.35, very low certainty of evidence, Figure 56).
+
+# Additional information
+
+A retrospective large observational cohort study included 1702 patients with OAC-associated ICH and prospectively 1022 patients with non-OAC-ICH treated with low-dose heparin prophylaxis.174 This study defined intracranial haemorrhagic complications as their primary outcome (occurring in 1.7% of patients, with no observed differences in crude incidence rates among patients with prior OAC or no OAC). However, the study did not include a control group of patients who did not receive heparin prophylaxis. Intracranial haemorrhagic complications were not found to differ when referenced to days with and without heparin prophylaxis. The study did not report the incidence of DVT or PE.
+
+# Temperature management
+
+PICO 5.1.3 In adults with spontaneous ICH, does active body temperature management alone versus no temperature management reduce the risk of death or dependence?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous ICH, we suggest not actively managing body temperature as single measure only, unless it is used with further measures as part of a care bundle (see PICO 5.2), to reduce the risk of death or dependence.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: Weak against intervention ↓?
+
+# Analysis of current evidence
+
+Active body temperature management was defined as the management of body temperature with predefined temperature thresholds triggering interventions (not limited to feedback-controlled systems) and predefined temperature measurement intervals to regulate temperature in adults with ICH. Where appropriate, the method – pharmacological intervention or physical – was indicated. We graded the following outcomes as critical: death and dependence.
+
+Our literature search identified four RCTs evaluating active body temperature management in stroke or neurointensive care patients (any type of stroke or traumatic brain injury) including assessments of functional outcome (Supplement PICO 5.1.3: description of single studies).170–173 A further RCT was subsequently identified. However, none of the trials evaluated an intervention specifically in ICH patients. Therefore, due to the low number of ICH patients in the trials, and heterogeneity among interventions, we refrained from conducting a meta-analysis.175–178 The INTREPID trial (223 ICH; total evaluation sample 677 patients) compared automated surface temperature management to maintain normothermia with conventional, mainly pharmacological, fever treatment.179
+
+No significant difference in functional outcome or death was demonstrated by any of the identified active body temperature management trials (Supplement: description of single studies). The management of body temperature through mainly pharmacological interventions was a component of care-bundle trials, elaborated upon in detail in PICO 5.2. It is therefore recommended that this approach be implemented in conjunction with additional elements of a care-bundle.
+
+# Additional information
+
+Hyperthermia subsequent to ICH has been associated with worse outcome in observational studies.180,181 Several preclinical studies have demonstrated that therapeutic hypothermia can reduce perihaematomal oedema and blood-brain barrier breakdown as well as improve neurological outcome, but there is a lack of evidence from clinical trials. The fate of the target temperature management (TTM)-ICH trial, started in 2013 (NCT01607151), a phase 1/2 RCT comparing the effect of 72 h of TTM aiming for hypothermia (32–34°C) versus aiming for normothermia (36–37°C) in spontaneous ICH patients is unclear. The CINCH trial, investigating hypothermia in large ICH, has been terminated without available results (ISRCTN28699995).182
+
+Blood glucose control
+
+PICO 5.1.4 In adults with spontaneous ICH does blood glucose control versus no use of glucose modulation reduce the risk of death or dependence, hypoglycaemia or haematoma expansion?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous ICH, we suggest not intensively controlling blood glucose as a single measure to reduce the risk of death or dependence unless it is used as part of a care bundle (see PICO 5.2). There is continued uncertainty about its effect on haematoma expansion.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: Weak against intervention ↓?
+
+# Analysis of current evidence
+
+The guideline group graded the following outcomes as critical: death and dependence, and hypoglycaemia. As glucose control was not considered in the 2014 ESO guideline, the search strategy for this PICO was expanded to include studies published before 2013. We identified one RCT including patients with stroke and traumatic brain injury. The single-centre trial randomised 81 mechanically ventilated neurologic ICU patients (18 (22%) ICH patients) to intensive blood glucose control (range of 80–110 mg/dL (4.4–6.1 mmol/L)) or to conventional control (⩽150 mg/dL (⩽8.3 mmol/L)).183 The trial found a trend towards more deaths in the intensive treatment arm, no difference in functional outcome, and more severe hypoglycaemias with the intensive treatment.183 We did not identify any trial comparing glucose control versus no glucose control. Importantly, glucose management was also part of care-bundle trials, elaborated in detail in PICO 5.2.
+
+# Additional information
+
+Indirect evidence against use of intensive blood glucose management is derived from a RCT in ischaemic stroke. The SHINE trial compared intensive with standard treatment of hyperglycaemia and looked at functional outcome in patients with acute ischaemic stroke. There was no benefit of intensive (target 80–130 mg/dL (4.4–7.2 mmol/L)) versus standard glucose treatment (80–179 mg/dL (4.4– 9.9 mmol/L)) over a period of up to 72 h.184 More hypoglycaemic events occurred in the intensive treatment arm (11.2% vs 3.2%).
+
+Intracranial pressure (ICP) monitoring
+
+PICO 5.1.5 In adults with spontaneous ICH, does intracranial pressure (ICP) monitoring versus no monitoring of ICP reduce the risk of death or dependence?
+
+# Evidence-based Recommendation
+
+In adults with severe acute spontaneous space-occupying ICH, there is uncertainty about the use of invasive intracranial pressure (ICP) monitoring for reducing death or dependence, so we recommend recruitment to randomised controlled trials.
+
+Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement
+
+In adults with severe acute spontaneous space-occupying ICH, and if clinical symptom monitoring alone is not feasible, the use of invasive intracranial pressure (ICP) monitoring may be considered, preferably using intraventricular measurements with the additional option of cerebral spinal fluid (CSF) drainage.
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+The guideline group graded the following outcomes as critical: death and dependence. Our literature search revealed one RCT investigating the effect of intracranial pressure (ICP) monitoring on functional outcome and death (Supplement GRADE evidence profile for PICO 5.1.5).185 The single-centre RCT from China included 90 patients with ICH caused by hypertensive microangiopathy. Patients who were randomised to ICP measurement received an intraventricular ICP-sensing probe, which was inserted in the anterior horn of the lateral ventricle. Conversely, a conventional external ventricular drain was inserted contralaterally. ICP elevations were defined as values above 25 mmHg. The primary outcome, a composite of incidence rate of HE and brain herniation, was assessed within
+
+1 month after study onset. While the incidence of HE was similar among groups (33% with ICP-monitoring vs 39% without, p = 0.76), patients with ICP-monitoring developed less frequently brain herniation (11% vs 21%, p = 0.04; patients showing brain herniation received immediate haematoma evacuation). The death rate at 6-months was 6.5% in cases where ICP-monitoring was employed, as compared with 9.1% in cases where it was not (p = 0.04).
+
+Adverse events due to the insertion of the ICP-probe were not observed. It is notable that the trial was conducted in patients that in most circumstances would not have required ventricular drainage, given that the mean ICH volume was modest (\~20 mL), patients not necessarily required deep sedation (mean GCS in the intervention group, 10 ± 1) and intraventricular haemorrhage was not present at enrolment in all patients. The study did not explore whether sequential brain imaging or clinical assessments of signs of increasing intracranial pressure could have served as indicators with similar test accuracy compared with the invasive measurements.
+
+# Additional information
+
+A large multicentre prospective observational study conducted among 146 sites in 42 countries included 2395 patients with acute brain injury (587 ICH patients). These patients received either invasive ICP monitoring or not, according to the local physician’s indication.186 The majority of patients with ICH had ICH-volumes > 30 mL (69%), a GCS of ⩽8 (85.7%) but pupils were mostly both reactive (one unreactive 13%, both unreactive 26%). The primary rationale for invasive ICP monitoring in these patients was deterioration in clinical status (64%), with an intraventricular device (148/276, 54%) being most commonly used. The 6-month death rate was lower in the ICP-monitoring cohort (35% (441/1317) vs 49% (517/1049), p <0.0001), and unfavourable neurological outcome was likewise lower (extended Glasgow Outcome Scale score < 5; 60% (733/1220) vs 65% (633/982), p = 0.039). In the subgroup of patients with intracranial haemorrhage and bilateral reactive pupils, ICP monitoring was associated with reduced hazards of death (HR 0.57, 95% CI 0.38–0.87), with similar findings in those with one unreactive pupil (HR, 0.34, 95% CI 0.22–0.53). However, ICP monitoring was not associated with better neurological outcome (OR 0.83, 95% CI 0.41–1.68; p = 0.6077).187 ICP-catheter replacement was frequently needed (22%), with misplacements being a frequent reason (1 out of 10).
+
+# Anti-inflammatory treatment
+
+PICO 5.1.6 In adults with spontaneous ICH, does anti-inflammatory treatment (celecoxib, citicoline, corticosteroids, edaravone, fingolimod, minocycline, panax notoginseng or reactive oxygen species scavangers) versus no anti-inflammatory treatment reduce the risk of death or dependence and formation of perihaematomal oedema?
+
+# Evidence-based Recommendation
+
+In adults with acute spontaneous ICH, we recommend against using anti-inflammatory interventions (in particular, anakinra, celecoxib, citicoline, corticosteroids, deferoxamine, edaravone, fingolimod, minocycline, panax notoginseng or reactive oxygen species scavengers) to reduce death, morbidity or perihaematomal oedema, outside of randomised controlled trials.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: Strong against intervention ↓↓
+
+# Analysis of current evidence
+
+The guideline group graded the following outcomes as critical: Death/dependence, and as important: perihaematomal oedema increase.
+
+We identified RCTs investigating nine substances of eight categories with anti-inflammatory properties in people with acute ICH. However, no RCT comparing one agent versus another could be identified (Supplement GRADE evidence profile for PICO 5.1.6). Therefore, the available evidence is presented according to the main substance category investigated. All trials examined short-term anti-inflammatory treatments after ICH, despite pathophysiological considerations of a ‘delayed’ anti-inflammatory effect on oedema development and recovery.
+
+Anakinra. Anakinra is an interleukin-1 receptor antagonist, licensed for treatment of rheumatological diseases. A trial (BLOC-ICH) assessed the effect of anakinra (100 mg s.c. within 8 h of onset, followed by 5 × 12 h 100 mg s.c.) in mitigating periheamatomal oedema in acute ICH, in addition to its impact on clinical outcomes.188 The trial was stopped prematurely due to slow recruiting. Enrolling 25 of the initial attempted 80 patients, it remained underpowered. Oedema extension distance, a measure used to describe perihaematomal oedema, did not differ between the anakinra and placebo-arm after 72 h. Numerically more people had a poor outcome in the anakinra group at 3-months (58% (7/12) vs 30% (3/10), OR 3.3, 95% CI 0.6–19.3).188
+
+Celecoxib. Experimental data have shown a reduction of perihaematomal oedema, inflammation and cell death by celecoxib, a selective inhibitor of cyclo-oxygenase 2 (COX-2). A small clinical trial randomised 44 Korean adults with ICH (<24 h after onset) to either celecoxib (N = 20; 400 mg BD) or standard treatment (N = 24).189 Primary endpoint was the change in perihaematomal oedema (⩾20%) from day 1 to day 7. While no absolute difference in perihaematomal oedema volume was observed at day 7 (23 mL with celecoxib vs 24 mL with standard treatment), a significant shift to reduced expansion of oedema in the celecoxib group was reported.189 No differences in functional outcome and death were reported.
+
+![](images/f93e006bc1c5263f388e50110a20c6feafd03f9bac0aa9d487e7d63f85c20140.jpg)  
+Figure 57. Effect on death of corticosteroids versus control in adults with acute ICH (follow-up: range at discharge to 6 months).
+
+Citicoline. Citicoline showed a reduction of ischaemic lesions associated with ICH in experimental studies.190 In a small RCT, ICH patients within 6 h of onset (mean volume \~ 24 mL) were enrolled to receive citicoline (N = 19; 1g/12 h for 2 weeks) or placebo (N = 19).191 The primary endpoint was the rate of adverse events, which was not different between the groups. At week 12, five patients in the citicoline group (6.7%) and one patient in the control group (27.8%) achieved a mRS of 0–2, but the baseline ICH severity tended to be lower in the citicoline group (median NIHSS 9 vs 15).
+
+Corticosteroids. We identified six RCTs (n = 429) investigating the effects of corticosteroids in people with acute ICH with regard to clinical and radiological endpoints.192–197 Five of the RCTs had been previously published and were included in a Cochrane analysis in 2005. Building upon this analysis, the meta-analysis was updated to incorporate results from a sixth trial, published in 2008.197 With the exception of the trial by Poungvarin published in 1987, all trials contain moderate to severe biases. Death rate could be assessed in all trials, however with varying assessment points (ranging from discharge to 6 months). The summary effect indicates a higher death rate with the use of corticosteroids compared with avoidance of steroids during the acute phase of ICH (OR 1.89, 95% CI 1.02–3.52, p = 0.04; 5 RCTs, 429 participants, low certainty of evidence; Figure 57). All RCTs used dexamethasone in varying dosages and treatment durations (48 hours–16 days).
+
+Deferoxamine. Deferoxamine, a drug capable of binding iron or aluminium, has shown some neuro-protective and anti-inflammatory effects in preclinical research. We identified two trials investigating deferoxamine infusion in spontaneous ICH. A small (N = 42), underpowered trial with regard to clinical outcomes, reported smaller oedema volumes in the experimental group, but methodological concerns were raised by the reported mean haematoma volume declines of >10 mL within only 14 days after onset.198 The i-DEF trial was a larger, multicentre placebo-controlled double-blind randomised trial, assigning 144 patients with supratentorial ICH to the deferoxamine mesylate infusion (32 mg/kg/day for 3 days) group and 147 to placebo.199 Primary outcome was mRS 0–2 at day 90. It was achieved by 34% of patients in the deferoxamine group, and 33% in the placebo group, a non-significant difference. There was also no difference in deaths at day 90 (both 7%, Figure 58). The trial was not powered to detect effects on perihaematomal oedema. Further trials investigating deferoxamine in ICH are reported in Chinese language only and were not accessible in detail. Figure 60 shows no significant difference in rates of good functional outcome with deferoxamine treatment versus routine care in a meta-analysis (OR 1.24, 95% CI 0.63–2.42, p = 0.53; 2 RCTs, 312 participants, low certainty of evidence, Figure 59). See Supplement for QoE tables.
+
+Edaravone. A number of small RCTs have been conducted in China to evalute the antioxidant edaravone (sample sizes 58–190). A recent systematic-review and meta-analysis identified 38 RCTs published until 2021 including 3454 patients with ICH in whom edaravone treatment (30–60 mg/d) was started within 7 days of onset (continued until day 14–30).200 No further trials were identified, that had not already been included in the aforementioned meta-analysis. The meta-analysis demonstrated that edaravone treatment was not associated with reduced mortality (RR 0.51, 95% CI 0.11–2.32).200 Long-term functional outcome was not assessed. The validity of reported beneficial effects on neurological deficits, activities of daily living, and haematoma volume is constrained by the partly severe biases inherent in the RCTs.
+
+![](images/6dc0c6e444bb7bd215395e0dc72815ce0c7dcef72e1fa2a1b5b0fc86334e8f4a.jpg)  
+Figure 58. Effects on death of deferoxamine versus control in acute ICH.
+
+![](images/75f0a9a360282b3d6858e68dbcb194cc548b6ae82bea64e9b0332d8ed312c0ce.jpg)  
+Figure 59. Effects on good functional outcome of deferoxamine treatment versus routine care in acute ICH (follow-up 21days–6months).
+
+Fingolimod. Fingolimod, a sphingosine-1-phosphate receptor modulator, inhibits lymphocytic infiltration into the central nervous system. In the EU, it has been approved for relapsing-remitting multiple sclerosis. In a small RCT in 23 patients with acute supratentorial ICH, fingolimod was tested to reduce the inflammatory reaction associated with ICH and consequently reduce perihaematomal oedema (volume 5–30 mL).201 Eleven patients were randomised to fingolimod (0.5 mg orally OD for 3 days, starting 1 h after the baseline CT scan). Despite similar baseline characteristics, GCS scores were better in the fingolimod group at day 14 (GCS > 15, 100%; control-group 58%, p = 0.04). Likewise, more patients achieved a mRS 0–1 in the fingolimod-group at day 90 (63% vs 0%, p = 0.001). Perihaematomal oedema was smaller in the fingolimod group.196 The replication of these findings is currently pending.
+
+Minocycline. Minocycline, a tetracycline antibiotic, iron chelator and inhibitor of matrix metalloproteinases has been investigated as a neuroprotectant in acute ischaemic stroke and in experimental ICH models. Two small RCTs investigated minocycline in people with acute ICH. The MACH trial randomly assigned eight patients to receive minocycline (single-dose 400 mg i.v., followed by 400 mg orally for 4 days), and eight patients to receiving standard treatment.202 Expected serum concentrations were reached, but no differences in inflammatory biomarkers, radiological makers, or functional outcome (mRS at day 90) were observed. A second trial (N = 20) randomised ICH patients to intravenous minocycline (10 mg/kg body weight, max 700 mg/d) for 5 days, or placebo.203 In 1/10 patients the drug had to be stopped due to adverse events, and no differences in radiological and functional outcome parameters were observed.203
+
+Panax notoginseng. Screening of references revealed studies investigating panax notoginseng (a Chinese herb with attributed anti-inflammatory properties), exclusively conducted in China. A meta-analysis including 20 studies encompassing 1891 patients with intracranial haemorrhages was identified. The aetiology of bleedings was found to be heterogenous, including subarachnoid haemorrhages. All studies were of small sample sizes, with severe bias and heterogenous outcome assessments. With regard to functional outcome, the ‘neurological deficit score’ was reported to be lower in the panax notoginseng group than in the standard treatment group. Death rate (overall < 10%) was reported to be lower with panax notoginseng, but data presented in other parts of the analyses were conflicting, indicating instead a higher death rate.204
+
+Reactive oxygen species scavengers. Reactive oxygen species (ROS) are hypothesised to play a role in the development of perihaematomal oedema. A randomised pilot study from Korea examined the impact of administering two ROS scavengers simultaneously (N-acetylcysteine 2000 mg/d and selenium 1600 µg/d i.v.) on the change of perihaematomal oedema volume in people with ICH.205 The trial which compared ROS scavenger (N = 57) with placebo (N = 66) revealed several limitations, including the heterogeneity of disease entities reflected by the inclusion of patients with haemorrhage due to intracranial malignancies (N = 24) and haemorrhagic infarctions (N = 5), the allowance of surgery, and the exclusion of patients from the active treatment group, who did not reach serum efficacy levels. While the haemorrhage volumes were comparable between groups, perihaematomal oedema volume was significantly different after 14 days (ROS, 21.9 ± 17.6 mL vs placebo, 30.7 ± 32.4, p < 0.01). No difference in 30-day functional outcome was reported.205
+
+# Additional information
+
+Ongoing clinical trials and further substances:
+
+Anakinra is evaluated in a phase II trial at a higher dose compared with the finished BLOC-ICH trial. Primary outcome is the oedema extension distance in MRI on day 7 (study completion is expected in end of 2025; N=75; NCT04834388; Netherlands).
+
+Celecoxib is evaluated in a phase IIa study in ICH patients, with perihaematomal oedema expansion and haematoma expansion as the main outcomes (study completion is expected in 2027; N=60; NCT05434065; Taiwan).
+
+Citicoline: no ongoing trial identified.
+
+Colchicine treatment starting <48 h after acute ICH onset is investigated in the Colchicine for the Prevention of Vascular Events after an Acute Intracerebral Hemorrhage trial (CoVasc-ICH), a phase 2 study conducted in Canada (N=100; NCT05159219). The trial primarily focuses on feasibility and safety; results are expected in 2025. A phase 3 study is to be started in mid of 2025 (N= 1125, NCT06587737, Canada).
+
+Corticosteroids: no ongoing trials identified.
+
+Edaravone: Edaravone Dexborneol in different doses is evaluated in a phase I/II trial in 380 ICH patients, with incidence of serious adverse events (SAEs) up to 90 days as the primary outcome (study completion expected in 2025; NCT05953103; China).
+
+Fingolimod: One phase I trial is reported to be finished, but results are not available yet (Fingolimod as a Treatment of Cerebral Edema After Intracerebral Hemorrhage (FITCH); N=28; NCT04088630; USA). A phase I/II trial is expected to end in 2025 (Fingolimod in Minimal Invasive Treatment of Intracerebral Hemorrhage (FMIICH; N =40; NCT06087965; China).
+
+Minocycline: is evaluated in a phase I/II study in 90 ICH patients, with functional outcome at 3-month being the primary outcome (unknown status; NCT05630534; China).
+
+Panax notoginseng has been reported to increase the rate of functional independence at 3-month post ischaemic stroke in a large (N = 2966) multicentre, double-blind, placebo-controlled randomised clinical trial in China.206 No ongoing trial in ICH patients was identified.
+
+Reactive oxygen species scavengers: no ongoing trial identified.
+
+Anti-seizure medications
+
+PICO 5.1.7 In adults with spontaneous ICH, does prophylactic treatment with anti-seizure medications compared with no anti-seizure treatment prevent acute/remote symptomatic epileptic seizures?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous ICH, we suggest against treatment with anti-seizure medications for the primary prevention of acute/remote symptomatic epileptic seizures
+
+Quality of evidence: Moderate ⊕⊕⊕
+
+Strength of recommendation: Weak against intervention ↓?
+
+In adults with spontaneous supratentorial ICH and symptomatic seizure within 7 days after onset, we cannot make a recommendation about the use of anti-seizure medications because there is continued uncertainty about their effects.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement
+
+In adults with spontaneous ICH, in whom anti-seizure medication was initiated after symptomatic seizure(s) during the first 7 days after ICH onset, and in whom no further seizures occur, we suggest anti-seizure treatment to be discontinued from 4 weeks onwards.
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+This PICO constitutes an update to the 2017 ESO guideline for the management of post-stroke seizures and epilepsy. The 2017 ESO guideline referred to post-stroke seizure occurrence, or recurrence, as well as to functional outcome, and mortality as critical or important outcomes.207 An updated literature search was performed and a total of 3 RCTs (217 participants) were identified which compared primary preventive treatment with anti-seizure medications (valproate, diazepam and levetiracetam) to placebo after spontaneous ICH (Supplement PICO 5.1.7: description of single studies, Supplement GRADE evidence profile for PICO 5.1.7).208–210 No difference in the occurrence of clinical seizures during a follow-up of 3–12 months was found between the treatment and placebo groups (OR 0.76, 95% CI 0.31–1.86, p=0.54; 3 RCTs,
+
+![](images/ff5dd95968fcca0efc9d9b0a4345daff879aa4a062f671f7d6198c810ad3cc9e.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Antiepileptic drugs Events | Antiepileptic drugs Total | Placebo Events | Placebo Total | Weight (%) | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI | Risk of Bias A | Risk of Bias B | Risk of Bias C | Risk of Bias D | Risk of Bias E | Risk of Bias F | Risk of Bias G |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Gilad 2011 | 7 | 36 | 8 | 36 | 62.6% | 0.84 [0.27, 2.64] | Favours [Antiepileptic drugs] | Favours [Placebo] | Favours [Antiepileptic drugs] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] |
+| Peter-Derex 2022 | 1 | 23 | 2 | 23 | 13.3% | 0.48 [0.04, 5.66] | Favours [Antiepileptic drugs] | Favours [Placebo] | Favours [Antiepileptic drugs] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] |
+| Van Tuijl 2021 | 2 | 43 | 3 | 48 | 24.1% | 0.73 [0.12, 4.60] | Favours [Antiepileptic drugs] | Favours [Placebo] | Favours [Antiepileptic drugs] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] |
+| Total (95% CI) | 102 | 107 | 100.0% | 100.0% | 100.0% | 0.76 [0.31, 1.86] | Favours [Antiepileptic drugs] | Favours [Placebo] | Favours [Antiepileptic drugs] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] | Favours [Placebo] |
+| Total events: | 10 | 13 | - | - | - | - | - | - | - | - | - | - | - | - |
+| Heterogeneity: Tau² = 0.00; Chi² = 0.17, df = 2 (P = 0.92); I² = 0%<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl>
+<fcel>Test for overall effect: Z = 0.61 (P = 0.54)<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl>
+<fcel>Test for subgroup differences: Not applicable<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl>
+</details>
+
+Figure 60. Effects on the occurrence of clinical seizures of anti-seizure treatment versus control in acute ICH (follow-up: range 3–12months).
+
+![](images/fe66006dae3cbd9ded341d246a9919ee381b6cae1493c9c5f7ea897f7ebe7198.jpg)  
+Figure 61. Effect on death of primary prophylactic anti-seizure treatment versus control in acute ICH (follow-up: range 3– 12months).
+
+209 participants, moderate certainty evidence, Figure 60). No RCTs evaluating the secondary prevention of recurrent symptomatic seizures after ICH were identified.
+
+There was no difference in death between ICH patients receiving primary prophylactic treatment with anti-seizure medications compared with placebo (OR 1.63, 95% CI 0.70–3.77, p = 0.25; 2 RCTs, 167 participants; moderate certainty of evidence, Figure 61).203,204
+
+# Additional information
+
+A meta-analysis of mostly observational cohort studies including 3241 participants failed to identify an association between the use of preventive anti-seizure medications and poor outcome (OR 0.99, 95% CI 0.66–1.49).211 Observational trials have reported acute symptomatic seizures in 8%–16% of patients following ICH, with an increased risk observed in more severe strokes and cortical involvement.212–214 Continuous EEG studies have demonstrated the occurrence of clinical and electrographic seizures combined in up to 31% of critically ill ICH patients,215,216 though this rate may not be applicable to a general ICH population. Observational studies have shown conflicting results regarding the association between acute symptomatic seizures and functional outcome/mortality after ICH.212,213,217 Importantly, acute symptomatic seizures may be a marker of more severe ICH and not an independent risk factor for worse outcome. The recurrence rate of clinical seizures in the acute phase of ICH has been shown to be low (13%–15%).212,218 Nevertheless, secondary prevention in such cases is common in clinical practice, likely to reduce the risk of clinical worsening in the acute setting.207
+
+The underlying concept of this approach likely is based on pathophysiological considerations such as increased neuronal excitotoxicity, peri-infarct depolarisations, and inflammatory response.219 These are considered to be risk factors for acute recurrence of epileptic seizures, and therefore clinicians may tend to administer anti-seizure medication.207 There is currently no evidence to support this practice, and we encourage withdrawing anti-seizure medication after the acute phase.
+
+Ongoing studies. Presently, two RCTs are ongoing to evaluate the antiepileptogenic effect of early antiseizure medications following ischaemic stroke or ICH. One phase II, multicentre, randomised, double-blind, placebo-controlled study is evaluating whether treatment with eslicarbazepine acetate for one month after stroke can prevent unprovoked post-stroke seizures (EudraCT; number 2018- 002747). Recruitment has now ceased and follow-up is in progress.220 Another phase II, randomised, double-blind, placebo-controlled trial (ACTRN12618001984280) is under way to evaluate the antiepileptogenic efficacy with perampanel compared with placebo in preventing late post-stroke seizures.
+
+# Care bundles
+
+PICO 5.2 In adults with spontaneous ICH, does applying a specific care bundle compared with usual care reduce mortality or dependence?
+
+# Evidence-based Recommendation
+
+In adults with acute spontaneous ICH, we suggest implementing a care bundle to reduce death or dependence (see Expert Consensus Statement for details and targets).
+
+Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: Weak for intervention ↑?
+
+We suggest against the prophylactic use of temperaturelowering measures, prokinetic anti-emetics and/or antibiotics.
+
+Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: Weak against intervention ↓?
+
+# Expert consensus statement:
+
+We recommend implementing the components of the care bundle influencing our recommendation, which were:
+
+(1) early intensive blood pressure management with the goal of achieving a target systolic blood pressure of less than 140 mmHg in minor to moderate ICH within 1 h of the initiation of treatment (see also PICO 2 for details);   
+(2) control of elevated blood glucose (target 110–141mg/dL (6.1–7.8mmol/L) without diabetes/141–180 mg/dL (7.8–10 mmol/L) with diabetes; avoiding hypoglycaemia) as soon as possible after the initiation of treatment;   
+(3) treatment of pyrexia with the goal of achieving a body temperature of less than 37.5°C within 1 h of initiation; and   
+(4) the reversal of abnormal anticoagulation in those taking vitamin K-antagonists using prothrombin concentrate complex with the goal of reaching an INR of less than 1.3 within 1 h of treatment (see PICO 3.3.1.1 for details), and application of specific reversal agents to patients receiving direct oral anticoagulants (see PICOs 3.3.2.1–3.3.2.4 for details).
+
+We suggest additional components of other care bundles that may be beneficial:
+
+• avoiding do-not-resuscitate orders within the first 24 h after admission unless there is a clear will of the patient   
+• application of routine dysphagia screening and treatment   
+• early consulting of a neurosurgeon to evaluate surgical measures in patients such as with large spontaneous ICH, intraventricular bleeding, or spaceoccupying infratentorial haemorrhage.
+
+We recommend inclusion of patients in randomised trials of bundles of care.
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+The guideline group graded the following outcomes as critical: death and death and dependence. The systematic literature search revealed three RCTs investigating pre-defined care bundles, that is, combination of specific treatment elements, in adults with ICH.80,221,222 Two of the RCTs (PRECIOUS, QASC) enrolled people with ischaemic stroke or ICH and data did not allow further differentiation (Supplement PICO 5.2: description of single studies).80,221 Therefore, details of the PRECIOUS and QASC trial are found in the additional information.80,221 Details of the studies including a discussion of their limitations are summarised in the Supplement.
+
+INTERACT-3, a stepped-wedge cluster randomised trial, focused on the treatment of abnormal variables for 7 days in adults with acute ICH (admission within 6 h of onset, Supplement GRADE evidence profile for PICO 5.2). The care-bundle specified early intensive blood pressure treatment (target < 140 mmHg systolic), glucose control (target 110–141 mg/dl (6.1–7.8 mmol/L), non-diabetic; 141–180 mg/dl (7.8–10.0 mmol/L), diabetic), treatment of elevated body temperature (target ⩽ 37.5°C) and reversal of anticoagulation (vitamin K-antagonists, target-INR < 1.5 within 1 h). The common odds ratio of achieving a poor functional outcome (mRS 3–6) was lower with care-bundle treatment (cOR 0.86; 95% CI 0.76–0.97; p = 0.015).80
+
+The INTERACT-3 trial showed a higher chance of a good functional outcome (mRS 0–2; OR 1.16, 95% CI 1.05–1.28, p = 0.004; 1 RCT, 6255 participants, very low certainty of evidence; Figure 62). There was a reduction in death rate with application of specific care-bundles (OR 0.80; 95% CI 0.70–0.92, p = 0.002, I RCT, 6255 participants, Figure 63).
+
+# Additional information
+
+The QASC trial studied a combined approach of prevention of complications and treatment of abnormal physiological values and was published in 2011. In this cluster-randomised trial conducted in Australia, ischaemic stroke and ICH patients were enrolled. No separate analysis of the small subgroup of ICH patients (N = 51) is available. In the overall study population (N = 1009 in outcome analysis), death and dependence (mRS ⩾ 2) were more frequently observed at 3-months in the control group compared with the intervention group (259/449, 58% vs 236/558, 42%, p = 0.002). Death occurred in 5.3% in the control group versus 3.8% in the intervention group.220
+
+The ABC-ICH study was a large non-randomised interventional observational study, which measured effects before (N = 353 patients), during (N = 266) and after implementation (N = 241) of a care-bundle which consisted of three elements: (1) Reversal of orally anticoagulated patients (vitamin K+PCC for VKA, idarucizumab for dabigatran-associated ICH, both within 90 min after arrival);
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Implementation of care-bundle</td><td colspan="2">Standard management</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Risk of Bias A B C D E F G</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td></tr><tr><td>INTERACT-3 2023</td><td>1339</td><td>2892</td><td>1436</td><td>3363</td><td>100.0%</td><td>1.16 [1.05 , 1.28]</td><td></td><td></td></tr><tr><td>Total</td><td></td><td>2892</td><td></td><td>3363</td><td>100.0%</td><td>1.16 [1.05 , 1.28]</td><td></td><td></td></tr><tr><td>Total events:</td><td>1339</td><td></td><td>1436</td><td></td><td></td><td></td><td><img src="images/217c11098ca67a92e0c915b7cc088754c9494c61d3972095b9bb7dffc12d8e93.jpg"/></td><td></td></tr><tr><td colspan="9">Test for overall effect: Z = 2.86 (P = 0.004)</td></tr><tr><td colspan="7">Test for subgroup differences: Not applicable</td><td colspan="2">Favours [Standard management] Favours [Implementation of care-bundle]</td></tr><tr><td colspan="9">Heterogeneity: Not applicable</td></tr></table>
+
+Figure 62. Effects on good functional outcome (mRS 0–2) of an implementation of a care-bundle versus standard management (follow-up: range 3–6 months).
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Implementation of care-bundle</td><td colspan="2">Standard management</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td colspan="6">Risk of Bias</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td></tr><tr><td>INTERACT-3 2023</td><td>407</td><td>2892</td><td>571</td><td>3363</td><td>100.0%</td><td>0.80 [0.70 , 0.92]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total</td><td></td><td>2892</td><td></td><td>3363</td><td>100.0%</td><td>0.80 [0.70 , 0.92]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total events:</td><td>407</td><td></td><td>571</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="8">Test for overall effect: Z = 3.15 (P = 0.002)</td><td colspan="6"><img src="images/06a2a8039708ff9badd2369f38a1c002ab97fa8cf6b0c5527fc5227e1bf41944.jpg"/></td></tr><tr><td colspan="7">Test for subgroup differences: Not applicable</td><td>Favours [Implementation of care-bundle]</td><td colspan="6">Favours [Standard management]</td></tr><tr><td colspan="14">Heterogeneity: Not applicable</td></tr></table>
+
+Figure 63. Effects on deaths of an implementation of a care-bundle versus standard management (follow-up: range 30 days– 6 months).
+
+(2) invasive blood pressure lowering (SBP target 130– 140 mmHg within 6 h after onset, if SBP > 150 mmHg); (3) immediate neurosurgical referral in patients with premorbid mRS ⩽ 2 if GCS < 9, posterior fossa ICH, haematoma volume > 30 mL or obstructed third/fourth ventricle.51 In the intervention period, the adjusted OR of 30-day mortality was lower compared with the pre-intervention period (0.62, 95% CI 0.38–0.98, p = 0.003). The observed benefits were sustained in the post-intervention period. As a ‘side-effect’, less patients received an early do-notresuscitate order, compared with the pre-intervention period. This non-pre-specified study effect contributed to more than 50% of the associations between before and after the introduction of the care bundle and reduced mortality.
+
+Briefly, the PRECIOUS trial, which was prematurely terminated in 2022, focused on the prevention rather than treatment of certain conditions (fever and infection). The study included 1471 patients (ischaemic stroke: N = 1250, ICH N = 201, other N = 20) in the intentionto-treat analysis, who were randomly assigned in a multifactorial design to receive metoclopramide (or not), ceftriaxone (or not) and paracetamol (or not). The primary outcome (mRS at day 90) did not differ between the prophylactic medication groups and the controls.222 The PRECIOUS trial was not included in the meta-analysis due to its study design.
+
+Current studies investigating the application of care-bundles in ICH are: MAX-ICH Pilot Trial (NCT06648369, planned sample size N=50), and I-CATCHER (NCT06429332, N=3500).
+
+# Secondary prevention
+
+Blood pressure
+
+PICO 6.1 In adults with spontaneous ICH, does blood pressure reduction to a lower target, or with a specific agent, compared with standard care, or no specific agent or a higher target, reduce the risk of subsequent stroke, major vascular events, death, or dependence in patients in the post-acute phase?
+
+# Evidence-based Recommendation
+
+In adults with prior ICH, we recommend blood pressure control to reduce the risk of subsequent stroke. No evidence-based, specific recommendation can be made targeting a specific blood pressure level or choice of antihypertensive drug.
+
+Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: Strong for intervention ↑↑
+
+# Expert consensus statement
+
+We suggest blood pressure control to a target value of ⩽130/80 mmHg in patients surviving ICH as a means to reduce the risk of subsequent stroke.
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+The guideline group graded the following outcomes as critical for blood pressure control after ICH: recurrence of any stroke, ICH recurrence and major adverse cardiovascular events (MACE). In ICH management, studies have evaluated the treatment of blood pressure (BP) in the acute phase (⩽7 days of onset). However, our literature search did not identify any RCTs that compared targeted BP control or the use of a specific antihypertensive agent with standard care after the acute phase (i.e. >7 days) following ICH.
+
+![](images/d37001cc0edd6b6fa0495424c34d188d3a15fca191cba2c487bc083f94635a03.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Intensive blood pressure control Events | Standard blood pressure control Events | Standard blood pressure control Total | Weight | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI | Risk of Bias A B C D E F G |
+|---|---|---|---|---|---|---|---|
+| PROGRESS 2003 | 32 | 306 | 54 | 305 | 87.0% [0.54 [0.34 , 0.87] ] | ? + + + ? + + | ? + + + ? + + ? + + |
+| RESPECT 2019 | 4 | 101 | 9 | 88 | 13.0% [0.36 [0.11 , 1.22] ] | ? + + + ? + + ? + + | ? + + + ? + + ? + + + |
+| Total (Walda) | 407 | 393 | 100.0% | 393 | 0.51 [0.33 , 0.80] | ? + + + ? + + ? + + | ? + + + ? + + ? + + + |
+| Total events: | 36 | 63 | | | | | |
+| Test for overall effect: Z = 2.97 (P = 0.003) | | | | | Favours [intensive blood pressure control] | Favours [Standard blood pressure control] | |
+| Test for subgroup differences: Not applicable Heterogeneity: Tau² (DLb) = 0.00; Chi² = 0.37, df = 1 (P = 0.54); I² = 0% Footnotes aCI calculated by Wald-type method. bTau² calculated by DerSimonian and Laird method.
+</details>
+
+Figure 64. Effect on recurrence of any stroke after ICH of applying versus not applying an intensive antihypertensive treatment in adults with an acute ICH beyond the acute period. (Post-hoc/sub-group analysis)
+
+![](images/6874cffd3adaa426d01b57a250f30a85d8d3a6c3bcb1c0619be8ad2b9d84b44f.jpg)  
+Figure 65. Effect on ICH recurrence of intensive blood pressure control versus standard blood pressure control in adults with acute ICH beyond the acute period.223,224
+
+For the recurrence of any stroke after ICH, data from sub-group analyses of two RCTs (n = 1290) were available (Supplement for PICO 6.1: GRADE evidence profile)223,224: In the PROGRESS trial (2001), patients with a history of any cerebrovascular event within the previous 5 years were randomised to either a flexible antihypertensive drug regimen using perindopril (4 mg/d) and indapamide (2.5 mg/d, in Japan 2 mg/d) or placebo.223 Over a mean follow-up period of 3.9 years, recurrent stroke or TIA occurred in 32 out of 306 (10.5%) ICH patients in the treatment group, compared with 54 out of 304 (17.7%) ICH patients in the placebo group. The RESPECT trial (2019) investigated the efficacy of intensive blood pressure control with a target of <120/80 mmHg compared with a standard target of <140/90 mmHg using a polypill containing four different antihypertensive agents for secondary prevention for people with stroke aged 50–85 years.220
+
+In a post-hoc analysis of ICH patients (n = 189),224,225 there was an overall low rate of recurrent stroke, with lower absolute numbers in the intensive blood pressure control group compared with standard care (intensive 4/101 (4.0%) vs standard 9/88 (10.2%)). Overall, in the meta-analysis, a significant between-group difference in the recurrence of any stroke after ICH during the followup period was found (OR 0.51, 95% CI 0.33–0.80; 2 RCT subgroup analyses, n = 800, Figure 64).
+
+Regarding the outcome ‘ICH recurrence’, we identified a post-hoc analysis of the RESPECT trial, based on the subanalysis of ICH patients (n = 189),224,225 which reported lower absolute numbers for recurrent ICH in the intensive blood pressure control group compared to standard care (intensive 1/101 (1.0%) vs standard 3/88 (3.4%)). The unadjusted OR for ICH recurrence was 0.28 (95% CI 0.03– 2.77), showing no significant effect in favour of intensive blood pressure control after ICH beyond the acute period, based on a post-hoc analysis of one RCT (Figure 65).
+
+We identified two observational studies comparing individuals with prior intracerebral hemorrhage (ICH) who received or did not receive antihypertensive treatment. The first study, a retrospective cohort analysis from Denmark, examined ICH recurrence in 15,270 patients with first-ever ICH, using data from the Danish national health registry with a minimum follow-up of 6 months.226 Among patients receiving antihypertensive treatment (n = 5854), the recurrence rate was 10.8% (636 cases), compared to 15.0% (1417 cases) in untreated individuals (n = 9416). This corresponded to an adjusted risk ratio of 0.82 (95% CI 0.74–0.91), favouring treatment. The second study, a prospective South Korean cohort study, followed 1978 adults with supratentorial ICH for a mean of
+
+44.9 months $( \mathsf { S } \mathsf { D } \pm 3 \mathsf { I } . 5 ) . ^ { 2 2 7 }$ The recurrence rate was 9.8% (129/1317) among those receiving antihypertensive treatment targeting <140/90 mmHg or <130/90 mmHg in patients with relevant comorbidities, compared to 18.2% (120/661) in those without specific treatment. These studies were not included in the meta-analysis due to their observational design, heterogeneity in treatment and follow-up, and the availability of post-hoc data from RESPECT.224,225
+
+# Additional information
+
+Based on current European and American general hypertension management guidelines, a target BP value ⩽130/80 mmHg is recommended by using a combination of antihypertensive drugs for patients with prior cerebrovascular disease.228,229 In adults with prior ICH, this approach is supported by retrospective data from the ERICH study, which found a higher rate of recurrent ICH in patients unable to achieve guideline-coherent blood pressure control (lobar ICH: HR 3.53, 95% CI 1.65–7.54; non-lobar ICH: HR 4.23, 95% CI 1.02–17.52).230 According to the European Society of Cardiology (ESC) Guidelines, hypertension is defined by a BP threshold of ⩾140/90 mmHg for office measurements and ⩾135/85 mmHg for home measurements.231 In adults with elevated BP and high cardiovascular risk, treatment is recommended for those with BP levels of ⩾130/80 mmHg to help reduce cardiovascular risk. The SPS3 showed a reduced risk of ICH with SBP target <130 mmHg versus 130–149 mmHg in lacunar stroke patients (who share same vascular pathological substrate as most ICH; arteriolosclerosis).232 Data on the outcome death and dependence related to antihypertensive treatment in the post-acute phase following ICH were not identified.
+
+# Oral anticoagulation (OAC)
+
+PICO 6.2 In adults with spontaneous ICH and nonvalvular atrial fibrillation (NVAF), does the longterm use of oral anticoagulation (OAC) compared with the avoidance of OAC reduce death, major adverse cardiovascular events, and recurrent ICH?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous ICH and non-valvular atrial fibrillation (NVAF), there is uncertainty about the net benefit of long-term oral anticoagulation (OAC) to reduce the risk of major adverse cardiovascular events and death or dependence compared with the avoidance of OAC, so we encourage recruitment to randomised controlled trials.
+
+Quality of evidence: Low ⊕⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement
+
+Direct oral anticoagulant (DOAC) treatment after ICH in patients with non-valvular atrial fibrillation (NVAF) seems to increase the risk of recurrent ICH, but reduces the overall risk of major adverse cardiovascular events, so DOAC may be considered after careful evaluation of the individual riskbenefit profile.
+
+Vote: 14/15
+
+# Analysis of current evidence
+
+The guideline group graded the following outcomes as critical for reinstating OAC treatment after ICH: death, major adverse cardiovascular events, and ICH recurrence. While untreated NVAF strongly increases the risk of systemic embolism and death, resuming long-term OAC therapy in adults with prior ICH and NVAF is still challenging. We searched databases from January 2013 to May 2024. This was updated in line with a recent RCT that was included in the guideline and had searched the literature up to January 2025.8 We identified three RCTs (n = 619) addressing the use of long-term oral anticoagulant (OAC) therapy after spontaneous ICH in patients with AF (SoSTART n = 203; APACHE-AF n= 101; PRESTIGE-AF n= 319; Supplement for PICO 6: description of single studies, Supplement for PICO 6.2: GRADE evidence profile).8,233,234 There was no difference in the risk of death during the follow-up period for patients taking OAC treatment compared with standard clinical practice without OAC (OR 1.12, 95% CI: 0.54– 2.35; 3 RCTs, n = 623, low certainty evidence; with substantial heterogeneity, Figure 66).
+
+Overall, there was a reduction in the occurrence of major adverse cardiovascular events during the follow-up period with OAC versus standard care without OAC treatment (OR 0.64, 95% CI 0.43–0.95; 3 RCTs, n = 623, low certainty evidence; Figure 67).
+
+There is a higher risk of ICH recurrence in the group of patients who restarted OAC therapy compared with those who received standard care (OR 3.62, 95% CI 1.31– 10.00; 3 RCTs, n = 623, moderate certainty evidence; Figure 68).
+
+# Additional information
+
+Our literature search identified a Cochrane review (2023) that included the NASPAF-ICH trial (NCT02998905) that randomised adults with prior ICH and atrial fibrillation (CHADS2 ⩾ 2) to DOAC versus acetylsalicylic acid (ASA), however this paper was unpublished and patient data was shared through the individual patient data meta-analysis (IPDMA).174 Meta-analyses from the Cochrane review demonstrated a reduction of all major adverse cardiovascular events (MACE) in patients receiving OAC treatment compared with avoiding OAC (RR 0.61, 95% CI 0.40–0.94). Our literature search also identified a recent meta-analysis that studied the effects of starting versus avoiding anticoagulation in people with spontaneous ICH and NVAF.235 This meta-analysis included a subgroup of ICH patients from the ELDERCARE-AF trial (n = 80) whose data was retrieved through the IPDMA. ELDERCARE-AF studied off-label low-dose edoxaban (15 mg/day) versus placebo.236 Results from the meta-analysis demonstrated a reduction in ischaemic stroke in patients receiving OAC treatment compared with avoiding OAC (HR 0.27, 95% CI 0.13–0.56). Considering that the NASPAF-ICH trial was unpublished, and that the ELDERCARE-AF trial randomised patients to an off-label (15 mg) dose of edoxaban (standard dose
+
+![](images/2e53ae408539e6d615be54c9387940b2ed1945e95a71d3132b7e7328ba05851f.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Oral anticoagulation Events | Oral anticoagulation Total | Avoid oral anticoagulation Events | Avoid oral anticoagulation Total | Weight (%) | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI | Risk of Bias |
+|---|---|---|---|---|---|---|---|---|
+| APACHE-AF 2021 | 9 | 50 | 11 | 51 | 28.1% | 0.80 [0.30, 2.13] | Favours [Oral anticoagulation] | A B C D E F G |
+| SoSTART 2021 | 22 | 101 | 11 | 102 | 34.3% | 2.30 [1.05, 5.05] | Favours [Avoid oral anticoagulation] | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?
+Total (Walda) Total events: Test for overall effect: Z = 0.31 (P = 0.76) Test for subgroup differences: Not applicable Heterogeneity: Tau² (DLb) = 0.26; Chi² = 4.99, df = 2 (P = 0.08); I² = 60%
+Footnotes
+aCI calculated by Wald-type method.
+bTau² calculated by DerSimonian and Laird method.
+</details>
+
+Figure 66. Effects on death of restarting oral anticoagulant therapy compared with avoiding oral anticoagulation in adults with ICH and NVAF.
+
+![](images/789dfac15fdb8ff3832a38a9d165714aa3132df2cbfd3d8d1f256cbe96f0de26.jpg)  
+Figure 67. Effect of major adverse cardiovascular events of restarting oral anticoagulant therapy compared with avoiding oral anticoagulation in adults with ICH and NVAF.
+
+![](images/1a94c059c818689db0c9319fd668722d6395b2d037ceada70740d8ce4abeb09b.jpg)  
+Figure 68. Effects on recurrent ICH of restarting oral anticoagulant therapy compared with avoiding oral anticoagulation in adults with ICH and AF.
+
+60 mg, adjusted dose 30 mg) for NVAF, these two studies were not included in the current meta-analysis.
+
+A safety review of the ENRICH-AF trial (NCT03950076) has resulted in the decision to cease patient recruitment to the trial based on observations of unacceptably high risk of ICH recurrence among patients with lobar ICH and/or non-aneurysmal convexity subarachnoid haemorrhage (SAH), but these data remain unpublished.237
+
+Altogether, these findings suggest that there is an expected reduction in ischaemic events and increase in haemorrhagic events with OAC for NVAF after ICH, but the overall effects – and in particular the effect on death or dependence – are uncertain.
+
+Prior to reinstating OAC treatment after ICH, the individual risk for bleeding and thromboembolic events should be carefully evaluated. This evaluation should consider several factors including the underlying ICH cause. Validated risk assessment tools, such as the HAS-BLED score for bleeding risk and the CHA2DS2-VASc score for thromboembolic risk, are useful in guiding clinical decisions. However, the HAS-BLED score has several limitations including its applicability to VKA-ICH, limited predictive power, and its inability to account for certain non-modifiable risk factors. Therefore, reinstating OAC treatment after ICH should not be based solely on these tools but should involve a comprehensive clinical evaluation. Selection criteria for adults with prior ICH and NVAF that may not benefit from the resumption or the initiation of OAC include the following:
+
+1. patients with CAA-unrelated ICH and ⩾10 CMBs,238   
+2. patients with CAA-related ICH with superficial siderosis or non-aneurysmal convexity SAH,233–235,237,239,240   
+3. patients with CAA-related ICH with the presence of ⩾5 lobar CMBs,   
+4. uncontrolled hypertension,238   
+5. chronic alcohol abuse.241
+
+In considering anticoagulation in patients with prior ICH, the use of DOAC is recommended over VKA given the lower risk profile of intracranial bleeding associated with DOAC.242
+
+Ongoing trials. There are ongoing trials that address the resumption of OAC following ICH in people with AF: NCT03243175 (A3ICH, planned sample size N=300), NCT03907046 (ASPIRE, N=700), NCT03950076 (ENRICH-AF, N=948). The STATICH trial (NCT03186729) has been terminated due to a lack of resources, with no results available yet. Further information about overall effects and net benefit on death or dependence will be available from the inclusion of these RCTs in the COCROACH IPDMA.243 Left atrial appendage occlusion (LAAO) for atrial fibrillation
+
+PICO 6.3 In adults with spontaneous ICH with nonvalvular atrial fibrillation (NVAF) does left atrial appendage occlusion (LAAO) compared with the avoidance of LAAO reduce major vascular events or death or dependence?
+
+# Evidence-based Recommendation
+
+In adults with a history of prior ICH and non-valvular atrial fibrillation (NVAF), there is uncertainty about the effects of left atrial appendage occlusion (LAAO) compared to longterm anticoagulation for the prevention of thromboembolic events, and we encourage enrolment in randomised controlled trials.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement:
+
+A: Left atrial appendage occlusion (LAAO) may be considered as a means to reduce thromboembolic events in adults with prior ICH and non-valvular atrial fibrillation (NVAF), who are considered unsuitable for long-term OAC therapy (e.g. people with imaging or pathological evidence of cerebral amyloid angiopathy), and we encourage enrolment of these patients in randomised controlled trials.
+
+Vote: 15/15
+
+B: We suggest periprocedural antithrombotic treatment according to the recommendation provided by the European Society of Cardiology.
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+Adults with ICH and previous NVAF pose a unique challenge due to the relative contraindication of long-term anticoagulation. Left atrial appendage occlusion (LAAO) has emerged as an alternative for NVAF patients who are unsuitable for long-term oral anticoagulation. Our search found no published RCTs addressing this specific population. The concept of LAAO application in adults with contraindication for long-term OAC is supported by the PREVAIL and PROTECT-AF trials showing non-inferiority to vitamin K-antagonists (VKA) in preventing ischaemic stroke, with lower rates of ICH and mortality.244,245 A description of observational studies on LAAO for patients with ICH and NVAF who are unsuitable for long-term anticoagulation is provided in the Supplemental material. All studies either lack control groups or rely on propensity score-matched retrospective designs, using registry data to form control groups.
+
+# Additional information
+
+There are no randomised trials evaluating periprocedural antithrombotic treatment in the context of LAAO. The European Society of Cardiology has made recommendations addressing periprocedural antithrombotic therapy as well as alternative procedures for patients unable to tolerate antiplatelet therapy.246 More information on smaller, single-centre and multicentre prospective, observational studies is provided in description of single studies for PICO 6.3 in the Supplement.
+
+Two phase III clinical trials addressing LAAO versus OAC in patients with prior ICH and AF are stated as ongoing in ClinicalTrials.gov: NCT03243175 (A3ICH), NCT04298723 (CLEARANCE; end expected in 2027), while two trials are finished: NCT03463317 (CLOSURE-AF, completed), and NCT02830152 (STROKECLOSE; status suspended).
+
+# Antiplatelet therapy
+
+PICO 6.4 In adults with spontaneous ICH, does antiplatelet therapy versus avoidance of antiplatelet therapy reduce major vascular events, death or dependence?
+
+# Evidence-based Recommendation
+
+In adults with spontaneous ICH who were taking antiplatelet therapy before the event, we suggest restarting antiplatelet therapy for a licensed indication is safe, but overall effects are uncertain.
+
+Quality of evidence: Moderate ⊕⊕⊕
+
+Strength of recommendation: Weak for intervention ?↑
+
+# Expert consensus statement
+
+We suggest to consider restarting or initiating antiplatelet treatment if there is a licensed indication, ideally within randomised controlled trials. Antiplatelet therapy without a licensed indication should not be initiated outside of randomised controlled trials
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+The guideline group graded the following outcomes as critical for reinstating antiplatelet treatment after ICH: ICH recurrence, major occlusive vascular events, and death. Our literature search identified one RCT comparing a strategy of restarting antiplatelet therapy to avoiding restarting antiplatelet therapy in patients who survived an ICH at least 24h and had their therapy discontinued: The RESTART trial enrolled 537 patients with ICH recruited at a median of 76days after the event (Supplement for PICO 6.4: GRADE evidence profile).247 Patients were randomly assigned in a 1:1 ratio to start or avoid antiplatelet therapy and were followed for a median of 2.0 years (IQR 1.0–3.0). It is of noteworthy that the RESTART study included only patients who had been on antithrombotic therapy prior to the onset of ICH.
+
+Recurrence of intracerebral haemorrhage occurred in 12 (4%) of 268 participants allocated to antiplatelet therapy compared with 23 (9%) of 268 participants allocated to avoid antiplatelet therapy (OR 0.50, 95% CI 0.24–1.03, 1 RCT, n = 268, very low certainty evidence; Figure 69).
+
+Thirty-nine (15%) participants allocated to antiplatelet therapy had major occlusive vascular events compared with 38 (14%) allocated to avoid antiplatelet therapy (OR 1.03, 95% CI 0.64–1.67, 1 RCT, n = 268, very low certainty evidence; Figure 70).
+
+![](images/75ae4cb342326fda9d69f78a23a0516a4b8efc1cea98c90fdb0fcbdd969058c6.jpg)
+
+<details>
+<summary>scatter</summary>
+
+| Study or Subgroup | Antiplatelet therapy Events | Antiplatelet therapy Total | Avoid antiplatelet therapy Events | Avoid antiplatelet therapy Total | Weight | Odds ratio M-H, Random, 95% CI |
+| --- | --- | --- | --- | --- | --- | --- |
+| RESTART 2019 | 12 | 268 | 23 | 268 | 100.0% | 0.50 [0.24, 1.03] |
+| Total (95% CI) | 268 | 268 | 23 | 268 | 100.0% | 0.50 [0.24, 1.03] |
+| Heterogeneity: Not applicable | 12 | 268 | 23 | 268 | 100.0% | Favours [Antiplatelet therapy] |
+| Test for overall effect: Z = 1.89 (P = 0.06) | 12 | 268 | 23 | 268 | 100.0% | Favours [Antiplatelet therapy] |
+| Test for subgroup differences: Not applicable | 12 | 268 | 23 | 268 | 100.0% | Favours [Antiplatelet therapy] |
+Risk of Bias A B C D E F G
+</details>
+
+Figure 69. Effects on recurrent ICH of restarting antiplatelet therapy compared with avoiding antiplatelet therapy in adults with ICH.
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Antiplatelet therapy</td><td colspan="2">Avoid antiplatelet therapy</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td colspan="7">Risk of Bias</td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td></tr><tr><td>RESTART 2019</td><td>39</td><td>268</td><td>38</td><td>268</td><td>100.0%</td><td>1.03 [0.64 , 1.67]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total (95% CI)</td><td></td><td>268</td><td></td><td>268</td><td>100.0%</td><td>1.03 [0.64 , 1.67]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total events:</td><td>39</td><td></td><td>38</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="7">Heterogeneity: Not applicable</td><td rowspan="3" colspan="8">Favours [Antiplatelet therapy] Favours [Avoid antiplatelet therapy]</td></tr><tr><td colspan="7">Test for overall effect: Z = 0.12 (P = 0.90)</td></tr><tr><td colspan="7">Test for subgroup differences: Not applicable</td></tr></table>
+
+Figure 70. Effects of Major occlusive vascular events of restarting antiplatelet therapy compared with avoiding antiplatelet therapy in people with ICH.
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Antiplatelet therapy</td><td colspan="2">Avoid antiplatelet therapy</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td colspan="6">Risk of Bias</td><td></td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td></tr><tr><td>RESTART 2019</td><td>54</td><td>268</td><td>50</td><td>268</td><td>100.0%</td><td>1.10 [0.72 , 1.69]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total (95% CI)</td><td></td><td>268</td><td></td><td>268</td><td>100.0%</td><td>1.10 [0.72 , 1.69]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total events:</td><td>54</td><td></td><td>50</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="7">Heterogeneity: Not applicable</td><td rowspan="3" colspan="8">Favours [Antiplatelet therapy] Favours [Avoid antiplatelet therapy]</td></tr><tr><td colspan="7">Test for overall effect: Z = 0.44 (P = 0.66)</td></tr><tr><td colspan="7">Test for subgroup differences: Not applicable</td></tr></table>
+
+Figure 71. Effects on death of restarting antiplatelet therapy compared with avoiding antiplatelet therapy in people with ICH.
+
+No difference in the death rate was found during the follow-up period in patients restarting antiplatelet therapy compared with avoiding antiplatelet therapy (OR 1.10, 95% CI 0.72–1.69, 1 RCT, n = 268, very low certainty evidence; Figure 71).
+
+# Additional information
+
+Recent observational studies have identified patients with ICH as having an increased risk of arterial ischaemic events compared with population controls.141,242 The risk of ischaemic stroke is high in people with lobar and with nonlobar ICH.248,249 The short-term risk of ischaemic stroke appears to be as high in people with deep ICH as with lacunar ischaemic stroke, both conditions thought to be caused by the same underlying hypertension-related small vessel disease.249,250 Thus, patients with ICH due to an underlying hypertensive microangiopathy may also be at an increased risk of major ischaemic vascular events. Consequently, antiplatelet therapy could prove beneficial, regardless of prior antiplatelet use before ICH onset. However, there is currently no evidence to support the initiation of antiplatelet therapy solely based on a history of ICH.
+
+The ongoing ASPIRING trial (ISRCTN16705062) seeks to determine the safety and efficacy of antiplatelet agents in ICH survivors, regardless of prior antiplatelet use, and aims to recruit 4148 participants.
+
+# Statins
+
+PICO 6.5 For adults with spontaneous ICH, does secondary prevention with statin compared with no statin therapy reduce recurrent ICH, major vascular events, death, or dependence?
+
+# Evidence-based Recommendation
+
+In adults with a history of ICH, continuing uncertainty exists regarding secondary prevention with statin compared to no statin therapy to reduce recurrent ICH, major vascular events, or death. We recommend inclusion of suitable patients in ongoing randomised controlled trials.
+
+Quality of evidence: Very low ⊕
+
+Strength of recommendation: -
+
+# Expert consensus statement
+
+In adults with a history of ICH and an indication for statin use, we suggest initiating statin treatment over no use of statin therapy in patients with high cardiovascular risk in primary as well a secondary prevention after evaluation of the individual risk-benefit profile.
+
+Vote: 15/15
+
+# Analysis of current evidence
+
+The guideline group graded the following outcomes as critical or important for statin treatment after ICH: death, major ischaemic vascular events, and ICH recurrence. While there is high level evidence for the preventive benefits of statins in cardiovascular disease, controversies exist regarding their effect on the risk of ICH.251,252 In one large RCT, the SPARCL trial revealed a higher risk of ICH among patients receiving statin therapy compared with placebo.253 This effect did not offset the significant reduction in cardiovascular mortality in people who were on statins and the absolute number of ICH occurrence was low. Nevertheless, taken together with observational studies indicating an inverse correlation between elevated cholesterol levels and ICH risk,254 these findings have led to question the advisability of statin use in all patients with a history of ICH.45
+
+![](images/5c1b76c369dd2dc589649f5d06dcd6ce31c923bd689fc6e8d221ab9219e6a3c6.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Events | Total | No statin treatment or delayed statin treatment | Total | Weight | Odds ratio M-H, Random, 95% CI | Odds ratio M-H, Random, 95% CI | Risk of Bias |
+|---|---|---|---|---|---|---|---|---|
+| Asberg 2018 | 199 | 1702 | 1235 | 1702 | 14.4% | 0.05 [0.04 , 0.06] | < 0.05 | ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?? ?
+Test for overall effect: Z = 2.55 (P = 0.01)
+Test for subgroup differences: Not applicable
+Heterogeneity: Tau² (DLb) = 1.23; Chi² = 553.78, df = 6 (P < 0.00001); I² = 99%
+Favours [Statin treatment or early statin treatment] Favours [No statin treatment or delayed statin treatment]
+</details>
+
+Footnotes   
+aCl calculated by Wald-type method.   
+bTau²calculated by DerSimonianand Lairdmethod
+
+Figure 72. Effect on death of statins versus no statins in observational studies in people with ICH. 
+
+<table><tr><td rowspan="2">Study or Subgroup</td><td colspan="2">Statin treatment or early statin treatment</td><td colspan="2">No statin treatment or delayed statin treatment</td><td rowspan="2">Weight</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td rowspan="2">Odds ratio M-H, Random, 95% CI</td><td colspan="5">Risk of Bias</td><td></td><td></td></tr><tr><td>Events</td><td>Total</td><td>Events</td><td>Total</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td></tr><tr><td>Goldstein 2008</td><td>10</td><td>45</td><td>4</td><td>48</td><td>15.1%</td><td>3.14 [0.91 , 10.88]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Chung 2018</td><td>52</td><td>708</td><td>90</td><td>708</td><td>40.2%</td><td>0.54 [0.38 , 0.78]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lin 2019</td><td>211</td><td>1338</td><td>221</td><td>1338</td><td>44.7%</td><td>0.95 [0.77 , 1.16]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total (Wald³)</td><td></td><td>2091</td><td></td><td>2094</td><td>100.0%</td><td>0.91 [0.51 , 1.63]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total events:</td><td>273</td><td></td><td>315</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="15">Test for overall effect: Z = 0.32 (P = 0.75)</td></tr><tr><td colspan="15">Test for subgroup differences: Not applicable</td></tr><tr><td colspan="15">Heterogeneity: Tau² (DLb) = 0.19; Chi² = 11.24, df = 2 (P = 0.004); I² = 82%</td></tr></table>
+
+Footnotes   
+aClcalculated by Wald-typemethod.   
+bTau²calculated by DerSimonian and Laird method
+
+Figure 73. Effect on major vascular events of statins versus no statins of observational studies and a sub-study of the SPARCL trial in people with ICH.
+
+Currently, there are no RCTs addressing the effects of statin use on specific endpoints following ICH.
+
+As there were no RCTs, we performed a meta-analysis including a total of nine observational studies comparing the resumption or continuation of statin treatment versus no statin treatment after ICH, with a follow-up period of at least 1 year (Supplement for PICO 6.5: GRADE evidence profile). Additionally, a sub-study from the SPARCL trial, which involved a small ICH population (n = 93), was incorporated into the analysis. The analysis revealed a considerable heterogeneity among the included studies, attributable to variations in the timing of statin intervention and the duration of follow-up periods. Furthermore, due to the observational nature of the studies included in the metaanalysis, inherent bias cannot be overlooked. Individuals identified in the patient registers who fulfilled inclusion criteria for statin use most likely had a cardiovascular risk factor necessitating treatment in comparison to patients who avoided statins. An indication for statin therapy may have been overlooked in the patients identified as control.
+
+A total of seven studies were included in mortality analysis. Mortality was lower in people treated with statins after ICH compared with no statins (OR 0.34, 95% CI 0.15–0.78, 7 observational studies, n = 16,267, very low certainty evidence; Figure 72).
+
+In a meta-analysis of two observational studies and a SPARCL sub-study, there was no difference in the occurrence of major vascular events in people with and without statin treatment after ICH (OR 0.91, 95% CI 0.51–1.63, 1 RCT sub-study and 2 observational studies, n = 2094, very low certainty evidence; Figure 73).
+
+In a total of seven studies, a reduction in ICH recurrence was seen in people taking statin treatment compared with no treatment (OR 0.78, 95% CI 0.64–0.95, 7 observational studies, n = 38,031, very low certainty evidence; Figure 74). The SPARCL trial included a sub-study on ICH patients treated with atorvastatin 80 mg once daily (n = 45; 2% of the overall trial population) within 1–6 months after ICH compared with patients without statin treatment (n = 48), with a mean follow-up period of 4.9 years. Statin treatment was associated with an approximate threefold increase in any stroke (HR 2.82, 95% CI 0.89– 9.01) and a fourfold increase in recurrent ICH (HR 4.06, 95% CI 0.84–19.57) when compared with no statin treatment in this sub-analysis.255 However, the small-sample-size and low number of events limit statistical power.
+
+# Additional information
+
+Statins and other cholesterol-lowering medications have been proven to be effective in preventing of cardiovascular disease. Given that many adults with a history of ICH also possess an elevated risk of cardiovascular disease, it is important to determine whether statin treatment after
+
+![](images/5a4b4fa49f5f8e4b689921a878cbf2bc88cbb5d8fd75ff9e2b9645d89b37383e.jpg)
+
+<details>
+<summary>forest</summary>
+
+| Study or Subgroup | Statin treatment or early statin treatment<lcel><fcel>No statin treatment or delayed statin treatment<lcel><fcel>Weight<fcel>Odds ratio M-H, Random, 95% CI<fcel>Odds ratio M-H, Random, 95% CI<fcel>Risk of Bias<lcel><lcel><lcel><lcel><nl><ucel><fcel>Events<fcel>Total<fcel>Events<fcel>Total<ucel><ucel><ucel><ucel><fcel>A<fcel>B<fcel>C<fcel>D<fcel>E<fcel>F<fcel>G<nl><fcel>Chen 2015<fcel>69<fcel>749<fcel>677<fcel>7583<fcel>16.9%<fcel>1.04 [0.80, 1.34]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Chung 2018<fcel>47<fcel>708<fcel>57<fcel>708<fcel>11.9%<fcel>0.81 [0.54, 1.21]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Goldstein 2008<fcel>7<fcel>45<fcel>2<fcel>48<fcel>1.3%<fcel>4.24 [0.83, 21.61]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Lin 2019<fcel>72<fcel>1338<fcel>114<fcel>1338<fcel>15.1%<fcel>0.61 [0.45, 0.83]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Lin 2021<fcel>153<fcel>1702<fcel>171<fcel>1702<fcel>18.1%<fcel>0.88 [0.70, 1.11]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Ribe 2020<fcel>118<fcel>2728<fcel>777<fcel>13640<fcel>19.3%<fcel>0.75 [0.61, 0.91]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Schmidt 2016<fcel>73<fcel>2258<fcel>701<fcel>13012<fcel>17.4%<fcel>0.59 [0.46, 0.75]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Total (Wald)¹<ecel><fcel>9528<ecel><fcel>38031<fcel>100.0%<fcel>0.78 [0.64, 0.95]<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl><fcel>Total events:<fcel>539<ecel><fcel>2499<ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><ecel><nl>
+</details>
+
+Footnotes aCl calculated byWald-type method. bTau²calculatedby DerSimonianand Lairdmethod.   
+Figure 74. Effects on recurrence of ICH of statins versus no statins in observational studies and a sub-study of the SPARCL trial in people with ICH.
+
+ICH is associated with negative outcomes. However, due to the absence of strong evidence, there is some reluctance in unequivocally recommending the use of statins in all adults with a history of ICH.155
+
+There is an ongoing trial addressing statin use in people with lobar ICH already on statins randomised to discontinuation or continuation of statin therapy (SATURN NCT03936361).
+
+# Discussion
+
+We present the ESO/EANS guidelines for the management of intracerebral haemorrhage (ICH). Since the last ESO guidelines in 2014, there has been a significant increase in RCTs of interventions for ICH.5,55,256 As a result, our primary focus was on RCTs, incorporating observational studies of high quality only where RCTs were unavailable. Additionally, we shifted our perspective on recommendations, prioritising clinical benefit as the primary criterion for both diagnostic and therapeutic interventions. This change explains why certain recommendations are now accompanied by consensus statements and, in some cases, differ from previous guidelines (Table 2).
+
+We found strong evidence supporting the management of adults with acute ICH in organised stroke units, provided they do not require intensive care treatment. The term ‘organised’ emphasises the need for specific quality criteria, which may be ensured through a certification process in some countries, while other quality assurance measures may apply elsewhere. The ESO also encourages hospitals across Europe to apply for ESO Stroke Unit or Stroke Centre certification through an established procedure (https://eso-stroke.org/projects/ stroke-unit-and-stroke-centre-certification/). The primary treatment goal for acute ICH is to prevent haematoma expansion, based on the principle that reducing expansion leads to clinical benefits. Most haematoma expansion occurs within 30 min to 3 h after onset.80 The American Heart Association/American Stroke Association (AHA/ ASA) recommends obtaining a brain CT or MRI within 25 min of hospital arrival.257 We advocate for confirming the diagnosis with CT/CTA or MRI/MRA as quickly as possible. Regarding imaging procedures, we suggest a stepwise approach applying various imaging techniques, including CCT, CTA, MRI, MRA, followed by IADSA in selected adults with ICH.
+
+Blood pressure is the one driving force of haematoma expansion, the other one being coagulation disturbances (see below). INTERACT-4 is the first RCT demonstrating that very early (within 2 h of onset) lowering of blood pressure limits haematoma expansion and turns into a clinical benefit for adults with acute ICH by keeping systolic blood pressure below 140 mmHg and keep it there for 7 days.57 With respect to our main focus being benefit of clinical outcome, we make a weak recommendation on keeping systolic blood pressure (SBP) below 140 mmHg within 6 h in minor to moderate ICH, which we define as haematoma volumes below 30 mL, in adults patient with ICH and a SBP of 150–220 mmHg based on a meta-analysis of 10 RCTs including 1 RCT (INTERACT-4) in a Chinese population. Besides mentioning a target range, this recommendation is similar to the AHA recommendation stating that ‘in patients with spontaneous ICH mild to moderate severity presenting with SBP between 150 and 220 mmHg, acute lowering of SBP to a target of 140 mmHg with the goal of maintaining in the range of 130 to 150 mmHg’.45 One reason for an upper trigger threshold is the observation of higher rates of neurological deterioration and no effect on haematoma expansion within 24 h in patients treated with intensive blood pressure lowering.84
+
+Other important management aspects need to be considered, which are a treatment threshold or range, timing, volume of ICH, variability and duration of blood pressure treatment. The evidence concerning these aspects, however, does not allow for a recommendation according to the GRADE approach, which is why we present an expert consensus statement. First, with respect to timing of treatment of SBP lowering, we recommend at least to treat within 6 h and suggest for to lower blood pressure as fast as possible. This is based on our meta-analysis on nine
+
+RCTs (Figure 3) that reveals in increasing effect on clinical outcome with decreasing treatment times, and the lowest analysable time of 6 h, but the recognition from various observations that a shorter time frame might even be better. Second, the association between a benefit from SBP lowering and ICH volume has not been studied over a wider range of volumes. The median volumes in the large RCTs are at about 14 mL with a range between 5 and 40 mL.57,58,62,64,80 The threshold of 30 mL is mainly based on the observation that mortality is over 90% in patients with volumes ⩾60mL, about 30%–55% with volume⩾ 30mL, and still up 20% below 30 mL.258,259 Elevated intracranial pressure with decreased cerebral perfusion pressures were found to be associated with increased mortality.260,261 Third, concerning treatment threshold or range: One reason for defining a lower SBP target is to avoid critical hypoperfusion for example, acute renal failure.64 This was considered in the current guideline by recommending to keep SBP above 110 mmHg and not to lower SBP by more than 70 mmHg, mainly based on prospective data of ATACH-2.64 The ASA is recommending ‘the goal of maintaining in the range of 130 to 150 mmHg’. Similarly, the Canadian Best Practice guideline recommends an ‘individual target of less than 140–160 mmHg for the first 24–48 hours’, and mentions factors that may ‘favor a lower target within this range (i.e. <140 mmHg) may include: presentation within 6 hours of symptom onset; presenting SBP no greater than 220 mmHg; anticoagulation therapy; presence of neuroimaging markers of expansion and / or normal renal function’. Another aspect of defining a blood pressure range is the association of SBP variability and poor clinical outcome.77,262 This is why we suggest minimising variability. 76 Fourth, variability leads over to the question on necessary properties of antihypertensive drugs. The antihypertensive drugs that are currently most commonly used in the acute phase ICH may not be sufficiently suitable to ensure well-controlled blood pressure therapy particularly with respect to half-life time and control of blood pressure variability. RCTs are needed comparing the effect of different drug pharmacokinetics on blood pressure variability, for example, the CLUTCH trial comparing clevidipin with standard care (NCT06402968). Fifth, with respect to the question on duration of SBP lowering treatment, we suggested 7 days, which, at this time, is based on only one RCT (INTERACT-3).80
+
+None of the haemostatic therapies has proven a clinical benefit so far. This is why we did not make a recommendation for the use either of these agents with respect to clinical outcome, but we suggest considering the use for preventing haematoma expansion and certain circumstances in the consensus statements. In the meta-analyses haematoma expansion revealed the direction of the effect favouring rFVIIa (Figure 10) and was significant for TXA in spontaneous ICH (Figure 15). For ICH associated with OAC use, the direction of the effect favoured the use of PCC plus vitamin K in VKA-ICH (Figure 27). For factor Xa inhibitor associated ICH we found a significant effect on haematoma expansion in favour of andexanet alfa (Figure 30). The use of andexanet alfa might further be considered applying study inclusion criteria of ANNEXA-4: for rivaroxaban, and apixaban, within 15 h after the last dose of a FXaI, proven factor Anti-FXa activity > 100 ng/mL and within 12 h since onset of symptoms. There are no RCTs on PCC concerning its effect on clinical outcome and haematoma expansion in ICH associated with direct oral anticoagulants. In theory, the use of PCC might be plausible because of its factor X component. However the amount of factor X in PCC is probably much lower than that of factor X in andexanet  alfa, which contains recombinant modified human factor Xa.263 PCC was given to 85.5% of patients in the control group of ANNEXA-I, and thromboembolic adverse events where lower than with andexanet alfa.99 Given the high risk of haematoma expansion in the early hours,71 the high mortality associated with haematoma expansion, and the clear effect of andexanet alfa on reduction of haematoma expansion, we suggest considering the use of PCC only in situations where andexanet alfa might not be available. Idarucizumab, as the only licensed reversal agent for the FII-inhibitor (dabigatran) associated life-threatening bleeding clearly impacted on specific coagulation parameters and decreased dabigatran concentrations.
+
+Neurosurgical intervention in acute ICH aims to reduce haematoma volume, alleviate mass effect and prevent secondary brain injury. However, its efficacy varies depending on haematoma location, size, neurological status of the patient and the timing and type of intervention. The choice of surgical technique – craniotomy, minimally invasive surgery (MIS), catheter placement with thrombolysis or decompressive craniectomy – requires careful consideration based on individual patient factors. Craniotomy remains a conventional approach for haematoma evacuation, yet studies such as STICH and STICH-II have failed to demonstrate significant benefits in reducing mortality or improving functional outcomes. A meta-analysis of 6 RCTs (1827 participants, Figure 33) found no clear mortality benefit. Despite this, craniotomy may be considered for non-comatose patients with lobar ICH when MIS is not feasible. Minimally Invasive Surgery (MIS) techniques, including stereotactic aspiration and endoscopic evacuation, have gained traction as less invasive alternatives. A meta-analysis of 4 RCTs (637 participants) demonstrated a mortality reduction (OR 0.49, 95% CI: 0.30–0.81) and improved functional outcomes (OR 1.84, 95% CI: 1.29–2.61). The ENRICH trial, which employed a tubular access device for lobar ICH within 24 h of onset, reported superior functional recovery compared with medical management.138 However, benefits for deep ICH remain uncertain. The MIND trial, which was not include in our metaanalyses because it has only been presented at the Congress of Neurological Surgeons (30.09.24), used a different aspiration device (with a smaller diameter as in ENRICH), operated later (within 72 h), and 70% had deep location (thalamus excluded), but did not demonstrate a clinical benefit. Catheter-based haematoma evacuation combined with thrombolytic therapy (e.g. rt-PA) has been explored as a means to enhance haematoma clearance. MISTIE-III found that haematoma reduction to ⩽15 mL was associated with improved outcomes.130 However, a meta-analysis of 3 RCTs (660 participants) did not demonstrate significant mortality reduction (OR 0.76, 95% CI: 0.53–1.09). The role of this approach remains under investigation. For patients with severe deep ICH and significant mass effect, decompressive craniectomy without haematoma evacuation may be beneficial. The SWITCH trial suggested a mortality reduction (OR 0.55, 95% CI 0.27–1.10) but did not confirm clear functional benefits. Further research is needed to establish patient selection criteria. ICH with intraventricular extension frequently leads to hydrocephalus, necessitating EVD. While no RCTs directly compare EVD with conservative management, retrospective studies suggest mortality benefits. Intraventricular thrombolysis, as evaluated in CLEAR-III, enhanced haematoma clearance but did not improve functional outcomes, with an increased proportion of survivors who were severely disabled (mRS 5).152 Surgical evacuation of large cerebellar haemorrhages (>15 mL) is recommended to improve survival, particularly in patients with brainstem compression or hydrocephalus. Despite the absence of RCTs, observational data indicate a reduced mortality (OR 0.44, 95% CI 0.26–0.72), although, functional outcomes remain similar between surgical and conservative management groups.
+
+Patients with acute ICH are at high risk of venous thromboembolism (VTE), including DVT and PE, due to prolonged immobility. Physical measures such as intermittent pneumatic compression (IPC) stockings are suggested for 30 days or until the patient achieves independent ambulation. Evidence from RCTs (CLOTS-1, CLOTS-3) indicates that IPC reduces the incidence of DVT, however its impact on PE and mortality remains uncertain. Thighlength graduated compression stockings have not demonstrated a significant benefit over standard care. IPC use may be limited by adherence issues and associated skin lesions. For patients in whom IPC is not feasible, lowmolecular-weight heparins (LMWH) may be considered, particularly in those at high risk for thromboembolism. However, the initiation of LMWH should be carefully timed after ensuring ICH stability, as data is lacking regarding an earlier administration (within 24 h). Our expert consensus supports LMWH prophylaxis in immobile patients if IPC is unavailable, but enrolment in clinical trials is recommended to refine best practices. Hyperthermia is associated with worse outcomes in ICH patients. However, based on the available evidence, active temperature management as a standalone intervention is not recommended. Evidence suggests that normothermia, as part of a structured care bundle, may however improve clinical outcomes.80 Trials evaluating therapeutic hypothermia in ICH (TTM-ICH, CINCH) have not been published yet,182,264 and no definitive RCTs support its routine use. Hyperglycaemia is common in acute ICH and is associated with poor outcomes. However, intensive glucose control (targeting 80–110 mg/dL) is not recommended due to an increased risk of hypoglycaemia, which itself is linked to adverse outcomes. Instead, maintaining blood glucose levels within a moderate range (110–180 mg/dL) is suggested. The SHINE trial for people with ischaemic stroke found no benefit of intensive glucose control, highlighting the need for cautious management in ICH. Elevated ICP is a critical concern in acute ICH, particularly in patients with large haematomas, intraventricular extension, or brainstem involvement. While routine ICP monitoring is not universally recommended, invasive ICP monitoring may be considered in patients with space-occupying ICH when clinical monitoring alone is insufficient. Preferably, intraventricular measurements with the option for CSF drainage should be used. The SYNAPSE-ICU study suggested a potential survival benefit with ICP monitoring in severe ICH, but no clear evidence supports its impact on functional outcomes.186,189
+
+Anti-Inflammatory Interventions: Despite the theoretical benefits of reducing perihaematomal oedema and secondary brain injury, anti-inflammatory treatments (e.g. corticosteroids, deferoxamine, fingolimod, minocycline) have not demonstrated clinical efficacy. RCTs have shown that corticosteroids may increase mortality, while deferoxamine and fingolimod have not shown significant functional benefits. Ongoing trials are investigating alternative anti-inflammatory approaches, but current evidence does not support their routine use. Seizures occur in up to 16% of patients with ICH, particularly in those with lobar haemorrhages. However, the prophylactic use of anti-seizure medications (ASM) is not recommended due to a lack of evidence supporting its efficacy. RCTs have shown no reduction in seizure incidence with preventive ASM use, and some observational studies suggest a potential association with worse functional outcomes.210,265 For patients who experience acute symptomatic seizures within the first 7 days, short-term ASM use may be considered, with discontinuation after 4 weeks if no further seizures occur. This is in line with the latest Clinical Practice Guideline for Seizure Prophylaxis in patients with ICH from the Neurocritical Care Society.266 A structured, multimodal approach – care bundle – to acute ICH management has shown promise in improving outcomes. The INTERACT-3 trial demonstrated that a care bundle combining intensive blood pressure control, glucose regulation, normothermia, and anticoagulation reversal significantly improved functional outcomes and reduced mortality.80 Since the majority of patients included in the trial were from China, replication in other health-care systems and ethnicities is warranted. Additional care bundle components, such as dysphagia screening, early neurosurgical consultation, and avoidance of early do-not-resuscitate orders, have also been suggested. We do not recommend the use of combinations of antibiotics for prevention of fever.
+
+Meta-analyses of RCTs of blood pressure control as secondary prevention after ICH revealed a reduced risk of recurrence of any stroke after ICH, including one meta-analysis including two large observational studies (N = 17,248) which revealed a significant reduction of blood pressure control on ICH recurrence. This is why we recommend blood pressure control to prevent ICH recurrence and suggest targeting ⩽130/80 mmHg in the post-acute phase. The decision to restart oral anticoagulation (OAC) after ICH in patients with non-valvular atrial fibrillation (NVAF) remains challenging due to the competing risks of thromboembolism and ICH recurrence. Evidence from the SoSTART, and PRESTIGE-AF trials suggests no clear difference in mortality between patients restarting OAC and those avoiding it.8,233,234 While OAC reduces the risk of major vascular events, it may also increase the risk of recurrent ICH. Direct oral anticoagulants are preferred over vitamin K-antagonists (VKAs) due to their lower risk of intracranial bleeding. However, patients with high-risk features such as cerebral amyloid angiopathy or multiple cerebral microbleeds (⩾10 CMBs) may not be suitable candidates for OAC. PRESTIGE-AF found effective prevention of ischaemic strokes over a median follow-up of 1.4 years by use OAC but OAC also increased the rate of first recurrent ICH.8 And the COCROACH, an individual patient data metaanalysis of survivors of ICH with atrial fibrillation reported uncertain effects of OAC on the risk of any stroke, cardiovascular mortality, and haemorrhagic major adverse events but found that ischaemic major adverse cardiovascular events were reduced and data from larger randomised trials were needed to resolve the remaining uncertainty. Ongoing trials, such as ASPIRE (NCT03907046), and ENRICH-AF (NCT03950076) aim to clarify the benefits and risks of anticoagulation in this population. For patients with NVAF who are deemed unsuitable for long-term OAC, left atrial appendage occlusion (LAAO) could be considered as a potential alternative to prevent thromboembolic events. To date, no RCTs have evaluated the efficacy of LAAO specifically in ICH survivors. However, trials such as PROTECT-AF and PREVAIL have demonstrated non-inferiority of LAAO to VKA therapy in preventing ischaemic stroke while concomitantly reducing the risk of ICH.245,267 The A3ICH (NCT03243175) and CLEARANCE (NCT04298723) trials are currently recruiting randomised controlled trials (RCTs) comparing LAAO with usual care. We suggest considering LAAO in selected patients and encouraging enrolment in ongoing clinical trials. It is recommended that antiplatelet therapy be restarted, provided that it is used for a licensed indication. This recommendation is based on the RESTART trial suggesting that resumption of therapy may be safe and associated with a lower risk of recurrent ICH when compared with its avoidance.268 However, the overall effects on major vascular events and death remain uncertain. ASPIRING (ISRCTN16705062) is currently recruiting patients to a strategy of starting antiplatelet monotherapy versus avoiding antiplatelet drugs. We suggest considering initiating antiplatelet therapy if there is a valid indication, ideally within clinical trials. As to the timing of re-initiating either OAC or antiplatelet therapies we stayed away from making a statement. Reason for this is that evidence on the interplay of several aspects that may affect risk and benefit and pathophysiological changes over time is not clear. Some of these aspects are blood pressure control, burden of small vessel disease. The role of statins in secondary prevention after ICH is controversial. While statins reduce cardiovascular mortality, concerns exist regarding their potential association with an increased risk of ICH. The SPARCL trial reported a higher ICH risk among patients receiving atorvastatin 80 mg daily (a high-dose).269 In the absence of RCTs, we decided to analyse a series of observational studies that meet the minimum requirements for inclusion in a meta-analysis. However, we explicitly point out the limitations of such an analysis, which arise, among other things, from the varying indications and timing of administration. Our meta-analysis of observational studies found that statins were associated with lower mortality but did not significantly impact major vascular events. In our expert consensus statement, we suggest an individualised approach, balancing cardiovascular benefits against potential haemorrhagic risks. The ongoing SATURN trial is investigating whether discontinuation or continuation of statins affects outcomes in ICH survivors. Data regarding the risk of ICH for other lipid-lowering agents are lacking.
+
+Over the past decade, significant advancements have been made in the field of ICH management. These developments have primarily occurred in three areas: the use of specific haemostatic agents in patients with iatrogenic coagulopathies, neurosurgical interventions, and the implementation of care bundles. However, due to the current body of evidence, we can provide only weak recommendations for certain PICO questions or must rely on expert consensus statements. In many cases, this approach is necessary because the sample sizes of individual studies are too small to establish strong evidence. The primary reasons for this include epidemiological constraints and financial limitations.270 Therefore, the authors of this guideline advocate for increased efforts to conduct large-scale international studies.
+
+Table 2. Synopsis of all recommendations and expert consensus statements. 
+
+<table><tr><td>Recommendation</td><td>Expert consensus statement</td></tr><tr><td colspan="2">PICO 1.1: In adults with spontaneous ICH, does admission to an organised stroke unit vs admission to a general ward reduce the risk of death or death/dependence?</td></tr><tr><td>In adults with spontaneous ICH, not requiring intensive care treatment, we recommend admission to an organised stroke unit to reduce the risk of death or dependence.Quality of evidence:Moderate ⊕⊕⊕Strength of recommendation:Strong for intervention ↑↑</td><td></td></tr><tr><td colspan="2">PICO 1.2.1: In adults with spontaneous ICH, does the use of algorithms for targeted investigation vs standard of care improve the performance (calibration/discrimination/clinical utility) of prediction of underlying cause of ICH?</td></tr><tr><td>In adults with spontaneous ICH, we suggest using algorithms such as DIAGRAM for targeted investigation of ICH cause vs standard of care to improve the performance (calibration/ discrimination/clinical utility) of prediction of underlying cause of ICH.Quality of evidence:Low ⊕⊕Strength of recommendation:Weak for intervention ↑?</td><td></td></tr><tr><td colspan="2">PICO 1.2.2: In adults with spontaneous ICH will cerebral computed tomographic angiography (CTA) or venography (CTV), or magnetic resonance angiography (MRA) or venography (MRV) vs intraarterial digital subtraction angiography (IADSA) provide a better diagnostic performance, to disclose underlying intracranial vascular malformations?</td></tr><tr><td>In adults with spontaneous ICH there is uncertainty about whether cerebral computed tomographic angiography (CTA) or venography (CTV), or magnetic resonance angiography (MRA) or venography (MRV) have superior diagnostic performance when compared with intraarterial digital subtraction angiography (IADSA) to disclose underlying intracranial vascular malformations, so we recommend recruitment to diagnostic test accuracy studies.Quality of evidence:Low ⊕⊕Strength of recommendation: -</td><td>In people adults with spontaneous ICH, we suggest using cerebral computed tomographic angiography (CTA)/venography (CTV), or magnetic resonance angiography (MRA)/venography (MRV) to select patients for intra-arterial digital subtraction angiography (IADSA) to disclose underlying intracranial vascular malformations.Vote: 15/15</td></tr><tr><td colspan="2">PICO 1.3.1: In adults with spontaneous ICH, does the use of algorithms for prediction of outcome vs clinicians&#x27; evaluation improve the reliability of prediction of death or dependence?</td></tr><tr><td>In adults with ICH, there is continued uncertainty whether outcome prediction tools have better predictive properties compared with clinicians&#x27; evaluation.Quality of evidence:Very low ⊕Strength of recommendation: -</td><td>In adults with spontaneous ICH, we suggest limiting the use of the ICH score to providing prognostic information, rather than using it as the primary or sole method for predicting outcomes for adults with ICH, given the risk of a self-fulfilling prophecy.Vote: 15/15</td></tr><tr><td colspan="2">PICO 1.3.2: For adults with ICH, does a policy for limitation of treatment, do not attempt cardiopulmonary resuscitation (DNR), or early initiation of palliative care orders within the first 24h compared with standard of care influence the risk of death or dependence?</td></tr><tr><td>In adults within 24h of spontaneous ICH onset, there is insufficient evidence from randomised trials regarding the influence of policies on limitation of treatment and do-not-resuscitate orders on death and dependency.Quality of evidence:Very low ⊕Strength of recommendation: -</td><td>In adults within 24h of spontaneous ICH onset, we suggest not implementing general policies that limit treatment or initiate do not attempt cardiopulmonary resuscitation orders.Vote: 15/15</td></tr></table>
+
+(Continued)
+
+Table 2. (Continued) 
+
+<table><tr><td>Recommendation</td><td>Expert consensus statement</td></tr><tr><td colspan="2">PICO 2: In adults with acute spontaneous ICH, does altering blood pressure (BP) to a lower target compared with either no use of BP alteration to a specific target or using targets different from the lower range, result in reduced death, death or dependence, or haematoma expansion (HE)?</td></tr><tr><td>For adults with acute spontaneous ICH and systolic blood pressure of 150–220 mmHg, the overall balance of beneficial and adverse effects is uncertain, so we recommend recruitment to ongoing randomised controlled trials.Quality of evidence:Low ⊕⊕Strength of recommendation: -</td><td>We suggest lowering systolic blood pressure below 140 mmHg within 6 h of symptom onset in minor or moderate ICH (haematoma volume &lt; 30 mL) to reduce haematoma expansionFor adults with spontaneous ICH, we suggest avoiding a reduction in systolic blood pressure of more than 70 mmHg from baseline and to avoid active reduction of systolic blood pressure below 110 mmHg. Caution is advised when lowering very high systolic blood pressure (&gt;220 mmHg), for patients with large haematoma volumes (&gt;30 mL) or when there is planned haematoma evacuation.For adults with spontaneous minor or moderate ICH (haematoma volume &lt; 30 mL), we suggest applying the following aspects:Initiating antihypertensive treatment as early as possible, ideally within the first 2h following the onset of symptoms (acute phase):Lower systolic blood pressure to &lt;140 mmHg and minimise variability in blood pressure fluctuations.After lowering systolic blood pressure below the target threshold (up to 7 days, sub-acute phase):Maintain systolic blood pressure below 140 mmHg.For secondary prevention (aftersub-acute phase)Follow the recommendations onsecondary prevention, specifically section 6.1 on blood pressure management.Vote: 15/15</td></tr><tr><td colspan="2">PICO 3.1.1: In adults with spontaneous ICH not associated with antithrombotic drug use, does haemostatic therapy using rFVIIa vs placebo or open control reduce death or dependence, death or haematoma expansion and not increase thromboembolic adverse events?</td></tr><tr><td>For adults with spontaneous ICH not associated with antithrombotic drug use, there is uncertainty about the balance of beneficial and adverse effects of rFVIIa, so we suggest against its routine use and suggest recruitment to ongoing randomised controlled trials.Quality of evidence:Very low ⊕Strength of recommendation:Weak against intervention ↓?</td><td></td></tr><tr><td colspan="2">PICO 3.1.2: In adults with spontaneous ICH not associated with antithrombotic drug use, does haemostatic therapy using tranexamic acid compared with placebo or open control reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?</td></tr><tr><td>For adults with spontaneous ICH not associated with antithrombotic drug use, there is uncertainty about the balance of clinical benefits (functional outcome, death and dependence) and adverse effects of tranexamic acid. Therefore, we recommend recruitment to ongoing randomised controlled trials.Quality of evidence:Low ⊕⊕Strength of recommendation: -</td><td>TXA may be considered for reducing haematoma expansion, if enrolment in an ongoing randomised controlled trial is not possible.Vote: 13/15</td></tr><tr><td colspan="2">PICO 3.2.1: In adults with spontaneous ICH associated with antiplatelet drug use, does platelet transfusion vs placebo or open control reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?</td></tr><tr><td>In adults with spontaneous ICH associated with antiplatelet drug use we suggest against the use of platelet transfusion.Quality of evidence:Moderate ⊕⊕⊕Strength of recommendation:Weak against intervention ↓?</td><td></td></tr><tr><td colspan="2">PICO 3.2.2: In adults with spontaneous ICH associated with antiplatelet drug use, does desmopressin vs placebo or standard care reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?</td></tr><tr><td>In adults with spontaneous ICH associated with antiplatelet drug use, there is uncertainty about the beneficial and adverse effects of demopressin, so we recommend inclusion in ongoing clinical trials.Quality of evidence:Very low ⊕Strength of recommendation: -</td><td></td></tr><tr><td colspan="2">PICO 3.3.1.1: In adults with ICH associated with use of vitamin K-antagonists (VKA) does haemostatic therapy using PCC vs FFP reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?</td></tr><tr><td>In adults with ICH associated with use of vitamin K-antagonists (VKA), there is continuing uncertainty about the beneficial and adverse effects of PCC vs FFP on clinical outcomes.Quality of evidence:Very low ⊕Strength of recommendation: -</td><td>In adults with ICH associated with use of vitamin K-antagonists (VKA), we recommend using 4-factor PCC dosages in the range from 30 to 50 IU/kg if INR ≥ 2.0 and 10 IU/kg if INR is 1.3–1.9 combined with use of intravenous vitamin K (10 mg) to normalise and prevent subsequent increase of INR.Vote: 15/15</td></tr><tr><td colspan="2">PICO 3.3.2.1: In adults with ICH associated with factor Xa-inhibitors (FXal) use, does prothrombin complex concentrate (PCC) compared with standard care reduce death, dependence or haematoma expansion and not increase risk of thromboembolic adverse events?</td></tr><tr><td>For adults with spontaneous ICH associated with factor Xa-inhibitors (FXal) use there is uncertainty about the balance of beneficial and adverse effects of PCC, so we recommend recruitment to further randomised controlled trials.Quality of evidence:Very low ⊕Strength of recommendation: -</td><td>For adults with spontaneous ICH associated with factor Xa-inhibitor (FXal) PCC may be considered for FXal-ICH, but clinicians should carefully consider the balance between its unknown benefit for reducing haematoma expansion and poor clinical outcome, and the potential increase in thromboembolic events.Vote: 15/15</td></tr><tr><td colspan="2">PICO 3.3.2.2: In adults with ICH associated with use of factor Xa-inhibitors (FXal; apixaban, edoxaban or rivaroxaban) does haemostatic therapy using andexanet alfa compared with standard care reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?</td></tr><tr><td>In adults with acute spontaneous ICH associated with use of a factor Xa-inhibitor (i.e. within 15 h after the last dose of apixaban, edoxaban or rivaroxaban), there is continuing uncertainty about the balance of clinical benefits (functional outcome, death and dependence) and adverse effects of andexanet alfa, so we recommend recruitment to randomised controlled trials.Quality of evidence:Low ⊕⊕Strength of recommendation: -</td><td>In adults with spontaneous ICH associated with use of factor Xa-inhibitor (FXal) (apixaban, rivaroxaban) within 15 h after the last dose of a FXal (or proven factor Anti-FXa activity &gt; 100 ng/mL) and within 12 h since onset of symptoms we suggest considering the use of andexanet alfa to reduce haematoma expansion. The potential clinical benefit should be evaluated in sufficiently powered randomised controlled trials.Vote: 14/15</td></tr></table>
+
+(Continued)
+
+Table 2. (Continued) 
+
+<table><tr><td>Recommendation</td><td>Expert consensus statement</td></tr><tr><td colspan="2">PICO 3.3.2.3: In adults with ICH associated with use of factor Xa-inhibitors (FXal) (apixaban, edoxaban, rivaroxaban) does tranexamic acid compared with standard care reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?</td></tr><tr><td>For adults with acute spontaneous ICH associated with use of factor Xa-inhibitors (FXal; apixaban, edoxaban, rivaroxaban), there remains uncertainty about the beneficial and adverse effects of TXA, therefore we recommend recruitment to ongoing randomised controlled trials.Quality of evidence: Low ⊕Strength of recommendation: -</td><td></td></tr><tr><td colspan="2">PICO 3.3.2.4.: In adults with spontaneous ICH associated with use of a direct thrombin inhibitor (dabigatran) does idarucizumab compared with standard care reduce death or dependence, death or haematoma expansion and not increase risk of thromboembolic adverse events?</td></tr><tr><td>In adults with anticoagulant-associated ICH associated with the use of direct thrombin inhibitor there are no RCTs.Quality of evidence: Very low ⊕Strength of recommendation: -</td><td>In adults with anticoagulant-associated ICH associated with use of direct thrombin inhibitor (dabigatran) we suggest the immediate use of idarucizumab (2 × 2.5 g intravenously).Vote: 15/15</td></tr><tr><td colspan="2">PICO 4.1.1: In adults with acute spontaneous supratentorial ICH, does any surgery aimed at haematoma removal vs no surgery reduce the risk of death, or dependence?</td></tr><tr><td>In adults with acute spontaneous supratentorial ICH, we suggest for a surgical approach aiming at haematoma removal and prevention of secondary brain injury to reduce the risk of death and dependence, taking into account additional factors such as haematoma location and volume, the patient&#x27;s neurological condition, timing, method of intervention, and the surgeon&#x27;s complication rate. Given differences in results and quality of evidence for surgical interventions, recommendations are further specified for craniotomy (PICO 4.1.2), minimally invasive surgical removal (PICO 4.1.3), and surgery with catheter placement plus thrombolysis (PICO 4.1.4).Quality of evidence: Very low ⊕Strength of recommendation: Weak for intervention ↑?</td><td></td></tr><tr><td colspan="2">PICO 4.1.2: In adults with acute spontaneous supratentorial ICH, does any haematoma removal by means of craniotomy and open standard surgical technique vs no surgery reduce the risk of death, or dependence?</td></tr><tr><td>In non-comatose adults with acute spontaneous supratentorial lobar ICH where minimally invasive approaches are not available (see PICO 4.1.3), we suggest consideration of early surgical haematoma removal by means of open craniotomy and a standard surgical evacuation technique.Quality of evidence: Very low ⊕Strength of recommendation: Weak for intervention ↑?</td><td></td></tr></table>
+
+(Continued)
+
+Table 2. (Continued) 
+
+<table><tr><td>Recommendation</td><td>Expert consensus statement</td></tr><tr><td colspan="2">PICO 4.1.3: In adults with acute spontaneous supratentorial ICH, does minimally invasive surgical removal (MIS) of the haematoma vs no surgery reduce the risk of death, or dependence?</td></tr><tr><td>In adults within 24h after spontaneous supratentorial ICH onset, we suggest minimally invasive evacuation of the haematoma to reduce mortality and to improve functional outcome in adults with lobar ICH, whereas the effect in deep haematomas remains uncertain, so we encourage recruitment to ongoing randomised controlled trials.Quality of evidence: Low ⊕⊕Strength of recommendation: Weak for intervention ↑?</td><td></td></tr><tr><td colspan="2">PICO 4.1.4: In adults with acute spontaneous supratentorial ICH, does surgery with catheter placement plus thrombolysis versus no surgery reduce the risk of death, or dependence?</td></tr><tr><td>In adults with spontaneous supratentorial ICH, there is uncertainty about surgery with catheter placement plus thrombolysis over medical management alone, so we recommend recruitment to randomised controlled trials.Quality of evidence: Very low ⊕Strength of recommendation: -</td><td></td></tr><tr><td colspan="2">PICO 4.1.5: In adults with acute spontaneous supratentorial ICH, does decompressive craniectomy compared with no decompressive craniectomy reduce the risk of death, or dependence?</td></tr><tr><td>In adults aged 18–75 years within 72h of severe deep spontaneous ICH (i.e. GCS 8–13, NIHSS 10–30, and stable ICH volume 30–100mL), we suggest consideration of decompressive surgery without haematoma removal to reduce the risk of death or severe dependence (mRS 5–6).Quality of evidence: Low ⊕⊕Strength of recommendation: Weak for intervention ↑?</td><td></td></tr><tr><td colspan="2">PICO 4.2.1: In adults with ICH and intraventricular extension of the haemorrhage, does external ventricular drainage (EVD) with or without combined lumbar drainage (LD) reduce the risk of death, or dependence, or shunt dependence?</td></tr><tr><td>In adults with spontaneous ICH and intraventricular extension of the haemorrhage there is uncertainty about the balance of beneficial and adverse effects of external ventricular drainage (EVD) with or without combined lumbar drainage (LD) on the risk of death or dependence, or shunt dependence, so we recommend recruitment to randomised controlled trials.Quality of evidence: Very low ⊕Strength of recommendation: -</td><td>In adults with ICH, intraventricular extension of the haemorrhage and hydrocephalus contributing to an impaired level of consciousness, the insertion of an external ventricular drainage (EVD) is recommended to reduce mortality.Vote: 15/15</td></tr><tr><td colspan="2">PICO 4.2.2: In adults with acute spontaneous ICH and intraventricular extension of the haemorrhage, does external ventricular drainage (EVD) with intraventricular thrombolysis vs EVD without intraventricular thrombolysis reduce the risk of death, or dependence, or shunt dependence?</td></tr><tr><td>In adults with acute spontaneous ICH and intraventricular extension, we suggest considering external ventricular drainage (EVD) with intraventricular thrombolysis to reduce death, there though there is uncertainty about the balance of beneficial and adverse effects regarding of external ventricular drainage (EVD) with intraventricular thrombolysis, concerning death, dependence, and shunt dependence.Quality of evidence: Very low ⊕Strength of recommendation: -</td><td></td></tr><tr><td colspan="2">PICO 4.2.3: In adults with acute spontaneous ICH and intraventricular extension of the haemorrhage, does surgical removal of the intraventricular blood reduce the risk of death, or dependence, or shunt dependence?</td></tr><tr><td>In adults with intraventricular extension of the ICH who require an external ventricular drainage (EVD), we suggest for minimally invasive surgical evacuation of intraventricular blood to improve functional outcome and reduce shunt dependence.Quality of evidence:Very low ⊕Strength of recommendation:Weak for intervention ↑?</td><td></td></tr><tr><td colspan="2">PICO 4.3: In adults with acute cerebellar haemorrhage, does surgery compared with medical management reduce the risk of death or dependence?</td></tr><tr><td>In adults with acute cerebellar haemorrhage, we suggest surgical evacuation of haematomas larger than 15 mL to improve survival.Quality of evidence:Very low ⊕Strength of recommendation:Weak for intervention ↑?</td><td></td></tr><tr><td colspan="2">PICO 5.1.1 In adults with spontaneous ICH, do physical measures to prevent deep vein thrombosis (DVT) or pulmonary embolism (PE) reduce venous thromboembolism, symptomatic pulmonary embolism/DVT or death compared with standard care?</td></tr><tr><td>In immobile adults with spontaneous ICH, we suggest for intermittent pneumatic compression stockings for 30 days (or hospital discharge or independent ambulation, if sooner) to prevent proximal deep vein thrombosis. Continued uncertainty exists whether intermittent pneumatic compression reduces symptomatic pulmonary embolism and death.Quality of evidence:Very low ⊕Strength of recommendation:Weak for intervention ↑?</td><td></td></tr><tr><td colspan="2">PICO 5.1.2 In adults with spontaneous ICH does short-term anticoagulation to prevent deep vein thrombosis (DVT) and/or pulmonary embolism (PE) vs standard care reduce (symptomatic) venous thromboembolism, symptomatic pulmonary embolism, or death without increasing the risk of recurrent ICH?</td></tr><tr><td>In adults with spontaneous ICH, there is uncertainty whether subcutaneous low-molecular-weight heparins (LMWH) at prophylactic doses starting as early as 24 h after ICH onset and established stability of the ICH prevent venous thromboembolism, symptomatic deep vein thrombosis (DVT), pulmonary embolism (PE) or death, without increasing the risk of recurrent ICH, so we recommend recruitment to randomised controlled trials.Quality of evidence:Very low ⊕Strength of recommendation: -</td><td>Low-molecular-weight heparins (LMWH) prophylaxis after ICH might be used for venous thromboembolism (VTE) prevention in standard clinical practice if intermittent pneumatic compression is not available or feasible. The use should be limited to immobile patients, as well as patients at high prothrombotic risk (due to comorbidities, or prothrombotic medications).Vote: 15/15</td></tr><tr><td colspan="2">PICO 5.1.3 In adults with spontaneous ICH, does active body temperature management alone vs no temperature management reduce the risk of death or dependence?</td></tr><tr><td>In adults with spontaneous ICH, we suggest not actively managing body temperature as single measure only, unless it is used with further measures as part of a care bundle (see PICO 5.2), to reduce the risk of death or dependence.Quality of evidence:Very low ⊕Strength of recommendation:Weak against intervention ↓?</td><td></td></tr></table>
+
+(Continued)
+
+Table 2. (Continued) 
+
+<table><tr><td>Recommendation</td><td>Expert consensus statement</td></tr><tr><td colspan="2">PICO 5.1.4 In adults with spontaneous ICH does blood glucose control vs no use of glucose modulation reduce the risk of death or dependence, hypoglycaemia or haematoma expansion?</td></tr><tr><td>In adults with spontaneous ICH, we suggest not intensively controlling blood glucose as a single measure to reduce the risk of death or dependence unless it is used as part of a care bundle (see PICO 5.2). There is continued uncertainty about its effect on haematoma expansion.Quality of evidence: Very low ⊕Strength of recommendation: Weak against intervention ↓?</td><td></td></tr><tr><td colspan="2">PICO 5.1.5 In adults with spontaneous ICH, does intracranial pressure (ICP) monitoring vs no monitoring of ICP reduce the risk of death or dependence?</td></tr><tr><td>In adults with severe acute spontaneous space-occupying ICH, there is uncertainty about the use of invasive intracranial pressure (ICP) monitoring for reducing death or dependence, so we recommend recruitment to randomised controlled trials.Quality of evidence: Low ⊕⊕Strength of recommendation: -</td><td>In adults with severe acute spontaneous space-occupying ICH, and if clinical symptom monitoring alone is not feasible, the use of invasive intracranial pressure (ICP) monitoring may be considered, preferably using intraventricular measurements with the additional option of cerebral spinal fluid (CSF) drainage.Vote: 15/15</td></tr><tr><td colspan="2">PICO 5.1.6 In adults with spontaneous ICH, does anti-inflammatory treatment (celecoxib, citicoline, corticosteroids, edaravone, fingolimod, minocycline, panax notoginseng or reactive oxygen species scavengers) vs no anti-inflammatory treatment reduce the risk of death or dependence and formation of periahematomal oedema?</td></tr><tr><td>In adults with acute spontaneous ICH, we recommend against using anti-inflammatory interventions (in particular, anakinra, celecoxib, citicoline, corticosteroids, deferoxamine, edaravone, fingolimod, minocycline, panax notoginseng or reactive oxygen species scavengers) to reduce death, morbidity or periahematomal oedema, outside of randomised controlled trials.Quality of evidence: Very low ⊕Strength of recommendation: Strong against intervention ↓↓</td><td></td></tr><tr><td colspan="2">PICO 5.1.7 In adults with spontaneous ICH, does prophylactic treatment with anti-seizure medications compared with no anti-seizure treatment prevent acute/remote symptomatic epileptic seizures?</td></tr><tr><td>In adults with spontaneous ICH, we suggest against treatment with anti-seizure medications for the primary prevention of acute/remote symptomatic epileptic seizures.Quality of evidence: Moderate ⊕⊕⊕⊕Strength of recommendation: Weak against intervention ↓?In adults with spontaneous supratentorial ICH and symptomatic seizure within 7 days after onset, we cannot make a recommendation about the use of anti-seizure medications because there is continued uncertainty about their effects.Quality of evidence: Very low ⊕Strength of recommendation: -</td><td>In adults with spontaneous ICH, in whom anti-seizure medication was initiated after symptomatic seizure(s) during the first seven days after ICH onset, and in whom no further seizures occur, we suggest anti-seizure treatment to be discontinued from 4 weeks onwards.Vote: 15/15</td></tr></table>
+
+(Continued)
+
+Table 2. (Continued) 
+
+<table><tr><td>Recommendation</td><td>Expert consensus statement</td></tr><tr><td colspan="2">PICO 5.2. In adults with spontaneous ICH, does applying a specific care bundle compared with usual care reduce mortality or dependence?</td></tr><tr><td>In adults with acute spontaneous ICH, we recommend implementing a care bundle to reduce death or dependence (see Expert Consensus Statement for details and targets).Quality of evidence:Low⊕⊕Strength of recommendation:Weak for intervention ↑?We suggest against the prophylactic use of temperature-lowering measures, prokinetic anti-emetics and/or antibiotics.Quality of evidence:Low⊕⊕Strength of recommendation:Weak against intervention ↓?</td><td>We recommend implementing the components of the care bundle influencing our recommendation, which were:(1) early intensive blood pressure managementwith the goal of achieving a target systolic blood pressure of less than 140 mmHg in minor to moderate ICH within 1 h of the initiation of treatment (see also PICO 2 for details);(2) control of elevated blood glucose(target 110–141 mg/dL (6.1–7.8 mmol/L) without diabetes/141–180 mg/dL (7.8–10 mmol/L) with diabetes; avoiding hypoglycaemia) as soon as possible after the initiation of treatment;(3) treatment of pyrexiawith the goal of achieving a body temperature of less than 37.5°C within 1 h of initiation and(4) the reversal of abnormal anticoagulationin those taking vitamin K-antagonists using prothrombin concentrate complex with the goal of reaching an INR of less than 1.3 within 1 h of treatment (see PICO 3.3.1.1 for details), and application of specific reversal agents to patients receiving direct oral anticoagulants (see PICOs 3.3.2.1–3.3.2.4 for details).We suggest additional componentsof other care bundles that may be beneficial:avoiding do-not-resuscitate orderswithin the first 24 h after admission unless there is a clear will of the patientapplication of routinedysphagia screening and treatmentearly consulting of a neurosurgeonto evaluate surgical measures in patients such as with large spontaneous ICH, intraventricular bleeding or space-occupying infratentorial haemorrhage.We recommend inclusion of patients in randomised trials of bundles of care.Vote: 15/15</td></tr><tr><td colspan="2">PICO 6.1 In adults with spontaneous ICH, does blood pressure reduction to a lower target, or with a specific agent, compared with standard care, or no specific agent or a higher target, reduce the risk of subsequent stroke, major vascular events, death, or dependence in patients in the post-acute phase?</td></tr><tr><td>In adults with prior ICH, we recommend blood pressure control to reduce the risk of subsequent stroke. No evidence-based specific recommendation can be made targeting a specific blood pressure level or choice of antihypertensive drug.Quality of evidence:Low⊕⊕Strength of recommendation:Strong for intervention ↑↑</td><td>We suggest blood pressure control to a target value of ≤130/80 mmHg in patients surviving ICH as a means to reduce the risk of subsequent stroke.Vote: 15/15</td></tr><tr><td colspan="2">PICO 6.2 In adults with spontaneous ICH and non-valvular atrial fibrillation (NVAF), does the long-term use of oral anticoagulation (OAC) compared with the avoidance of OAC reduce death, major adverse cardiovascular events, and recurrent ICH?</td></tr><tr><td>In adults with spontaneous ICH and non-valvular atrial fibrillation (NVAF), there is uncertainty about the net benefit of long-term oral anticoagulation (OAC) to reduce the risk of major adverse cardiovascular events and death or dependence compared with the avoidance of OAC, so we encourage recruitment to randomised controlled trials.Quality of evidence:Low⊕⊕Strength of recommendation: -</td><td>Direct oral anticoagulant (DOAC) treatment after ICH in patients with non-valvular atrial fibrillation (NVAF) seems to increase the risk of recurrent ICH, but reduces the overall risk of major adverse cardiovascular events, so DOAC may be considered after careful evaluation of the individual risk-benefit profile.Vote: 14/15</td></tr><tr><td colspan="2">PICO 6.3: In adults with spontaneous ICH with non-valvular atrial fibrillation (NVAF) does left atrial appendage occlusion (LAAO) compared with the avoidance of LAAO reduce major vascular events or death or dependence?</td></tr><tr><td>In adults with a history of prior ICH and non-valvular atrial fibrillation (NVAF), there is uncertainty about the effects of left atrial appendage occlusion (LAAO) compared to long-term anticoagulation for the prevention of thromboembolic events, and we encourage enrolment in randomised controlled trials.Quality of evidence: Very low ⊕Strength of recommendation: -</td><td>A: Left atrial appendage occlusion (LAAO) may be considered as a means to reduce thromboembolic events in adults with prior ICH and non-valvular atrial fibrillation (NVAF), who are considered unsuitable for long-term OAC therapy (e.g. people with imaging or pathological evidence of cerebral amyloid angiopathy), and we encourage enrolment of these patients in randomised controlled trials.Vote: 15/15B: We suggest periprocedural antithrombotic treatment according to the recommendation provided by the European Society of Cardiology.Vote: 15/15</td></tr><tr><td colspan="2">PICO 6.4 In adults with spontaneous ICH, does antiplatelet therapy vs avoidance of antiplatelet therapy reduce major vascular events, death, death or dependence?</td></tr><tr><td>In adults with spontaneous ICH who were taking antiplatelet therapy before the event, we suggest restarting antiplatelet therapy for a licensed indication is safe, but overall effects are uncertain.Quality of evidence: Moderate ⊕⊕⊕Strength of recommendation: Weak for intervention ↑?</td><td>We suggest to consider restarting or initiating antiplatelet treatment if there is a licensed indication, ideally within randomised controlled trials. Antiplatelet therapy without a licensed indication should not be initiated outside of randomised controlled trials.Vote: 15/15</td></tr><tr><td colspan="2">6.5 PICO: For adults with spontaneous ICH, does secondary prevention with statin compared with no statin therapy reduce recurrent ICH, major vascular events, death, or dependence?</td></tr><tr><td>In adults with a history of ICH, continuing uncertainty exists regarding secondary prevention with statin compared with no statin therapy to reduce recurrent ICH, major vascular events, or death. We recommend inclusion of suitable patients in ongoing randomised controlled trials.Quality of evidence: Very low ⊕Strength of recommendation: -</td><td>In adults with a history of ICH and an indication for statin use, we suggest initiating statin treatment over no use of statin therapy in patients with high cardiovascular risk in primary as well a secondary prevention after evaluation of the individual risk-benefit profile.Vote: 15/15</td></tr></table>
+
+# Acknowledgements
+
+We thank Yvonne Brüchert for her extensive support in the preparation of this guideline. We would also like to acknowledge Sabrina Lémeret, Josh Cheyne and Salman Hussain for their support in programming the literature search.
+
+# Declaration of conflicting interests
+
+The author(s) declared the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: Intellectual and financial disclosures of the module working group members are presented in Supplemental Table.
+
+# Funding
+
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+# Ethical approval
+
+Not applicable.
+
+# Informed consent
+
+Not applicable.
+
+# Guarantor
+
+TS
+
+# Contributorship
+
+Thorsten Steiner, Rustam Al-Shahi Salman, Diana de Aguiar Sousa, Matthew Downer, Rachael Gartly, Hanne Christensen, Silje Holt Jahr, Helle Eilertsen, Jan Purrucker, Stefan Gerner, Trine Apostolaki-Hansson wrote the first draft of the manuscript. All authors reviewed and edited the manuscript and approved the final version of the manuscript. Leonard Ho conducted the data extraction and statistical analyses.
+
+# ORCID iDs
+
+Thorsten Steiner https://orcid.org/0000-0002-5080-8222   
+Jan C Purrucker https://orcid.org/0000-0003-2978-4972   
+Diana Aguiar de Sousa https://orcid.org/0000-0002-6702- 7924   
+Trine Apostolaki-Hansson https://orcid.org/0000-0003-4063- 5476   
+Hanne Christensen https://orcid.org/0000-0002-7472-3194   
+Charlotte Cordonnier https://orcid.org/0000-0002-5697-6892   
+Matthew B Downer https://orcid.org/0000-0003-1838-2476   
+Helle Eilertsen https://orcid.org/0009-0006-3369-2711   
+Rachael Gartly https://orcid.org/0000-0001-6653-9373   
+Stefan T Gerner https://orcid.org/0000-0001-6020-8290   
+Leonard Ho https://orcid.org/0000-0001-8353-9631   
+Silje Holt Jahr https://orcid.org/0000-0003-3008-5159   
+Catharina JM Klijn https://orcid.org/0000-0002-8495-4578   
+Nicolas Martinez-Majander https://orcid.org/0000-0001-8489- 7051   
+Kateriine Orav https://orcid.org/0009-0003-9397-8699   
+Jesper Petersson https://orcid.org/0000-0003-3322-6383   
+Andreas Raabe https://orcid.org/0000-0002-3886-466X   
+Else Charlotte Sandset https://orcid.org/0000-0003-4312- 4778   
+Floris H Schreuder https://orcid.org/0000-0002-7815-0207   
+David Seiffge https://orcid.org/0000-0003-3890-3849   
+Rustam Al-Shahi Salman https://orcid.org/0000-0002-2108- 9222
+
+# Supplemental material
+
+Supplemental material for this article is available online.
+
+# References
+
+1. Raposo N, Zanon Zotin MC, Seiffge DJ, et al. A causal classification system for intracerebral hemorrhage subtypes. Ann Neurol 2023; 93: 16–28.   
+2. GBD 2019 Stroke Collaborators. Global, regional, and national burden of stroke and its risk factors, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet Neurol 2021; 20: 795–820.   
+3. Parry-Jones AR, Krishnamurthi R, Ziai WC, et  al. World Stroke Organization (WSO): global intracerebral hemorrhage factsheet 2025. Int J Stroke 2025; 20: 145–150.   
+4. Wafa HA, Marshall I, Wolfe CDA, et al. Burden of intracerebral haemorrhage in Europe: forecasting incidence and mortality between 2019 and 2050. Lancet Reg Health Eur 2024; 38: 100842.   
+5. Steiner T, Al-Shahi Salman R, Beer R, et al. European Stroke Organisation (ESO) guidelines for the management of spontaneous intracerebral hemorrhage. Int J Stroke 2014; 9: 840–855.
+
+6. Steiner T, Dichgans M, Norrving B, et al. European Stroke Organisation (ESO) standard operating procedure for the preparation and publishing of guidelines. Eur Stroke J 2021; 6: CXXII–CXXXIV.   
+7. Guyatt GH, Oxman AD, Schünemann HJ, et  al. GRADE guidelines: a new series of articles in the Journal of Clinical Epidemiology. J Clin Epidemiol 2011; 64: 380–382.   
+8. Veltkamp R, Korompoki E, Harvey KH, et  al. Direct oral anticoagulants versus no anticoagulation for the prevention of stroke in survivors of intracerebral haemorrhage with atrial fibrillation (PRESTIGE-AF): a multicentre, open-label, randomised, phase 3 trial. Lancet 2025; 405: 927–936.   
+9. Borenstein M, Hedges LV, Higgins JPT, et al. Introduction to meta-analysis. 2nd ed. Chichester: John Wiley & Sons, 2021.   
+10. Sterne JA, Hernán MA, Reeves BC, et al. ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions. BMJ 2016; 355: i4919.   
+11. Guyatt G, Oxman AD, Akl EA, et  al. GRADE guidelines: 1. Introduction-GRADE evidence profiles and summary of findings tables. J Clin Epidemiol 2011; 64: 383–394.   
+12. Langhorne P, Fearon P, Ronning OM, et al. Stroke unit care benefits patients with intracerebral hemorrhage: systematic review and meta-analysis. Stroke 2013; 44: 3044–3049.   
+13. Langhorne P and Ramachandra S. Organised inpatient (stroke unit) care for stroke: network meta-analysis. Cochrane Database Syst Rev 2020; 4: Cd000197.   
+14. Ungerer MN, Ringleb P, Reuter B, et al. Stroke unit admission is associated with better outcome and lower mortality in patients with intracerebral hemorrhage. Eur J Neurol 2020; 27: 825–832.   
+15. van Asch CJ, Velthuis BK, Rinkel GJ, et al. Diagnostic yield and accuracy of CT angiography, MR angiography, and digital subtraction angiography for detection of macrovascular causes of intracerebral haemorrhage: prospective, multicentre cohort study. BMJ 2015; 351: h5762.   
+16. Hilkens NA, van Asch CJJ, Werring DJ, et al. Predicting the presence of macrovascular causes in non-traumatic intracerebral haemorrhage: the DIAGRAM prediction score. J Neurol Neurosurg Psychiatry 2018; 89: 674–679.   
+17. Olavarría VV, Bustamante G, López MJ, et  al. Diagnostic accuracy of a simple clinical score to screen for vascular abnormalities in patients with intracerebral hemorrhage. J Stroke Cerebrovasc Dis 2014; 23: 2069–2074.   
+18. Delgado Almandoz JE, Schaefer PW, Goldstein JN, et  al. Practical scoring system for the identification of patients with intracerebral hemorrhage at highest risk of harboring an underlying vascular etiology: the Secondary Intracerebral Hemorrhage Score. AJNR Am J Neuroradiol 2010; 31: 1653– 1660.   
+19. Delgado Almandoz JE, Jagadeesan BD, Moran CJ, et  al. Independent validation of the secondary intracerebral hemorrhage score with catheter angiography and findings of emergent hematoma evacuation. Neurosurgery 2012; 70: 131–140; discussion 140.   
+20. Wilson D, Ogungbemi A, Ambler G, et  al. Developing an algorithm to identify patients with intracerebral haemorrhage secondary to a macrovascular cause. Eur Stroke J 2017; 2: 369–376.   
+21. Josephson CB, White PM, Krishan A, et  al. Computed tomography angiography or magnetic resonance angiogra-
+
+phy for detection of intracranial vascular malformations in patients with intracerebral haemorrhage. Cochrane Database Syst Rev 2014; 2014: Cd009372.   
+22. Tafelmeier S, Kesseler E, Iancu AM, et al. Spectrum of complications and complication rates after diagnostic catheter angiography in neuroradiology. Clin Neuroradiol 2023; 33: 763–768.   
+23. Nam HH, Jang DK and Cho BR. Complications and risk factors after digital subtraction angiography: 1-year singlecenter study. J Cerebrovasc Endovasc Neurosurg 2022; 24: 335–340.   
+24. Puy L, Parry-Jones AR, Sandset EC, et  al. Intracerebral haemorrhage. Nat Rev Dis Primers 2023; 9: 14.   
+25. Dawkins AA, Evans AL, Wattam J, et  al. Complications of cerebral angiography: a prospective analysis of 2,924 consecutive procedures. Neuroradiology 2007; 49: 753–759.   
+26. Gregório T, Pipa S, Cavaleiro P, et  al. Prognostic models for intracerebral hemorrhage: systematic review and metaanalysis. BMC Med Res Methodol 2018; 18: 145.   
+27. Wolff RF, Moons KGM, Riley RD, et al. PROBAST: a tool to assess the risk of bias and applicability of prediction model studies. Ann Intern Med 2019; 170: 51–58.   
+28. Hemphill JC 3rd, Bonovich DC, Besmertis L, et al. The ICH score: a simple, reliable grading scale for intracerebral hemorrhage. Stroke 2001; 32: 891–897.   
+29. Huang BR, Liao CC, Huang WH, et  al. Prognostic factors of spontaneous intracerebral haemorrhage in haemodialysis patients and predictors of 30-day mortality. Intern Med J 2008; 38: 568–574.   
+30. Romano L, Ioli P, Gonorazky S, et al. Desarollo y validación de la escala predictiva de mortalidad (REC-HPC) en la hemorragia intracerebral primaria. Neurol Argentina 2009; 1: 75–81.   
+31. Pan K, Panwar A, Roy U, et al. A comparison of the intracerebral hemorrhage score and the acute physiology and chronic health evaluation II score for 30-day mortality prediction in spontaneous intracerebral hemorrhage. J Stroke Cerebrovasc Dis 2017; 26: 2563–2569.   
+32. Weimar C, Benemann J and Diener HC. Development and validation of the Essen Intracerebral Haemorrhage Score. J Neurol Neurosurg Psychiatry 2006; 77: 601–605.   
+33. Godoy DA, Piñero G and Di Napoli M. Predicting mortality in spontaneous intracerebral hemorrhage: can modification to original score improve the prediction? Stroke 2006; 37: 1038–1044.   
+34. Schmidt FA, Liotta EM, Prabhakaran S, et al. Assessment and comparison of the max-ICH score and ICH score by external validation. Neurology 2018; 91: e939–e946.   
+35. Sembill JA, Castello JP, Sprügel MI, et al. Multicenter validation of the max-ICH score in intracerebral hemorrhage. Ann Neurol 2021; 89: 474–484.   
+36. Nisar T, Alchaki A and Hillen M. Validation of ICH score in a large urban population. Clin Neurol Neurosurg 2018; 174: 36–39.   
+37. Fakiri MO, Uyttenboogaart M, Houben R, et al. Reliability of the intracerebral hemorrhage score for predicting outcome in patients with intracerebral hemorrhage using oral anticoagulants. Eur J Neurol 2020; 27: 2006–2013.   
+38. Sembill JA, Gerner ST, Volbers B, et al. Severity assessment in maximally treated ICH patients: the max-ICH score. Neurology 2017; 89: 423–431.
+
+39. Zyck S, Du L, Gould G, et al. Scoping review and commentary on prognostication for patients with intracerebral hemorrhage with advances in surgical techniques. Neurocrit Care 2020; 33: 256–272.   
+40. Simon-Pimmel J, Foucher Y, Léger M, et al. Methodological quality of multivariate prognostic models for intracranial haemorrhages in intensive care units: a systematic review. BMJ Open 2021; 11: e047279.   
+41. Satopaa J, Mustanoja S, Meretoja A, et  al. Comparison of all 19 published prognostic scores for intracerebral hemorrhage. J Neurol Sci 2017; 379: 103–108.   
+42. Witsch J, Siegerink B, Nolte CH, et al. Prognostication after intracerebral hemorrhage: a review. Neurol Res Pract 2021; 3: 22.   
+43. Fernandes H, Gregson BA, Siddique MS, et al. Testing the ICH score. Stroke 2002; 33: 1455–1456; author reply 1455– 1456.   
+44. McCracken DJ, Lovasik BP, McCracken CE, et  al. The intracerebral hemorrhage score: a self-fulfilling prophecy? Neurosurgery 2019; 84: 741–748.   
+45. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage: a guideline from the American Heart Association/American Stroke Association. Stroke 2022; 53: e282–e361.   
+46. Silvennoinen K, Meretoja A, Strbian D, et  al. Do-notresuscitate (DNR) orders in patients with intracerebral hemorrhage. Int J Stroke 2014; 9: 53–58.   
+47. Creutzfeldt CJ, Becker KJ, Weinstein JR, et  al. Do-notattempt-resuscitation orders and prognostic models for intraparenchymal hemorrhage. Crit Care Med 2011; 39: 158–162.   
+48. Zahuranec DB, Morgenstern LB, Sánchez BN, et al. Do-notresuscitate orders and predictive models after intracerebral hemorrhage. Neurology 2010; 75: 626–633.   
+49. Nakagawa K, Vento MA, Seto TB, et al. Sex differences in the use of early do-not-resuscitate orders after intracerebral hemorrhage. Stroke 2013; 44: 3229–3231.   
+50. Grundtvig J, Ovesen C, Steiner T, et al. Sex-differences in oral anticoagulant-related intracerebral hemorrhage. Front Neurol 2022; 13: 832903.   
+51. Parry-Jones AR, Sammut-Powell C, Paroutoglou K, et  al. An intracerebral hemorrhage care bundle is associated with lower case fatality. Ann Neurol 2019; 86: 495–503.   
+52. Vemmos KN, Tsivgoulis G, Spengos K, et al. U-shaped relationship between mortality and admission blood pressure in patients with acute stroke. J Intern Med 2004; 255: 257–265.   
+53. Qureshi AI, Ezzeddine MA, Nasar A, et al. Prevalence of elevated blood pressure in 563,704 adult patients with stroke presenting to the ED in the United States. Am J Emerg Med 2007; 25: 32–38.   
+54. Willmot M, Leonardi-Bee J and Bath PM. High blood pressure in acute stroke and subsequent outcome: a systematic review. Hypertension 2004; 43: 18–24.   
+55. Sandset EC, Anderson CS, Bath PM, et al. European Stroke Organisation (ESO) guidelines on blood pressure management in acute ischaemic stroke and intracerebral haemorrhage. Eur Stroke J 2021; 6: 1–42.   
+56. van den Berg SA, Uniken Venema SM, Reinink H, et  al. Prehospital transdermal glyceryl trinitrate in patients with presumed acute stroke (MR ASAP): an ambulance-based,
+
+multicentre, randomised, open-label, blinded endpoint, phase 3 trial. Lancet Neurol 2022; 21: 971–981.   
+57. Li G, Lin Y, Yang J, et  al. Intensive ambulance-delivered blood-pressure reduction in hyperacute stroke. N Engl J Med 2024; 390: 1862–1872.   
+58. Anderson CS, Huang Y, Wang JG, et  al. Intensive blood pressure reduction in acute cerebral haemorrhage trial (INTERACT): a randomised pilot trial. Lancet Neurol 2008; 7: 391–399.   
+59. Koch S, Romano JG, Forteza AM, et al. Rapid blood pressure reduction in acute intracerebral hemorrhage: feasibility and safety. Neurocrit Care 2008; 8: 316–321.   
+60. Potter JF, Robinson TG, Ford GA, et al. Controlling hypertension and hypotension immediately post-stroke (CHHIPS): a randomised, placebo-controlled, double-blind pilot trial. Lancet Neurol 2009; 8: 48–56.   
+61. Butcher KS, Jeerakathil T, Hill M, et  al. The intracerebral hemorrhage acutely decreasing arterial pressure trial. Stroke 2013; 44: 620–626.   
+62. Anderson CS, Heeley E, Huang Y, et al. Rapid blood-pressure lowering in patients with acute intracerebral hemorrhage. N Engl J Med 2013; 368: 2355–2365.   
+63. Jusufovic M, Sandset EC, Bath PM, et  al. Blood pressurelowering treatment with candesartan in patients with acute hemorrhagic stroke. Stroke 2014; 45: 3440–3442.   
+64. Qureshi AI, Palesch YY, Barsan WG, et al. Intensive bloodpressure lowering in patients with acute cerebral hemorrhage. N Engl J Med 2016; 375: 1033–1043.   
+65. Krishnan K, Scutt P, Woodhouse L, et  al. Glyceryl trinitrate for acute intracerebral hemorrhage: results from the Efficacy of Nitric Oxide in Stroke (ENOS) trial, a subgroup analysis. Stroke 2016; 47: 44–52.   
+66. Zheng J, Li H, Lin S, et  al. Perioperative antihypertensive treatment in patients with spontaneous intracerebral hemorrhage. Stroke 2017; 48: 216–218.   
+67. Gupta S, Abbot AK, Srinath R, et  al. Randomized trial to assess safety and clinical efficacy of intensive blood pressure reduction in acute spontaneous intracerebral haemorrhage. Med J Armed Forces India 2018; 74: 120–125.   
+68. RIGHT-2 Investigators. Prehospital transdermal glyceryl trinitrate in patients with ultra-acute presumed stroke (RIGHT-2): an ambulance-based, randomised, sham-controlled, blinded, phase 3 trial. Lancet 2019; 393: 1009– 1020.   
+69. Yuan F, Yang F, Zhao J, et  al. Controlling Hypertension After Severe Cerebrovascular Event (CHASE): a randomized, multicenter, controlled study. Int J Stroke 2020; 16: 1747493020932784.   
+70. Gioia L, Klahr A, Kate M, et  al. The intracerebral hemorrhage acutely decreasing arterial pressure trial II (ICH ADAPT II) protocol. BMC Neurol 2017; 17: 100.   
+71. Al-Shahi Salman R, Frantzias J, Lee RJ, et al. Absolute risk and predictors of the growth of acute spontaneous intracerebral haemorrhage: a systematic review and meta-analysis of individual patient data. Lancet Neurol 2018; 17: 885–894.   
+72. Divani AA, Liu X, Di Napoli M, et al. Blood pressure variability predicts poor in-hospital outcome in spontaneous intracerebral hemorrhage. Stroke 2019; 50: 2023–2029.   
+73. Manning L, Hirakawa Y, Arima H, et al. Blood pressure variability and outcome after acute intracerebral haemorrhage:
+
+a post-hoc analysis of INTERACT2, a randomised controlled trial. Lancet Neurol 2014; 13: 364–373.   
+74. Chang JJ, Armonda R, Goyal N, et  al. Magnesium: pathophysiological mechanisms and potential therapeutic roles in intracerebral hemorrhage. Neural Regen Res 2019; 14: 1116–1121.   
+75. Tanaka E, Koga M, Kobayashi J, et al. Blood pressure variability on antihypertensive therapy in acute intracerebral hemorrhage: the Stroke Acute Management with Urgent Risk-factor Assessment and Improvement-intracerebral hemorrhage study. Stroke 2014; 45: 2275–2279.   
+76. de Havenon A, Majersik JJ, Stoddard G, et  al. Increased blood pressure variability contributes to worse outcome after intracerebral hemorrhage. Stroke 2018; 49: 1981–1984.   
+77. Moullaali TJ, Wang X, Martin RH, et al. Blood pressure control and clinical outcomes in acute intracerebral haemorrhage: a preplanned pooled analysis of individual participant data. Lancet Neurol 2019; 18: 857–864.   
+78. Arima H, Heeley E and Delcourt C. Optimal achieved blood pressure in acute intracerebral hemorrhage: INTERACT2. Neurology 2015; 84: 464–471.   
+79. Rodriguez-Luna D, Pancorbo O, Llull L, et  al. Effects of achieving rapid, intensive, and sustained blood pressure reduction in intracerebral hemorrhage expansion and functional outcome. Neurology 2024; 102: e209244.   
+80. Ma L, Hu X, Song L, et al. The third intensive care bundle with blood pressure reduction in acute cerebral haemorrhage trial (INTERACT3): an international, stepped wedge cluster randomised controlled trial. Lancet 2023; 402: 27–40.   
+81. Wang X, Di Tanna GL, Moullaali TJ, et al. J-shape relation of blood pressure reduction and outcome in acute intracerebral hemorrhage: a pooled analysis of INTERACT2 and ATACH-II individual participant data. Int J Stroke 2022; 17: 1129–1136.   
+82. Burgess LG, Goyal N, Jones GM, et al. Evaluation of acute kidney injury and mortality after intensive blood pressure control in patients with intracerebral hemorrhage. J Am Heart Assoc 2018; 7: 1–11.   
+83. Li Q, Lv X, Morotti A, et  al. Optimal magnitude of blood pressure reduction and hematoma growth and functional outcomes in intracerebral hemorrhage. Neurology 2025; 104: e213412.   
+84. Qureshi AI, Huang W, Lobanova I, et  al. Outcomes of intensive systolic blood pressure reduction in patients with intracerebral hemorrhage and excessively high initial systolic blood pressure: post hoc analysis of a randomized clinical trial. JAMA Neurol 2020; 77: 1355–1365.   
+85. Bath PM, Woodhouse LJ, Krishnan K, et  al. Prehospital transdermal glyceryl trinitrate for ultra-acute intracerebral hemorrhage: data from the RIGHT-2 trial. Stroke 2019; 50: 3064–3071.   
+86. Graffagnino C, Bergese S, Love J, et  al. Clevidipine rapidly and safely reduces blood pressure in acute intracerebral hemorrhage: the ACCELERATE trial. Cerebrovasc Dis 2013; 36: 173–180.   
+87. Dong R, Li F, Li B, et al. Effects of an early intensive blood pressure-lowering strategy using remifentanil and dexmedetomidine in patients with spontaneous intracerebral hemorrhage: a multicenter, prospective, superiority, randomized controlled trial. Anesthesiology 2024; 141: 100–115.
+
+88. Butcher, K S et al. Acute blood pressure lowering and risk of ischemic lesions on MRI after intracerebral hemorrhage. JAMA Neurol 2025; Advance online publication 21, 2025. doi: 10.1001/jamaneurol.2025.0586;   
+89. Brott T, Broderick J, Kothari R, et  al. Early hemorrhage growth in patients with intracerebral hemorrhage. Stroke 1997; 28: 1–5.   
+90. Mayer SA, Brun NC, Begtrup K, et  al. Efficacy and safety of recombinant activated factor VII for acute intracerebral hemorrhage. N Engl J Med 2008; 358: 2127–2137.   
+91. Hart RG, Pearce LA, McBride R, et  al. Factors associated with ischemic stroke during aspirin therapy in atrial fibrillation: analysis of 2012 participants in the SPAF I-III clinical trials. The Stroke Prevention in Atrial Fibrillation (SPAF) Investigators. Stroke 1999; 30: 1223–1229.   
+92. Hankey GJ, Stevens SR, Piccini JP, et al. Intracranial hemorrhage among patients with atrial fibrillation anticoagulated with warfarin or rivaroxaban: the rivaroxaban once daily, oral, direct factor Xa inhibition compared with vitamin K antagonism for prevention of stroke and embolism trial in atrial fibrillation. Stroke 2014; 45: 1304–1312.   
+93. Lopes RD, Guimaraes PO, Kolls BJ, et al. Intracranial hemorrhage in patients with atrial fibrillation receiving anticoagulation therapy. Blood 2017; 129: 2980–2987.   
+94. Rost NS, Giugliano RP, Ruff CT, et  al. Outcomes with edoxaban versus warfarin in patients with previous cerebrovascular events: findings from ENGAGE AF-TIMI 48 (effective anticoagulation with factor Xa next generation in atrial fibrillation-thrombolysis in myocardial infarction 48). Stroke 2016; 47: 2075–2082.   
+95. Eilertsen H, Chaamanti SM, Chen C, et al. Haemostatic drug therapies for acute spontaneous intracerebral haemorrhage. Cochrane Database Syst Rev 2023; 10: Cd005951.   
+96. Arumugam A, Tan SE, Tan SL, et  al. Tranexamic acid in non-traumatic intracerebral haemorrhage (TANICH II): introducing the potential role of 3 g tranexamic acid in haematoma reduction. Malays J Med Sci 2023; 30: 93–102.   
+97. Desborough MJR, Al-Shahi Salman R, Stanworth SJ, et  al. Desmopressin for patients with spontaneous intracerebral haemorrhage taking antiplatelet drugs (DASH): a UK-based, phase 2, randomised, placebo-controlled, multicentre feasibility trial. Lancet Neurol 2023; 22: 557–567.   
+98. Yassi N, Zhao H, Churilov L, et  al. Tranexamic acid versus placebo in individuals with intracerebral haemorrhage treated within 2 h of symptom onset (STOP-MSU): an international, double-blind, randomised, phase 2 trial. Lancet Neurol 2024; 23: 577–587.   
+99. Connolly Stuart J, Sharma M, Cohen AT, et al. Andexanet for factor Xa inhibitor–associated acute intracerebral hemorrhage. N Engl J Med 2024; 390: 1745–1755.   
+100. Novo Nordisk. Randomised, double-blind, multicentre, placebo controlled dose-escalation study to evaluate the safety and preliminary efficacy of activated recombinant factor VII (NN-007) in acute intracerebral haemorrhage. Available from https://Clinicaltrials.gov. [Novo Nordisk Trial ID F7ICH-1602] - NCT00266006. Unpublished. 2007.   
+101. Gladstone DJ, Aviv RI, Demchuk AM, et  al. Effect of recombinant activated coagulation factor VII on hemorrhage expansion among patients with spot sign-positive
+
+acute intracerebral hemorrhage: the SPOTLIGHT and STOP-IT randomized clinical trials. JAMA Neurol 2019; 76: 1493–1501.   
+102. Imberti R, Pietrobono L, Klersy C, et  al. Intraoperative intravenous administration of rFVIIa and hematoma volume after early surgery for spontaneous intracerebral hemorrhage: a randomized prospective phase II study. Minerva Anestesiol 2012; 78: 168–175.   
+103. Li X, Wang YQ and Li W. Intervention study on recombinant activated factor VIIa in depressing early hematoma extensions of cerebral hemorrhage. Chin J New Drugs 2012; 21: 161–163.   
+104. Mayer S, Brun N, Broderick J, et al. Safety and feasibility of recombinant factor VIIa for acute intracerebral hemorrhage. Stroke 2005; 36: 74–79.   
+105. Mayer S, Brun N, Broderick J, et al. Recombinant activated factor VII for acute intracerebral hemorrhage. N Engl J Med 2005; 352: 777–785.   
+106. Mayer S, Brun N, Broderick J, et al. Recombinant activated factor VII for acute intracerebral hemorrhage: U.S. phase IIA trial. Neurocrit Care 2006; 4: 206–214.   
+107. Liu J, Nie X, Gu H, et al. Tranexamic acid for acute intracerebral haemorrhage growth based on imaging assessment (TRAIGE): a multicentre, randomised, placebo-controlled trial. Stroke Vasc Neurol 2021; 6: 160–169.   
+108. Meretoja A, Yassi N, Wu TY, et  al. Tranexamic acid in patients with intracerebral haemorrhage (STOP-AUST): a multicentre, randomised, placebo-controlled, phase 2 trial. Lancet Neurol 2020; 19: 980–987.   
+109. Sprigg N, Renton CJ, Dineen RA, et al. Tranexamic acid for spontaneous intracerebral hemorrhage: a randomized controlled pilot trial (ISRCTN50867461). J Stroke Cerebrovasc Dis 2014; 23: 1312–1318.   
+110. Sprigg N, Flaherty K, Appleton JP, et al. Tranexamic acid for hyperacute primary IntraCerebral Haemorrhage (TICH-2): an international randomised, placebo-controlled, phase 3 superiority trial. Lancet 2018; 391: 2107–2115.   
+111. Ni J, Wang L, Wang F, et al. Tranexamic acid for spontaneous intracerebral hemorrhage: a randomized controlled study. Int J Cerebrovasc Dis 2020; 12: 266–270.   
+112. Polymeris AA, Karwacki GM, Siepen BM, et al. Tranexamic acid for intracerebral hemorrhage in patients on nonvitamin K-antagonist oral anticoagulants (TICH-NOAC): a multicenter, randomized, placebo-controlled, phase 2 trial. Stroke 2023; 54: 2223–2234.   
+113. Zazulia AR. Antifibrinolytic therapy in acute intracerebral hemorrhage (ATICH), unpublished data. http://www. strokecenter.org (2017, accessed 27 November 2017).   
+114. Baharoglu MI, Cordonnier C, Salman RA, et  al. Platelet transfusion versus standard care after acute stroke due to spontaneous cerebral haemorrhage associated with antiplatelet therapy (PATCH): a randomised, open-label, phase 3 trial. Lancet 2016; 387: 2605–2613.   
+115. Boulis NM, Bobek MP, Schmaier A, et  al. Use of factor IX complex in warfarin-related intracranial hemorrhage. Neurosurgery 1999; 45: 1113–1118; discussion 1118–1119.   
+116. Steiner T, Poli S, Griebe M, et al. Fresh frozen plasma versus prothrombin complex concentrate in patients with intracranial haemorrhage related to vitamin K-antagonists (INCH): a randomised trial. Lancet Neurol 2016; 15: 566–573.
+
+117. Yasaka M, Sakata T, Minematsu K, et al. Correction of INR by prothrombin complex concentrate and vitamin K in patients with warfarin related hemorrhagic complication. Thromb Res 2002; 108: 25–30.   
+118. Gerner ST, Kuramatsu JB, Sembill JA, et  al. Association of prothrombin complex concentrates administration and hematoma enlargement in NOAC-related intracerebral hemorrhage. Ann Neurol 2018; 83: 186–196.   
+119. Chiasakul T, Crowther M and Cuker A. Four-factor prothrombin complex concentrate for the treatment of oral factor Xa inhibitor-associated bleeding: a meta-analysis of fixed versus variable dosing. Res Pract Thromb Haemost 2023: 7: 100107.   
+120. Panos NG, Cook AM, John S, et al. Factor Xa inhibitorrelated intracranial hemorrhage: results from a multicenter, observational cohort receiving prothrombin complex concentrates. Circulation 2020; 141: 1681–1689.   
+121. Castillo R, Chan A, Atallah S, et  al. Treatment of adults with intracranial hemorrhage on apixaban or rivaroxaban with prothrombin complex concentrate products. J Thromb Thrombolysis 2021; 51: 151–158.   
+122. Pollack CV Jr, Reilly PA, Eikelboom J, et al. Idarucizumab for dabigatran reversal - full cohort analysis. N Engl J Med 2017; 377: 431–441.   
+123. Pollack CV Jr, Reilly PA, Eikelboom J, et al. Idarucizumab for dabigatran reversal. N Engl J Med 2015; 373: 511–520.   
+124. van der Horst SFB, Martens ESL, den Exter PL, et  al. Idarucizumab for dabigatran reversal: a systematic review and meta-analysis of indications and outcomes. Thromb Res 2023; 228: 21–32.   
+125. Naidech A, Steiner T, Mayer SA, et al. Recombinant factor VIIa for hemorrhagic stroke treatment at earliest possible time (FASTEST): protocol for a phase III, double-blind, randomized, placebo-controlled trial. Int J Stroke 2022; 17: 806–809.   
+126. Auer LM, Deinsberger W, Niederkorn K, et al. Endoscopic surgery versus medical treatment for spontaneous intracerebral hematoma: a randomized study. J Neurosurg 1989; 70: 530–535.   
+127. Batjer HH, Reisch JS, Allen BC, et  al. Failure of surgery to improve outcome in hypertensive putaminal hemorrhage. A prospective randomized trial. Arch Neurol 1990; 47: 1103–1106.   
+128. Bhaskar MK, Kumar R, Ojha B, et al. A randomized controlled study of operative versus nonoperative treatment for large spontaneous supratentorial intracerebral hemorrhage. Neurol India 2017; 65: 752–758.   
+129. Hanley DF, Thompson RE, Muschelli J, et al. Safety and efficacy of minimally invasive surgery plus alteplase in intracerebral haemorrhage evacuation (MISTIE): a randomised, controlled, open-label, phase 2 trial. Lancet Neurol 2016; 15: 1228–1237.   
+130. Hanley DF, Thompson RE, Rosenblum M, et  al. Efficacy and safety of minimally invasive surgery with thrombolysis in intracerebral haemorrhage evacuation (MISTIE III): a randomised, controlled, open-label, blinded endpoint phase 3 trial. Lancet 2019; 393: 1021–1032.   
+131. Hattori N, Katayama Y, Maya Y, et al. Impact of stereotactic hematoma evacuation on medical costs during the chronic period in patients with spontaneous putaminal
+
+hemorrhage: a randomized study. Surg Neurol 2006; 65: 429–435; discussion 435.   
+132. Juvela S, Heiskanen O, Poranen A, et  al. The treatment of spontaneous intracerebral hemorrhage. A prospective randomized trial of surgical and conservative treatment. J Neurosurg 1989; 70: 755–758.   
+133. Kim YZ and Kim KH. Even in patients with a small hemorrhagic volume, stereotactic-guided evacuation of spontaneous intracerebral hemorrhage improves functional outcome. J Korean Neurosurg Soc 2009; 46: 109–115.   
+134. Mendelow AD, Gregson BA, Fernandes HM, et  al. Early surgery versus initial conservative treatment in patients with spontaneous supratentorial intracerebral haematomas in the International Surgical Trial in Intracerebral Haemorrhage (STICH): a randomised trial. Lancet 2005; 365: 387–397.   
+135. Mendelow AD, Gregson BA, Rowan EN, et al. Early surgery versus initial conservative treatment in patients with spontaneous supratentorial lobar intracerebral haematomas (STICH II): a randomised trial. Lancet 2013; 382: 397–408.   
+136. Miller CM, Vespa P, Saver JL, et  al. Image-guided endoscopic evacuation of spontaneous intracerebral hemorrhage. Surg Neurol 2008; 69: 441–446; discussion 446.   
+137. Pantazis G, Tsitsopoulos P, Mihas C, et  al. Early surgical treatment vs conservative management for spontaneous supratentorial intracerebral hematomas: a prospective randomized study. Surg Neurol 2006; 66: 492–501; discussion 501-2.   
+138. Pradilla G, Ratcliff JJ, Hall AJ, et al. Trial of early minimally invasive removal of intracerebral hemorrhage. N Engl J Med 2024; 390: 1277–1289.   
+139. Teernstra OP, Evers SM, Lodder J, et al. Stereotactic treatment of intracerebral hematoma by means of a plasminogen activator: a multicenter randomized controlled trial (SICHPA). Stroke 2003; 34: 968–974.   
+140. Wang WZ, Jiang B, Liu HM, et al. Minimally invasive craniopuncture therapy vs. conservative treatment for spontaneous intracerebral hemorrhage: results from a randomized clinical trial in China. Int J Stroke 2009; 4: 11–16.   
+141. Zuccarello M, Brott T, Derex L, et al. Early surgical treatment for supratentorial intracerebral hemorrhage: a randomized feasibility study. Stroke 1999; 30: 1833–1839.   
+142. Morgenstern LB, Frankowski RF, Shedden P, et al. Surgical treatment for intracerebral hemorrhage (STICH): a single-center, randomized clinical trial. Neurology 1998; 51: 1359–1363.   
+143. Davis SM, Broderick J, Hennerici M, et  al. Hematoma growth is a determinant of mortality and poor outcome after intracerebral hemorrhage. Neurology 2006; 66: 1175– 1181.   
+144. Gregson BA, Broderick JP, Auer LM, et  al. Individual patient data subgroup meta-analysis of surgery for spontaneous supratentorial intracerebral hemorrhage. Stroke 2012; 43: 1496–1504.   
+145. Beck J, Fung C, Strbian D, et al. Decompressive craniectomy plus best medical treatment versus best medical treatment alone for spontaneous severe deep supratentorial intracerebral haemorrhage: a randomised controlled clinical trial. Lancet 2024; 403: 2395–2404.
+
+146. Bhattathiri PS, Gregson B, Prasad KS, et al. Intraventricular hemorrhage and hydrocephalus after spontaneous intracerebral hemorrhage: results from the STICH trial. Acta Neurochir Suppl 2006; 96: 65–68.   
+147. Herrick DB, Ullman N, Nekoovaght-Tak S, et  al. Determinants of external ventricular drain placement and associated outcomes in patients with spontaneous intraventricular hemorrhage. Neurocrit Care 2014; 21: 426–434.   
+148. Lovasik BP, McCracken DJ, McCracken CE, et  al. The effect of external ventricular drain use in intracerebral hemorrhage. World Neurosurg 2016; 94: 309–318.   
+149. Tung MY, Ong PL, Seow WT, et al. A study on the efficacy of intraventricular urokinase in the treatment of intraventricular haemorrhage. Br J Neurosurg 1998; 12: 234–239.   
+150. King NK, Lai JL, Tan LB, et  al. A randomized, placebocontrolled pilot study of patients with spontaneous intraventricular haemorrhage treated with intraventricular thrombolysis. J Clin Neurosci 2012; 19: 961–964.   
+151. Naff N, Williams MA, Keyl PM, et  al. Low-dose recombinant tissue-type plasminogen activator enhances clot resolution in brain hemorrhage: the intraventricular hemorrhage thrombolysis trial. Stroke 2011; 42: 3009–3016.   
+152. Hanley DF, Lane K, McBee N, et al. Thrombolytic removal of intraventricular haemorrhage in treatment of severe stroke: results of the randomised, multicentre, multiregion, placebo-controlled CLEAR III trial. Lancet 2017; 389: 603–611.   
+153. Staykov D, Kuramatsu JB, Bardutzky J, et al. Efficacy and safety of combined intraventricular fibrinolysis with lumbar drainage for prevention of permanent shunt dependency after intracerebral hemorrhage with severe ventricular involvement: a randomized trial and individual patient data meta-analysis. Ann Neurol 2017; 81: 93–103.   
+154. Shimizu Y, Tsuchiya K and Fujisawa H. Endoscopic surgery for thalamic hemorrhage with intraventricular hemorrhage: effects of combining evacuation of a thalamic hematoma to external ventricular drainage. Asian J Neurosurg 2019; 14: 1112–1115.   
+155. Zhang Z, Li X, Liu Y, et  al. Application of neuroendoscopy in the treatment of intraventricular hemorrhage. Cerebrovasc Dis 2007; 24: 91–96.   
+156. Qi W, Liping Z, Bo C, et al. Combined external ventricular drainage and endoscope-assisted microsurgery using the middle frontal gyrus approach in severe ventricular hemorrhage with casting of the fourth ventricle. World Neurosurg 2022; 167: e607–e613.   
+157. Zhou H, Cha Z, Wang L, et al. Clinical efficacy and safety of neuroendoscopic surgery for severe thalamic hemorrhage with ventricle encroachment. Neurosurg Rev 2022; 45: 2701–2708.   
+158. Chen CC, Liu CL, Tung YN, et  al. Endoscopic surgery for intraventricular hemorrhage (IVH) caused by thalamic hemorrhage: comparisons of endoscopic surgery and external ventricular drainage (EVD) surgery. World Neurosurg 2011; 75: 264–268.   
+159. Shoamanesh A, Patrice Lindsay M, Castellucci LA, et  al. Canadian stroke best practice recommendations: Management of Spontaneous Intracerebral Hemorrhage, 7th Edition Update 2020. Int J Stroke 2021; 16: 321–341.
+
+160. Kuramatsu JB, Biffi A, Gerner ST, et al. Association of surgical hematoma evacuation vs conservative treatment with functional outcome in patients with cerebellar intracerebral hemorrhage. JAMA 2019; 322: 1392–1403.   
+161. Metayer T, Pasi M, Magro E, et al. Indications for surgical evacuation of cerebellar intracerebral hemorrhage: consensus guidelines from the French Society of Neurosurgery (SFNC) and the French Society of Vascular Neurology (SFNV). Neurochirurgie 2024; 70: 101506.   
+162. Senff JR, Singh SD, Pasi M, et  al. Long-term outcomes in patients with spontaneous cerebellar hemorrhage: an international cohort study. Stroke 2024; 55: 1210–1217.   
+163. Dennis M, Sandercock PA, Reid J, et  al. Effectiveness of thigh-length graduated compression stockings to reduce the risk of deep vein thrombosis after stroke (CLOTS trial 1): a multicentre, randomised controlled trial. Lancet 2009; 373: 1958–1965.   
+164. CLOTS (Clots in Legs Or sTockings after Stroke) Trial Collaboration. Thigh-length versus below-knee stockings for deep venous thrombosis prophylaxis after stroke: a randomized trial. Ann Intern Med 2010; 153: 553–562.   
+165. Dennis M, Sandercock P, Reid J, et  al. Effectiveness of intermittent pneumatic compression in reduction of risk of deep vein thrombosis in patients who have had a stroke (CLOTS 3): a multicentre randomised controlled trial. Lancet 2013; 382: 516–524.   
+166. Lacut K, Bressollette L, Le Gal G, et  al. Prevention of venous thrombosis in patients with acute intracerebral hemorrhage. Neurology 2005; 65: 865–869.   
+167. Vignon P, Dequin PF, Renault A, et al. Intermittent pneumatic compression to prevent venous thromboembolism in patients with high risk of bleeding hospitalized in intensive care units: the CIREA1 randomized trial. Intensive Care Med 2013; 39: 872–880.   
+168. Boeer A, Voth E, Henze T, et  al. Early heparin therapy in patients with spontaneous intracerebral haemorrhage. J Neurol Neurosurg Psychiatry 1991; 54: 466–467.   
+169. Orken DN, Kenangil G, Ozkurt H, et  al. Prevention of deep venous thrombosis and pulmonary embolism in patients with acute intracerebral hemorrhage. Neurologist 2009; 15: 329–331.   
+170. Paciaroni M, Agnelli G, Alberti A, et  al. PREvention of VENous Thromboembolism in Hemorrhagic Stroke Patients - PREVENTIHS study: a randomized controlled trial and a systematic review and meta-analysis. Eur Neurol 2020; 83: 566–575.   
+171. Qian C, Huhtakangas J, Juvela S, et  al. Early vs. late enoxaparin for the prevention of venous thromboembolism in patients with ICH: a double blind placebo controlled multicenter study. Clin Neurol Neurosurg 2021; 202: 106534.   
+172. Dickmann U, Voth E, Schicha H, et  al. Heparin therapy, deep-vein thrombosis and pulmonary embolism after intracerebral hemorrhage. Klin Wochenschr 1988; 66: 1182–1183.   
+173. Cochrane A, Chen C, Stephen J, et  al. Antithrombotic treatment after stroke due to intracerebral haemorrhage. Cochrane Database Syst Rev 2023; 1: CD012144.
+
+174. Sprügel MI, Sembill JA, Kuramatsu JB, et al. Heparin for prophylaxis of venous thromboembolism in intracerebral haemorrhage. J Neurol Neurosurg Psychiatry 2019; 90: 783–791.   
+175. den Hertog HM, van der Worp HB, van Gemert HM, et al. The Paracetamol (Acetaminophen) In Stroke (PAIS) trial: a multicentre, randomised, placebo-controlled, phase III trial. Lancet Neurol 2009; 8: 434–440.   
+176. Diringer MN. Treatment of fever in the neurologic intensive care unit with a catheter-based heat exchange system. Crit Care Med 2004; 32: 559–564.   
+177. Broessner G, Beer R, Lackner P, et al. Prophylactic, endovascularly based, long-term normothermia in ICU patients with severe cerebrovascular disease: bicenter prospective, randomized trial. Stroke 2009; 40: e657–e665.   
+178. de Ridder IR, den Hertog HM, van Gemert HM, et al. PAIS 2 (Paracetamol [Acetaminophen] in Stroke 2): results of a randomized, double-blind placebo-controlled clinical trial. Stroke 2017; 48: 977–982.   
+179. Greer DM, Helbok R, Badjatia N, et al. Fever prevention in patients with acute vascular brain injury: the INTREPID randomized clinical trial. JAMA 2024; 332: 1525–1534.   
+180. Schwarz S, Hafner K, Aschoff A, et al. Incidence and prognostic significance of fever following intracerebral hemorrhage. Neurology 2000; 54: 354–361.   
+181. Leira R, Davalos A, Silva Y, et al. Early neurologic deterioration in intracerebral hemorrhage: predictors and associated factors. Neurology 2004; 63: 461–467.   
+182. Kollmar R, Juettler E, Huttner HB, et al. Cooling in intracerebral hemorrhage (CINCH) trial: protocol of a randomized German-Austrian clinical trial. Int J Stroke 2012; 7: 168–172.   
+183. Green DM, O’Phelan KH, Bassin SL, et al. Intensive versus conventional insulin therapy in critically ill neurologic patients. Neurocrit Care 2010; 13: 299–306.   
+184. Johnston KC, Bruno A, Pauls Q, et al. Intensive vs standard treatment of hyperglycemia and functional outcome in patients with acute ischemic stroke: the SHINE randomized clinical trial. JAMA 2019; 322: 326–335.   
+185. Zeng J, Zheng P, Tong W, et al. Decreased risk of secondary brain herniation with intracranial pressure monitoring in patients with haemorrhagic stroke. BMC Anesthesiol 2014; 14: 19.   
+186. Robba C, Graziano F, Rebora P, et al. Intracranial pressure monitoring in patients with acute brain injury in the intensive care unit (SYNAPSE-ICU): an international, prospective observational cohort study. Lancet Neurol 2021; 20: 548–558.   
+187. Dallagiacoma S, Robba C, Graziano F, et  al. Intracranial pressure monitoring in patients with spontaneous intracerebral hemorrhage: insights from the SYNAPSE-ICU study. Neurology 2022; 99: e98–e108.   
+188. Parry-Jones AR, Stocking K, MacLeod MJ, et  al. Phase II randomised, placebo-controlled, clinical trial of interleukin-1 receptor antagonist in intracerebral haemorrhage: BLOcking the Cytokine IL-1 in ICH (BLOC-ICH). Eur Stroke J 2023; 8: 819–827.   
+189. Lee SH, Park HK, Ryu WS, et al. Effects of celecoxib on hematoma and edema volumes in primary intracerebral hemorrhage: a multicenter randomized controlled trial. Eur J Neurol 2013; 20: 1161–1169.
+
+190. Clark W, Gunion-Rinker L, Lessov N, et  al. Citicoline treatment for experimental intracerebral hemorrhage in mice. Stroke 1998; 29: 2136–2140.   
+191. Secades JJ, Alvarez-Sabín J, Rubio F, et  al. Citicoline in intracerebral haemorrhage: a double-blind, randomized, placebo-controlled, multi-centre pilot study. Cerebrovasc Dis 2006; 21: 380–385.   
+192. Hooshmand H, Quinn JC and Houff SA. Cerebrospinal fluid pressure changes with chemotherapy for intracerebral hemorrhage. Neurology 1972; 22: 56–61.   
+193. Tellez H and Bauer RB. Dexamethasone as treatment in cerebrovascular disease. 1. A controlled study in intracerebral hemorrhage. Stroke 1973; 4: 541–546.   
+194. Poungvarin N, Bhoopat W, Viriyavejakul A, et al. Effects of dexamethasone in primary supratentorial intracerebral hemorrhage. N Engl J Med 1987; 316: 1229–1233.   
+195. Desai P and Prasad K. Dexamethasone is not necessarily unsafe in primary supratentorial intracerebral haemorrhage. J Neurol Neurosurg Psychiatry 1998; 65: 799–800.   
+196. Ogun SA and Odusote KA. Effectiveness of high dose dexamethasone in the treatment of acute stroke. West Afr J Med 2001; 20: 1–6.   
+197. Sharafadinzadeh N, Baghebanian SM, Pipelzadeh M, et  al. Effects of dexamethasone in primary intracerebral hemorrhage in the south west of Iran. Pak J Med Sci 2008; 24: 502–505.   
+198. Yu Y, Zhao W, Zhu C, et al. The clinical effect of deferoxamine mesylate on edema after intracerebral hemorrhage. PLoS One 2015; 10: e0122371.   
+199. Selim M, Foster LD, Moy CS, et al. Deferoxamine mesylate in patients with intracerebral haemorrhage (i-DEF): a multicentre, randomised, placebo-controlled, double-blind phase 2 trial. Lancet Neurol 2019; 18: 428–438.   
+200. Qin M, Feng L, Yang C, et al. Edaravone use in acute intracerebral hemorrhage: a systematic review and meta-analysis of randomized controlled trials. Front Pharmacol 2022; 13: 935198.   
+201. Fu Y, Hao J, Zhang N, et al. Fingolimod for the treatment of intracerebral hemorrhage: a 2-arm proof-of-concept study. JAMA Neurol 2014; 71: 1092–1101.   
+202. Fouda AY, Newsome AS, Spellicy S, et al. Minocycline in acute cerebral hemorrhage: an early phase randomized trial. Stroke 2017; 48: 2885–2887.   
+203. Chang JJ, Kim-Tenser M, Emanuel BA, et  al. Minocycline and matrix metalloproteinase inhibition in acute intracerebral hemorrhage: a pilot study. Eur J Neurol 2017; 24: 1384–1391.   
+204. Xu D, Huang P, Yu Z, et al. Efficacy and safety of panax notoginseng saponin therapy for acute intracerebral hemorrhage, meta-analysis, and mini review of potential mechanisms of action. Front Neurol 2014; 5: 274.   
+205. Kim M, Byun J, Chung Y, et  al. Reactive oxygen species scavenger in acute intracerebral hemorrhage patients. Stroke 2021; 52: 1172–1181.   
+206. Wu L, Song H, Zhang C, et al. Efficacy and safety of panax notoginseng saponins in the treatment of adults with ischemic stroke in China: a randomized clinical trial. JAMA Netw Open 2023; 6: e2317574.
+
+207. Holtkamp M, Beghi E, Benninger F, et  al. European Stroke Organisation guidelines for the management of post-stroke seizures and epilepsy. Eur Stroke J 2017; 2: 103–115.   
+208. Gilad R, Boaz M, Dabby R, et  al. Are post intracerebral hemorrhage seizures prevented by anti-epileptic treatment? Epilepsy Res 2011; 95: 227–231.   
+209. van Tuijl JH, van Raak EPM, van Oostenbrugge RJ, et  al. Treatment with diazepam in acute stroke prevents poststroke seizures: a substudy of the EGASIS trial. Cerebrovasc Dis 2021; 50: 216–221.   
+210. Peter-Derex L, Philippeau F, Garnier P, et al. Safety and efficacy of prophylactic levetiracetam for prevention of epileptic seizures in the acute phase of intracerebral haemorrhage (PEACH): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Neurol 2022; 21: 781–791.   
+211. Angriman F, Tirupakuzhi Vijayaraghavan BK, Dragoi L, et al. Antiepileptic drugs to prevent seizures after spontaneous intracerebral hemorrhage. Stroke 2019; 50: 1095–1099.   
+212. De Herdt V, Dumont F, Henon H, et  al. Early seizures in intracerebral hemorrhage: incidence, associated factors, and outcome. Neurology 2011; 77: 1794–1800.   
+213. Szaflarski JP, Rackley AY, Kleindorfer DO, et al. Incidence of seizures in the acute phase of stroke: a populationbased study. Epilepsia 2008; 49: 974–981.   
+214. Beghi E, D’Alessandro R, Beretta S, et  al. Incidence and predictors of acute symptomatic seizures after stroke. Neurology 2011; 77: 1785–1793.   
+215. Claassen J, Jette N, Chum F, et al. Electrographic seizures and periodic discharges after intracerebral hemorrhage. Neurology 2007; 69: 1356–1365.   
+216. Vespa PM, O’Phelan K, Shah M, et al. Acute seizures after intracerebral hemorrhage: a factor in progressive midline shift and outcome. Neurology 2003; 60: 1441–1446.   
+217. Law ZK, England TJ, Mistri AK, et al. Incidence and predictors of early seizures in intracerebral haemorrhage and the effect of tranexamic acid. Eur Stroke J 2020; 5: 123–129.   
+218. Haapaniemi E, Strbian D, Rossi C, et al. The CAVE score for predicting late seizures after intracerebral hemorrhage. Stroke 2014; 45: 1971–1976.   
+219. Shi K, Tian DC, Li ZG, et al. Global brain inflammation in stroke. Lancet Neurol 2019; 18: 1058–1066.   
+220. Koepp MJ, Trinka E, Mah YH, et al. Antiepileptogenesis after stroke-trials and tribulations: methodological challenges and recruitment results of a Phase II study with eslicarbazepine acetate. Epilepsia Open 2023; 8: 1190– 1201.   
+221. Middleton S, McElduff P, Ward J, et  al. Implementation of evidence-based treatment protocols to manage fever, hyperglycaemia, and swallowing dysfunction in acute stroke (QASC): a cluster randomised controlled trial. Lancet 2011; 378: 1699–1706.   
+222. de Jonge JC, Sluis WM, Reinink H, et  al. Prevention of infections and fever to improve outcome in older patients with acute stroke (PRECIOUS): a randomised, open, phase III, multifactorial, clinical trial with blinded outcome assessment. Lancet Reg Health Eur 2024; 36: 100782.
+
+223. Chapman N, Huxley R, Anderson C, et  al. Effects of a perindopril-based blood pressure-lowering regimen on the risk of recurrent stroke according to stroke subtype and medical history: the PROGRESS trial. Stroke 2004; 35: 116–121.   
+224. Kitagawa K, Yamamoto Y, Arima H, et al. Effect of standard vs intensive blood pressure control on the risk of recurrent stroke: a randomized clinical trial and metaanalysis. JAMA Neurol 2019; 76: 1309–1318.   
+225. Kitagawa K, Arima H, Yamamoto Y, et  al. Intensive or standard blood pressure control in patients with a history of ischemic stroke: RESPECT post hoc analysis. Hypertens Res 2022; 45: 591–601.   
+226. Schmidt LB, Goertz S, Wohlfahrt J, et al. Recurrent intracerebral hemorrhage: associations with comorbidities and medicine with antithrombotic effects. PLoS One 2016; 11: e0166223.   
+227. Kim YZ, Park YH, Song YG, et al. Clinical analysis of factors predisposing the recurrence of primary intracerebral hemorrhage in patients taking anti-hypertensive drugs: a prospective cohort study. Clin Neurol Neurosurg 2013; 115: 578–586.   
+228. Mancia G, Kreutz R, Brunström M, et  al. 2023 ESH Guidelines for the management of arterial hypertension The Task Force for the management of arterial hypertension of the European Society of Hypertension: endorsed by the International Society of Hypertension (ISH) and the European Renal Association (ERA). J Hypertens 2023; 41: 1874–2071.   
+229. Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/ AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/ PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Hypertension 2018; 71: e13–e115.   
+230. Biffi A, Anderson CD, Battey TW, et  al. Association between blood pressure control and risk of recurrent intracerebral hemorrhage. JAMA 2015; 314: 904–912.   
+231. McEvoy JW, McCarthy CP, Bruno RM, et  al. 2024 ESC guidelines for the management of elevated blood pressure and hypertension: developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). Eur Heart J 2024; 45: 3912–4018.   
+232. Benavente OR, Coffey CS, Conwit R, et al. Blood-pressure targets in patients with recent lacunar stroke: the SPS3 randomised trial. Lancet 2013; 382: 507–515.   
+233. SoSTART Collaboration. Effects of oral anticoagulation for atrial fibrillation after spontaneous intracranial haemorrhage in the UK: a randomised, open-label, assessormasked, pilot-phase, non-inferiority trial. Lancet Neurol 2021; 20: 842–853.   
+234. Schreuder F, van Nieuwenhuizen KM, Hofmeijer J, et  al. Apixaban versus antiplatelet drugs or no antithrombotic drugs after anticoagulation-associated intracerebral haemorrhage in patients with atrial fibrillation (APACHE-AF). Lancet Neurol 2021; 20: 907–916.
+
+235. Al-Shahi Salman R, Stephen J, Tierney JF, et al. Effects of oral anticoagulation in people with atrial fibrillation after spontaneous intracranial haemorrhage (COCROACH): prospective, individual participant data meta-analysis of randomised trials. Lancet Neurol 2023; 22:1140–1149.   
+236. Okumura K, Akao M, Yoshida T, et al. Low-dose edoxaban in very elderly patients with atrial fibrillation. N Engl J Med 2020; 383: 1735–1745.   
+237. Shoamanesh A. Anticoagulation in patients with cerebral amyloid angiopathy. Lancet 2023; 402: 1418–1419.   
+238. Charidimou A, Imaizumi T, Moulin S, et al. Brain hemorrhage recurrence, small vessel disease type, and cerebral microbleeds: a meta-analysis. Neurology 2017; 89: 820–829.   
+239. Charidimou A, Peeters AP, Jäger R, et al. Cortical superficial siderosis and intracerebral hemorrhage risk in cerebral amyloid angiopathy. Neurology 2013; 81: 1666–1673.   
+240. Charidimou A, Boulouis G, Greenberg SM, et al. Cortical superficial siderosis and bleeding risk in cerebral amyloid angiopathy: a meta-analysis. Neurology 2019; 93: e2192–e2202.   
+241. Ariesen MJ, Claus SP, Rinkel GJ, et  al. Risk factors for intracerebral hemorrhage in the general population: a systematic review. Stroke 2003; 34: 2060–2065.   
+242. Ruff CT, Giugliano RP, Braunwald E, et al. Comparison of the efficacy and safety of new oral anticoagulants with warfarin in patients with atrial fibrillation: a meta-analysis of randomised trials. Lancet 2014; 383: 955–962.   
+243. Salman RA-S and Shoamanesh A. Towards definitive evidence about anticoagulation for atrial fibrillation after intracranial haemorrhage. Lancet 2025; 405: 872–873.   
+244. Holmes DR Jr, Doshi SK, Kar S, et al. Left atrial appendage closure as an alternative to warfarin for stroke prevention in atrial fibrillation: a patient-level meta-analysis. J Am Coll Cardiol 2015; 65: 2614–2623.   
+245. Reddy VY, Doshi SK, Kar S, et al. 5-year outcomes after left atrial appendage closure: from the PREVAIL and PROTECT AF trials. J Am Coll Cardiol 2017; 70: 2964–2975.   
+246. Hindricks G, Potpara T, Dagres N, et  al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Heart J 2020; 42: 373–498.   
+247. RESTART collaborators. Effects of antiplatelet therapy after stroke due to intracerebral haemorrhage (RESTART): a randomised, open-label trial. Lancet 2019; 393: 2613–1623.   
+248. Murthy SB, Zhang C, Diaz I, et  al. Association between intracerebral hemorrhage and subsequent arterial ischemic events in participants from 4 population-based cohort studies. JAMA Neurol 2021; 78: 809–816.   
+249. Li L, Poon MTC, Samarasekera NE, et al. Risks of recurrent stroke and all serious vascular events after spontaneous intracerebral haemorrhage: pooled analyses of two population-based studies. Lancet Neurol 2021; 20: 437–447.   
+250. Goeldlin MB, Vynckier J, Mueller M, et  al. Small vessel disease burden and risk of recurrent cerebrovascular
+
+events in patients with lacunar stroke and intracerebral haemorrhage attributable to deep perforator arteriolopathy. Eur Stroke J 2023; 8: 989–1000.   
+251. Collins R, Reith C, Emberson J, et  al. Interpretation of the evidence for the efficacy and safety of statin therapy. Lancet 2016; 388: 2532–2561.   
+252. Fulcher J, O’Connell R, Voysey M, et al. Efficacy and safety of LDL-lowering therapy among men and women: meta-analysis of individual data from 174,000 participants in 27 randomised trials. Lancet 2015; 385: 1397–1405.   
+253. Amarenco P, Bogousslavsky J, Callahan A 3rd, et al. Highdose atorvastatin after stroke or transient ischemic attack. N Engl J Med 2006; 355: 549–559.   
+254. Sturgeon JD, Folsom AR, Longstreth WT Jr, et al. Risk factors for intracerebral hemorrhage in a pooled prospective study. Stroke 2007; 38: 2718–2725.   
+255. Goldstein LB, Amarenco P, Szarek M, et al. Hemorrhagic stroke in the Stroke Prevention by Aggressive Reduction in Cholesterol Levels study. Neurology 2008; 70: 2364– 2370.   
+256. Christensen H, Cordonnier C, Kõrv J, et  al. European Stroke Organisation guideline on reversal of oral anticoagulants in acute intracerebral haemorrhage. Eur Stroke J 2019; 4: 294–306.   
+257. Ruff IM, de Havenon A, Bergman DL, et al. 2024 AHA/ASA performance and quality measures for spontaneous intracerebral hemorrhage: a report from the American Heart Association/American Stroke Association. Stroke 2024; 55: e199–e230.   
+258. Broderick J, Brott T, Duldner JE, et al. Volume of intracrerbral hemorrhage: a powerful and easy-to-use predictor of 30-day mortality. Stroke 1993; 24: 987–993.   
+259. Broderick JP, Grotta JC, Naidech AM, et al. The story of intracerebral hemorrhage: from recalcitrant to treatable disease. Stroke 2021; 52: 1905–1914.   
+260. Al-Kawaz MN, Li Y, Thompson RE, et al. Intracranial pressure and cerebral perfusion pressure in large spontaneous intracranial hemorrhage and impact of minimally invasive surgery. Front Neurol 2021; 12: 729831.   
+261. Ziai WC, Thompson CB, Mayo S, et al. Intracranial hypertension and cerebral perfusion pressure insults in adult hypertensive intraventricular hemorrhage: occurrence and associations with outcome. Crit Care Med 2019; 47: 1125–1134.   
+262. Zompola C, Palaiodimou L, Voumvourakis K, et al. Blood pressure variability in acute stroke: a narrative review. J Clin Med 2024; 13: 1981.   
+263. Lu G, Lin J, Bui K, et  al. Andexanet versus prothrombin complex concentrates: differences in reversal of factor Xa inhibitors in in vitro thrombin generation. Res Pract Thromb Haemost 2020; 4: 1282–1294.   
+264. Rincon F, Friedman DP, Bell R, et al. Targeted temperature management after intracerebral hemorrhage (TTM-ICH): methodology of a prospective randomized clinical trial. Int J Stroke 2014; 9: 646–651.   
+265. Kapur J, Elm J, Chamberlain JM, et al. Randomized trial of three anticonvulsant medications for status epilepticus. N Engl J Med 2019; 381: 2103–2113.   
+266. Frontera JA, Rayi A, Tesoro E, et al. Guidelines for seizure prophylaxis in patients hospitalized with nontraumatic
+
+intracerebral hemorrhage: a clinical practice guideline for health care professionals from the Neurocritical Care Society. Neurocrit Care 2025; 42: 1–21.   
+267. Holmes DR, Reddy VY, Turi ZG, et al. Percutaneous closure of the left atrial appendage versus warfarin therapy for prevention of stroke in patients with atrial fibrillation: a randomised non-inferiority trial. Lancet 2009; 374: 534– 542.   
+268. Al-Shahi Salman R, Dennis MS, Sandercock PAG, et al. Effects of antiplatelet therapy after stroke caused by intracerebral
+
+hemorrhage: extended follow-up of the RESTART randomized clinical trial. JAMA Neurol 2021; 78: 1179–1186.   
+269. Amarenco P, Bogousslavsky J, Callahan AS, et  al. Design and baseline characteristics of the stroke prevention by aggressive reduction in cholesterol levels (SPARCL) study. Cerebrovasc Dis 2003; 16: 389–395.   
+270. Tamborska A, Poon MTC and Al-Shahi Salman R. Characteristics of randomized trials focusing on stroke due to intracerebral hemorrhage: systematic review. Stroke 2018; 49: 594–600.

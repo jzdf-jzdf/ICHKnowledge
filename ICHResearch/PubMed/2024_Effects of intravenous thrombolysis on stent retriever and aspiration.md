@@ -1,0 +1,201 @@
+Systematic review  
+
+# Effects of intravenous thrombolysis on stent retriever and aspiration thrombectomy outcomes: a systematic review and meta-analysis of the randomized controlled trials  
+
+Cem Bilgin $\circledcirc$ ,1 Hatem Tolba,2 Sherief Ghozy $\circledcirc$ ,1 Hassan Kobeissi Amir Hassankhani,1 Yigit Can Senol $\circledcirc$ ,4 Santhosh Arul, Ramanathan Kadirvel $\circledcirc$ David F Kallmes1  
+
+►	 Additional supplemental material is published online only. To view, please visit the journal online (http://dx. doi.org/10.1136/jnis-2023- 020360).  
+
+1Department of Radiology, Mayo Clinic Rochester, Rochester, Minnesota, USA 2Department of Neurology, Medical College of Wisconsin, Wauwatosa, Wisconsin, USA 3Central Michigan University College of Medicine, Mount Pleasant, Michigan, USA 4Department of Neurologic Surgery, Mayo Clinic Rochester, Rochester, Minnesota, USA  
+
+# Correspondence to  
+
+Dr Cem Bilgin, Department of Radiology, Mayo Clinic Rochester, Rochester, MN, 55905, USA; bilgin.cem@mayo. edu  
+
+Received 19 March 2023 Accepted 3 May 2023 Published Online First 31 May 2023  
+
+# ABSTRACT  
+
+Background  Risks and benefits of intravenous thrombolysis (IVT) in patients undergoing mechanical thrombectomy (MT) have been a topic of interest. However, IVT’s specific effects on stent retriever (SR) and aspiration thrombectomy (ASP) outcomes remain largely unexplored. In this meta-analysis, we aimed to investigate the effects of IVT on SR and ASP thrombectomy outcomes.  
+
+Methods  In accordance with PRISMA guidelines, a systematic literature review was conducted using Medline, Embase, Scopus, Web of Science, and Cochrane Center of Clinical Trials databases. Outcomes of interest included successful recanalization (modified Thrombolysis In Cerebral Infarction $(\mathsf{m}\mathsf{T}|\mathsf{C}|)\geq2\mathsf{b})$ , modified first pass efficacy (mFPE), functional independence (modified Rankin Scale (mRS) ${\le}2$ ), symptomatic intracranial hemorrhage (sICH), and embolization to new territories (ENT).  
+
+Results  Four randomized controlled trials with 1176 patients were included. SR and ASP resulted in similar mTICI $\geq2\mathrm{b}.$ , mFPE, and mRS 0–2 rates in patients with and without IVT administration. SR without IVT was associated with a significantly lower rate of mFPE compared with the $\mathsf{SR}+\mathsf{NT}$ (RR 0.85, $95\%\mathsf{Cl}0.74$ to 0.97). Furthermore, ASP without IVT resulted in a lower rate of $\ttmRS0-2$ than the $\mathsf{ASP+NT}$ with a strong trend towards significance (RR 0.78, $95\%\mathsf{C}|0.60$ to 1.01). Finally, bridging therapy did not increase sICH and ENT rates after ASP or SR thrombectomy.  
+
+# WHAT IS ALREADY KNOWN ON THIS TOPIC  
+
+$\Rightarrow$ Intravenous thrombolysis (IVT) can achieve recanalization in acute intracranial large vessel occlusions, but has also been associated with increased complication risks. Therefore, the use of IVT with stent retriever (SR) and aspiration thrombectomy (ASP) has been a topic of great interest.  
+
+# WHAT THIS STUDY ADDS  
+
+$\Rightarrow~|\boldsymbol{\mathsf{n}}$ this meta-analysis of four randomized controlled trials, we found that both first-line thrombectomy techniques are equally safe and effective with direct mechanical thrombectomy and bridging therapy approaches. Additionally, our findings indicate that preceding IVT can improve certain efficacy outcomes depending on the employed first-line thrombectomy technique.  
+
+# HOW THIS STUDY MIGHT AFFECT RESEARCH,PRACTICE OR POLICY  
+
+$\Rightarrow$ Our study eliminates the confounding effect of IVT in the SR and ASP comparison. Additionally, it provides high quality evidence on the safety and efficacy profiles of SR and ASP techniques based on prior IVT administration status.  
+
+$\copyright$ Author(s) (or their employer(s)) 2024. No commercial re-use. See rights and permissions. Published by BMJ.  
+
+To cite: Bilgin C, Tolba H, Ghozy S, et al. J NeuroIntervent Surg 2024;16:163–170.  
+
+Conclusions  Our findings suggest that SR and ASP thrombectomy have comparable safety and efficacy profiles, regardless of prior IVT administration. Additionally, our results indicate that the addition of IVT may improve certain efficacy outcomes based on the employed first-line MT technique.  
+
+# INTRODUCTION  
+
+A number of trials have shown that mechanical thrombectomy (MT) with first-line aspiration (ASP) or stent retrievers (SR) is superior to intravenous thrombolysis (IVT) with alteplase in the management of acute large vessel occlusions (LVOs).1 2 Yet, due to its complementary theoretical benefits, IVT is currently recommended in all eligible LVO patients presenting within 4.5 hours of symptom onset (class 1 evidence).  
+
+There has been a growing interest in IVT’s potential risks and benefits in patients undergoing MT. Six randomized controlled trials (RCTs) with different design characteristics compared the outcomes of direct MT and $\mathrm{MT+IVT}$ approaches and reported incongruent results.4–9 However, these RCTs predominantly employed stent retrievers7–9 or did not report separate results for first-line thrombectomy techniques.6 It remains possible that the use of IVT before MT might effect the mechanical properties of the clot, with partial clot lysis, that could theoretically impact the interaction between the clot and the suction catheter or stent retriever. To date, IVT’s specific effects on ASP and SR thrombectomy outcomes remain largely unexplored. This paucity of data limits evidence-based patient management in a real-world setting and hampers the fair comparison of SR and ASP techniques. In this systematic review and meta-analysis, we sought to investigate the effects of IVT on SR and ASP thrombectomy techniques’ recanalization and safety outcomes.  
+
+# METHODS  
+
+This meta-analysis was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-­ Analyses (PRISMA) 2020 guidelines for performing systematic reviews.10 A systematic review of the English literature was performed using the following databases: (1) MEDLINE, (2) Embase, (3) Scopus, (4) Web of Science, and (5) Cochrane Central Register of Controlled Trials. Searched keywords and MeSH terms included ‘mechanical thrombectomy’, ‘endovascular', ‘embolectomy', “large-vessel, ‘ischemic stroke', ‘aspiration', ‘stent-retriever', ‘randomized clinical trial’, and ‘randomized controlled trial’. In addition to the database search, we reviewed the bibliographies of included studies and consulted field experts to identify any missed articles.  
+
+# Eligibility criteria and study selection  
+
+We included all RCTs and their post hoc studies providing separate data on the outcomes of ASP thrombectomy and SR-based techniques in patients with and without prior IVT administration. No limitation to publication year was applied, and all publications up to March 18, 2022 were screened. Exclusion criteria consisted of (1) retrospective studies, (2) studies not providing separate data for first-line thrombectomy techniques, (3) articles not written in the English language, (4) in vitro and ex vivo studies, (5) conference abstracts, (6) non-original studies including video reports, correspondence, and review articles, and (7) studies with overlapping data.  
+
+# Data extraction and study outcomes  
+
+Initially, titles and abstracts of identified records were independently screened by two authors. Next, the same authors performed full-text screening and data extraction steps. After performing the extraction, a third author reviewed the quality of the extracted data. In case of conflict, the senior author (DFK, with more than 20 years of experience) resolved the disagreement.  
+
+Outcomes of interest included successful recanalization, modified first-pass efficacy (mFPE), embolization to new territories (ENT), symptomatic intracranial hemorrhage (sICH), and functional independence. Recanalization was assessed with modified Thrombolysis In Cerebral Infarction (mTICI) scale. mTICI scores $\geq2\mathrm{b}$ are categorized as successful recanalization. mFPE was defined as $\mathrm{mTICI}\geq2\mathrm{b}$ recanalization with a single device pass. A modified Rankin Scale (mRS) score $\leq2$ at 90 days was defined as functional independence.  
+
+# Quality assessment  
+
+To assess the quality of the included prospective studies, two authors independently used the Risk Of Bias - 2 (RoB-2) tool.11 Evaluated bias domains were (1) bias arising from the randomization process, (2) deviations from intended interventions, (3) missing data, (4) measurement of outcomes, and (5) selection of the reported results.  
+
+# Statistical analysis  
+
+Using R software version 4.2.2, we calculated risk ratios (RRs) and their corresponding $95\%$ confidence intervals $(95\%$ CIs). The random-effects model was adopted to perform the meta-analysis due to methodological differences violating the common-effects assumption. Heterogeneity was assessed using $\mathrm{Q}$ statistics and the $\mathrm{I}^{2}$ test, where $\Gamma^{\bar{2}}>50\%$ or $\mathrm{P}$ value $<0.05$ were considered significant. Due to the small number of included studies $(<10)$ , Egger’s regression test was not performed.  
+
+![](images/9e3447969ae2c282003153946dcfad2eedd7d2e04e865489813c33496a4faf24.jpg)  
+Figure 1 PRISMA flow chart. PRISMA, Preferred Reporting Items for Systematic Reviews and Meta-Analyses  
+
+Table 1  Characteristics of the studies included within quantitative synthesis   
+
+
+<html><body><table><tr><td rowspan="9">sICH assessment criteria Recanalization assessment Baseline NIHSS* Gender(female/male) SR+IVT Age, years* without ASP+IVTIVT Number ofpatients without ASP M 36 Randomized controlled Study design trial, post-hoc Country USA and France Gariel et a/12 2018 Mokin et a/13 2021 Study,year ASTER)</td><td rowspan="9">NINDS, ECASS 3 mTICI with 2c (eTICI) ASP±IVT=17 (12-21) ASP±IVT=16.3±5.9 SR±IVT=16.1±6.5 (174/207) (122/113) ASP±IVT=71.7±13.8 SR±IVT=68.1±14.6 113 3 112</td><td>SIT-MOST,ECASS3 NINDS, SIT-MOST</td><td>Heidelberg</td><td rowspan="9">SR+IVT=17 (11-20) Netherlands Rinkel et al/4 2022 (MR CLEAN NO-IV)</td></tr><tr><td>mTICI with 2c (eTICI) mTICI with 2c (eTICI)</td><td>mTICI with 2c (eTICI)</td></tr><tr><td>ASP alone=16 (10-21.8) ASP+IVT=15.5 (12-22) SR alone=20 (16-24) SR+IVT=18 (13.5-21)</td><td>ASP alone=17 (12-19) ASP+IVT=18 (13-20) SR alone=16 (10-20)</td></tr><tr><td>SR±IVT=17 (12.5-21)</td><td></td></tr><tr><td>ASP alone=70.5 (62.5-76.8) (68/112)</td><td>(203/270)</td></tr><tr><td>ASP+IVT=74 (70-78) SR alone=76 (70-81) SR+IVT=76 (64.5-78) ASP±IVT=71.8±13.1 SR±IVT=71.1±12.9</td><td>ASP alone=70 (61-80) ASP+IVT=69 (57-76) SR alone=73 (63-79) SR+IVT=69 (62-77)</td></tr><tr><td>8 9</td><td>179 192</td></tr><tr><td>3 5 8 30</td><td>8</td></tr><tr><td>32 34 Randomized controlled Randomized controlled</td><td>54 Randomized controlled trial, post-hoc</td></tr></table></body></html>
+
+ECASS 3, European Cooperative Acute Stroke Study 3; ASP, aspiration thrombectomy; eTICI, extended Thrombolysis In Cerebral Infarction scale; IVT, intravenous thrombolysis; mTICI, modified Thrombolysis In Cerebral Infarction scale; NIHSS, National Institutes of Health Stroke Scale score; NINDS, National Institute of Neurological Disorders and Stroke; sICH, symptomatic intracranial hemorrhage; SIT-­MOST, Safe Implementation of Thrombolysis in Stroke–Monitoring Study; SR, stent retriever techniques.  
+
+# RESULTS  
+
+# Search and screening results  
+
+We identified 2733 potentially relevant articles on the literature search, of which four were included in our meta-analysis.12-15 A PRISMA diagram detailing our search results is displayed in figure 1.  
+
+# Study characteristics  
+
+Study characteristics are summarized in table 1. All included studies were post hoc analyses of RCTs. In ASTER and COMPASS, the main study focus was the comparison of first-line thrombectomy techniques.12 13 In SKIP and MR CLEAN NO-IV, the study focus was the role of bridging therapy in IVT-eligible patients.14 15 Included studies used alteplase as the primary thrombolytic agent. Due to regulatory differences in Japan, the maximum alteplase dose was $0.6\mathrm{mg/kg}$ in the SKIP trial.5 15 Other trials allowed a maximum alteplase dosage of $0.9\mathrm{mg/kg}$ . Median pre-treatment National Institutes of Health Stroke Scale (NIHSS) scores ranged between 15.5 and 18 among included trials.  
+
+# Quality assessment  
+
+The risk of bias was low in post hoc analyses of ASTER, COMPASS, and MR CLEAN NO-IV trials. However, the SKIP trial had a moderate risk of bias due to its different alteplase dosage $(0.6\mathrm{mg/kg)}$ . The risk of bias assessment results are summarized in online supplemental material 1.  
+
+# Effectiveness and safety outcomes  
+
+Aspiration thrombectomy and intravenous thrombolysis (ASP without IVT vs $\mathsf{ASP+NT})$  
+
+The safety and efficacy outcomes differences were not statistically significant between the ASP alone and $\mathrm{ASP+IVT}$ groups. The RRs were 1.02 $95\%$ CI 0.91 to 1.15) for successful recanalization, 0.81 ( $95\%$ CI 0.55 to 1.18) for mFPE, 0.94 $(95\%$ $\mathrm{CI}0.52\$ to 1.73) for ENT, and 0.65 ( $95\%$ CI 0.24 to 1.79) for sICH. However, there was a strong trend towards significant in functional independence with an RR of 0.78 ( $95\%$ CI 0.60 to 1.01) (figure 2).  
+
+# Stent retriever thrombectomy and intravenous thrombolysis (SR without IVT vs $S_{\textsf{R+}}|\vee{\textsf{T}}.$ )  
+
+SR without IVT yielded a significantly lower mFPE rate than $\mathrm{SR+IVT}$ (RR 0.85, $95\%\mathrm{CI}0.74$ to 0.97). Other outcome measures were comparable between groups, and the RR were 0.97 $95\%$ CI 0.93 to 1.02) for successful recanalization, 1.28 $(95\%\mathrm{CI}0.73\$ to 2.24) for ENT, 0.95 $95\%$ CI 0.5 to 1.82) for sICH, and 0.83 $(95\%$ $\mathrm{CI}0.61$ to 1.13) for functional independence (figure 3).  
+
+Stent retriever thrombectomy versus aspiration thrombectomy in patients who received IVT before endovascular treatment $(\mathsf{SR}+\mathsf{NT}$ vs $\mathsf{ASP+NT})$  
+
+$\mathrm{SR+IVT}$ and $\mathrm{ASP+IVT}$ resulted in comparable rates of successful recanalization (RR 0.99, $95\%\mathrm{CI}0.94\$ to 1.05), mFPE (RR 1.02, $95\%$ CI 0.87 to 1.20), sICH (RR 1.09, $95\%\mathrm{CI}0.54\$ to 2.19), ENT (RR 1.4, $95\%\mathrm{CI}0.88\$ to 2.23), and mRS 0–2 (RR 0.95, $95\%\mathrm{CI}0.81\$ to 1.11) (figure 4).  
+
+# Stent retriever thrombectomy versus aspiration thrombectomy in patients who did not receive IVT before endovascular treatment (SR without IVT vs ASP without IVT)  
+
+Safety and efficacy outcomes of ASP alone and SR alone approaches were similar in patients who did not receive IVT. The RRs were 1.04 ( $95\operatorname{CI}0.91\$ to 1.17) for successful recanalization, 0.93 $95\%$ CI 0.61 to 1.42) for mFPE, 0.99 $(95\%$ CI  
+
+![](images/76e8d673184eb1bd79ff5aa1922c09d82b85b5b24a4ad3ecd37693606c66af6e.jpg)  
+Figure 2 Forest plot of aspiration alone versus aspiration plus intravenous thrombolysis comparison. FPE, fist-pass efficacy; sICH, symptomatic intracranial hemorrhage.  
+
+0.49 to 2.02) for ENT, 0.84 ( $95\%$ CI 0.33 to 2.15) for sICH, and 0.92 ( $95\%$ CI 0.71 to 1.19) for functional independence (figure 5).  
+
+# DISCUSSION  
+
+Our study identified a number of important findings. We eliminated the confounding effect of IVT in the comparison of first-line thrombectomy techniques and found that ASP and SR thrombectomy are equally safe and effective in the endovascular treatment of intracranial LVOs. Additionally, in our analysis, bridging therapy did not increase sICH and ENT rates after ASP or SR thrombectomy. These findings are important because they support the notion that ASP and SR can be combined with IVT after clinical reasoning without major safety concerns.  
+
+The comparison of SR and ASP techniques has been a topic of substantial interest. However, to date, the confounding effect of IVT has been largely unexplored in this comparison. High-quality studies comparing SR and ASP techniques, such as the ASTER and COMPASS trials, used pre-procedural IVT at rates of $65.6\%$ and $71\%$ , respectively.16 17 IVT alone can achieve complete recanalization at a rate of $20\%^{18}$ and is associated with increased sICH, clot fragmentation, and distal embolism risks.19–22 Therefore, eliminating the confounding effect of IVT is necessary to determine the true treatment effects and safety profiles of SR and ASP thrombectomy techniques. In our meta-analysis, ASP and SR techniques were associated with comparable mTICI, mFPE, and $\mathrm{mRS~}0{-}2$ rates in patients who received or did not receive IVT. Therefore, our findings suggest that either technique can be employed based on operator preference regardless of the prior IVT administration status. On the other hand, our study identified two potential benefits associated with preceding IVT. First, SR without IVT was associated with significantly lower rates of mFPE compared with $\mathrm{SR+IVT}$ A successful SR thrombectomy requires full device opening and high stent retriever-clot integration. As the IVT can alter and soften clot structure, the addition of IVT might also improve integration between clot and SR and thus increase mFPE rates. Second, ASP without IVT was associated with a lower mRS 0–2 rate than $\mathrm{ASP+IVT}$ with a notable trend over significance (RR 0.78, $95\%\mathrm{CI}0.60$ to 1.01). Current literature suggests that ASP thrombectomy might generate more microemboli than SR technique.23 Therefore, the addition of IVT might resolve clot fragments in microcirculation after ASP thrombectomy and potentially improve clinical outcomes.  
+
+![](images/bec937894051dd50d0a4371f0b9c0f1e536f7cf5ee76a172f2944f70602cdd35.jpg)  
+Figure 3 Forest plot of stent retriever alone versus stent retriever plus intravenous thrombolysis comparison. FPE, first-pass efficacy; sICH, symptomatic intracranial hemorrhage.  
+
+Smith et al compared the performances of SR and ASP techniques in a meta-analysis of 17556 patients and did not find a significant difference between first-line MT techniques in terms of safety and efficacy outcomes.24 Similarly, in our study, SR and ASP yielded comparable outcomes, regardless of the prior  
+
+IVT administration status. Furthermore, the addition of IVT improved certain efficacy outcomes depending on the employed MT technique. However, it is important to note that the benefits of the $\mathrm{IVT+MT}$ approach might be greater in a real-world setting. For example, preceding IVT can improve recanalization rates and shorten ischemia time in transfer patients due to its rapid onset of action. Also, if access to the occlusion site is challenging due to arterial tortuosity or steno-occlusive lesions, preceding IVT can ensure that the patient has received the alternative treatment in a timely manner.  
+
+Intracranial hemorrhage has been the most important safety concern for the $\mathrm{MT+IVT}$ approach. Only the SKIP trial reported increased overall intracranial hemorrhage rates with bridging therapy.5 However, sICH rates were comparable between MT alone and $\mathrm{MT+IVT}$ groups in all landmark bridging therapy trials, including the SKIP trial, and in their meta-analyses4925 Yet, some prospective studies showed that SR thrombectomy might be associated with increased sICH risk, especially with multiplepasses6Iourmetaanalsis sCHratesfAPand SR techniques were comparable, and the addition of IVT did not significantly increase sICH rates of the first-line thrombectomy techniques.  
+
+![](images/730444be33e59282e0030503e554c757f39574822a9460f713b0736cc5c27aef.jpg)  
+Figure 4  Forest plot of aspiration versus stent retriever thrombectomy comparison for patients who received intravenous thrombolysis. FPE, firstpass efficacy; sICH, symptomatic intracranial hemorrhage.  
+
+IVT induces the breakdown of the fibrin fibers in the thrombus and, therefore, might make it easier to aspirate the clot or improve clot-SR integration. However, on the other hand, the breakdown of the fibrin fibers can also lead to clot fragmentation. These dissolved thrombus components can move to new territories with MT attempts; thus, a treatable lesion might become untreatable. However, RCTs and subsequent meta-analyses did not consistently find a significant association between bridging therapy and ENT.4 8 9 25 Similarly, in our study, ASP and SR techniques resulted in similar ENT rates, regardless of IVT status.  
+
+Our meta-analysis has several limitations. First, we only included published RCTs, and the safety and efficacy profiles of direct MT and $\mathrm{MT+IVT}$ approaches may differ in a real-world setting. Second, RCTs generally exclude patients without available primary outcome data. Therefore, it is important to note that RCT design can affect the reported results. For example, because ASTER and COMPASS trials reported successful recanalization as the primary endpoint, patients with available clinical outcomes but missing recanalization data might have been excluded. The same also applies to SKIP and MR CLEAN NO IV trials, where functional independence was chosen as the primary outcome measure. Third, in SKIP and MR CLEAN NO-IV trials,4 5 IVT was administered at the participant thrombectomy-­ capable centers after randomization. Consequently, transfer patients were not enrolled in these RCTs. Therefore, our study provides limited data on the effect of IVT on SR and ASP outcomes in transfer patients. Fourth, the included RCTs only employed alteplase for bridging therapy. However, tenecteplase and tirofiban may exhibit a different safety and efficacy profile with ASP or SR techniques. Finally, we could not provide data on important metrics such as first-pass efficacy (mTICI 2c-3) and complete recanalization as these outcomes were not specifically reported in included studies.  
+
+![](images/75f634eb2cbe51ea5daf441cbea55c8f0b74f6753b47fae8d52c4b1451c83971.jpg)  
+Figure 5 Forest plot of aspiration alone versus stent retriever alone comparison. FPE, fist-pass efficacy; sICH, symptomatic intracranial hemorrhage.  
+
+IVT alone achieves complete recanalization at a rate of $20\%$ in LVOs.18 Even though substantial interest has been shown in the comparison of ASP and SR techniques, the confounding effect of IVT has been largely overlooked. We report that ASP and SR techniques may have comparable safety and efficacy profiles, regardless of prior IVT administration. Furthermore, in our meta-analysis, the addition of IVT was not associated with an increase in sICH and ENT rates in LVO patients. Therefore, our results indicate that both ASP and SR approaches can be combined with IVT after clinical reasoning without major safety concerns.  
+
+Twitter Hatem Tolba $@$ genius_elsho2a and Yigit Can Senol @yigitcs  
+
+Contributors  All authors contributed to the conception and design of the work. CB, HT, HK, AH, YCS, SA were responsible for data extraction, literature search, and risk of bias assessment. SG performed statistical analyses. All authors were involved in the drafting of the article, critical revision of the article, and final approval of the version to be published. CB and HT were equally contributing authors. CB is responsible for the overall content as guarantor.  
+
+Funding  The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not-for-profit sectors.  
+
+Competing interests  DFK received research support from Microvention, Medtronic, Neurogami, Cerenovus, Insera Therapeutics, Brainomix, MIVI Biosciences, and Stryker; received royalties from Medtronic; has ownership interest in Superior Medical Experts and Nested Knowledge, Marblehead Medical, Conway Medical, Monarch Biosciences, and Piraeus Medical; and serves on the advisory boards of Vesalio and NoNo Inc. RK received research support from Cerenovus, Medtronic, Endovascular Engineering, Frontier Bio, Sensome, Endomimetics, Ancure LLC, Neurogami Medical, MIVI Biosciences, Monarch Biosciences, Stryker, Conway Medical, Piraeus Medical, and Bionaut Labs.  
+
+# Patient consent for publication  Not applicable.  
+
+Ethics approval  Not applicable.  
+
+Provenance and peer review  Not commissioned; externally peer reviewed.  
+
+Data availability statement  Data are available upon reasonable request.  
+
+Supplemental material  This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-reviewed.Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.  
+
+# ORCID iDs  
+
+Cem Bilgin http://orcid.org/0000-0003-1832-1278   
+Sherief Ghozy http://orcid.org/0000-0001-5629-3023   
+Hassan Kobeissi http://orcid.org/0000-0001-7446-624X   
+Yigit Can Senol http://orcid.org/0000-0002-6669-6616   
+Ramanathan Kadirvel http://orcid.org/0000-0002-6786-9953  
+
+# REFERENCES  
+
+1	 Goyal M, Menon BK, van Zwam WH, et al. Endovascular thrombectomy after large-vessel ischaemic stroke: a meta-analysis of individual patient data from five randomised trials. Lancet 2016;387:1723–31.   
+2	 Mocco J, Zaidat OO, von Kummer R, et al. Aspiration thrombectomy after intravenous alteplase versus intravenous alteplase alone. Stroke 2016;47:2331–8.   
+3	 Powers WJ, Rabinstein AA, Ackerson T, et al. 2018 guidelines for the early management of patients with acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke 2018;49:e46–110.   
+4	 LeCouffe NE, Kappelhof M, Treurniet KM, et al. A randomized trial of intravenous alteplase before endovascular treatment for stroke. N Engl J Med 2021;385:1833–44.   
+5	 Suzuki K, Matsumaru Y, Takeuchi M, et al. Effect of mechanical thrombectomy without vs with intravenous thrombolysis on functional outcome among patients with acute ischemic stroke. JAMA 2021;325:244.   
+6	 Zi W, Qiu Z, Li F, et al. Effect of endovascular treatment alone vs intravenous alteplase plus endovascular treatment on functional independence in patients with acute ischemic stroke: the DEVT randomized clinical trial. JAMA 2021;325:234–43.   
+7	 Fischer U, Kaesmacher J, Strbian D, et al. Thrombectomy alone versus intravenous alteplae plus thrmbetomyinpatiets with stroke:anopen-abel blinded-utcme randomised non-inferiority trial. Lancet 2022;400:104-15.   
+8	 Mitchell PJ, Yan B, Churilov L, et al. Endovascular thrombectomy versus standard bridging thrombolytic with endovascular thrombectomy within $4{\cdot}5\sfH$ of stroke onset: an open-label, blinded-enpoint, randomised non-inferioritytrial. Lact 2022;400:116–25.   
+9	 Yang P, Zhang Y, Zhang L, et al. Endovascular thrombectomy with or without intravenous alteplase in acute stroke. N Engl J Med 2020;382:1981–93.   
+10 Page M, McKenzie JE, Bosuyt PM,tal.The PRISMA 2020 statement:anupdd guideline for reporting systematic reviews. BMJ 2021;372:n71.   
+11tJavviPageM,taob:revisd tlfrassing risfbi randomised trials. BMJ 2019;366:i4898.   
+12GarLapergouria/Mchanical thrmbetmutewi without intravenous thrombolysis. Stroke 2018;49:2383–90.   
+13MoMqii aveus alteadifetfts efficacy of aspiration and stent retriever thrombectomy: analysis of the COMPASS trial. J Neurointerv Surg 2022;14:992–6.   
+14 RinklL reuriet M,bD,t aEffet of intrvenus altlase treat first-linestent retrieveersaspiratinlneuring endvsul tretmnttrke 2022;53:3278–88.   
+15 ShigetaK,Suzuki ,Matsumaru ,et antravenous alteplase is associated with first pass effect instent-retrieverbut notADAPT thrombectomy: post hoc analysis of the SKIP study. Clin Neuroradiol 2022;32:153–62.   
+16LaperguelancGory,tatf endvasr ntact aspiration retriever on revascularization in patients with acute ischemic stroke and large vessel occlusion: the ASTER randomized clinical trial. JAMA 2017;318:443–52.   
+17ur thrombectomy as first-ine approach for large vessel occlusion (COMPASS): a multicentendisdblidmninrirityril 2019;393:998–1008.   
+18 Seners P, Turc G, Maier B, et al. Incidence and predictors of early recanalization after intravenous thrombolysis. Stroke 2016;47:2409–12.   
+19 Du H,Lei H,Amler G,t al.Itravenous thrombolysis before mechanical thrombectomyfor acute ichemicstroke: a meta-analysis.JAm Heart Assoc 2021;10:e022303.   
+20FlinCAvinatsfdistallizatfrAtis plasminogen activator) administration prior to endovascular stroke treatment. Stroke 2020;51:2697–704.   
+21 OharaT MnnK,Al-Ajlan,et alThrmbus migration and framentation af intravenous alteplase treatment. Stroke 2021;52:203–12.   
+22Wong G,Yoo B,Liebeskind D,et al.Frequency,determinants, and outcomes of mbol to distal and new territories related to mechanical thrombectomy for acute ischemic stroke. Stroke 2021;52:2241–9.   
+23 Chueh JY, Puri AS, Wakhloo AK, et al. Risk of distal embolization with stent retriever thrombectomy and ADAPT. J Neurointerv Surg 2016;8:197–202.   
+24 miththmith,tatet retrieveudiretaspir thrombectomyfor acute large vessel occlusion:ameta-analsis including1756 patients, from MR CLEAN to present. Clin Neurol Neurosurg 2022;213:107122.   
+25Kobeissi,Adusumili G,hzy,taMechanical thrombectmyaloneve with thrombolysis for ischemic stroke:a meta-analysis of randomized trials. Inter Neuroradiol 2023:15910199231154332.   
+26 Zhang ieWag H a. tmatic intraranilhrrhae aftmehani thrombectomy in Chinese ischemic stroke patients. Stroke 2020;51:2690–6.   
+27 HaoYang D,Wang H, alreditors fr ymtmatiintracranialemrhae after endovascular treatment of acute ischemic stroke. Stroke 2017;48:1203–9.   
+28Kinjshhiedpstitfa hemorrhage after endovascular treatment for acute large vessel occlusion. Cerebrovasc Dis 2020;49:540–9.   
+29 Kbeiss,GhzyTtaetlass. allasfor tretnt f a ischemicstroke:a systematic review and meta-analysis of randomized trials. Front Neurol 2023;14:1102463.  

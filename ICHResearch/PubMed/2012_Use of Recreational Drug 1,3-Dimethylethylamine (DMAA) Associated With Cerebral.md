@@ -1,0 +1,93 @@
+# Use of Recreational Drug 1,3-Dimethylethylamine (DMAA) Associated With Cerebral Hemorrhage  
+
+Paul Gee, MBChB, FACEM, Cheryl Tallon, MBChB, Neil Long, BMBS, Grant Moore, BSc (Hons), Ronald Boet, FRACS, FCSSA, FCSHK, Suzanne Jackson, FRCS, FRACS  
+
+From Christchurch Hospital, Christchurch, Canterbury, New Zealand.  
+
+Dimethylamylamine (DMAA) was a forgotten pharmaceutical that was patented in 1944 as a nasal decongestant. DMAA has recently gained popularity as a dietary supplement, with claims of effectiveness as an athletic performance enhancer and weight loss aid. It is also sold as a recreational stimulant drug. DMAA is a sympathomimetic and potent pressor agent. This report describes 3 cases of cerebral hemorrhage in adults after the use of DMAA. The status of this substance as a synthetic or naturally occurring compound is also discussed. [Ann Emerg Med. 2012;60:431-434.]  
+
+0196-0644/ $\ngtr$ -see front matter Copyright $\circledcirc$ 2012 by the American College of Emergency Physicians. http://dx.doi.org/10.1016/j.annemergmed.2012.04.008  
+
+# INTRODUCTION  
+
+1,3-Dimethylamylamine (DMAA) is listed under the International Union of Pure and Applied Chemistry name 4- methylhexan-2-amine (Chemical Abstracts Service number: 105- 41-9). It is also also known as methylhexanamine, methylhexaneamine, 2-amino-4-methylhexane, 4-methyl-2- hexylamine, and 1,3-dimethylpentylamine and under the trade names Geranamine and Floradrene. It is an unscheduled stimulant used as a weight loss aid, athletic performance enhancer,1 and party drug. Its use is becoming increasingly prevalent among the young adult demographic, especially those seeking a legal alternative to $^{3,4}$ -methylenedioxymethamphetamine or previous users of 1- benzylpiperazine.2,3 This article describes 3 cases of cerebral hemorrhage in adults after the recreational use of DMAA. All 3 cases occurred within the Canterbury province, New Zealand (population 490,000), and were treated at Christchurch Hospital.  
+
+# CASE REPORT Patient 1  
+
+A 23-year-old woman purchased party pills identified as “Pure X-S.” She took a dose of 2 tablets, as recommended on the packet. She had already ingested a quantity of alcohol. The pill packaging listed the main ingredient as Pelargonium extract (synthetic equivalent) $75~\mathrm{mg}$ . Within 30 minutes, she developed a sudden, severe frontal headache with dizziness. Vomiting and involuntary twitching of the arms and legs were reported by the patient. She vomited twice before being taken to the emergency department (ED).  
+
+On arrival to the ED, she was orientated but very agitated. She was hypertensive, at $185/100\mathrm{mmHg}$ . Other vital signs were pulse rate of 85 beats/min, respiratory rate 16 breaths/min, temperature $35.9^{\circ}\mathrm{C}$ $(96.6^{\circ}\mathrm{F})$ ), Glasgow Coma Scale (GCS) score 15, ${\mathrm{SaO}}_{2}$ $100\%$ , and blood sugar $6.1\mathrm{mmol/L}$ . Pupils were 6  
+
+mm bilaterally and reactive. Her skin was clammy. She had no focal motor deficits or lateralizing cerebellar signs.  
+
+An urgent computed tomograph (CT) of the brain was requested and showed a thin-layer subarachnoid hemorrhage extending $23~\mathrm{mm}$ over the right frontal lobe and extending into the underlying sulcus, with no mass effect. A subsequent cerebral angiogram failed to showed evidence of aneurysm or arteriovenous malformation to account for the hemorrhage. Her blood pressure returned to baseline $\mathrm{(112/69~mm~Hg)}$ ) after 5 hours. After 3 days, she showed improvement and was discharged with follow-up.  
+
+Blood drawn 100 minutes postingestion was analyzed by liquid chromatography and tandem mass spectrometry and returned a plasma concentration of $1.09\mathrm{mg/L}$ DMAA. Plasma and urine were screened with high-performance liquid chromatography–mass spectrometry (an Agilent 1200 series HPLC [Agilent Technologies, Santa Clara, CA] with an ABSciex 3200 QTrap mass spectrometer [AB-Sciex, Foster City, CA]). The samples were run against a database of 150 prescription medications and drugs of abuse (including 18 different amphetamine-type substances). No other drugs of abuse were identified.  
+
+A tablet from the same purchase was analyzed by LC-MS/ MS and GC-MS and identified DMAA $66~\mathrm{mg}$ , caffeine $84~\mathrm{mg}$ , and phenethylamine (an amine breakdown product) with palmitic and stearic acid (2 tableting compounds). DMAA was confirmed by comparison with a reference standard.  
+
+# Patient 2  
+
+A 36-year-old man was drinking at a public bar. He purchased a quantity of legal party drugs called Cocaine Party Powder, with a listed composition of $50~\mathrm{mg}$ of 1,3- dimethylamylamine HCl. He took one quarter of the packet with a drink. Soon after, he felt flushed and slightly euphoric. Within 60 minutes, he developed a severe headache and weakness in his right hand and became unstable on his feet. He went back to his hotel and went to bed, hoping to sleep off the effects. He woke the next day with a left facial droop and left-sided weakness. He was referred to the hospital.  
+
+![](images/7a1d58f5a6f1a18a18c633d0aaa16d20c0a5410ade374e241e141852b2e2f048.jpg)  
+Figure 1. Cranial CT scan from patient 2 showing subarachnoid hemorrhage.  
+
+His initial vital signs (16 hours post-DMAA ingestion) were blood pressure $134/85\mathrm{mmHg}$ , pulse rate 94 beats/min, respiratory rate 14 breaths $\prime_{\mathrm{min}}$ , GCS score 15, temperature $36.0^{\circ}\mathrm{C}$ $(96.8^{\circ}\mathrm{F})$ ), $\mathrm{SaO}_{2}96\%$ , and blood sugar $6.1\mathrm{mmol/L}$ . He had a CT result that showed a right-sided $64\times27\times23\mathrm{-mm}$ intraparenchymal hemorrhage with mass effect (Figure 1). Delayed angiography showed a generalized arterial beading pattern reported as being consistent with vasculitis. Markers for an immune or infectious cause for vasculitis were negative.  
+
+He was treated nonsurgically. His weakness resolved during 2 weeks, and he was discharged with follow-up. A DMAA plasma level of $0.76~\mathrm{mg/L}$ was measured 17 hours postingestion. Urine toxicology testing was positive for DMAA, ethanol, nicotine, and paracetamol.  
+
+# Patient 3  
+
+A 41-year-old man was offered a white powder dissolved in water as a pick-me-up in a bar. Thirty minutes later, he collapsed with a severe headache and vomited. He was brought to the ED, where he was observed to be confused and agitated. His initial vital signs were blood pressure $240/120\mathrm{mmHg}$ , pulse rate 54 beats/min, respiratory rate 16 breaths $\prime_{\mathrm{min}}$ , GCS score 14 (E3,V5,M6), temperature $35.0^{\circ}\mathrm{C}$ $(95.0^{\circ}\mathrm{F})$ , $\mathrm{SaO}_{2}98\%$ , and blood sugar $4.6\mathrm{mmol/L}$ . His pupils were midposition, 6 mm and reactive bilaterally. His skin was diaphoretic. He had no focal long tract or lateralizing cerebellar signs.  
+
+![](images/2615186d509ca20dae118b166ee5ae5c92f1d9415237e948919987c4bcfe6dc6.jpg)  
+Figure 2. Structure of DMAA related to amphetamine and methamphetamine.  
+
+He received morphine for his headache. CT showed an $11\times6\times3\mathrm{-mm}$ hemorrhage in the left basal ganglia. His blood pressure was controlled with labetalol, and his neurologic deficit improved during 24 hours. Blood drawn at 2 hours postingestion showed a DMAA level of $2.31~\mathrm{mg/L}$ . No other drugs were detected, other than a trace of cannabis in the urine. He was discharged after 2 days with no headache and no detectable neurologic deficit.  
+
+# DISCUSSION  
+
+DMAA was patented by Eli Lilly in 1944 as a nasal decongestant called Forthane.4 It was produced when many decongestants such as dl-amphetamine or racemic amphetamine were abused for their psychoactive properties. It is a small molecule that shares structural similarity to amphetamines (Figure 2). Animal studies confirm DMAA’s sympathomimetic properties,5-7 but there have been almost no data on the pharmacology of DMAA in humans until recently. The authors were able to locate only 1 early reference of human testing– nebulized DMAA as a bronchodilator.8 Sufficient data existed in 2010 for the World Anti-Doping Agency to place a ban on the use of the substance in competitive sports.  
+
+DMAA use is becoming more prevalent in the United States and likely to be from the use of performance supplements.1,10 In Ireland and New Zealand, it is sold as a legal recreational drug .3,11,12 DMAA has been marketed under the trade names Geranamine and Floradrene, purportedly because it is a natural derivative of geranium oil. Recent studies have failed to identify the presence of DMAA in geranium plant material.13-16 Health Canada has recently revoked DMAA from the list of permitted dietary supplements.17  
+
+Cerebral hemorrhage is a well-known complication of amphetamine use.18,19 Two cases of cerebral hemorrhage after DMAA use were reported in 2010.12  
+
+The 3 cases in this article were also associated with DMAA used as a recreational stimulant. None of the patients had any history or signs of head trauma. The stated doses of DMAA in party pills sold in New Zealand range between 50 and $300~\mathrm{mg}$ per pill. The products are often combined with caffeine.  
+
+Two of the patients reported here presented early after ingestion, and both displayed significant hypertension. An early animal study showed that DMAA was the most potent pressor agent of 39 aliphatic amines tested (3.5 times the pressor effect of epinephrine).7 A recent small volunteer study showed that 75 mg of DMAA ingested orally produces a significant increase in systolic blood pressure 30 to 90 minutes after oral administration.20 The effect appears dose related. Combination with caffeine produced an additive increase in systolic blood pressure. Cerebral hemorrhage may be a result of a spike in blood pressure, though in patient 2 there was evidence of possible drug-related vasculitis.  
+
+Hemorrhages associated with amphetamines are often intracerebral or simultaneously intracerebral and subarachnoid. They are most often confined to the frontal lobe and occasionally the basal ganglia.21 These cases conform to this pattern. Amphetamine-induced vasculitis has been demonstrated in animal models and human case reports. The beading pattern observed in the angiography of patient 2 has also been described with other cases of hemorrhage after oral amphetamine or stimulant use. It may represent vasculitis or vasospasm, but confirmation is impossible without histology.  
+
+Three manufacturer-funded human studies of DMAAcontaining supplements have recently been published in the nutrition science literature .22-24 They all originate from 1 group of researchers and were published in 1 open-access journal. They studied the cardiovascular and metabolic effects of named dietary supplements in 3 small placebo-controlled trials. These trials have been put forward as evidence of safety for human consumption. None described the actual dose of DMAA administered to trial subjects, so it is difficult to draw any conclusions. Mild increases of pulse rate and blood pressure were observed in the studies.  
+
+Safety concerns about this compound have escalated after recent reports of DMAA-induced cardiomyopathy25 and the deaths of 2 servicemen linked to dietary supplements containing DMAA.1,26  
+
+Identifying the substance used as DMAA may be difficult because several synonyms are used. In particular, the packaging of DMAA products may identify it only as an extract of geranium, or Pelargonium species. Doses recommended for recreational use may be substantially higher than those intended for weight loss or athletic performance.  
+
+Patients who report adverse effects after use of DMAA should have vital signs carefully monitored. If DMAA use is suspected and severe headache is the predominant symptom, then early cranial CT scan should be performed. The precise pharmacology of DMAA is unknown, but it is likely to act similarly to other sympathomimetics. Hypertension and agitated behavior should be managed in the first instance with benzodiazepines (midazolam or lorazepam); large doses may be required. Resistant hypertension should be treated with calcium-channel blockers (nifedipine or nicardipine) or a titrated glyceryltrinitrate infusion. Nonselective $\beta$ -blockers should be avoided because of the theoretical risk of vasospasm and paradoxic hypertension from unopposed $\alpha$ -agonism.27  
+
+Supervising editor: Lewis S. Nelson, MD  
+
+Funding and support: By Annals policy, all authors are required to disclose any and all commercial, financial, and other relationships in any way related to the subject of this article as per ICMJE conflict of interest guidelines (see www.icmje.org). The authors have stated that no such relationships exist.  
+
+Publication dates: Received for publication January 25, 2012. Revisions received March 30, 2012, and April 2, 2011. Accepted for publication April 5, 2012. Available online May 9, 2012.  
+
+Address for correspondence: Paul Gee, MBChB, FACEM, E-mail paul.gee@cdhb.govt.nz  
+
+# REFERENCES  
+
+1. Lattman P, Singer N. Army studies workout supplements after deaths. New York Times. February 2, 2012. Available at: http:// www.nytimes.com/2012/02/03/business/army-studies-workoutsupplements-after-2-deaths.html. Accessed January 25, 2012.   
+2. Chalmers A. Officials seek limit on toxic pill ingredient. Dominion Post. January 12, 2009. Available at: http://www.stuff.co.nz/ dominion-post/archive/national-news/791103. Accessed January 25, 2012.   
+3. Ministry of Health, New Zealand. Advice to the Expert Advisory Committee on Drugs: assessment of 1,3 dimethylamylamine (DMAA) August 2009. Available at: http://www.ndp.govt.nz/ moh.nsf/Files/ndp-advice-docs/\$file/advice-to-eacd-dmaa-aug2009.pdf.AccessedJanuary25, 2012.4.ShonleHA, RohrmannE, assignorstoEliLillyandCompany, IndianapolisaminoalkanesUSPat.2350318.Filed9April1942.Issued30May1944.EliLillyandCompanyUnitedStatesPatentOffice2350318.Availableat: http://ip.com/patent/US2350318.AccessedJanuary25, 2012.5.MiyaTS, EdwardsI.Apharmacologicalstudyofcertainalkoxyalkylamines.JPharmSci.1953;42:107-110.6.EllisS.Theeffectofaminesonthebloodsugaroftherat.JPharmacolExpTher.1951;101:92-100.7.SwansonEE, ChenKK.Comparisonofpressoractionofaliphaticamines.JPharmacolExpTher.1946;88:10-13.8.CharlierR.Pharmacologyof2-amino-4-methylhexane [inFrench].ArchIntPharmacodynTher.1950;83:573-584.9.WADA.Prohibitedlist.Availableat: http://www.wada-ama.org/en/ World-Anti-Doping-Program/Sports-and-Anti-Doping-Organizations/ International-Standards/Prohibited-List/The-2011-Prohibited-List/ [July2011].AccessedJanuary25, 2012.10.VorceSP, HollerJM, CawrseBM, etal.Dimethylamylamine: adrugcausingpositiveimmunoassayresultsforamphetamines.JAnalToxicol.2011;35:183-187.11.KelleherC, ChristieR, LalowK, etal.Anoverviewofnewpsychoactivesubstancesandtheoutletssupplyingthem.NationalAdvisoryCommitteeonDrugs.2011.Availableat: http://www.nacd.ie/publications/Head_Report2011_overview.pdf.AccessedJanuary25, 2012.12.GeeP, JacksonS, EastonJ.Anotherbitterpill: acaseoftoxicityfromDMAApartypills.NZMedJ.2010;123:124-127.13.LisiA, HasickN, KazlauskasR, etal.Studiesofmethylhexaneamineinsupplementsandgeraniumoil.DrugTestingAnal.2011;3:873-876.14.ShellieR, MarriottP.Comprehensivetwo-dimensionalgaschromatography-massspectrometryanalysisofPelargoniumgraveolensessentialoilusingrapidscanningquadrupolemassspectrometry.Analyst.2003;128:879.15.Jalali-HeraviM, ZekavatB, SereshtiH.CharacterizationofessentialoilcomponentsofIraniangeraniumoilusinggaschromatography-massspectrometrycombinedwithchemometricresolutiontechniques.JChromatogrA.2006;1114:154-163.16.PetersonA, MachmudahS, RoyB, etal.Extractionofessentialoilfromgeranium (Pelargoniumgraveolens) withsupercriticalcarbondioxideJChemTechnolBiotechnol.2006;81:167-172.Availableat: http://dx.doi.org/10.1002/jctb.1375.17.HealthProductsandFoodBranch, HealthCanada.CanadianNaturalHealthProductsingredientsdatabase.August16, 2011.Availableat: http://webprod.hc-sc.gc.ca/nhpid-bdipsn/ atReq.do?atid $=$ whats.quoi.2011.08.16&lang $\underline{{\underline{{\mathbf{\Pi}}}}}$ eng#3. Accessed January 25, 2012.   
+18. Westover AN, McBride S, Haley RW. Stroke in young adults who abuse amphetamines or cocaine: a population-based study of hospitalized patients. Arch Gen Psychiatry. 2007;64:495-502.   
+19. McEvoy AW, Kitchen ND, Thomas DGT. Intracerebral haemorrhage in young adults: the emerging importance of drug misuse. bmj. 2000;320:1322. doi:10.1136/bmj.320.7245.1322.   
+20. Bloomer RJ, Harvey IC, Farney TM, et al. Effects of 1,3- dimethylamylamine and caffeine alone or in combination on heart rate and blood pressure in healthy men and women. Phys Sportsmed. 2011;39:111-120.   
+21. Karch SB. Karch’s Pathology of Drug Abuse. 4th ed. Boca Raton, FL: CRC Press; 2009:288-290.   
+22. McCarthy CG, Canale RE, Alleman RJ, et al. Biochemical and anthropometric effects of a weight loss dietary supplement in healthy men and women. Nutr Metabolic Insights. 2012;5:13-22. doi:10.4137/NMI.S8566. Available at: http://www.la-press.com/ biochemical-and-anthropometric-effects-of-a-weight-loss-dietarysupple-article-a2946. Accessed January 25, 2012.   
+23. Farney TM, McCarthy CG, Canale RE, et al. Hemodynamic and hematologic profile of healthy adults ingesting dietary supplements containing 1,3-dimethylamylamine and caffeine. Nutr Metabolic Insights. 2012;5:1-12. doi:10.4137/NMI.S8568. Available at: http://www.la-press.com/hemodynamic-andhematologic-profile-of-healthy-adults-ingesting-dietar-article-a2947. Accessed January 25, 2012.   
+24. McCarthy CG, Farney TM, Canale R, et al. A finished dietary supplement stimulates lipolysis and metabolic rate in young men and women. Nutr Metabolic Insights. 2012;5:23-31. Available at: http://www.la-press.com/a-finished-dietary-supplement-stimulateslipolysis-and-metabolic-rate--article-a2945. Accessed January 25, 2012.   
+25. Salinger L, Daniels B, Sangalli B, et al. Recreational use of body-building supplement resulting in severe cardiotoxicity. Clin Toxicol. 2011;49:573–574. doi:10.3109/15563650. 2011.598695.   
+26. Tritten TJ. Army probing connection between body building supplement, 2 deaths. Stars and Stripes. December 15, 2011. Available at: http://www.stripes.com/mobile/news/army-probingconnection-between-body-building-supplement-2-deaths-1.163652. Accessed January 25, 2012.   
+27. Roth BA, Benowitz NL, Olson KR. Emergency management of drug abuse. In: Addiction and the Medical Complications of Drug Abuse. Karch SB, ed. Boca Raton, FL: CRC Press; 2008:107– 109.  

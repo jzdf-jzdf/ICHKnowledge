@@ -1,0 +1,197 @@
+# Efficacy of Acupuncture Treatment to Prevent Cerebral Vasospasm After Subarachnoid Hemorrhage: A Double-Blind, Randomized Placebo-Controlled Trial  
+
+Dong-Hyuk Lee, KMD, $\mathsf{PhD}_{\prime}^{1,*}$ Seung-Yeon Cho, KMD, PhD,1,2,\* Seung-Bo Yang, KMD, PhD,1,2   
+Hyoung-Min Lee, MS,3 Hee Sup Shin, MD, PhD,2,4 Seung Hwan Lee, MD, PhD,2,4   
+Jun Seok Koh, MD, PhD,2,4 Seungwon Kwon, KMD, PhD,1 Woo-Sang Jung, KMD, PhD,1   
+Sang-Kwan Moon, KMD, PhD,1 Jung-Mi Park, KMD, PhD,1,2 Chang-Nam Ko, KMD, PhD,1,2   
+Ho Kim, PhD,5 and Seong-Uk Park, KMD, PhD1,2  
+
+# Abstract  
+
+Objectives: To investigate the efficacy of acupuncture in preventing cerebral vasospasm following aneurysmal subarachnoid hemorrhage (SAH) and explore its underlying mechanism.  
+
+Design: A randomized, double-blinded, and placebo-controlled trial.  
+
+Setting/Location: Subjects were recruited from Kyung Hee University Hospital at Gangdong, Seoul, Kore Subjects: A total of 50 patients admitted with acute SAH.  
+
+Interventions: The study group received acupuncture treatments $(n=25$ ), while the control group underwent mock transcutaneous electrical nerve stimulation and sham acupuncture $(n=25)$ ) six times/week for 2 weeks.  
+
+Outcome measures: The primary outcome was the incidence of delayed ischemic neurologic deficit (DIND), and secondary measurements included angiographic vasospasm, vasospasm-related infarction, modified Rankin Scale score, and plasma nitric oxide (NO) and endothelin-1 (ET-1) levels.  
+
+Results: The study group treated with acupuncture showed a lower incidence of DIND $(9.1\%)$ than the control group $(20.8\%)$ ; however, this difference in the incidence of DIND was not statistically significant. The study group demonstrated better clinical outcomes, especially in functional recovery. Significant alterations in plasma NO and ET-1 levels after the 2-week intervention were observed only in the study group.  
+
+Conclusions: Their study shows that acupuncture treatment improved functional recovery after SAH and could potentially prevent cerebral vasospasm. These effects could be attributed to the recovery of endothelial dysfunction by acupuncture through modulating the plasma NO and ET-1 levels.  
+
+The study protocol has been registered on www.clinicaltrials.gov (NCT02275949).  
+
+Keywords: cerebral vasospasm, delayed ischemic neurologic deficit (DIND), SAH, acupuncture, electroacupuncture  
+
+# Introduction  
+
+ubarachnoid hemorrhage (SAH) is a common and devastating disease affecting 7.9 cases/100,000 personyears worldwide. Aneurysmal SAH can induce heavy financial burdens on those affected due to its high mortality and morbidity.1 Cerebral vasospasm, one of the leading causes of disability and death after SAH, usually occurs on the third day after SAH (peaks on day 7–10) and lasts for up to 2–3 weeks. It is important to reduce the incidence of cerebral vasospasm in patients because it can cause delayed ischemic neurologic deficits (DINDs) in almost $50\%$ cases. DIND can trigger secondary cerebral infarction in $50\%$ cases and lead to permanent sequelae $(35\%)$ or death in severe cases $(30\%)$ .3  
+
+The pathophysiology of cerebral vasospasm after SAH is complicated and only partially understood. When an intracranial aneurysm ruptures, interconnected cascade of events such as smooth muscle contraction, free radicals, and disrupted endothelial factors contribute to the occurrence of cerebral vasospasm. Furthermore, the development of cerebral vasospasm is associated with the acceleration of oxidative stress by breakdown products from the ruptured aneurysm, leading to endothelial damage causing an imbalance between vasodilation and vasoconstriction.4,5  
+
+Based on this pathophysiology, many therapeutic attempts, including triple-H therapy, calcium blockers, statin, endothelin (ET) receptor antagonist, and selective inhibitor of phosphodiesterase type-3, have been established to prevent cerebral vasospasm. However, an optimal strategy has not yet been elucidated, because no particular treatment successfully improved clinical outcomes or maintained a sustained effect, and larger-scale studies were required for verification.6,7  
+
+In East Asia, acupuncture has been used for centuries for the effective and safe treatment of cerebrovascular diseases. Recently, some studies have reported that acupuncture can improve vascular endothelial dysfunctions,8–10 and these effects could provide clues about the mechanisms of cerebral vasospasm prevention. The authors conducted a retrospective case–control study on the efficacy of acupuncture in preventing cerebral vasospasms and showed promising results.11 Based on the preliminary study, a randomized controlled trial was conducted to confirm the efficacy of acupuncture and explore the potential mechanisms of cerebral vasospasm.  
+
+# Materials and Methods  
+
+# Study design  
+
+This was a randomized, double-blinded, and placebocontrolled trial. The authors followed the CONSORT (Consolidated Standards of Reporting Trials) and STRICTA (Revised STandards for Reporting Interventions in Clinical Trials of Acupuncture) recommendations.12 The protocol of this trial has been registered on www.clinicaltrials.gov (NCT02275949) and was utilized in a previously published study.  
+
+# Ethics approval  
+
+The present trial was carried out according to the Declaration of Helsinki and Korean Good Clinical Practice Guidelines. This study was approved by the Institutional Review Board of  
+
+the Kyung Hee University Hospital at Gangdong (KHNMCOH-IRB 2014-001-002). Written informed consent was obtained from each patient or a legal representative.  
+
+# Participants  
+
+Participants were recruited from September 2014 to June 2017 in the Kyung Hee University Hospital at Gangdong. Their study recruited patients admitted with acute SAH. Inclusion criteria were as follows: (1) confirmation of aneurysmal SAH by cerebral angiography or computed tomography (CT); (2) management of ruptured aneurysm through surgical clipping or endovascular coiling (Guglielmi detachable coiling); (3) acupuncture treatment within $96\mathrm{h}$ after SAH; (4) Hunt and Hess Scale (HHS) score 1–4; (5) age ${>}18$ years; and (6) voluntary participation and signed informed consent.  
+
+Exclusion criteria were as follows: (1) nonaneurysmal or recurrent aneurysmal SAH; (2) HHS score 5; (3) severe heart, liver, or renal failure; (4) prior experience with acupuncture or electroacupuncture (EA) treatment; and (5) attachment of cardiac pacemakers.  
+
+Drop out criteria included the following: (1) missing ${>}3$ sessions out of 12; (2) withdrawal of informed consent; (3) serious adverse events making the trial unsustainable; and (4) difficulty in proceeding with the trial due to worsened condition as determined by the principal investigator.  
+
+The authors enrolled 50 healthy controls (HCs) that had not experienced any cerebrovascular diseases and were of the same sex and age as the SAH patients to compare the plasma nitric oxide (NO) and ET-1 levels at baseline.  
+
+# Randomization  
+
+This was a randomized controlled trial, with all acute SAH patients allocated in a 1:1 ratio either to the control or study group. Stratification was performed according to sex and initial HHS. Randomization was conducted by an independent administrator not involved in the intervention or assessment using a computer-generated list of numbers with a block size of 4. After the informed consent form was signed, and the HHS score was evaluated, the physician involved in the intervention received a random number by phone. The outcome assessors and participants were blinded to the intervention type.  
+
+# Intervention  
+
+Interventions were conducted six times a week every day for 2 weeks by qualified Korean Medicine doctors with over 3 years of clinical experience who completed a college education of 6 years. All participants received conventional treatment (nimodipine) along with prophylactic therapy and general management.  
+
+In the study group, every session included the application of manual acupuncture, EA, and intradermal acupuncture. Acupuncture needles (Dong Bang Acupuncture, Inc., Chungnam, Korea) were inserted bilaterally at the acupoints PC6 (Neiguan), ST36 (Zusanli), ST43 (Xiangu), and SP4 (Gongsun). The depth of insertion was between 1.0 and $1.5\mathrm{cm}$ , depending on the acupuncture points. The needles were then manipulated until de qi (composite needling sensation considered as effective stimulation) was acquired. The handle of the needle was connected to an electric stimulator (ES-160; ITO Co.,  
+
+Japan) at bilateral PC6 and ST36 and charged with a current of $5\mathrm{{Hz}}$ . The degree of stimulation was sufficient to reveal slight muscle contraction, reaching the maximum tolerable intensity not felt by pain. The needles were in position for $20\mathrm{min}$ before removal. The physician could regulate the intensity according to the patient’s response. After removal of the needles, intradermal acupuncture needles with tape (DB130A, $0.25\times1.5\mathrm{mm}$ ; Dong Bang Acupuncture, Inc.) were attached to the same bilateral acupoints and maintained until the next session.  
+
+Mock transcutaneous electrical nerve stimulation and sham intradermal acupuncture were applied in the control group. First, electrical insulators (Medi trace 200 foam electrodes; Ludlow Technical Products Canada, Ltd., Ontario, Canada) were affixed to the bilateral PC6 and ST36 acupoints. Second, the same electrical stimulator was connected to the acupoints for $20\mathrm{min}$ without a current. The subjects in the control group could see the same lights and hear the same sounds coming from the machine as those in the study group. After electrical stimulation, the acupuncture needles were removed, and 3M micropore medical tape $(1\times1\mathrm{cm})$ was placed on the skin at the bilateral PC6 and ST36 acupoints. Then, sham intradermal acupuncture needles, not penetrating the skin, were applied at the acupoints. Micropore medical tapes of the same size were placed over the needles and maintained until the next session.  
+
+# Outcome measures  
+
+As a primary outcome, the incidence of DIND was compared between the study and control groups. DIND was defined as an unexplainable new neurologic change on cerebral angiography, lasting ${>}2\mathrm{h}$ , and not attributed to other causes.  
+
+Secondary measurements included incidence of angiographic vasospasm, defined as an arterial spasm, as seen on digital subtraction angiography.14 The occurrence of vasospasm-related infarction was also measured. It was determined in the area of vasospasm using magnetic resonance imaging or CT. Mortality and modified Rankin Scale (mRS) for functional independence were evaluated at a primary endpoint and 2 weeks after that or during discharge. Plasma NO and ET-1 levels were assayed before and after the intervention. For the assay, a $3\mathrm{mL}$ blood sample from the brachial vein was centrifuged at $3000\mathrm{rpm}$ and stored at $-70^{\circ}\mathrm{C}$ before the assay. The level of NO was quantified in duplicate by absorbance at $540\mathrm{mm}$ for $10\mathrm{min}$ using a Total Nitric Oxide and Nitrate/Nitrite Parameter Assay Kit (R&D systems, Inc., USA), while the concentration of ET-1 was assayed in duplicate by absorbance at $450\mathrm{mm}$ for $5\mathrm{min}$ using an Endothelin-1 Quantikine ELISA Kit (R&D systems, Inc.). Mean values were calculated as the representative value.  
+
+# Statistical analyses  
+
+All data were analyzed using the Statistical Program for Social Sciences (SPSS, version 18.0, Inc., Chicago, IL, USA). Data are expressed as mean (standard deviation) or number $(\%)$ . To compare the parameters between both groups, an independent sample $t$ test or Mann–Whitney test was used for continuous variables, and Fisher’s exact test or Chi-square test was applied for noncontinuous variables. Analysis of covariance (ANCOVA) was conducted to compare the difference in average mRS between baseline and follow-up. To determine the adequate sample size and significance level, post hoc power calculations were performed with the use of the inequality tests for a two-proportion  
+
+![](images/04b15d645f128b7225ce1ca5bf878ea6b4574a9cfb847f957507ab6fb2730179.jpg)  
+FIG. 1. Flow chart of the investigation. DIND, delayed ischemic neurologic deficit; mRS, modified Rankin Scale; NO, nitric oxide.  
+
+Table 1. Baseline Demographics and Clinical Characteristics   
+
+
+<html><body><table><tr><td>Baseline characteristics</td><td>Study group (n=22)</td><td>Control group (n=24)</td></tr><tr><td>Age, years (standard deviation)</td><td></td><td>54.0 (11.7) 55.13 (12.1)</td></tr><tr><td>Sex, female (male)</td><td>16 (6)</td><td>18 (6)</td></tr><tr><td>Hypertension, N (%)</td><td>8 (36.4)</td><td>8 (33.3)</td></tr><tr><td>Coiling (clipping)</td><td>14 (8)</td><td>18 (6)</td></tr><tr><td>Aneurysm location, N (%)</td><td>7 (31.8)</td><td>10 (41.7)</td></tr><tr><td>Anterior communicating artery and anterior cerebral artery</td><td></td><td></td></tr><tr><td>Middle cerebral artery</td><td>6 (27.3)</td><td>6 (25.0)</td></tr><tr><td>Posterior communicating artery and internalcarotid artery</td><td>7 (31.8)</td><td>5 (20.8)</td></tr><tr><td>Posterior cerebral artery and superior cerebral artery</td><td>1 (4.5)</td><td>1 (4.2)</td></tr><tr><td>Basilar artery</td><td>1 (4.5)</td><td>2 (8.3)</td></tr><tr><td>Hunt and Hess scale, N (%)</td><td></td><td></td></tr><tr><td>1</td><td>0 (0)</td><td>1 (4.2)</td></tr><tr><td>2</td><td>13 (59.1)</td><td>11 (45.8)</td></tr><tr><td>3</td><td>8 (36.4)</td><td>6 (25.0)</td></tr><tr><td>4</td><td>1 (4.5)</td><td>6 (25.0)</td></tr><tr><td>Fisher grade, N (%)</td><td></td><td></td></tr><tr><td>2</td><td>2 (4.5)</td><td>0 (0)</td></tr><tr><td>3</td><td>9 (45.5)</td><td>7 (29.2)</td></tr><tr><td>4</td><td>11 (50)</td><td>17 (70.8)</td></tr><tr><td>Modified Rankin scale, N (%)</td><td>0 (0)</td><td>3 (12.5)</td></tr><tr><td>2 3</td><td></td><td>8 (33.3)</td></tr><tr><td></td><td>9 (40.9)</td><td></td></tr><tr><td>4</td><td>9 (40.9)</td><td>7 (29.2)</td></tr><tr><td>5</td><td>4 (18.2)</td><td>6 (25.0)</td></tr></table></body></html>  
+
+Independent $t$ test for age; Chi-square test for sex, hypertension, and operation type; and Fisher’s exact test for aneurysm location, Hunt and Hess Scale, Fisher Grade, and modified Rankin Scale were applied. There were no significant differences in demographics and clinical characteristics between the two groups.  
+
+dropped due to the presence of bacterial meningitis, septic shock, or pneumonia, while one participant was dropped from the control group for severe pneumonia. Finally, 22 participants in the study group and 24 in the control group completed the study (Fig. 1). There were no significant demographic differences between the two groups, including hypertension, HHS, and Fisher Grade (Table 1).  
+
+The study group showed a low incidence of DIND, although it was not statistically significant. Only $9.1\%$ of the study group experienced DIND, whereas $20.8\%$ suffered from it in the control group. Moreover, the study group $(9.1\%)$ had a lower tendency of angiographic vasospasm compared to the control group $(25\%)$ . While vasospasmrelated infarction occurred in $16.7\%$ of the control group, only $4.5\%$ experienced it in the study group. In addition, the average mRS during the second follow-up was significantly lower in the study group, indicating improved functional independence longitudinally. No serious adverse events were reported in either group (Table 2).  
+
+The baseline level of plasma NO was significantly lower in the SAH group than HC group. This shows that impaired vasodilation through decreased NO expression is distinctively involved in the occurrence of SAH. Both NO and ET-1 levels were significantly different between the vasospasm SAH subgroup and HC group, but only NO was lower in the nonvasospasm SAH subgroup than HC group (Table 3 and Fig. 2a).  
+
+According to the follow-up results, the plasma NO level significantly increased only in the nonvasospasm SAH subgroup, while the ET-1 level showed a decreasing tendency in both the vasospasm and nonspasm groups (Fig. 2b). When comparing the study and control groups, the plasma NO and ET-1 levels in the study group showed simultaneous significant changes after intervention. In the control group, only the level of NO changed after intervention (Fig. 2c).  
+
+# Discussion  
+
+module in PASS 15 software (NCSS Statistical Software) on the basis of normal approximation.15 To control for possible confounding factors (age, sex, baseline HHS), the ANCOVA was conducted to compare postintervention plasma levels of NO and ET-1. In all cases, $p$ values $<0.05$ were considered statistically significant.  
+
+# Results  
+
+In this study, 123 SAH patients were screened and 50 were enrolled. In the study group, three participants were  
+
+Their study demonstrated that acupuncture could potentially prevent occurrence of cerebral vasospasm after SAH. Moreover, the study group had a higher functional recovery rate and a lower tendency to develop DIND, angiographic vasospasm, and spasm-related cerebral infarction than the control group. These effects could be attributed to the endothelial dysfunction recovered by acupuncture by modulating the plasma NO and ET-1 levels.  
+
+Clinically, symptomatic vasospasm or DIND is defined as the clinical development of new focal neurologic signs by arterial spasm. This could be more important than angiographic vasospasm itself because it directly induces disability in patients, lowering the quality of life.14 Therefore, it is noteworthy that the study group undergoing acupuncture showed significantly improved mRS outcome, considering its relevance in the quality of life. However, the DIND incidence was not significantly different between both groups, with reduced tendency in the study group, and could be due to small sample size. The sample size was planned based on preliminary results, where the incidence of DIND was $10\%$ and $38.9\%$ in the study and control groups, respectively.11 However, the actual incidence of DIND in the control group $(20.8\%)$ was much lower than $38.9\%$ .  
+
+Table 2. Outcome Measurements Between the Study and Control Groups   
+
+
+<html><body><table><tr><td>Clinicaloutcomes</td><td>Study group (n=22)</td><td>Controlg group 0(n=24）</td><td>p</td></tr><tr><td>Delayed ischemic neurologic deficit</td><td>2 (9.1%)</td><td>5 (20.8%)</td><td>0.418</td></tr><tr><td>Angiographicvasospasm a</td><td>2 (9.1%)</td><td>6 (25.0%)</td><td>0.247</td></tr><tr><td>Vasospasm-related cerebral infarction</td><td>1 (4.5%)</td><td>4 (16.7%)</td><td>0.349</td></tr><tr><td>Modified Rankin scale at first follow-up</td><td>2.20 (0.18)</td><td>2.53 (0.17)</td><td>0.179</td></tr><tr><td>Modified Rankin scale at second follow-up</td><td>1.75 (0.18)</td><td>2.40 (0.17)</td><td>0.011</td></tr></table></body></html>
+
+Bold value indicates the Modified Rankin scale at second follow-up was significantly lower in the study group. aFisher’s exact test. bAnalysis of covariance.  
+
+Table 3. Baseline Levels of Plasma Nitric Oxide and Endothelin-1 in Subarachnoid Hemorrhage and Healthy Control Groups   
+
+
+<html><body><table><tr><td></td><td>Subarachnoidhemorrhagegroup(n=46)</td><td>Healthycontrolgroup(n=50)</td><td>P</td></tr><tr><td>Nitric oxide (μmol/L)a</td><td>15.15 (13.11)</td><td>53.40 (43.77)</td><td><0.001</td></tr><tr><td>Endothelin-1 (pg/mL)a</td><td>2.57 (1.64)</td><td>2.23 (1.36)</td><td>0.270</td></tr><tr><td></td><td>Nonspasm group (n=37)</td><td>Healthy control group (n=50)</td><td>P</td></tr><tr><td rowspan="2">Nitric oxide (μmol/L)a Endothelin-1 (pg/mL)a</td><td>16.16 (14.30)</td><td>53.40 (43.77)</td><td><0.001</td></tr><tr><td>2.29 (1.39)</td><td>2.23 (1.36)</td><td>0.432</td></tr><tr><td></td><td>Vasospasm group (n=9)</td><td>Healthy control group(n=50)</td><td>P</td></tr><tr><td rowspan="2">Nitric oxide (μmol/L)b Endothelin-1 (pg/mL)</td><td>11.02 (4.67)</td><td>53.40 (43.77)</td><td><0.001</td></tr><tr><td>3.74 (2.16)</td><td>2.23 (1.36)</td><td>0.028</td></tr></table></body></html>
+
+Bold values indicate the baseline level of plasma NO was significantly lower in the SAH group than HC group $(p<0.001)$ . NO was lower in the nonvasospasm group than HC group $\scriptstyle{\hat{(}{p}<0.001)}$ . Both NO and ET-1 levels were significantly different between the vasospasm group and HC group $\bar{\wp}{<}0.001$ , $p{=}0.028,$ ). Data represented as mean (standard deviation). aIndependent $t$ test. bMann–Whitney test. NO, nitric oxide; SAH, subarachnoid hemorrhage; HC, healthy control; ET-1, endothelin-1.  
+
+During functional recovery, the study group showed a significant difference in the second follow-up of mRS. This improvement could be attributed to two main mechanisms. First, although there was no significant difference, the tendency for vasospasm decreased in the study group that received acupuncture treatment. This can be attributed to acupuncture helping to prevent vasospasm and ischemia. The functional recovery score was confirmed four weeks later. In addition, previous studies have demonstrated that acupuncture treatment might protect neurons from being damaged when the brain is in a hypoxic state.16,17 Therefore, in this study, even in patients with cerebral ischemia, the neuroprotective effect of acupuncture treatments may have reduced neuronal damage and improved function during recovery.18,19 Acupuncture treatment in the acute stage of SAH is suggested to be clinically effective for functional recovery and should be widely used as it is effective in preventing vasospasm and has neuroprotective effects.  
+
+In their laboratory assay, there was a significant difference in baseline plasma NO levels between SAH patients and HC groups. The SAH group showed simultaneously lower NO levels compared to the HC group, and the vasospasm subgroup showed higher ET-1 levels underlying obvious vasoconstriction. Especially in the baseline ET-1 levels, there was no significant difference between the nonspasm and HC groups, but the vasospasm subgroup showed significantly higher ET-1 level compared with the HC group. Therefore, it is suggested that both NO and ET-1, known as endothelium-derived mediators, could be associated with post-SAH cerebral vasospasm.  
+
+After intervention, plasma NO changed significantly in the nonvasospasm SAH subgroup, but not in the vasospasm subgroup. This result implies that in patients without vasospasm, the impaired endothelial vasodilation recovered successfully and did not lead to cerebral vasospasm. As far as the authors know, this is the first report dealing with the temporal recovery of both plasma NO and ET-1 levels in SAH patients, regardless of the presence/absence of vasospasm. Finally, in the longitudinal assay, the study group showed significant increase in plasma NO and decrease in ET-1 levels, but the control group only showed changes in the plasma NO level.  
+
+There have been many investigations about the role of plasma NO and ET-1 as screening biomarkers of the vasospasm pathophysiology. NO is a signaling molecule involved in the vasodilation, significantly decreased in SAH, and further reduced in patients with vasospasm .20,21 ET-1 is a potent vasoconstrictor, elevated in patients with clinical vasospasm. Therefore, to prevent cerebral vasospasm following SAH, the disrupted NO and ET-l levels should be recovered.  
+
+Thus, it is suggested that acupuncture can modulate the vasodilation of blood vessels through the expression of NO and downregulation of ET-1 and help recover the endothelial dysfunction through the modulation of endothelial NO and ET-1 levels. Acupuncture is known to improve endothelial nitric oxide synthase (NOS) and neuronal NOS synthesis as a regulating mechanism of vascular function.24,25 EA significantly reduced plasma ET-1 level by improving peripheral blood circulation and elevating skin temperature.26 The massive sympathetic nervous activation is linked to the genesis of cerebral vasospasm, and it interacts with endogenous ET-1 regulating vascular tone.27,28 Acupuncture can lower the hyperactive sympathetic tone, suggesting a possible mechanism to regulate endothelial ET-1 levels.29 Similar to their results, another study showed that EA treatment significantly upregulated the circulating endothelial NOS (eNOS) concentration and downregulated the ET-1 level.8  
+
+![](images/28f5267f2ee7fae20a61dc0ccf31f9b27cc336015deca038b73bf0cea6c738cf.jpg)  
+FIG. 2. Plasma NO and ET-1 assay results. (a) Baseline plasma NO and ET-1 levels between SAH and HC participants (two-sample $t$ test). Baseline NO levels were significantly different between the HC $(53.4\pm43.77\upmu\mathrm{mol/L})$ and SAH groups $(15.15\pm\dot{13}.11\upmu\mathrm{mol/L})$ $\cdotp{<}0.001\$ ). However, there was no significant difference in the baseline ET-1 levels between groups (HC: $2.23\pm1.36\mathrm{pg/mL}$ ; SAH: $2.57\pm1.64\mathrm{pg/mL}$ ; $p{=}0.270,$ ). (b) Changes in plasma NO and ET-1 levels in the vasospasm and nonvasospasm groups (paired $t$ test and Wilcoxon-signed rank test). NO levels significantly increased in the nonvasospasm group from $\mathbf{\dot{1}}6.1\mathbf{\dot{6}}\pm14.30$ to $38.95\pm25.58\upmu\mathrm{mol/L}$ ( $p<0.001)$ . However, the change in NO levels was not significant in the spasm group $(11.02\pm4.67$ to $14.81\pm6.90\upmu\mathrm{mol/L}$ ; $p=0.260\AA,$ ). In the nonspasm group, the ET-1 level decreased from $2.2\bar{9}\pm1.3\bar{9}$ to $\mathrm{i.77\pm1.14pg/mL}$ ( $p{=}0.099)$ . In the spasm group, the ET-1 level decreased from $3.74\pm2.16$ to $2.14\pm1.05\mathrm{pg/mL}$ ( $p{=}0.066)$ . (c) Changes in plasma NO and ET-1 levels in the study and control groups (paired $t$ test). NO levels significantly increased in the study group from $13.84\pm11.98$ to $35.15\pm28.33\upmu\mathrm{mol/L}$ $\mathrm{\Delta}_{,{p=0.003})}$ and in the control group from $16.36\pm14.21$ to $33.38\pm22.15\upmu\mathrm{mol/L}$ ( $p{=}0.003)$ . ET-1 levels significantly decreased in the study group from $2.{\bar{1}}4\pm{\bar{0}}.90$ to $1.61\pm0.75\mathrm{pg/mL}$ ( $p{=}0.033)$ . However, the change in ET-1 levels was not significant in the control group, from $2.98\pm2.05$ to $2.0\bar{5}\pm1.37\mathrm{pg/mL}$ ( $p=0.085)$ . $^{***}p<0.00\tilde{1}$ ; $^{**}p<0.01$ ; $^{*}p<0.05$ ; error bar: standard error of mean. HC, healthy control; ET-1, endothelin-1; NO, nitric oxide; SAH, subarachnoid hemorrhage.  
+
+It has been reported that EA on ST36 increases the activity of eNOS and the generation and activity of NO.24,30 eNOS is secreted from vascular endothelial cells to maintain the tension of the vascular wall, and it can be expected that acupuncture on ST36 promotes the production of NO, thus normalizing the function of arterial endothelial cells. Acupuncture on PC6 has been reported to have reduced arterial stiffness in patients with hypertension,31 and a previous study confirmed that acupuncture on PC6-ST36 improves endothelial cell-dependent vascular extension in hypertension patients with impaired arterial endothelial cell function.9 There have also been reports that acupuncture on PC6 activates the vagus nerve and inhibits the activity of the sympathetic nerve.29 Based on these, a retrospective case–control study on the efficacy of acupuncture on PC6-ST36 in preventing cerebral vasospasm after SAH was conducted, and promising results were identified. Therefore, in this study, randomized controlled trial was performed as a follow-up study by adding acupuncture points.  
+
+The control group showed significant elevation in plasma NO during the intervention. Hence, even minimal acupuncture may produce contextual effects for benefit, including positive expectations. NO has been pointed out as a possible mechanism in the placebo effect through autonomic nervous system.32,33  
+
+However, this study has several limitations. The sample size was planned based on the preliminary results, but the actual incidence of DIND in the control group was much lower in this study. This may have led to there being no statistical difference in the primary outcome. In addition, despite no statistical difference being apparent, the control group appeared to have a higher initial HHS and Fisher Grade at the start of the study. Therefore, the authors cannot rule out the possibility that these may have affected the outcome measures.  
+
+# Conclusion  
+
+In conclusion, their study shows that acupuncture treatment improved functional recovery after SAH and could potentially prevent cerebral vasospasm. The effect could be attributed to the recovery of endothelial dysfunction by acupuncture through modulating the plasma NO and ET-1 levels. If future studies can include wait-list controls only undergoing conventional therapy, the actual effect of acupuncture in preventing vasospasm can be examined more precisely.  
+
+# Author Disclosure Statement  
+
+No competing financial interests exist.  
+
+# Funding Information  
+
+This research was supported by a grant of the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea (Grant No.: HI 14C0870).  
+
+# References  
+
+1. Suarez JI, Tarr RW, Selman WR. Aneurysmal subarachnoid hemorrhage. N Engl J Med 2006;354:387–396.  
+
+2. Solenski NJ, Haley EC, Jr., Kassell NF, et al. Medical complications of aneurysmal subarachnoid hemorrhage: A report of the multicenter, cooperative aneurysm study. Participants of the Multicenter Cooperative Aneurysm Study. Crit Care Med 1995;23:1007–1017.   
+3. Steiner T, Juvela S, Unterberg A, et al. European Stroke Organization guidelines for the management of intracranial aneurysms and subarachnoid haemorrhage. Cerebrovasc Dis 2013;35:93–112.   
+4. Pluta RM, Hansen-Schwartz J, Dreier J, et al. Cerebral vasospasm following subarachnoid hemorrhage: Time for a new world of thought. Neurol Res 2009;31:151–158.   
+5. Kolias AG, Sen J, Belli A. Pathogenesis of cerebral vasospasm following aneurysmal subarachnoid hemorrhage: Putative mechanisms and novel approaches. J Neurosci Res 2009;87:1–11.   
+6. Siasios I, Kapsalaki EZ, Fountas KN. Cerebral vasospasm pharmacological treatment: An update. Neurol Res Int 2013; 2013:571328.   
+7. Matsuda N, Naraoka M, Ohkuma H, et al. Effect of cilostazol on cerebral vasospasm and outcome in patients with aneurysmal subarachnoid hemorrhage: A randomized, double-blind, placebo-controlled trial. Cerebrovasc Dis 2016;42:97–105.   
+8. Pan P, Zhang X, Qian H, et al. Effects of electroacupuncture on endothelium-derived endothelin-1 and endothelial nitric oxide synthase of rats with hypoxia-induced pulmonary hypertension. Exp Biol Med (Maywood) 2010; 235:642–648.   
+9. Park JM, Shin AS, Park SU, et al. The acute effect of acupuncture on endothelial dysfunction in patients with hypertension: A pilot, randomized, double-blind, placebocontrolled crossover trial. J Altern Complement Med 2010; 16:883–888.   
+10. Tan YY, Wang YY, Zhang Q. [Electroacupuncture of ‘‘Quchi’’ (LI 11) inhibits the elevation of arterial blood pressure and abnormal sympathetic nerve activity in hypertension rats]. Zhen Ci Yan Jiu 2016;41:144–149.   
+11. Ko CN, Lee IW, Cho SY, et al. Acupuncture for cerebral vasospasm after subarachnoid hemorrhage: A retrospective case-control study. J Altern Complement Med 2013;19: 471–473.   
+12. MacPherson H, Altman DG, Hammerschlag R, et al. Revised STandards for Reporting Interventions in Clinical Trials of Acupuncture (STRICTA): Extending the CONSORT statement. PLoS Med 2010;7:e1000261.   
+13. Cho SY, Lee DH, Shin HS, et al. The efficacy and safety of acupuncture for cerebral vasospasm after subarachnoid hemorrhage: Study protocol for a randomized controlled trial. Trials 2015;16:68.   
+14. Frontera JA, Fernandez A, Schmidt JM, et al. Defining vasospasm after subarachnoid hemorrhage: What is the most clinically relevant definition? Stroke 2009;40:1963– 1968.   
+15. Chow SC, Shao J, Wang H. Sample Size Calculations in Clinical Research. 2nd ed. Boca Raton, FL: Chapman & Hall/CRC, 2008.   
+16. Chang QY, Lin YW, Hsieh CL. Acupuncture and neuroregeneration in ischemic stroke. Neural Regen Res 2018;13: 573–583.   
+17. Feng R, Zhang F. The neuroprotective effect of electroacupuncture against ischemic stroke in animal model: A review. Afr J Tradit Complement Altern Med 2014;11: 25–29.   
+18. Chen L, Fang J, Ma R, et al. Additional effects of acupuncture on early comprehensive rehabilitation in patients with mild to moderate acute ischemic stroke: A multicenter randomized controlled trial. BMC Complement Altern Med 2016;16:226.   
+19. Zhan J, Pan R, Zhou M, et al. Electroacupuncture as an adjunctive therapy for motor dysfunction in acute stroke survivors: A systematic review and meta-analyses. BMJ Open 2018;8:e017153.   
+20. Ramesh SS, Prasanthi A, Bhat DI, et al. Correlation between plasma total nitric oxide levels and cerebral vasospasm and clinical outcome in patients with aneurysmal subarachnoid hemorrhage in Indian population. J Neurosci Rural Pract 2014;5(Suppl 1):S22–S27.   
+21. Siuta M, Zuckerman SL, Mocco J. Nitric oxide in cerebral vasospasm: Theories, measurement, and treatment. Neurol Res Int 2013;2013:972417.   
+22. Bellapart J, Jones L, Bandeshe H, et al. Plasma endothelin1 as screening marker for cerebral vasospasm after subarachnoid hemorrhage. Neurocrit Care 2014;20:77–83.   
+23. Juvela S. Plasma endothelin and big endothelin concentrations and serum endothelin-converting enzyme activity following aneurysmal subarachnoid hemorrhage. J Neurosurg 2002;97:1287–1293.   
+24. Kim DD, Pica AM, Duran RG, et al. Acupuncture reduces experimental renovascular hypertension through mechanisms involving nitric oxide synthases. Microcirculation 2006;13:577–585.   
+25. Tsuchiya M, Sato EF, Inoue M, et al. Acupuncture enhances generation of nitric oxide and increases local circulation. Anesth Analg 2007;104:301–307.   
+26. Maeda M, Kachi H, Ichihashi N, et al. The effect of electrical acupuncture-stimulation therapy using thermography and plasma endothelin (ET-1) levels in patients with progressive systemic sclerosis (PSS). J Dermatol Sci 1998;17: 151–155.   
+27. Naredi S, Lambert G, Eden E, et al. Increased sympathetic nervous activity in patients with nontraumatic subarachnoid hemorrhage. Stroke 2000;31:901–906.   
+28. Bruno RM, Sudano I, Ghiadoni L, et al. Interactions between sympathetic nervous system and endogenous endothelin in patients with essential hypertension. Hypertension 2011;57: 79–84.   
+29. Li Z, Wang C, Mak AF, et al. Effects of acupuncture on heart rate variability in normal subjects under fatigue and non-fatigue state. Eur J Appl Physiol 2005;94:633–640.   
+30. Chen S, Ma SX. Nitric oxide in the gracile nucleus mediates depressor response to acupuncture (ST36). J Neurophysiol 2003;90:780–785.   
+31. Rivas-Vilchis JF, Hernandez-Sanchez F, Gonzalez-Camarena R, et al. Assessment of the vascular effects of PC6 (Neiguan) using the second derivative of the finger photoplethysmogram in healthy and hypertensive subjects. Am J Chin Med 2007;35: 427–436.   
+32. Stefano GB, Fricchione GL, Slingsby BT, et al. The placebo effect and relaxation response: Neural processes and their coupling to constitutive nitric oxide. Brain Res Brain Res Rev 2001;35:1–19.   
+33. Fricchione G, Stefano GB. Placebo neural systems: Nitric oxide, morphine and the dopamine brain reward and motivation circuitries. Med Sci Monit 2005;11:MS54–MS65.  
+
+Address correspondence to: Seong-Uk Park, KMD, PhD Stroke & Neurological Disorders Center Kyung Hee University Hospital at Gangdong 892, Dongnam-ro, Gangdong-gu Seoul 05278 Republic of Korea E-mail: seonguk.kr@gmail.com  

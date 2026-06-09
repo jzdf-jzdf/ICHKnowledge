@@ -1,0 +1,189 @@
+# Oral factor Xa inhibitors and risk of subdural hematoma  
+
+COMPASS trial results and meta-analysis  
+
+Luciana Catanese, MD, John W. Eikelboom, MB, BS, Jackie Bosch, PhD, Olga Shestakovska, MSc, Kelvin Ng, MD, Sumiti Nayar, MD, Kanjana S. Perera, MD, FRCPC, Ashkan Shoamanesh, MD, Mukul Sharma, MD, and Robert G. Hart, MD  
+
+Correspondence Dr. Catanese Luciana.catanese@phri.ca  
+
+Neurology® 2020;95:1-e8. doi:10.1212/WNL.0000000000009826  
+
+# Abstract  
+
+# Objective  
+
+Subdural hematomas (SDHs) are an uncommon, but important, complication of anticoagulation therapy. We hypothesized that the risks of SDH would be similar during treatment with oral factor Xa inhibitors compared with aspirin.  
+
+# Methods  
+
+We assessed the frequency and the effects of antithrombotic treatments on SDHs in the recent international Cardiovascular Outcomes for People Using Anticoagulation Strategies (COMPASS) randomized trial comparing aspirin $100~\mathrm{mg}$ daily, rivaroxaban $\varsigma\mathrm{mg}$ twice daily, and rivaroxaban $2.5~\mathrm{mg}$ twice daily plus aspirin. A systematic review/meta-analysis of randomized trials comparing oral factor Xa inhibitors vs aspirin on SDH risk was undertaken.  
+
+# Results  
+
+Among 27,395 COMPASS participants, 28 patients with SDHs were identified (mean age 72 years). SDH-associated mortality was $7\%$ . Incidence was 0.06 per 100 patient-years (11 SDH/17,492 years observation) during the mean 23-month follow-up among aspirinassigned patients and did not differ significantly between treatments. Three additional randomized controlled trials including 16,177 participants reported a total of 14 SDHs with an incidence ranging from 0.06 to 0.1 per 100 patient-years. Factor Xa inhibitor use was not associated with an increased risk of SDH compared to aspirin (odds ratio, 0.97; $95\%$ confidence interval, 0.52–1.81; $\boldsymbol{\mathrm{I}}^{2}=0\%$ ).  
+
+# Conclusion  
+
+The frequency of SDH was similar in all 3 treatment arms of the COMPASS trial. The COMPASS trial results markedly increase the available evidence from randomized comparisons of oral factor Xa inhibitors with aspirin regarding SDH. From available, albeit limited, evidence from 4 randomized trials, therapeutic dosages of factor Xa inhibitors do not appear to increase the risk of SDH compared with aspirin.  
+
+# Clinical trial identifier number: NCT01776424.  
+
+# Glossary  
+
+COMPASS $=$ Cardiovascular Outcomes for People Using Anticoagulation Strategies; $\mathbf{H}\mathbf{R}=$ hazard ratio; $\mathbf{OR}=$ odds ratio;   
+$\mathbf{SDH}=$ subdural hematoma.  
+
+Subdural hematomas (SDHs) are increasingly recognized as an important complication of antithrombotic therapy, particularly in the elderly.1 The number of SDHs is increasing based on population-based studies due to increased use of antithrombotic therapy in the elderly.1 Despite a lower risk of SDH with direct-oral anticoagulants when compared with warfarin, the mortality rate associated with SDHs continues to be high, ranging from $13\%$ to $24\%$ .1,2 Hence, knowledge of the relative risks of SDH associated with specific antithrombotic therapies can help inform the choice of drugs.  
+
+We analyzed the frequency, baseline characteristics, and effects of antithrombotic therapy on SDHs in the Cardiovascular Outcomes for People Using Anticoagulation Strategies (COMPASS) trial. To put the results into broader clinical context, systematic review and meta-analysis of the occurrence of SDHs from published randomized trials comparing oral factor Xa inhibitors with aspirin was undertaken.  
+
+# Methods  
+
+The design and main results of the COMPASS trial have been published previously. The clinical trial was registered on January 24, 2013 and the date of first patient enrollment was February 28, 2013. In this double-blinded study, 27,395 participants from 33 countries with stable atherosclerotic vascular disease were randomly assigned to receive rivaroxaban ( $\zeta\mathrm{mg}$ daily twice daily), aspirin ( $\mathrm{100mg}$ daily), or rivaroxaban $\mathrm{\Delta}2.5~\mathrm{mg}$ twice daily) plus aspirin ( $100~\mathrm{mg}$ daily) for a mean follow-up of 23 months. SDHs were reported by the local investigators and adjudicated as major bleeding events. In addition, a free-word search of SDHs in the study database was implemented. Source documents including brain imaging reports and the discharge summary were requested from all sites and translated into English. Neuroimaging confirmation and a clinical history were obtained in all included cases. Two stroke neurologists (L.C. and R.G.H.), both blinded to treatment, independently performed the adjudication of all the SDHs by reviewing source documents, with differences resolved through consensus. SDH was defined based on imaging as an extra-axial collection of fluid (hyperdense, isodense, or hyperdense on CT; hyperintense, isointense, or hypointense on fluid-attenuated inversion recovery sequences of MRI associated with at least minimal mass effect to distinguish from hygroma) located between the brain parenchyma and inner table of the skull, typically crescent-shaped. In cases where these details were not provided, we relied on the local radiologist’s diagnosis. SDHs associated with adjacent intracerebral hemorrhage were excluded. The site and type of SDHs were based on review of the neuroimaging report. Associated symptoms at presentation, history of trauma, surgical intervention, and mortality were extracted from discharge summaries.  
+
+SDHs were classified as acute/subacute or chronic and spontaneous, traumatic, or uncertain. Participants with secondary causes of SDHs such as brain surgery, secondary to adjacent intracerebral hemorrhage, or tumor-related were excluded. For the classification of traumatic, spontaneous, or uncertain SDHs, we applied criteria published previously to ensure reproducibility.2 Hospitalizations for management of SDHs that ended in death within the first 30 days were counted as SDH-related deaths. Only cases confirmed by neuroimaging were included. A PRISMA-guided systematic PubMed review (conducted in November 2018) and metaanalysis was performed using the terms (“rivaroxaban/apixaban/edoxaban” [MeSH terms] or “rivaroxaban/apixaban/ edoxaban” [all fields]) and (“aspirin” [MeSH terms] or “aspirin” [all fields]) and clinical trial [ptyp]. Two authors (L.C. and R.G.H.) reviewed all studies and determined inclusion with discrepancies resolved by joint review and consensus.4 Only randomized controlled trials comparing factor Xa inhibitors vs aspirin reporting data on SDHs were included. No other restrictions were applied. Unpublished data were sought for trials that did not publish SDH results.  
+
+# Statistical analysis  
+
+Analyses were conducted according to the intention-to-treat principle. All reported $p$ values are 2-sided. Survival analyses were based on the time to a first event. Stratified Cox proportional hazards regression models were used to compare the effects of the different antithrombotic regimens. Significance was tested using stratified log-rank tests. Analyses were performed using SAS software for Linux, version 9.4 (SAS Institute Inc., Cary, NC). The meta-analysis to estimate the treatment effect of factor Xa inhibitors across randomized trials included the number of SDHs and number of patients from each randomized trial. A random effects model was fit to estimate the pooled odds ratio (OR) using Mantel-Haenszel weights. Statistical heterogeneity was assessed using $\mathrm{I}^{2}$ statistics. Values of $<25\%$ , $25\%-50\%$ , and ${>}50\%$ were defined a priori as low, moderate, and high degrees of heterogeneity, respectively. Publication bias was explored using a funnel plot (figure 1). Analysis was conducted using RevMan 5.3 (Nordic Cochrane Center, København, Denmark).  
+
+![](images/f55ccd223b9877c5153faae1b1e628317cf96ebab593e5b36569c3f44517127e.jpg)  
+Figure 1 Flow chart   
+$\mathsf{SDH}=$ subdural hematoma.  
+
+Table 1 Baseline characteristics of Cardiovascular Outcomes for People Using Anticoagulation Strategies (COMPASS)   
+
+
+<html><body><table><tr><td colspan="5">participants with and without subdural hematomas (SDHs)</td></tr><tr><td></td><td>Overall (n = 27,395)</td><td>No SDH (n = 27,367)</td><td>SDH (n = 28)</td><td>p Value</td></tr><tr><td>Age, y</td><td>68.2 ± 7.9</td><td>68.2 ± 7.9</td><td>72.8 ± 5.7</td><td>0.002</td></tr><tr><td>Female sex</td><td>6,020 (22.0)</td><td>6,011 (22.0)</td><td>9 (32.1)</td><td>0.19</td></tr><tr><td>Body mass index, kg/m2</td><td>28.3 ± 4.7</td><td>28.3 ± 4.7</td><td>26.1 ± 3.7</td><td>0.01</td></tr><tr><td>Systolic blood pressure, mm Hg</td><td>136 ± 18</td><td>136 ± 18</td><td>136 ± 19</td><td>0.99</td></tr><tr><td>Diastolic blood pressure, mm Hg</td><td>78 ± 10</td><td>78 ± 10</td><td>78 ± 13</td><td>2E'0</td></tr><tr><td>Total cholesterol,mmol/L</td><td>4.2 ± 1.1</td><td>4.2 ± 1.1</td><td>3.7± 0.8</td><td>0.01</td></tr><tr><td>Tobacco use</td><td></td><td></td><td></td><td></td></tr><tr><td>Never</td><td>8,757 (32.0)</td><td>8,745 (32.0)</td><td>12 (42.9)</td><td>0.22</td></tr><tr><td>Former</td><td>12,771 (46.6)</td><td>12,758 (46.6)</td><td>13 (46.4)</td><td>0.98</td></tr><tr><td>Current</td><td>5,867 (21.4)</td><td>5,864 (21.4)</td><td>3 (10.7)</td><td>0.17</td></tr><tr><td>Hypertension</td><td>20,632 (75.3)</td><td>20,609 (75.3)</td><td>23 (82.1)</td><td>0.40</td></tr><tr><td>Diabetes</td><td>10,341 (37.7)</td><td>10,327 (37.7)</td><td>14 (50.0)</td><td>0.18</td></tr><tr><td>Previous stroke</td><td>1,032 (3.8)</td><td>1,028 (3.8)</td><td>4 (14.3)</td><td>0.003</td></tr><tr><td>Previous myocardial infarction</td><td>17,028 (62.2)</td><td>17,010 (62.2)</td><td>18 (64.3)</td><td>0.82</td></tr><tr><td>Heart failure</td><td>5,902 (21.5)</td><td>5,898 (21.6)</td><td>4 (14.3)</td><td>0.35</td></tr><tr><td>Coronary artery disease</td><td>24,824 (90.6)</td><td>24,798 (90.6)</td><td>26 (92.9)</td><td>0.68</td></tr><tr><td>Peripheral arterial disease</td><td>7,470 (27.3)</td><td>7,463 (27.3)</td><td>7 (25.0)</td><td>0.79</td></tr><tr><td>eGFR, mL/min</td><td></td><td></td><td></td><td></td></tr><tr><td><30</td><td>243 (0.9)</td><td>243 (0.9)</td><td>0</td><td>一</td></tr><tr><td>30 to <60</td><td>6,033 (22.0)</td><td>6,025 (22.0)</td><td>8 (28.6)</td><td>0.40</td></tr><tr><td>260</td><td>21,111 (77.1)</td><td>21,091 (77.1)</td><td>20 (71.4)</td><td>0.48</td></tr><tr><td>Race</td><td></td><td></td><td></td><td></td></tr><tr><td>White</td><td>17,027 (62.2)</td><td>17,013 (62.2)</td><td>14 (50.0)</td><td>0.18</td></tr><tr><td>Black</td><td>262 (1.0)</td><td>262 (1.0)</td><td>0</td><td>一</td></tr><tr><td>Asian</td><td>4,269 (15.6)</td><td>4,261 (15.6)</td><td>8 (28.6)</td><td>0.06</td></tr><tr><td>Other</td><td>5,837 (21.3)</td><td>5,831 (21.3)</td><td>6 (21.4)</td><td>0.99</td></tr><tr><td>Geographic region</td><td></td><td></td><td></td><td></td></tr><tr><td>North America</td><td>3,918 (14.3)</td><td>3,912 (14.3)</td><td>6 (21.4)</td><td>0.28</td></tr><tr><td>South America</td><td>6,144 (22.4)</td><td>6,138 (22.4)</td><td>6 (21.4)</td><td>0.90</td></tr><tr><td>WesternEurope,Israel,Australia,orSouthAfrica</td><td>8,555 (31.2)</td><td>8,550 (31.2)</td><td>5 (17.9)</td><td>0.13</td></tr><tr><td>Eastern Europe</td><td>4,823 (17.6)</td><td>4,820 (17.6)</td><td>3 (10.7)</td><td>0.34</td></tr><tr><td>Asia-Pacific</td><td>3,955 (14.4)</td><td>3,947 (14.4)</td><td>8 (28.6)</td><td>0.03</td></tr><tr><td>Medication</td><td></td><td></td><td></td><td></td></tr><tr><td>ACE inhibitor or ARB</td><td>19,518 (71.2)</td><td>19,496 (71.2)</td><td>22 (78.6)</td><td>680</td></tr><tr><td>Calcium-channel blocker</td><td>7,269 (26.5)</td><td>7,262 (26.5)</td><td>7 (25.0)</td><td>0.85</td></tr><tr><td>Diuretic</td><td>8,139 (29.7)</td><td>8,129 (29.7)</td><td>10 (35.7)</td><td>0.49</td></tr><tr><td>β-blocker</td><td>19,184 (70.0)</td><td>19,168 (70.0)</td><td>16 (57.1)</td><td>0.14</td></tr></table></body></html>
+
+Continued  
+
+Table 1 Baseline characteristics of Cardiovascular Outcomes for People Using Anticoagulation Strategies (COMPASS) participants with and without subdural hematomas (SDHs) (continued)   
+
+
+<html><body><table><tr><td></td><td>Overall (n =27,395)</td><td>No SDH (n = 27,367)</td><td>SDH (n = 28)</td><td>pValue</td></tr><tr><td>Lipid-loweringagent</td><td>24,601 (89.8)</td><td>24,575 (89.8)</td><td>26 (92.9)</td><td>0.59</td></tr><tr><td>NSAIDS</td><td>1,470 (5.4)</td><td>1,469 (5.4)</td><td>1 (3.6)</td><td>0.67</td></tr><tr><td>NonstudyPPI</td><td>9,798 (35.8)</td><td>9,785 (35.8)</td><td>13 (46.4)</td><td>0.24</td></tr></table></body></html>
+
+Abbreviations: $\mathsf{ACE}=$ angiotensin-converting enzyme; $\mathsf{ARB}=$ angiotensin receptor blocker; eGFR $=$ estimated glomerular filtration rate; NSAID $=$ nonsteroidal anti-inflammatory drug; $\mathsf{PPI}=$ proton pump inhibitor. For continuous variables, values are mean $\pm{\mathsf{S}}{\mathsf{D}}$ . For categorical variables, frequency $(\%)$ are shown. $p$ Value is from the Wilcoxon 2-sample test for continuous variables and Pearson $\chi^{2}$ test for categorical variables.  
+
+# Standard protocol approvals, registrations, and patient consents  
+
+Review board approval was obtained. Patient consent was obtained at time of enrollment into trial.  
+
+# Data availability  
+
+Data will not be made available to external parties.  
+
+# Results  
+
+The baseline characteristics of the participants with and without SDHs are presented in table 1. SDHs represented a small fraction $(29\%)$ of all intracranial bleeding events ( $\mathbf{\check{n}}=$ 95). A total of 33 cases were obtained in the initial search; 28 were confirmed and included in the analysis (figure 2). Patients with SDHs were more likely to be older (72.8 vs 68.2, $p=0.002)$ ; to have previous strokes $14.3\%$ vs $3.8\%$ , $p=$ 0.003), lower total cholesterol levels $\left(3.7\mathrm{vs}4.2,p=0.01\right)$ , and lower body mass index (26.1 vs 28.3, $p=0.01$ ); and to come from Asian–Pacific regions ( $28.6\%$ vs $14.4\%$ , $p=0.03\$ ) (table 1). Most SDHs were spontaneous $(75\%)$ and symptomatic $(93\%)$ . On imaging, SDHs were more likely to be acute/ subacute $(93\%)$ without concomitant subarachnoid hemorrhage $(75\%)$ . A total of 11 $(39\%)$ patients required surgical evacuation for the SDHs. Mortality was $7\%$ (2/28).  
+
+The incidence ranged from 0.04 to 0.06 per 100 patient-years in a 23-month follow-up period and it did not differ per treatment group (hazard ratio [HR] 0.91 [0.38–2.13] and HR 0.64 [0.25–1.65] for rivaroxaban plus aspirin vs aspirin and rivaroxaban only vs aspirin only) (table 2).  
+
+# Systematic review and meta-analysis  
+
+Three previously published randomized trials comparing oral factor Xa inhibitors with aspirin and reporting results on SDHs were identified (figure 3). In all, study treatment arms were double blinded (table 3).5–7 They enrolled 16,177 participants (mean age 65 years, $63\%$ male) and reported a total of 14 SDHs. The estimated incidence of SDHs ranged from 0.06 to 0.1 per 100 patient-years (table 3). In pooled analysis (figure 4), SDH occurred in $0.10\%$ (26/26,920) of participants assigned to factor Xa inhibitors and $0.10\%$ (16/16,652) of participants assigned to aspirin (OR, 0.97; $95\%$ confidence interval, 0.52–1.81; $\bar{\mathrm{I}^{2}}\bar{=}0\%$ ).  
+
+# Discussion  
+
+Our study shows that the observed frequency of SDH was similar with rivaroxaban $\varsigma\mathrm{mg}$ twice daily or rivaroxaban $2.5\mathrm{mg}$ twice daily plus aspirin relative to monotherapy with aspirin. Based on our meta-analysis, therapeutic dosages of factor Xa inhibitors do not appear to increase the risk of SDH compared with aspirin. While numbers of reported SDHs were low, the COMPASS trial provides the largest randomized experience to date, tripling the available evidence from randomized comparisons of oral factor Xa inhibitors with aspirin. The lack of an increase in SDH with factor Xa inhibitors compared to aspirin was consistent in meta-analysis.  
+
+![](images/d79d1ba66b9dc0a348ea44d328d3b0c8561dee2f2d96955f09bea7873e6a7c93.jpg)  
+Figure 2 Systematic review data search results   
+${\mathsf{RCT}}=$ randomized controlled trial.  
+
+Table 2 Antithrombotic therapies and risk of subdural hematoma (SDH) per treatment arm   
+
+
+<html><body><table><tr><td></td><td colspan="2">Rivaroxabanplus aspirin (n = 9,152)</td><td colspan="2">Rivaroxaban alone (n = 9,117)</td><td colspan="2">Aspirin alone (n = 9,126)</td><td colspan="2">Rivaroxaban plus aspirinvs aspirin alone</td><td colspan="2">Rivaroxaban alonevs Aspirin alone</td></tr><tr><td></td><td>No.of first events (%)</td><td>Annual rate, %/y</td><td>No.of first events (%)</td><td>Annual rate, %/y</td><td>No.of first events (%)</td><td>Annual rate,%/y</td><td>Hazard ratio (95% CI)</td><td>pValue</td><td>Hazard ratio (95% CI)</td><td>pValue</td></tr><tr><td>ITT analysis</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SDH</td><td>10 (0.1)</td><td>0.06</td><td>7 (<0.1)</td><td>0.04</td><td>11 (0.1)</td><td>0.06</td><td>0.91 (0.38-2.13)</td><td>0.82</td><td>0.64 (0.25-1.65)</td><td>0.35</td></tr><tr><td>On-treatment analysis</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SDH</td><td>8 (<0.1)</td><td>0.05</td><td>6 (<0.1)</td><td>0.04</td><td>9 (<0.1)</td><td>0.06</td><td>0.90 (0.35-2.32)</td><td>0.82</td><td>0.68 (0.24-1.91)</td><td>0.46</td></tr></table></body></html>
+
+Abbreviations: ${\mathsf{Cl}}=$ confidence interval; $\textstyle{\left|\mathsf{T}\mathsf{T}=\right.}$ intention-to-treat. Percent is the proportion of patients with an outcome. Percent per year is the rate per 100 patient-years of follow-up. Hazard ratios $(95\%$ CIs) are from the stratified Cox proportional hazards regression models. $p$ Values are from the stratified log-rank tests.  
+
+Aspirin therapy has been estimated to increase the risk of SDHs between $24\%^{1}$ and $60\%$ .8 Depending on the patient population, the absolute incidence varies but is low $(0.02\substack{-2}/1,000$ patient-years) during treatment with aspirin.1,8 Within the limitation of small numbers $\left(\mathrm{n}=42\right..$ ), the COMPASS trial data and meta-analysis suggest that treatment with oral factor $\mathrm{Xa}$ inhibitors does not substantially increase the risk of SDH. Additional limitations include the pooling of different factor Xa inhibitors tested in different dosages and dosing regimens in our metaanalysis. A higher risk of SDH with increasing age and the presence of comorbidities such as prior stroke is in line with previous reports. The association seen with Asian–  
+
+Pacific regions, low body weight, and cholesterol have not been reported previously. Our SDH-related mortality rate is lower than that reported previously $7\%$ vs $13\%-24\%$ ).1,2 The exclusion of 2 reported SDH cases due to the lack of supporting documentation could have played a role. Inclusion of these cases would have increased the mortality rate to $13\%$ , similar to prior literature. A low threshold for imaging at some centers in Asia could have led to the detection of milder SDH cases and the underestimation of mortality rates. Large randomized controlled trials looking specifically at SDH incidence in patients on different doses of anti Xa inhibitors vs aspirin are needed to clarify the nature of these associations and determine accurate incidence and mortality rates.  
+
+Although limited by small numbers and different dosages of different oral factor Xa inhibitors, the available evidence supports that the incidence of SDHs during treatment with oral factor $\mathrm{Xa}$ inhibitor is low and appears comparable to that seen with aspirin therapy. These results are reassuring regarding the relative safety of factor Xa inhibitors in older patients regarding this important type of intracranial  
+
+Figure 3 Meta-analysis of randomized trials comparing factor Xa inhibitors with aspirin   
+
+
+<html><body><table><tr><td></td><td colspan="3">FactorXainhibitor Aspirin</td><td colspan="3">Oddsratio</td><td colspan="3">Oddsratio</td></tr><tr><td>Studyorsubgroup</td><td>Events</td><td>TotalEvents</td><td></td><td></td><td></td><td>TotalWeight(%)M-H,random,95%CI Year</td><td></td><td>M-H,random,95%Cl</td></tr><tr><td>AVERROES</td><td>4</td><td>2,808</td><td>2</td><td>2,791</td><td>13.5</td><td>1.99 (0.36,10.87) 2011</td><td></td><td></td></tr><tr><td>EINSTEINCHOICE</td><td>2</td><td>2,234</td><td>1</td><td>1,131</td><td>1.01(0.09,11.18)</td><td>2017</td><td></td><td></td></tr><tr><td>COMPASS</td><td>17</td><td>18,269</td><td>11</td><td>9,126</td><td>67.6</td><td>0.77(0.36,1.65) 2017</td><td></td><td></td></tr><tr><td>NAVIGATEESUS</td><td>3</td><td>3,609</td><td>2</td><td>3,604</td><td>12.2</td><td>1.50(0.25,8.97) 2018</td><td></td><td></td></tr><tr><td>Total(95%CI)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Totalevents</td><td>26</td><td>26,920</td><td>16</td><td>16,652 100.0</td><td>0.97 (0.52,1.81)</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="7">Heter0geneity:Tau²=0.00;Chi2=1.27,df=3(p=0.74);12=0% Testforoveralleffect:Z=0.10(p=0.92）</td><td>1.00</td><td>10.00 100.00</td></tr></table></body></html>
+
+AVERROES $=$ Apixaban versus Acetylsalicylic Acid to Prevent Stroke in Atrial Fibrillation Patients Who Have Failed or Are Unsuitable for Vitamin K Antagonist Treatment; ${\mathsf{Cl}}=$ confidence interval; COMPASS $=$ Cardiovascular Outcomes for People Using Anticoagulation Strategies; $\mathsf{M}\boldsymbol{-}\mathsf{H}=$ Mantel-Haenszel.  
+
+Table 3 Randomized trials comparing factor Xa inhibitors with aspirin reporting subdural hematomas (SDHs)   
+
+
+<html><body><table><tr><td colspan="6"></td><td rowspan="2">Median follow-up, mo</td><td colspan="2">No.ofSDH/ total no.ofICH</td><td rowspan="2">Annualizedrates</td><td rowspan="2">Hazard ratio ofSDHs onFXal (95% CI)</td></tr><tr><td>Trial</td><td>No.</td><td>Population</td><td>Antithromboticinterventions</td><td>Mean age,y</td><td>Male, %</td><td>FXal</td><td>ASA</td></tr><tr><td>NAVIGATE ESUS</td><td>7,213</td><td>Recent cryptogenic ischemic stroke</td><td>Rivaroxaban15 mg dailyvs aspirin 100 mg daily</td><td>67</td><td>62</td><td>11</td><td>3/20</td><td>2/5</td><td>0.06</td><td>1.51 (0.25-9.02)</td></tr><tr><td>AVERROES</td><td>5,599</td><td>Atrialfibrillationpatients athighriskforstroke</td><td>Apixaban 5 mg (dose adjusted to 2.5 mg) twice daily vs aspirin (81-324 mg) daily</td><td>70</td><td>58</td><td>13</td><td>4/11</td><td>2/13 0.1</td><td></td><td></td></tr><tr><td>EINSTEIN CHOICE</td><td>3,365</td><td>Venous thromboembolism</td><td>Rivaroxaban(10 or 20 mg)daily vs100 mg aspirin daily</td><td>58.5</td><td>55</td><td>12</td><td>1/2 1/3b</td><td>1/2</td><td>0.1</td><td></td></tr><tr><td>COMPASS</td><td>27,395</td><td>Stableatherosclerotic vasculardisease</td><td>Rivaroxaban 5 mg twice daily, rivaroxaban 2.5 mg twice daily plus aspirin 100 mg daily, aspirin 100 mg daily</td><td>68.2</td><td>78</td><td>23</td><td>7/43 10/28a</td><td>11/24</td><td>0.04-0.06a</td><td>0.64 (0.25-1.65) to 0.91 (0.38-3.12)a</td></tr><tr><td>Aggregate</td><td>43,572</td><td></td><td>Aspirin:16,652 Apixaban:2,808 Rivaroxabanonly:14,960</td><td>66</td><td>63.2</td><td>14.7</td><td>26/107</td><td>16/44</td><td>~0.09</td><td>C</td></tr></table></body></html>
+
+Abbreiations:ASA $=$ acetylalicpicacidARE $=$ ApixabanversusAcetylsalicylicAcidtoPreventStrokeinAtriaFbriltionPatientsWhoHaveFailedorAreUnsuitableforVitaminKAntagonist Treatment ${\mathsf{Cl}}=$ confidence interval;COMPASS $=$ CardiovascularOutmesforPeopleUsingnticoagulationStrateies intracerebralhemorrhageFXa Factor Xa inhibitor. sRiaroxaba lusaspin. cPooled odds ratio 0.97, CI0.52-1.81.  
+
+![](images/9fd3d5662a239e281c37d4dc3d701415c4b4d89a6ba3475b0598a3bf4e6f20d2.jpg)  
+Figure 4 Funnel plot  
+
+OR $=$ odds ratio.  
+
+bleeding and help inform the choice of antithrombotic therapy.  
+
+# Acknowledgment  
+
+The authors thank Ton Lensing and Jeffrey Weitz for providing unpublished data from EINSTEIN CHOICE.  
+
+# Study funding  
+
+Bayer AG.  
+
+# Disclosure  
+
+L. Catanese reports no disclosures relevant to the manuscript. J. Bosch reports receiving research support and research stipend from Bayer AG. J. Eikelboom reports grant support and honoraria from Bayer AG, Boehringer Ingelheim, Bristol-Myers Squibb/Pfizer, Daiichi Sankyo, Janssen, AstraZeneca, Eli Lilly, GlaxoSmithKline, and Sanofi-Aventis. O. Shestakovska, K. ${\mathrm{Ng}},$ and S. Nayar report no disclosures relevant to the manuscript. K. Perera reports receiving research support from Bayer AG (donation of study medication). A. Shoamanesh reports honoraria from Bayer AG, Bristol-Myers Squibb, Servier Canada Inc., and Daiichi Sankyo and research support from Bayer AG, BristolMyers Squibb, and Servier Canada Inc. M. Sharma reports advisory board fees and a research stipend from Bayer AG. R.G. Hart reports advisory board fees and a research stipend from Bayer AG. Go to Neurology.org/N for full disclosures.  
+
+<html><body><table><tr><td colspan="3">Appendix Authors</td></tr><tr><td>Name</td><td>Location</td><td>Contribution</td></tr><tr><td>Luciana Catanese,MD</td><td>Population Health ResearchInstitute, Hamilton,Canada</td><td>Study conception and design, acquisition of data, draftedmanuscript</td></tr><tr><td>John W. Eikelboom, MB, BS</td><td>Population Health ResearchInstitute, Hamilton, Canada</td><td>Study conception and design manuscript editing, critical revisions</td></tr><tr><td>JackieBosch, PhD</td><td>Population Health Research Institute, Hamilton,Canada</td><td>Manuscript editing, critical revisions</td></tr><tr><td>Olga Shestakovska, MSc</td><td>Population Health ResearchInstitute, Hamilton, Canada</td><td>Analysis and interpretation of data</td></tr><tr><td>KelvinNg,MD</td><td>Population Health Research Institute, Hamilton, Canada</td><td>Manuscript editing</td></tr><tr><td>Sumiti Nayar, MD</td><td>Hamilton Health Sciences, Hamilton, Canada</td><td>Manuscript editing</td></tr><tr><td>Kanjana S. Perera, MD, FRCPC</td><td>Population Health ResearchInstitute, Hamilton,Canada</td><td>Manuscript editing</td></tr><tr><td>Ashkan Shoamanesh, MD</td><td>Population Health Research Institute, Hamilton, Canada</td><td>Manuscript editing</td></tr><tr><td>Mukul Sharma,MD</td><td>Population Health ResearchInstitute, Hamilton,Canada</td><td>Manuscript editing</td></tr></table></body></html>  
+
+<html><body><table><tr><td colspan="3">Appendix (continued)</td></tr><tr><td>Name</td><td>Location</td><td>Contribution</td></tr><tr><td>RobertG.Hart MD</td><td>PopulationHealth ResearchInstitute</td><td>Studyconceptionand design,acquisitionofdata,</td></tr></table></body></html>  
+
+# Publication history  
+
+Received by Neurology June 4, 2019. Accepted in final form January 7, 2020.  
+
+# References  
+
+1. Gaist D, Garcia Rodriguez LA, Hellfritzsch M, et al. Association of antithrombotic drug use with subdural hematoma risk. JAMA 2017;317:836–846.  
+
+2. Hart RG, Diener HC, Yang S, et al. Intracranial hemorrhage in atrial fibrillation patients during anticoagulation with warfarin or dabigatran: the RE-LY trial. Stroke 2012;43:1511–1517.   
+3. Eikelboom JW, Connolly SJ, Bosch J, et al. Rivaroxaban with or without aspirin in stable cardiovascular disease. N Engl J Med 2017;377:1319–1330.   
+4. Shamseer L, Moher D, Clarke M, et al. Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation. BMJ 2015;350:g7647.   
+5. Hart RG, Sharma M, Mundl H, et al. Rivaroxaban for stroke prevention after embolic stroke of undetermined source. N Engl J Med 2018;378:2191–2201.   
+6. Flaker GC, Eikelboom JW, Shestakovska O, et al. Bleeding during treatment with aspirin versus apixaban in patients with atrial fibrillation unsuitable for warfarin: the Apixaban versus Acetylsalicylic Acid to Prevent Stroke in Atrial Fibrillation Patients Who Have Failed or Are Unsuitable for Vitamin K Antagonist Treatment (AVERROES) trial. Stroke 2012;43:3291–3297.   
+7. Weitz JI, Lensing AWA, Prins MH, et al. Rivaroxaban or aspirin for extended treatment of venous thromboembolism. N Engl J Med 2017;376:1211–1222.   
+8. Connolly BJ, Pearce LA, Kurth T, Kase CS, Hart RG. Aspirin therapy and risk of subdural hematoma: meta-analysis of randomized clinical trials. J Stroke Cerebrovasc Dis 2013;22:444–448.   
+9. Hylek EM, Singer DE. Risk factors for intracranial hemorrhage in outpatients taking warfarin. Ann Intern Med 1994;120:897–902.  
+
+# Neurology R  
+
+Oral factor Xa inhibitors and risk of subdural hematoma: COMPASS trial results and meta-analysis Luciana Catanese, John W. Eikelboom, Jackie Bosch, et al. Neurology  published online July 10, 2020 DOI 10.1212/WNL.0000000000009826  
+
+# This information is current as of July 10, 2020  
+
+Updated Information & Services  
+
+including high resolution figures, can be found at: http://n.neurology.org/content/early/2020/07/10/WNL.0000000000009 826.full  
+
+Subspecialty Collections  
+
+This article, along with others on similar topics, appears in the   
+following collection(s):   
+Clinical trials Systematic review/meta analysis   
+http://n.neurology.org/cgi/collection/clinical_trials_systematic_review   
+meta_analysis_   
+Incidence studies   
+http://n.neurology.org/cgi/collection/incidence_studies   
+Intracerebral hemorrhage   
+http://n.neurology.org/cgi/collection/intracerebral_hemorrhage  
+
+# Permissions & Licensing  
+
+Information about reproducing this article in parts (figures,tables) or in its entirety can be found online at: http://www.neurology.org/about/about_the_journal#permissions  
+
+Reprints  
+
+Information about ordering reprints can be found online: http://n.neurology.org/subscribers/advertise  

@@ -1,0 +1,134 @@
+# A Phase III, prospective, double-blind, randomized, placebo-controlled trial of thrombolysis in imaging-eligible, latewindow patients to assess the efficacy and safety of tenecteplase (TIMELESS): Rationale and design  
+
+Gregory W Albers1, Bruce CV Campbell2 , Maarten G Lansberg1 , Joseph Broderick3, Ken Butcher4, Michael T Froehler5, Lee H Schwamm6, Amre M Nouh7, David S Liebeskind8, Florence Toy9, Ming Yang9, Lori Massaro9, Megan Schoeffler9 and Barbara Purdon9  
+
+# Abstract  
+
+Rationale: While thrombolysis is standard of care for patients with acute ischemic stroke (AIS) within $4.5\mathrm{h}$ of symptom onset, the benefit of tenecteplase beyond this time window is less certain.  
+
+Aim: The TIMELESS trial (NCT03785678) aims to determine if treatment with tenecteplase increases the proportion of good clinical outcomes among patients with stroke due to a large vessel occlusion who present beyond $4.5\mathrm{h}$ after symptom onset.  
+
+Sample size estimates: A total of 456 patients will provide $\geq90\%$ power to detect differences in the distribution of modified Rankin Scale scores at Day 90 at the two-sided 0.049 significance level.  
+
+Methods and design: TIMELESS is a Phase III, double-blind, randomized, placebo-controlled trial of tenecteplase with or without endovascular thrombectomy in patients with AIS and evidence of salvageable tissue via imaging who present within the 4.5- to 24-h time window with an internal carotid artery (ICA) or middle cerebral artery (MCA) (M1/M2) occlusion.  
+
+Study outcomes: The primary efficacy objective of tenecteplase compared with placebo will be evaluated with ordinal modified Rankin Scale scores at Day 90. Safety will be evaluated via incidence of symptomatic intracranial hemorrhage, incidence and severity of adverse events, and mortality rate.  
+
+Discussion: Results from TIMELESS will contribute to understanding of the safety and efficacy of tenecteplase administered 4.5–24 h following symptom onset for patients with an ICA or MCA occlusion.  
+
+# Keywords  
+
+Acute ischemic stroke, protocols, tenecteplase, thrombolysis, TIMELESS  
+
+Received: 19 November 2021; accepted: 3 February 2022  
+
+![](images/d6a9251b8ba72f237dd2ef1e2224cd373af182e3f345f16d887eb0e6ea0e46a8.jpg)  
+Figure 1.  Study design.   
+CT: computed tomography; ICA: internal carotid artery; max: maximum; MCA: middle cerebral artery; MRI: magnetic resonance imaging; R: randomization.  
+
+# Introduction and rationale  
+
+Intravenous (IV) thrombolysis with alteplase is the standard of care prior to thrombectomy for eligible patients within $4.5\mathrm{h}$ of acute ischemic stroke (AIS) onset.1 While previous thrombolysis studies indicated that treatment benefit is strongly dependent on time to reperfusion,2,3 a meta-analysis of the EXTEND, ECASS-4:ExTEND, and EPITHET trials indicated a potential benefit of IV alteplase administered during the 4.5- to 9-h time window in selected patients with perfusion imaging evidence of salvageable tissue.4  
+
+Tenecteplase is a modified form of human tissue plasminogen activator that was approved in 2000 for the treatment of acute myocardial infarction.5 Phase II studies indicated a potential benefit of tenecteplase for the treatment of AIS,6–8 and a proof of concept study demonstrated feasibility of treatment up to $^{241}$ after onset.9 The most recent American Heart Association/American Stroke Association (AHA/ ASA) AIS guidelines recognized tenecteplase as a reasonable alternative to alteplase in limited patient populations.10  
+
+This trial will evaluate whether treatment with IV tenecteplase, administered $4.5{-}24\mathrm{h}$ after a patient’s last-known well time with or without endovascular thrombectomy (EVT), is superior to placebo in patients who have a large vessel occlusion (LVO) and evidence of salvageable tissue on their baseline computed tomography (CT) perfusion or magnetic resonance perfusion imaging.  
+
+# Methods  
+
+# Design  
+
+TIMELESS (NCT03785678) is a Phase III, double-blind, randomized, placebo-controlled trial of tenecteplase with or without EVT in patients with AIS and evidence of salvageable tissue on baseline CT perfusion or magnetic resonance perfusion who present $4.5{-}24\mathrm{h}$ after onset, with an internal carotid artery (ICA) or middle cerebral artery (MCA) (M1/M2) occlusion (Figure 1). The protocol was amended to limit the enrollment of patients with ICA occlusions to $\leqslant15\%$ of the target population. Patients undergo multimodal CT/magnetic resonance imaging prior to randomization. Patients with an anterior circulation LVO and penumbral tissue are eligible. All patients receive standardof-care therapy according to the AHA/ASA clinical guidelines (2018). Study drug administration is recommended to occur prior to the start of EVT. TIMELESS is conducted in accordance with the World Medical Association Declaration of Helsinki and received approval from Ethics Committees and Institutional Review Boards (IRBs) at all participating institutions (WIRB-Copernicus Group IRB Tracking Number: 20182851). Written, informed consent for participation is obtained from all patients/legally acceptable representative before any study-related procedures are performed.  
+
+# Patient population—inclusion and exclusion criteria  
+
+Patients with AIS are enrolled at approximately 90 sites, primarily in the United States and Canada. Key inclusion and exclusion criteria are presented in Table 1. All eligible patients have penumbral patterns, defined as an estimated ischemic core volume ${<}70\mathrm{mL}$ , a mismatch ratio $\geqslant1.8$ , and a mismatch volume $\geq15\mathrm{mL}$ .  
+
+# Randomization  
+
+Patients are randomized 1:1 using a permuted block design to receive tenecteplase or placebo, stratified by age ( $\leqslant70$ vs $>70$ years), occlusion site (ICA/M1 vs M2), baseline National Institutes of Health Stroke Scale score $(\leqslant15$ vs ${>}15 $ ), and randomization site (endovascular capable vs not). Study site personnel, patients, and sponsor are blinded to treatment assignment (except for individuals who require access to fulfill their roles).  
+
+Table 1.  Simplified inclusion/exclusion criteria.   
+
+
+<html><body><table><tr><td>Inclusioncriteria</td><td colspan="2">Exclusioncriteria</td></tr><tr><td>Signed informed consent Age ≥18years</td><td></td><td>Active internal bleeding</td></tr><tr><td></td><td>Acute ischemic stroke symptom onset within 4.5-24 h</td><td>Hereditary/acquired hemorrhagic diathesis,coagulation factor deficiency</td></tr><tr><td></td><td>mRS0-2priortostroke</td><td>Thrombolytic use in the last 3 months</td></tr><tr><td></td><td>BaselineNlHSSscore≥5</td><td>Seizuresatstrokeonsetifitprecludesabilitytoobtainan</td></tr><tr><td></td><td>Internal carotid artery, Ml or M2 middle cerebral artery</td><td>accuratebaseline NiHSS</td></tr><tr><td></td><td>occlusion on MR/CT angiography Target mismatch profilea on CT perfusion or MR perfusion imaging</td><td>Pre-existing medical, neurological, or psychiatric disease Severe,uncontrolled hypertension Unable to undergo a contrast brain perfusion scan with</td></tr></table></body></html>  
+
+CT: computed tomography; NIHSS: National Institutes of Health Stroke Scale; MR: magnetic resonance; mRS: modified Rankin Scale.   
+aTarget mismatch profile is an estimated ischemic core volume ${\lesssim}70\mathsf{mL}$ , a mismatch ratio $\geq1.8.$ , and a mismatch volume $\geq15\mathrm{mL}$ . ECC: endovascular capable center; mRS: modified Rankin Scale; nECC: non-endovascular capable center; NIH: National Institutes of Health.   
+\*Defined as $>90\%$ reduction in time-to-maximum ${>}6s$ lesion volume.   
+†Defined as complete recanalization on computed tomography angiography/magnetic resonance angiography.  
+
+![](images/8e14e0e632bbf024d0423ac0a6e62fec4c9c3bb718b87e9253f50511936015ef.jpg)  
+Figure 2.  Additional study endpoints.  
+
+# Intervention  
+
+Patients receive a bolus dose of tenecteplase $0.25\mathrm{mg/kg\mathrm{IV}}$ (maximum, $25\mathrm{mg}$ ) or placebo administered over $5\mathrm{s}$ .  
+
+# Primary outcome  
+
+The primary endpoint is the ordinal modified Rankin Scale (mRS) score at Day 90.  
+
+# Secondary outcomes  
+
+Secondary, exploratory, and safety endpoints are described in Figure 2. A pre-specified subgroup analysis is the effect of tenecteplase in patients with ICA/M1 versus M2 occlusions. The key safety endpoints include the incidence of symptomatic intracranial hemorrhage within $_{36\mathrm{h}}$ , the proportion of patients with parenchymal hematoma, and mortality rates at Day 30 and Day 90.  
+
+# Data monitoring body  
+
+An independent data monitoring committee is assembled, consisting of members external to the sponsor, to monitor patient safety, treatment efficacy, and study conduct over regular intervals and determine if early termination or amendments are needed.  
+
+Table 2.  Distribution of 90-day modified Rankin Scale (mRS) used for sample size determination.   
+
+
+<html><body><table><tr><td>mRS 0 2 3 4 5 6</td></tr><tr><td>Protocolassumeddistributionofpatients (%)</td></tr><tr><td>Tenecteplase 17 20 16 15 13 7 12</td></tr><tr><td>Placebo 13 13 12 14 18 12 18</td></tr></table></body></html>  
+
+# Sample size estimates  
+
+Assuming the distribution of mRS scores at Day 90 shown in Table 2 that corresponds to a common odds ratio of approximately 1.76 and a $5\%$ dropout rate, approximately 228 patients per treatment group will provide $\geq90\%$ power to detect the specified difference in mRS outcome at the two-sided 0.049 significance level (after adjustment for one interim efficacy analysis at half of the target sample size).  
+
+# Statistical analyses  
+
+Analyses of efficacy endpoints are based on the intentionto-treat population and will be for superiority and adjusted for randomization factors (see section “Randomization”) and initial EVT decision, as appropriate. The primary endpoint will be assessed as the distribution of mRS scores at Day 90 in the two treatment groups using a proportional odds model with appropriate adjustment. For binary secondary efficacy endpoints, treatment groups will be compared using logistic regression models with appropriate adjustment. Safety analyses will be conducted in the safety population—all randomized patients who provided informed consent and received any amount of study drug. Two safety interim analyses are planned when the first 25 and 50 patients have completed the 72- to 96-h visit assessments. One efficacy interim analysis will be conducted when approximately $50\%$ of the total patients have completed the 90-day follow-up assessment.  
+
+# Discussion  
+
+While EVT is the standard of care for patients with anterior circulation LVOs, outcomes may be improved by pretreatment with an effective thrombolytic in appropriately selected patients. This therapeutic approach may be particularly effective in patients with more distal (M2) occlusions and in those for whom time to EVT is delayed. While other trials have evaluated thrombolysis with tenecteplase within $4.5\mathrm{h}$ of symptom onset (EXTEND-IA TNK6,11) and within $4.5\mathrm{h}$ of waking up with ischemic stroke (TWIST12), TIMELESS is the first Phase III trial to assess the safety and efficacy of pre-EVT tenecteplase in late-window patients with AIS, contributing to the understanding of the role of IV tenecteplase in the treatment of these patients. Due to previous results showing minimal benefit of thrombolytics for patients who presented beyond $4.5\mathrm{h}$ after onset,3 patients in the late-window thrombectomy trials (DAWN13 and DEFUSE $3^{14}$ ) did not receive IV thrombolytics.  
+
+# Summary and conclusion  
+
+In summary, TIMELESS will contribute to the understanding of the role of IV tenecteplase in the treatment of patients with AIS who present in the 4.5- to 24-h time window with LVOs and a salvageable brain pattern selected with advanced imaging technology.  
+
+# Acknowledgments  
+
+The authors thank the patients and their families who participated in this study. This manuscript was sponsored by F. Hoffmann-La Roche Ltd. and Genentech, Inc. Support for thirdparty writing assistance, furnished by Jessica Swanner, PhD, of Health Interactions, Inc., was provided by F. Hoffmann-La Roche Ltd.  
+
+# Declaration of conflicting interests  
+
+The author(s) declared the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: D.S.L.: consultant: CERENOVUS, Genentech, Inc., Medtronic, Stryker, Rapid Medical. G.W.A.: consultant: Genentech, Inc., iSchemaView; equity: iSchemaView. A.M.N.: consultant/ equity: Openwater; speakers’ bureau: Genentech, Inc. F.T., M.Y., L.M., M.S., and B.P.: Genentech, Inc. employees; J.B.: Department of Neurology and Rehabilitation Medicine receives monies for participation in the Executive Committee for TIMELESS. L.H.S.: scientific consultant regarding trial design and conduct to Genentech, Inc. for late-window thrombolysis and as a Member of the steering committee (TIMELESS NCT03785678); consultant on user interface design and usability to Life Image; as a stroke systems of care consultant to the Massachusetts Department of Public Health; as a member of a Data Safety Monitoring Boards (DSMB) for Penumbra (MIND NCT03342664) and for Diffusion Pharma (PHAST-TSC NCT03763929); as National PI for stroke prevention in AF for Medtronic (Stroke AF NCT02700945); as Site PI, StrokeNet Network NINDS (New England Regional Coordinating Center U24NS107243); and as a CME lecturer on stroke systems of care and improving time to thrombolysis for PRIME® Education and Boehringer Ingelheim. M.G.L.: received funding from Genentech, Inc., Biogen, and Novo Nordisk for consulting and from UpToDate for contributing as an author. M.T.F.: consultant to Genentech, Inc., Balt USA, CERENOVUS, an advisor to Viz.ai, and receives research funding from Genentech, Inc. Stryker, and Vesalio. K.B. and B.C.V.C.: these authors declare that there is no conflict of interest.  
+
+# Funding  
+
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This study is sponsored by Genentech, Inc.  
+
+# ORCID iDs  
+
+Bruce CV Campbell https://orcid.org/0000-0003-3632-9433   
+Maarten G Lansberg https://orcid.org/0000-0002-3545-6927   
+Barbara Purdon https://orcid.org/0000-0002-6192-0244  
+
+# References  
+
+1.	 American Heart Association. Target: stroke phase III, May 2019.   
+2.	 Saver JL, Goyal M, van der Lugt A, et al. Time to treatment with endovascular thrombectomy and outcomes from ischemic stroke: a meta-analysis. JAMA 2016; 316: 1279–1288.   
+3.	 Emberson J, Lees KR, Lyden P, et  al. Effect of treatment delay, age, and stroke severity on the effects of intravenous thrombolysis with alteplase for acute ischaemic stroke: a meta-analysis of individual patient data from randomised trials. Lancet 2014; 384: 1929–1935.   
+4.	 Campbell BCV, Ma H, Ringleb PA, et al. Extending thrombolysis to 4.5–9 h and wake-up stroke using perfusion imaging: a systematic review and meta-analysis of individual patient data. Lancet 2019; 394: 139–147.   
+5.	 TNKase. Tenecteplase (package insert). South San Francisco, CA: Genentech, Inc., 2017.   
+6.	 Campbell BCV, Mitchell PJ, Churilov L, et al. Tenecteplase versus alteplase before thrombectomy for ischemic stroke. N Engl J Med 2018; 378: 1573–1582.   
+7.	 Parsons M, Spratt N, Bivard A, et  al. A randomized trial of tenecteplase versus alteplase for acute ischemic stroke. N Engl J Med 2012; 366: 1099–1107.   
+8. Huang X, Cheripelli BK, Lloyd SM, et al. Alteplase versus tenecteplase for thrombolysis after ischaemic stroke (ATTEST): a phase 2, randomised, open-label, blinded endpoint study. Lancet Neurol 2015; 14: 368–376.   
+9.	 Kate M, Wannamaker R, Kamble H, et  al. Penumbral imaging-based thrombolysis with tenecteplase is feasible up to 24 hours after symptom onset. J Stroke 2018; 20: 122–130.   
+10. Powers WJ, Rabinstein AA, Ackerson T, et al. 2018 guidelines for the early management of patients with acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke 2018; 49: e46–e110.   
+11. Campbell BCV, Mitchell PJ, Churilov L, et al. Effect of intravenous tenecteplase dose on cerebral reperfusion before thrombectomy in patients with large vessel occlusion ischemic stroke: the EXTEND-IA TNK part 2 randomized clinical trial. JAMA 2020; 323: 1257–1265.   
+12. Roaldsen MB, Lindekleiv H, Eltoft A, et al. Tenecteplase in wake-up ischemic stroke trial: protocol for a randomized-controlled trial. Int J Stroke 2021; 16: 990–994.   
+13. Nogueira RG, Jadhav AP, Haussen DC, et al. Thrombectomy 6 to 24 hours after stroke with a mismatch between deficit and infarct. N Engl J Med 2018; 378: 11–21.   
+14. Albers GW, Marks MP, Kemp S, et al. Thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging. $N$ Engl J Med 2018; 378: 708–718.  

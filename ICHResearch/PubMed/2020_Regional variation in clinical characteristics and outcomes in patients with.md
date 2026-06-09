@@ -1,0 +1,178 @@
+# Regional variation in clinical characteristics and outcomes in patients with atrial fibrillation: Findings from the ARISTOTLE trial  
+
+M. Cecilia Bahit a, Christopher B. Granger b, John H. Alexander b, Hillary Mulder b, Daniel M. Wojdyla b, Michael Hanna c,1, Shinya Goto d, Denis Xavier e, Freek W.A. Verheugt f, Fernando Lanas g, Ziad Hijazi h, Lars Wallentin h, Renato D. Lopes b,⁎  
+
+a INECO Neurociencias Oroño, Rosario, Santa Fe, Argentina   
+b Duke Clinical Research Institute, Durham, NC, United States of America   
+c Bristol-Myers Squibb, Princeton, NJ, United States of America   
+d Tokai University School of Medicine, Isehara, Japan   
+e St. John's Medical College, Bangalore, India   
+f Department of Cardiology, Onze Lieve Vrouwe Gasthuis (OLVG), Amsterdam, Netherlands   
+g Universidad de la Frontera, Temuco, Chile   
+h Uppsala Clinical Research Center, Uppsala University, Uppsala, Sweden  
+
+# articleinfo  
+
+Article history:   
+Received 12 September 2019   
+Received in revised form 5 December 2019   
+Accepted 29 December 2019   
+Available online 30 December 2019  
+
+Keywords:   
+Region   
+Clinical outcomes   
+Atrial fibrillation   
+Apixaban   
+Warfarin  
+
+# abstract  
+
+Background: Variation in patient characteristics and practice patterns may influence outcomes at a regional level. Methods: We assessed differences in demographics, practice patterns, outcomes, and the effect of apixaban compared with warfarin in ARISTOTLE $\hphantom{000},n=18{,}201$ ) by prespecified regions: North America, Latin America, Europe, and Asia Pacific. The primary outcomes were stroke/systemic embolism and major bleeding.  
+
+Results: Compared with other regions, patients from Asia Pacific were younger, more women were enrolled in Latin America. Coronary artery disease was more prevalent in Europe and Asia Pacific had the highest rate of prior stroke and renal impairment. Over $50\%$ of patients in North America were taking ${\ge}9$ drugs at randomization, compared with $10\%$ in Latin America. North America had the highest rates of temporary study drug discontinuation and procedures. Time in therapeutic range (INR 2.0–3.0) on warfarin was highest in North America and lowest in Asia Pacific. After adjustment and compared with Europe, patients in Asia Pacific had 2-fold higher risk of stroke/systemic embolism and 3-fold higher risk of intracranial hemorrhage. Patients in Latin America had 2-fold increased risk of all-cause death compared with Europe. The benefits of apixaban compared with warfarin were consistent across regions; there was a pronounced reduction in major bleeding in patients from Asia Pacific compared with other regions (p-interaction $=0.03$ ).  
+
+Conclusions: Patients with AF enrolled in prespecified regions in ARISTOTLE had differences in clinical baseline characteristics and practice patterns. After adjustment, patients in Asia Pacific and Latin America had worse outcomes than patients from other regions. The relative benefits of apixaban compared with warfarin were consistent across regions with an even greater treatment effect in the reduction of bleeding in patients from Asia Pacific. $\circledcirc$ 2018 Published by Elsevier B.V.  
+
+# 1. Introduction  
+
+Atrial fibrillation (AF) is the most common sustained arrhythmia in the world and is associated with an increased risk of stroke and mortality [1]. There is evidence of progressive increases in overall burden, incidence, prevalence, and AF-associated mortality, with significant public health implications [2]. Significant variations in clinical characteristics and patterns of care in different regions of the world have been described. Since differences in patient characteristics and clinical management may influence outcomes at a regional level, we decided to assess the regional variation in the international multicenter ARISTOTLE trial [3,4], which included 18,201 patients with AF from 37 countries. We aimed to describe differences in demographic, clinical characteristics, and practice patterns by region of the world, categorized as North America, Latin America, Europe, and Asia Pacific and sought to determine if there were differences in clinical outcomes by region.  
+
+# 2. Methods  
+
+The design and results of the ARISTOTLE trial have been published previously [3,4]. Patients were randomly assigned to receive treatment with either apixaban $5\mathrm{mg}$ twice daily or warfarin (target international normalized ratio 2.0–3.0 [median time in therapeutic range (TTR) of $66\%$ ) for a median of 1.8 years. A reduced dose of apixaban $2.5~\mathrm{mg}$ twice daily was used for patients who met ${\ge}2$ of the following dose-reduction criteria: $\mathsf{age}\geq80$ years, body weight $\leq60~\mathrm{kg},$ , or creatinine ${}21.5\mathrm{mg/dL}.$ Patients were excluded if they had an increased bleeding risk believed to be a contraindication to oral anticoagulation (e.g., documented peptic ulcer disease within 6 months, previous intracranial hemorrhage).  
+
+The study protocol was approved by appropriate ethics committees at participating sites and all patients provided written informed consent.  
+
+Patients were grouped according to country of enrollment in 4 prespecified regions: North America (USA, Canada $[n=4474]$ ); Latin America (Argentina, Brazil, Chile, Colombia, Puerto Rico, Mexico $[n=$ 3468]); Europe (Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Hungary, Israel, Italy, Netherlands, Norway, Poland, Romania, Spain, South Africa, Sweden, Turkey, United Kingdom, Ukraine $[n=7343]$ ); and Asia Pacific (Australia, China, Hong Kong, India, Japan, Korea, Malaysia, Philippines, Singapore, Taiwan $[n=2916]$ ). We describe demographic and baseline clinical characteristics and treatment patterns according to region.  
+
+The median duration of follow-up was 1.8 years. The primary efficacy outcome was stroke or systemic embolism. The primary safety outcome was major bleeding defined according to the International Society on Thrombosis and Haemostasis (ISTH) criteria. Additional outcomes included ischemic or uncertain and hemorrhagic stroke, disabling or fatal stroke, myocardial infarction, cardiovascular death, and death from any cause. Other safety outcomes included major or clinically relevant nonmajor (CRNM) bleeding, intracranial bleeding, any bleeding, transfusion, and transfusion after bleeding (within 1 day). Procedural outcomes included percutaneous coronary intervention, cardioversion, and ablation. All clinical events were adjudicated using pre-specified criteria by a clinical events committee whose members were not aware of treatment assignment.  
+
+Baseline characteristics and study drug patterns are shown for each region. Continuous variables are presented as medians and 25th, 75th percentiles; categorical variables are presented as counts and percentages. P-values compared all 4 groups using the Kruskal-Wallis test or ANOVA for continuous variables and chi-square test for categorical variables. Event rates were computed as the number of events per 100 patient-years of follow-up. Rates of procedural and clinical events were calculated. A Cox proportional hazards model was used to determine the relationship between region and clinical outcomes, using Europe as the reference group. For the clinical outcomes excluding death and myocardial infarction, 2 adjustment models were used—1) ABC bleeding or ABC stroke risk score only, and 2) ABC risk score plus additional adjustment variables typically used [5,6]. Adjustment variables normally included were not in the model if they were part of the risk score or had a similar purpose (i.e., $\mathrm{CHADS}_{2}$ score). The remaining clinical outcomes were adjusted for the standard set of variables. The proportional hazards assumption was checked for region for each outcome using weighted Schoenfeld residuals, and no major violations were found. Hazard ratios with $95\%$ confidence intervals for each region compared with Europe are presented for the unadjusted and adjusted models.  
+
+Finally, a second Cox model for the death and major or CRNM bleeding outcomes was fit with an interaction between region and treatment arm. Hazard ratios with $95\%$ confidence intervals comparing apixaban with warfarin are presented within each region.  
+
+# 3. Results  
+
+Definition of geographical regions and patient enrollment in the ARISTOTLE study are shown in Fig. 1. Baseline characteristics of the 18,201 patients enrolled in ARISTOTLE are presented according to region in Table 1. The most prevalent comorbidities were hypertension (varying from $89.5\%$ in Europe to $80.6\%$ in Asia Pacific) and diabetes (varying from $31.8\%$ in North America to $20.2\%$ in Latin America). The mean $\mathrm{CHADS}_{2}$ score was highest in Europe (2.2) and similar in the rest of the regions (2.1) and the HAS-BLED score was highest (2.2) in North America and lowest in Europe and Asia Pacific (1.6). Use of antiplatelet therapy at baseline varied from $34.3\%$ in North America to $27.3\%$ in Europe. Prior use of a vitamin K antagonist (VKA) was more common in Asia Pacific $(53.5\%)$ and less common in North America $(25.2\%)$ .  
+
+Patients in North America were older (median age 72 [65, 78]) and had the highest prevalence of diabetes $(31.8\%)$ compared with patients from other regions. History of myocardial infarction and coronary artery bypass graft surgery were more prevalent in North America as compared with other regions. Patients in North America had higher use of nonsteroidal anti-inflammatory agents $(17.9\%)$ than those in other regions, almost one-third were on gastric antacid drugs, and $40\%$ were treated with calcium channel blockers. Overall, patients enrolled in North America were more commonly on ${\ge}9$ drugs at baseline. Temporary discontinuation of study drug was highest in North America $(42.4\%)$ and TTR was also highest in North America (median $72\%$ ), as compared with other regions (Suppplemental Table 1).  
+
+Patients in Latin America had a median age of 71 (64, 77), almost $40\%$ were women, and there was a low prevalence of coronary artery disease $(11.5\%)$ . With regard to medications at baseline, patients in Latin America had the highest use of digoxin $(38.9\%)$ and amiodarone $(17.9\%)$ compared with other regions and were less likely to be on ${\ge}9$ drugs.  
+
+Patients enrolled in Europe had a median age of 69 (62, 75) years. European patients had the highest prevalence of tobacco use $(9.9\%)$ , coronary artery disease $(43.3\%)$ , and history of heart failure within 3 months $(42.9\%)$ compared with patients in other regions.  
+
+Patients enrolled in Asia Pacific were younger (68 [61,75] years) and had a lower median body mass index $(25\mathrm{~kg}/\mathrm{m}^{2})$ ) than those enrolled in other regions, and more than half had taken a VKA in the previous 30 days. History of stroke $(17.9\%)$ , moderate–severe chronic kidney disease $(25.4\%)$ , and alcohol use ( $\ge3$ drinks) $(4.1\%)$ were all higher in patients enrolled in Asia Pacific as compared with other regions. At baseline, $38.1\%$ of patients in Asia Pacific were on digoxin, $40\%$ were taking calcium channel blockers, and aspirin use was similar to other regions $(\sim30\%)$ . Patients in the Asia Pacific region had the lowest temporary discontinuation of study drug $(16.6\%)$ and the lowest TTR (median 60) compared with patients from other regions (Supplemental Table 1).  
+
+Patients enrolled in North America, as compared with Europe, had the highest rates of procedures, including percutaneous coronary intervention $(1.41\%\lor5.1.03\%)$ , cardioversion ( $3.08\%$ vs. $1.71\%$ ), and ablation ( $1.07\%$ vs. $0.52\%$ ). North America had the highest rate of blood transfusion $(1.89\%)$ and Europe had the lowest $(0.72\%)$ compared with other regions.  
+
+Adjusted for ABC risk scores and additional factors and compared with Europe, patients in Asia Pacific had a 2-fold higher risk of stroke and systemic emboli, 3-fold higher risk of intracranial hemorrhage, and a higher risk of major bleeding (Figs. 2 & 3). Patients in Latin America had 2-fold increased risk of all-cause death compared with Europe (Figs. 2 & 3).  
+
+Since the biomarker-adjusted analysis did not include all patients, the analyses were repeated using the entire dataset with only clinical variables as a sensitivity analysis; these results were not substantially different than the primary analyses (Supplemental Table 2).  
+
+The treatment effect of apixaban was consistent across regions for stroke and systemic embolism and for death, with no statistically  
+
+# Patient Counts by Region/Country  
+
+North America Canada 1057 USA3417  
+
+Latin America   
+Argentina 1561   
+Brazil700   
+Chile 258   
+Colombia 111   
+Mexico609   
+Peru 213   
+Puerto Rico 16   
+Asia/Pacific   
+Australia322   
+China 843   
+Hong Kong 76   
+India 601   
+Japan 336   
+Korea 310   
+Malaysia 126   
+Philippines 205   
+Singapore 40   
+Taiwan 57  
+
+![](images/d5e22b1845ea366aeea806187b142d6cacfcb71101dbe81400b8e283efe49997.jpg)  
+Fig. 1. Definition of geographical regions and country participation in ARISTOTLE.  
+
+significant interaction with region identified. For ISTH major or CRNM bleeding, there was a marginally significant interaction $p=0.03,$ between region and the effect of apixaban compared with warfarin.  
+
+While apixaban compared with warfarin reduced bleeding in all regions, there was a larger reduction in bleeding with apixaban in the Asia Pacific region.  
+
+Table 1 Baseline characteristics according to region.   
+
+
+<html><body><table><tr><td>General characteristics</td><td>North America (n = 4474)</td><td>Latin America (n =3468)</td><td>Europe (n = 7343)</td><td>Asia Pacific (n = 2916)</td><td>P-value</td></tr><tr><td>Age,median (25th, 75th), yrs</td><td>72 (65,78)</td><td>71 (64, 77)</td><td>69 (62, 75)</td><td>68 (61,75)</td><td><0.001</td></tr><tr><td>Female sex, no. (%)</td><td>1389 (31.0%)</td><td>1337 (38.6%)</td><td>2633 (35.9%)</td><td>1057 (36.2%)</td><td><0.001</td></tr><tr><td>BMI, median (25th,75th),kg/m2</td><td>30 (26,35)</td><td>29 (25, 32)</td><td>29 (26, 33)</td><td>25 (22, 28)</td><td><0.001</td></tr><tr><td>Prior VKA use (>30 days), no. (%)</td><td>1127 (25.2%)</td><td>1589 (45.8%)</td><td>3524 (48.0%)</td><td>1560 (53.5%)</td><td><0.001</td></tr><tr><td>Cardiovascular comorbidities,no.(%)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CAD</td><td>1722 (38.5%)</td><td>399 (11.5%)</td><td>3176 (43.3%)</td><td>745 (25.6%)</td><td><0.001</td></tr><tr><td>MI</td><td>808 (18.1%)</td><td>341 (9.8%)</td><td>1189 (16.2%)</td><td>247 (8.5%)</td><td><0.001</td></tr><tr><td>HF within3months</td><td>1098 (24.5%)</td><td>1328 (38.3%)</td><td>3147 (42.9%)</td><td>878 (30.1%)</td><td><0.001</td></tr><tr><td>Moderate/Severevalvular disease</td><td>1189 (26.6%)</td><td>405 (11.7%)</td><td>1249 (17.0%)</td><td>391 (13.4%)</td><td><0.001</td></tr><tr><td>Hypertensionrequiringtreatment</td><td>3909 (87.4%)</td><td>3089 (89.1%)</td><td>6569 (89.5%)</td><td>2349 (80.6%)</td><td><0.001</td></tr><tr><td>Type of AF, no. (%)</td><td>3705 (82.8%)</td><td></td><td></td><td>2609 (89.5%)</td><td><0.001</td></tr><tr><td>Persistent or permanent Paroxysmal</td><td>768 (17.2%)</td><td>3171 (91.5%)</td><td>5927 (80.7%) 1415 (19.3%)</td><td>307 (10.5%)</td><td></td></tr><tr><td></td><td></td><td>296 (8.5%)</td><td></td><td></td><td></td></tr><tr><td>Neurological/Cerebrovascular comorbidities,no.(%)</td><td>290 (6.5%)</td><td>125 (3.6%)</td><td></td><td></td><td></td></tr><tr><td>Previous TIA</td><td></td><td></td><td>367 (5.0%)</td><td>172 (5.9%)</td><td><0.001</td></tr><tr><td>Prior stroke Dementia</td><td>361 (8.1%)</td><td>354 (10.2%)</td><td>889 (12.1%)</td><td>523 (17.9%)</td><td><0.001</td></tr><tr><td></td><td>39 (0.9%)</td><td>9 (0.3%)</td><td>33 (0.5%)</td><td>15 (0.5%)</td><td>0.007</td></tr><tr><td>Renal function (CrCl), no. (%)</td><td></td><td></td><td></td><td></td><td><0.001</td></tr><tr><td>Moderate impairment (>30-50 mL/min)</td><td>685 (15.4%)</td><td>621 (18.0%)</td><td>799 (10.9%)</td><td>642 (22.1%)</td><td></td></tr><tr><td>Severe impairment (≤30 mL/min)</td><td>69 (1.5%)</td><td>64 (1.9%)</td><td>71 (1.0%)</td><td>66 (2.3%)</td><td></td></tr><tr><td>CHADS2, mean (SD)</td><td>2.1 (1.1)</td><td>2.1 (1.1)</td><td>2.2 (1.1)</td><td>2.1 (1.2)</td><td><0.001</td></tr><tr><td>CHADS2 score, no.(%)</td><td></td><td></td><td></td><td></td><td><0.001</td></tr><tr><td>≤1 2</td><td>1542 (34.5%)</td><td>1183 (34.1%)</td><td>2309 (31.4%)</td><td>1149 (39.4%)</td><td></td></tr><tr><td></td><td>1672 (37.4%)</td><td>1289 (37.2%)</td><td>2710 (36.9%)</td><td>845 (29.0%)</td><td></td></tr><tr><td>≥3</td><td>1260 (28.2%)</td><td>996 (28.7%)</td><td>2324 (31.6%)</td><td>922 (31.6%)</td><td></td></tr><tr><td>Medications at randomization, no. (%)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Amiodarone</td><td>291 (6.6%)</td><td>614 (17.9%)</td><td>875 (12.1%)</td><td></td><td><0.001</td></tr><tr><td>Beta-blocker</td><td>2980 (67.3%)</td><td>1922 (56.2%)</td><td>5059 (70.1%)</td><td>1521 (53.5%)</td><td><0.001</td></tr><tr><td>Aspirin</td><td>1534 (34.3%)</td><td>1145 (33.0%)</td><td>2005 (27.3%)</td><td>948 (32.5%)</td><td><0.001</td></tr><tr><td>Clopidogrel</td><td>107 (2.4%)</td><td>12 (0.3%)</td><td>85 (1.2%)</td><td>134 (4.6%)</td><td><0.001</td></tr><tr><td>Digoxin</td><td>1201 (27.1%)</td><td>1331 (38.9%)</td><td>2214 (30.7%)</td><td>1082 (38.1%)</td><td><0.001</td></tr><tr><td>Drug distribution, no. (%)</td><td></td><td></td><td></td><td></td><td><0.001</td></tr><tr><td>9+ drugs</td><td>2385 (53.3%)</td><td>353 (10.2%)</td><td>1404 (19.1%)</td><td>614 (21.1%)</td><td></td></tr></table></body></html>
+
+AF indicates atrial fibrillation; BMI, body mass index; CAD, coronary artery disease; CrCl, creatinine clearance; HF, heart failure; MI, myocardial infarction; SD, standard deviation; TIA, transient ischemic attack; VKA, vitamin K antagonist. Data were collected via case report form at baseline and defined based on physician discretion.  
+
+![](images/3da8a335f7c00afeb18aafbaea3368f0f3a2de69841927eeb8d0752e300ced0b.jpg)  
+Fig. 2. Association between region and efficacy and safety outcomes, with Europe as the reference, adjusted for ABC scores.  
+
+# 4. Discussion  
+
+We found that patients from the ARISTOTLE trial differed according to major world regions with respect to baseline characteristics and practice patterns, and that even after adjustment for clinical factors and biomarkers, patients from the Asia Pacific region and Latin America had worse outcomes. Interestingly, for safety outcomes including intracranial hemorrhage, patients from Asia Pacific as compared with those from other regions seemed to benefit most from apixaban compared with warfarin.  
+
+Region is a particularly challenging way to categorize patients since there are many different ways of defining a region which may yield different strengths of evidence for geographic heterogeneity [7]. We assessed geographic categories with the aim of having enough patients in each region to have narrow confidence intervals around estimates as well as similar patterns of care in grouped countries [8]. In ARISTOTLE, our predefined major geographic subgroups were those used for this analysis. Other studies suggest identification of intrinsic (patient baseline characteristics) and extrinsic factors (clinical practice, procedures, study conduct) in order to better define more meaningful regions from the identified factors, which will help with estimating the relative treatment outcome [9]. However, a grouping defined prior to the analysis has advantages over a post hoc grouping.  
+
+In other international multicenter trials of AF, different regions have been defined. For example, in an analysis of TTR in the ROCKET AF study [10], countries were grouped in 7 regions (East Asia, India, Eastern Europe, Western Europe, South Asia, Latin America, and North America).  
+
+The GLORIA-AF registry [11], which enrolled up to 50,000 patients from nearly 50 countries worldwide, included 5 defined regions that were grouped in a manner that was similar to our approach—Asia, Europe, North America, Latin America, and Africa/ Middle East. The EORP-AF Pilot registry [12] enrolled 3119 patients with AF in Europe and defined 3 groups within the continent—Western Europe, Eastern Europe, and Southern Europe.  
+
+Differences in baseline characteristics in studies or registries in AF have been previously described. The IMPACT-AF [13] study, which included patients with AF from 5 countries (Argentina, Brazil, India, China, and Romania) in 3 (Latin America, Asia Pacific and Europe) of the 4 regions we describe, showed certain similarities to the current analysis in baseline characteristics. As with our findings, patients from China (Asia Pacific region) had the highest prevalence of stroke $(28\%)$ , and $91\%$ of patients from Romania (Europe) and $88\%$ from Argentina (Latin America) had the highest prevalence of hypertension compared with those from the other countries in the study.  
+
+An analysis on variation of TTR by region in the ROCKET AF trial showed a poorly controlled international normalized ratio in East Asia and better control in North America [10], which is similar to our findings. As with our findings, procedures also varied across regions in ROCKET AF with ablation and cardioversion being more common in North America as compared with other regions in the study [14].  
+
+However, clinical features of patients included in the GLORIA-AF registry did not match those in our study [11]; this might be related to the study design, grouping of countries, and specific country contribution.  
+
+A large body of evidence has demonstrated a substantially higher incidence of intracranial bleeding in patients from Japan and East Asia [15,16]. A previous analysis of patients from East Asia in the ARISTOTLE trial [17] found these patients had a 2-fold increased risk of stroke and systemic embolism and a 3-fold increased risk of intracranial hemorrhage. The differences in baseline characteristics described in the present study (lower body weight; increased history of prior stroke; poorer TTR control; and lower use of angiotensin-converting enzyme inhibitors or angiotensin receptor blockers, beta-blockers, and amiodarone) in patients enrolled in Asia Pacific might not explain the differences in outcomes since the analysis was uniquely adjusted for the ABC bleeding score (age, history of bleeding, and hemoglobin, cTn-hs, and GDF-15 or cystatin C/CKDEPI), the ABC stroke score (age, cTnI-hs, and NT-proBNP), and clinical history (prior stroke/transient ischemic attack) [5,6].  
+
+![](images/e46cc624183ab6c0745ae531dfb9963615dccdd1a0aed808168e800a534f37f1.jpg)  
+Fig. 3. Treatment effects and region.  
+
+The most important limitation is that this is a highly selected clinical trial population which likely differs from unselected populations and from the overall populations of the regions studied. In addition, subgroup analyses are prone to resulting in chance findings and are typically underpowered to show robust findings in the independent subgroups. Furthermore, the causes of differences in outcomes between regions might be related both to differences in selection criteria, co-morbidities, concomitant treatments, or other variables that might not have been collected.  
+
+In conclusion, patients with atrial fibrillation enrolled from North America, Latin America, Asia Pacific, and Europe into the ARISTOTLE trial showed important differences in clinical baseline characteristics and treatment received. Even after adjustment, including for biomarkers, patients in the Asia Pacific region had worse outcomes as compared with those from the other regions in the study. The benefit of apixaban compared with warfarin on major clinical outcomes was consistent across regions with an even greater treatment effect in the reduction of bleeding in patients from the Asia Pacific region.  
+
+# Funding source  
+
+The ARISTOTLE trial was funded by Bristol-Myers Squibb, Co., Princeton, NJ, USA and Pfizer Inc., New York, NY, USA.  
+
+# Disclosures  
+
+Bahit: Educational grant from Boehringer Ingelheim; honoraria from Merck & Co (for role as national coordinator). Granger: Consulting fees/ Honoraria: AstraZeneca, Bayer, Boehringer Ingelheim, Boston Scientific, Bristol-Myers Squibb, Daiichi Sankyo, Eli Lilly, Gilead Sciences, Inc., GlaxoSmithKline, Hoffman LaRoche, Janssen, Medtronic Inc., Novartis, Pfizer, The Medicines Company, Verseon; Research grants: Armetheon, AstraZeneca, Bayer, Boehringer Ingelheim, Bristol-Myers Squibb, Daiichi, GlaxoSmithKline, Janssen, Medtronic Foundation, Novartis Corporation, Pfizer, The Medicines Company. Alexander: Consulting fees/ Honoraria: Bristol-Myers Squibb, CSL Behring, Pfizer, Portola, VasoPrep Surgical; Research grants: Boehringer Ingelheim, Bristol-Myers Squibb, CSL Behring, Sanofi, Tenax Therapeutics. Mulder: None. Wojdyla: None. Hanna: Employee of Bristol-Myers Squibb during trial conduct. Goto: Consulting fees from Armetheon, Inc., Boehringer Ingelheim Pharmaceuticals, Inc., Ono Pharmaceutical Co., Ltd., AstraZeneca Pharmaceuticals LP, Bayer HealthCare Pharmaceuticals, Daiichi Sankyo, Inc., Sanofi; research grants from Pfizer Inc., Sanofi. Xavier: Institutional research grants from AstraZeneca, Boehringer Ingelheim, Bristol-Myers Squibb, Cadila Pharma, Pfizer, and sanofi-aventis. Verheugt: Consulting fees from Bayer HealthCare Pharmaceuticals, Bristol-Myers Squibb Company, Pfizer Inc., Boehringer Ingelheim Pharmaceuticals, Inc., Daiichi  
+
+Sankyo, Inc.; research grants from Bayer HealthCare Pharmaceuticals. Lanas: None. Hijazi: Consulting fees/honoraria: Bristol-Myers Squibb/Pfizer, Roche Diagnostics. Wallentin: Institutional research grants from AstraZeneca, Boehringer Ingelheim, Bristol-Myers Squibb/Pfizer, GlaxoSmithKline, Roche Diagnostics, and Merck & Co., Inc.; Consulting fees from Abbott; Holds 2 patents involving GDF-15 licensed to Roche Diagnostics. Lopes: Research grants: Amgen, Bristol-Myers Squibb/Pfizer, GlaxoSmithKline, Medtronic PLC, sanofi-aventis; Consulting/advisory board fees: Bristol-Myers Squibb/Pfizer, Bayer, Boehringer Ingelheim.  
+
+# CRediT authorship contribution statement  
+
+M. Cecilia Bahit: Conceptualization, Data curation, Investigation, Writing - original draft. Christopher B. Granger: Data curation, Investigation, Writing - review & editing, Supervision. John H. Alexander: Data curation, Investigation, Writing - review & editing, Supervision. Hillary Mulder: Methodology, Software, Formal analysis, Writing - review & editing. Daniel M. Wojdyla: Methodology, Software, Formal analysis, Writing - review & editing. Michael Hanna: Data curation, Writing - review & editing. Shinya Goto: Data curation, Investigation, Writing - review & editing. Denis Xavier: Data curation, Investigation, Writing - review & editing. Freek W.A. Verheugt: Data curation, Investigation, Writing - review & editing. Fernando Lanas: Data curation, Investigation, Writing - review & editing. Ziad Hijazi: Data curation, Investigation, Writing - review & editing. Lars Wallentin: Data curation, Investigation, Writing - review & editing, Supervision. Renato D. Lopes: Data curation, Investigation, Writing - review & editing, Supervision.  
+
+# Appendix A. Supplementary data  
+
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.ijcard.2019.12.060.  
+
+# References  
+
+[1] G.Y.H. Lip, C.M. Brechin, D.A. Lane, The global burden of atrial fibrillation and stroke: a systematic review of the epidemiology of atrial fibrillation in regions outside North America and Europe, Chest 142 (2012) 1489–1498.  
+
+[2] S.S. Chugh, R. Havmoeller, K. Narayanan, et al., Worldwide epidemiology of atrial fibrillation: a global burden of disease 2010 study, Circulation 129 (2014) 837–847.   
+[3] R.D. Lopes, J.H. Alexander, S.M. Al-Khatib, et al., Apixaban for reduction in stroke and other ThromboemboLic events in atrial fibrillation (ARISTOTLE) trial: design and rationale, Am. Heart J. 159 (2010) 331–339.   
+[4] C.B. Granger, J.H. Alexander, J.J. McMurray, et al., Apixaban versus warfarin in patients with atrial fibrillation, N. Engl. J. Med. 365 (2011) 981–992.   
+[5] Z. Hijazi, J. Lindbäck, J.H. Alexander, et al., The ABC (age, biomarkers, clinical history) stroke risk score: a biomarker-based risk score for predicting stroke in atrial fibrillation, Eur. Heart J. 37 (2016) 1582–1590.   
+[6] Z. Hijazi, J. Oldgren, J. Lindbäck, et al., The novel biomarker-based ABC (age, biomarkers, clinical history)-bleeding risk score for patients with atrial fibrillation: a derivation and validation study, Lancet 387 (2016) 2302–2311.   
+[7] S. Pocock, G. Calvo, J. Marrugat, et al., International differences in treatment effect: do they really exist and why? Eur. Heart J. 34 (2013) 1846–1852.   
+[8] J. Wittes, Why is this subgroup different from all other subgroups? Thoughts on regional differences in randomized clinical trials, Proceedings of the Fourth Seattle Symposium in Biostatistics, Clinical Trials, Seattle, WA, 2013.   
+[9] Y. Tanaka, A. Buchanan, S. Lipsius, E.O. Ibia, M. Rabbia, B. Binkowitz, Defining regions in multiregional clinical trials: an analytical approach to considering impact of intrinsic and extrinsic factors, Ther Innov Regul Sci 50 (2016) 91–100.   
+[10] D.E. Singer, A.S. Hellkamp, J.P. Piccini, et al., Impact of global geographic region on time in therapeutic range on warfarin anticoagulant therapy: data from the ROCKET AF clinical trial, J. Am. Heart Assoc. 2 (2013), e000067.   
+[11] M. Mazurek, M.V. Huisman, K.J. Rothman, et al., Regional differences in antithrombotic treatment for atrial fibrillation: insights from the GLORIA-AF phase II registry, Thromb. Haemost. 117 (2017) 2376–2388.   
+[12] G.Y. Lip, C. Laroche, G. Boriani, et al., Regional differences in presentation and treatment of patients with atrial fibrillation in Europe: a report from the EURObservational research Programme atrial fibrillation (EORP-AF) pilot general registry, Europace 17 (2015) 194–206.   
+[13] D. Vinereanu, H.R. Al-Khalidi, M.P. Rao, et al., Regional differences in presentation and antithrombotic treatment of patients with atrial fibrillation: baseline characteristics from a clustered randomized trial to IMProve treatment with AntiCoagulanTs in patients with atrial fibrillation (IMPACT-AF), Am. Heart J. 192 (2017) 38–47.   
+[14] J.P. Piccini, S.R. Stevens, Y. Lokhnygina, et al., Outcomes after cardioversion and atrial fibrillation ablation in patients treated with rivaroxaban and warfarin in the ROCKET AF trial, J. Am. Coll. Cardiol. 61 (2013) 1998–2006.   
+[15] M. Yasaka, G.Y. Lip, Impact of non-vitamin k antagonist oral anticoagulants on intracranial bleeding in Asian patients with non-valvular atrial fibrillation, Circ. J. 78 (2014) 2367–2372.   
+[16] M. Yasaka, G.Y. Lip, Stroke prevention in Asian patients with atrial fibrillation, Stroke 45 (2014) 1608–1609.   
+[17] S. Goto, J. Zhu, L. Liu, et al., Efficacy and safety of apixaban compared with warfarin for stroke prevention in patients with atrial fibrillation from East Asia: a subanalysis of the Apixaban for reduction in stroke and other Thromboembolic events in atrial fibrillation (ARISTOTLE) trial, Am. Heart J. 168 (2014) 303–309.  

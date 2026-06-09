@@ -1,0 +1,221 @@
+# The efficacy of tranexamic acid for brain injury: A meta-analysis of randomized controlled trials  
+
+Hongshen Chen, Muhu Chen ⇑  
+
+Department of Emergency Medicine, The Affiliated Hospital of Southwest Medical University, PR China  
+
+# articleinfo  
+
+# abstract  
+
+Article history:   
+Received 23 June 2019   
+Received in revised form 19 September   
+2019   
+Accepted 1 October 2019   
+Available online xxxx   
+Keywords:   
+Tranexamic acid   
+Treatment efficacy   
+Traumatic brain injury   
+Mortality   
+Randomized controlled trials Background: Tranexamic acid shows some treatment efficacy for traumatic brain injury. This systematic review and meta-analysis is conducted to investigate the efficacy of tranexamic acid for traumatic brain injury.   
+Methods: The databases including PubMed, EMbase, Web of science, EBSCO, and Cochrane library databases are systematically searched for collecting the randomized controlled trials (RCTs) regarding the efficacy of tranexamic acid for traumatic brain injury.   
+Results: This meta-analysis has included six RCTs. Compared with placebo group in patients with traumatic brain injury, tranexamic acid results in remarkably reduced mortality (risk ratio $\left(\mathrm{RR}\right)=0.91$ ; $95\%$ confidence interval $\mathbf{\Pi}(\mathbf{CI})=0.85$ to 0.97; $\mathrm{P}=0.004$ ) and growth of hemorrhagic mass $\mathrm{{\cdotRR}}=0.78$ ; $95\%$ $\mathrm{CI}=0.61$ to 0.99; $\ensuremath{\mathrm{P}}=0.04,$ ), but has no important impact on neurosurgery $\mathrm{\Delta}R\mathrm{R}=0.99$ ; $95\%{\mathrm{CI}}=0.85$ to 1.15; $\mathrm{P}=0.92$ ), extracranial surgery $\mathrm{RR}=1.00$ ; $95\%{\mathrm{CI}}=0.97$ to 1.04; $\mathrm{P}=0.99\$ ), unfavorable outcome (Glasgow Outcome Scale, GOS) $\mathrm{RR}=0.72$ ; $95\%\mathrm{CI}=0.47\%$ –1.11; $\mathrm{P}=0.14$ ), pulmonary embolism ${\mathrm{RR}}=1.86$ ; $)5\%\operatorname{CI}=0.42–8.29$ ; $\mathrm{P}=0.42$ ), and deep venous thrombosis $\mathrm{\hbar}\mathrm{R}=0.97$ ; $95\%\mathrm{~Cl}=0.64–1.47$ ; $\mathrm{P}=0.88\$ .   
+Conclusions: Tranexamic acid is associated with substantially reduced mortality and growth of hemorrhagic mass in patients with traumatic brain injury, but the need of neurosurgery and extracranial surgery, as well as the risk of unfavorable outcome (GOS) are similar between tranexamic acid and placebo.  
+
+$\copyright$ 2019 Published by Elsevier Inc.  
+
+# Contents  
+
+1. Introduction . 00  
+
+1.1. Materials and methods . . . . 00   
+1.2. Literature search and selection criteria . 00   
+1.3. Data extraction and outcome measures. 00   
+1.4. Quality assessment and assessment for risk of bias . 00   
+1.5. Statistical analysis . 00   
+2. Results. 00   
+2.1. Literature search, study characteristics and quality assessment . . . 00   
+2.2. Primary outcome: Mortality . . 00   
+2.3. Sensitivity analysis . 00   
+2.4. Secondary outcomes . 00   
+3. Discussion . . 00   
+4. Conclusion 00   
+Acknowledgements . 00   
+Declaration of Competing Interest . 00   
+Research involving human participants and/or animals. 00   
+References 00  
+
+# 1. Introduction  
+
+Traumatic brain injury has become one of the major causes of death and disability in the world [1–3]. Traumatic brain injury is divided into 3 categories based on the Glasgow Coma Scale (GCS): severe $(10\%)$ , moderate $(10\%)$ , and mild $(80\%)$ [4–6]. Intracranial hemorrhage serves as one common complication of traumatic brain injury, and results in the admission of three fourths of patients with brain injury to the hospital [7–9]. Intracranial hemorrhage may get larger after hospital admission in about half of patients because of high levels of fibrinolysis and coagulopathy [10,11].  
+
+Antifibrinolytic agents such as tranexamic acid have the potential in reducing intracranial hemorrhage [7,12–14]. Tranexamic acid can block the interaction of plasminogen and plasmin by competing with the lysine residues on the surface of fibrin to inhibit the fibrinolysis and consequently stabilize clot [15–17]. Several studies reveal the efficacy and safety of tranexamic acid injection for bran injury [18,19], and the CRASH-2 study reports reduced mortality in 20,211 cases of trauma of 40 countries without any side effects [18].This drug has been approved by the World Health Organization [6].  
+
+However, the use of tranexamic acid for traumatic brain injury has not been well established. Recently, several studies on the topic have been published, and the results have been conflicting [6,20–22]. Considering these inconsistent effects, we therefore conduct a systematic review and meta-analysis of randomized controlled trials (RCTs) to evaluate the efficacy of tranexamic acid for traumatic brain injury.  
+
+# 1.1. Materials and methods  
+
+Preferred Reporting Items for Systematic Reviews and Metaanalysis statement [23] and the Cochrane Handbook for Systematic Reviews of Interventions [24] are used to guide the performance of this systematic review and meta-analysis. Two investigators have independently searched articles, extracted data, and assessed the quality of included studies.  
+
+# 1.2. Literature search and selection criteria  
+
+Several databases including PubMed, EMbase, Web of science, EBSCO, and the Cochrane library are systematically searched using the keywords: tranexamic acid, and brain or cerebral, and injury. The time in publishing the studies is from inception to August 2018.  
+
+The inclusion criteria are as follows: (1) study design is RCT, (2) study population are patients with traumatic brain injury, (3) intervention treatments are tranexamic acid versus matched placebo.  
+
+# 1.3. Data extraction and outcome measures  
+
+Some information is collected for summarizing the baseline characteristics of patients in the included RCTs, and they include first author, publication year, sample size, male, time since injury, hypertension, and detail methods of two groups.  
+
+The primary outcome is mortality. Secondary outcomes include growth of hemorrhagic mass, neurosurgery, extracranial surgery, unfavorable outcome (Glasgow Outcome Scale, GOS), pulmonary embolism, and deep venous thrombosis.  
+
+# 1.4. Quality assessment and assessment for risk of bias  
+
+‘‘Grading quality of evidence and strength of recommendations” (GRADE criteria) is applied to assess the quality of the included trial and rate the level of evidence [25]. Two authors independently assessed the quality of the included trials.  
+
+The risk of bias tool is used to assess the quality of individual studies in accordance with the Cochrane Handbook for Systematic Reviews of Interventions [24], and the following sources of bias are considered: selection bias, performance bias, attrition bias, detection bias, reporting bias, and other potential sources of bias. The overall risk of bias for each study is assessed and rated: low, when the risk of bias was low in all key domains; unclear, when the risk of bias was low or unclear in all key domains; and high, when the risk of bias was high in one or more key domains [26].  
+
+# 1.5. Statistical analysis  
+
+Review Manager Version 5.3 (The Cochrane Collaboration, Software Update, Oxford, UK) is used for the all statistical analyses. We have calculated the risk ratio (RR) with $95\%$ confidence interval (CI) for dichotomous outcomes $\mathrm{\'SpO2}<90\%$ , and major arrhythmias). Heterogeneity is quantified with the $1^{2}$ statistic, and an $1^{2}$ value greater than $50\%$ represents the significant heterogeneity. The random-effect model with DerSimonian and Laird weights is applied for all the meta-analyses regardless of the heterogeneity. When the significant heterogeneity presents, sensitivity analysis is conducted to detect the influence of a single study on the overall estimate or perform the subgroup analysis. Publication bias is not evaluated because of the limited number $(<10)$ [24,27]. $\mathrm{P}<0.05$ is thought to be statistically significant.  
+
+# 2. Results  
+
+# 2.1. Literature search, study characteristics and quality assessment  
+
+Fig. 1 demonstrates the flow chart for the selection process and detailed identification. 635 publications are searched after the initial search of databases. 207 duplicates and 418 papers after checking the titles/abstracts are excluded. 4 studies are removed because of the study design not being RCTs and six RCTs are ultimately included in the meta-analysis [6,18–22].  
+
+Table 1 shows the baseline characteristics of six eligible RCTs. The six studies are published between 2011 and 2018, and total sample size is 21124. The detail methods of tranexamic acid for traumatic brain injury are summarized in Table 1. Intravenous tranexamic acid is administered by a loading dose $^{1\mathrm{g}}$ over $10\mathrm{min}$ , then infusion of ${\mathrm{~1~g~}}$ over $^{8\mathrm{~h~}}$ .  
+
+![](images/59fb2e393618c7ef58c0a5b1276d5013a337a30efc132094403359cf49e1444e.jpg)  
+Fig. 1. Flow diagram of study searching and selection process.  
+
+Please cite this article as: H. Chen and M. Chen, The efficacy of tranexamic acid for brain injury: A meta-analysis of randomized controlled trials, American Journal of Emergency Medicine, https://doi.org/10.1016/j.ajem.2019.158499  
+
+Table 1 Characteristics ofincluded studies.   
+
+
+<html><body><table><tr><td>NO.</td><td>Author</td><td colspan="6">Tranexamic acid group</td><td colspan="6">Control group</td></tr><tr><td></td><td></td><td>Number</td><td>Age (years)</td><td>Male (n)</td><td>Time since injury</td><td>Hypertension Methods (n)</td><td></td><td>Number</td><td>Age (years)</td><td>Male (n)</td><td>Time since injury</td><td>Hypertension (n)</td><td>Methods</td></tr><tr><td>1</td><td>Fakharian2018</td><td>74</td><td>42.3 ± 18.3</td><td>67</td><td>(hours)</td><td></td><td>intravenous tranexamic acidwas administered with the first doseof1gin100mL of normalsalinein10min and thenwithamaintenancedoseof1gper1ooomLof</td><td>75</td><td>39.3 ± 18.1</td><td>66</td><td>(hours)</td><td></td><td>Matched placebo</td></tr><tr><td>2</td><td>Chakroun-Walha 2018</td><td>96</td><td>44 ± 20</td><td>88</td><td></td><td>5</td><td>normal saline for 8 h intravenoustranexamicacidwas administered assoon as possible,with a first dose of 1 g in 100 mL of normal salinein10 min and thenwitha maintenancedose of1g</td><td>84</td><td>39± 18</td><td>74</td><td></td><td>5</td><td>Matched placebo</td></tr><tr><td>3</td><td>Jokar 2017</td><td>40</td><td>35.4 ± 14.6</td><td>32</td><td></td><td></td><td>per500mLofnormalsalinefor8h intravenous tranexamic acid(a bolus of 1 g in 100 mL 0.9%NaClover10 minfollowed by a continuousinfusion</td><td>40</td><td>36.2 ± 14.9</td><td>28</td><td></td><td></td><td>Matched placebo</td></tr><tr><td>4</td><td>Yutthakasemsunt 2013</td><td>120</td><td>34.8 ± 16.0</td><td>103</td><td>6.6 ± 1.69</td><td></td><td>of 1 g in 500 mL 0.9% NaCl over 8 h) tranexamicacid(loadingdoseof 1.0gover30min followedby a maintenancedose of 1.0g infused over</td><td>118</td><td>34.1 ± 15.3</td><td>107</td><td>7.1 ± 1.29</td><td></td><td>Matched placebo</td></tr><tr><td>5</td><td>Roberts 2013</td><td>10,093</td><td>34.6 ± 14.1</td><td>8439</td><td>2.8 ± 2.2</td><td></td><td>eight hours) a loading dose of1g of tranexamic acid infused over 10 min,followed by an intravenous infusion of 1 g over</td><td>10,114</td><td>34.5 ± 14.4</td><td>8493</td><td>2.9 ± 2.6</td><td></td><td>Matched placebo</td></tr><tr><td>6</td><td>Crash-2 Collaborators</td><td>133</td><td>36 ± 14</td><td>111</td><td></td><td></td><td>tranexamic acid (loading dose 1g over 10 min,then infusion of 1g over 8 h)</td><td>137</td><td>37 ± 14</td><td>117</td><td></td><td></td><td>Matched placebo</td></tr></table></body></html>  
+
+Table 2 Quality assessment of the included trials.   
+
+
+<html><body><table><tr><td>Criteria</td><td>Randomization</td><td>Concealment</td><td>Intention-to- treat analysis</td><td>Blinding</td><td>Follow- up</td><td>Outcome Reporting bias</td><td>Qualityof evidence</td></tr><tr><td>1 Fakharian2018</td><td>yes</td><td></td><td>Yes,allocations Yes were masked</td><td>Yes,double-blind(subjects and investigators)</td><td>3months</td><td>None identified</td><td>High</td></tr><tr><td>2 2018</td><td>Chakroun-Walha Yes,medical file number</td><td>Yes,allocations were masked</td><td>Yes</td><td>No</td><td>28 days</td><td>None identified</td><td>Moderate</td></tr><tr><td>3 Jokar 2017</td><td>Yes,computer-generated codelist</td><td>Yes,allocations were masked</td><td>Yes</td><td>Yes,single-blind(investigators)</td><td>48h</td><td>None identified</td><td>High</td></tr><tr><td>4 Yutthakasemsunt 2013</td><td>Yes,computer-generatedcodelist</td><td>Yes,allocations were masked</td><td>Yes</td><td>Yes,double-blinded (subjects and investigators)</td><td>24-32h</td><td>None identified</td><td>High</td></tr><tr><td>5 Roberts 2013</td><td>Yes,balanced by centre,with an allocationsequence based ona block size of eight,generatedwithacomputerrandomnumbergenerator</td><td>Yes,allocations were masked</td><td>Yes</td><td>Yes,double-blinded(siteinvestigators and trialco-ordinating centre staff)</td><td>28 days</td><td>None identified</td><td>High</td></tr><tr><td>6 Crash-2 Collaborators</td><td>Yes,balancedbycentre,with anallocationsequencebased onablocksize of eight.</td><td>Yes,allocations were masked</td><td>Yes</td><td>Yes,double blind (subjects and investigators)</td><td>28 days</td><td>None identified</td><td>High</td></tr></table></body></html>  
+
+Among the six RCTs, four studies report the mortality [6,19,20,22], three studies report the growth of hemorrhagic mass [6,18,22], four studies report neurosurgery [6,19,20,22], two studies report extracranial surgery [19,20], two studies report unfavorable outcome (Glasgow Outcome Scale, GOS) [6,22], two studies report pulmonary embolism and deep venous thrombosis [19,20]. Five studies have high quality, while one study has moderate quality. The details of the quality assessment of the six eligible studies are listed in Table 2. The risk of bias analysis (Fig. 2) shows that one study has high risk of bias because it’s an open-label trial [20].  
+
+# A Risk of bias summary  
+
+![](images/1eef19ccd05e7dd8948344fa0b75b0a3f666b0174bbd105bae052cc892056961.jpg)  
+
+B Risk of bias graph  
+
+![](images/570f2add7b9ba6e7df10c8511465b4d22b577ae5a2e539f146be863a0112e842.jpg)  
+Fig. 2. Risk of bias assessment. (A) Authors’ judgments about each risk of bias item for each included study. (B) Authors’ judgments about each risk of bias item presented as percentages across all included studies.  
+
+![](images/de8451e5228df26bd95be07bd945806bf56cfdb9521272f0e38a7612c3b12032.jpg)  
+Fig. 3. Forest plot for the meta-analysis of mortality.  
+
+Please cite this article as: H. Chen and M. Chen, The efficacy of tranexamic acid for brain injury: A meta-analysis of randomized controlled trials, American Journal of Emergency Medicine, https://doi.org/10.1016/j.ajem.2019.158499  
+
+![](images/5587ba0f64197fde9e4dec536fc08414dedf62aed0880fd2b758c6fc0174451e.jpg)  
+Fig. 4. Forest plot for the meta-analysis of growth of hemorrhagic mass.  
+
+![](images/1600b99900de75f92df654608c2764d45fde11c216ba7a53bec63eea74544839.jpg)  
+Fig. 5. Forest plot for the meta-analysis of neurosurgery.  
+
+![](images/8e61485669bcdc88c9efe855c8c81f77859a9152ebaabd7bd91730e0b7980227.jpg)  
+Fig. 6. Forest plot for the meta-analysis of extracranial surgery.  
+
+![](images/13962a6781643c0d7c94021bd74dbc350ae72dc455ed319d47bb67937a752bdb.jpg)  
+Fig. 7. Forest plot for the meta-analysis of unfavorable outcome (GOS).  
+
+![](images/3fb75eb49c5def459b6784dc5d5c29e99319d1f5b74551c236583a8fec44e4ad.jpg)  
+Fig. 8. Forest plot for the meta-analysis of pulmonary embolism.  
+
+# 2.2. Primary outcome: Mortality  
+
+The random-effect model is used for the analysis of mortality, and four included RCTs report this index. Tranexamic acid results in a significantly lower mortality $'RR=0.91$ ; $95\%$ $\mathrm{CI}=0.85$ to 0.97; $\mathrm{P}=0.004;$ than placebo for traumatic brain injury, with no heterogeneity among the studies $[\mathrm{I}^{2}=0\%$ , heterogeneity $\mathrm{P}=0.54$ , Fig. 3).  
+
+Please cite this article as: H. Chen and M. Chen, The efficacy of tranexamic acid for brain injury: A meta-analysis of randomized controlled trials, American Journal of Emergency Medicine, https://doi.org/10.1016/j.ajem.2019.158499   
+
+![](images/abd9f580fd8f6280a7af22db94f6cf52c545345f1cc9ba239f604932388eb42c.jpg)  
+
+![](images/0c649e627e86e82bccb4681261e2aa5b9801c0d98937c0b2b84ee42515bf411d.jpg)  
+Fig. 9. Forest plot for the meta-analysis of deep venous thrombosis.  
+
+# 2.3. Sensitivity analysis  
+
+The meta-analysis of mortality has no heterogeneity among the included studies, and thus we do not perform sensitivity analysis by omitting one study in each turn or conduct the subgroup analysis.  
+
+# 2.4. Secondary outcomes  
+
+Compared to placebo for traumatic brain injury, tranexamic acid is associated with substantially reduced growth of hemorrhagic mass $\mathrm{{'RR=0.78}}$ ; $95\%{\mathrm{~Cl}}=0.61$ to 0.99; $\mathrm{P}=0.04$ ; Fig. 4), but shows no remarkable influence on neurosurgery $\mathrm{\DeltaRR}=0.99$ ; $95\%$ $\mathrm{CI}=0.85$ to 1.15; $\mathrm{P}=0.92$ ; Fig. 5), extracranial surgery $'\mathrm{RR}=1.00\$ ; $95\%$ $\mathrm{CI}=0.97\$ to 1.04; $\mathrm{P}=0.99$ ; Fig. 6), unfavorable outcome (GOS) $\mathrm{RR}=0.72$ ; $95\%\mathrm{CI}=0.47$ to 1.11; $\mathrm{P}=0.14$ ; Fig. 7), pulmonary embolism $\mathrm{^{\prime}RR}=1.86$ ; $95\%~\mathrm{CI}=0.42$ to 8.29; $\mathrm{P}=0.42$ ; Fig. 8), and deep venous thrombosis ( $\mathrm{RR}=0.97\$ ; $95\%$ $\mathrm{CI}=0.64\$ to 1.47; $\mathrm{P}=0.88$ ; Fig. 9).  
+
+# 3. Discussion  
+
+Tranexamic acid administration has been reported to decrease the risk of rebleeding, but increase brain ischemia probably due to vasospasm or microvascular thrombosis in patients with aneurysmal subarachnoid hemorrhage [28]. In another study regarding non-traumatic intracerebral hemorrhages, hematoma can be stabilized by tranexamic acid [29]. CRASH-2 study finds the mean hemorrhagic growth is lower in tranexamic acid group in comparison with placebo group for traumatic brain injury with no significant difference [7]. One study of 238 patients with traumatic brain injury shows similar progressive intracerebral hemorrhage and mortality between tranexamic acid and control intervention [22].  
+
+In contrast, bleeding volume in tranexamic acid group is significantly lower than that in control group for traumatic brain injury [21]. One systematic review has concluded that tranexamic acid can significantly reduce the progression of intracerebral hemorrhage and improve the clinical outcomes of patients [30]. Tranexamic acid is associated with the significantly reduced growth of hemorrhagic mass for traumatic brain injury in this metaanalysis. Three included RCTs report growth of hemorrhagic mass [6,18,22]. Although these studies reveal no significant difference of hemorrhagic mass change, the trends of tranexamic acid to reduce the growth of hemorrhagic mass in these studies are observed and consistent. This meta-analysis confirms the efficacy of tranexamic acid to decrease the growth of hemorrhagic mass in patients with traumatic brain injury. In addition, differences in the growth of hemorrhagic lesion may be affected by timing of CT scanning, difference in measurement of the volume, other diagnostic criteria, and research methodology [6,31–34].  
+
+Our meta-analysis suggests that tranexamic acid can substantially reduce mortality compared to placebo for traumatic brain injury. One randomized, double-blind clinical trial involving 149 patients with traumatic brain injury results in the mortality of $2.7\%$ in tranexamic acid group compared to $4\%$ in placebo group, but with no significant difference [6]. Consistently, another study reveals that death rates are $10\%$ in tranexamic acid group and $14\%$ in placebo group [22]. In contrast, the mortality in patients with $\mathsf{GCS}<13$ is $28.1\%$ in tranexamic acid group and $22.6\%$ in placebo group at the 28th day post trauma, with no significant difference [20], which indicates that tranexamic acid may increase the mortality in high injury acuity patients.  
+
+One previous study regarding traumatic brain injury has revealed similar unfavorable outcome between tranexamic acid and control intervention [22]. The need of neurosurgery, extracranial surgery, and the risk of unfavorable outcome (GOS) are comparable between these two groups for traumatic brain injury based on the results of our meta-analysis. In addition, many factors may have some influence on the incidence of deep vein thrombosis, and they include age, anemia, cardiac history, hypertension, and gender etc. Regarding the safety of tranexamic acid, some studies have reported no increase in adverse events such as deep vein thrombosis, or pulmonary embolus [35,36]. This drug has been confirmed to be safe in a wide range of patients with traumatic bleeding. Many studies have reported that tranexamic acid leads to no increase in thromboembolic events [22,30]. The incidence of pulmonary embolism and deep venous thrombosis shows no significant difference between two groups in our meta-analysis.  
+
+There are still several limitations. Firstly, only six RCTs are included in this meta-analysis, and one of them have a relatively small sample size $(\mathtt{n}<100)$ . These may lead to overestimation of the treatment effect in smaller trials. Although there is no heterogeneity among the included studies, the type and severity of traumatic brain injury, and time of tranexamic acid use in each included RCT are different, which may affect the pooled results. Finally, some unpublished and missing data may lead to some bias for the pooled effect.  
+
+# 4. Conclusion  
+
+Tranexamic acid can significantly reduce mortality and growth of hemorrhagic mass for traumatic brain injury, but has no obvious impact on the need of neurosurgery, extracranial surgery, or the risk of unfavorable outcome (GOS).  
+
+# Acknowledgements  
+
+None.  
+
+# Declaration of Competing Interest  
+
+The authors declare no conflict of interest.  
+
+# Research involving human participants and/or animals  
+
+Not applicable.  
+
+# References  
+
+[1] De Silva MJ, Roberts I, Perel P, Edwards P, Kenward MG, Fernandes J, et al. Patient outcome after traumatic brain injury in high-, middle- and low-income countries: analysis of data on 8927 patients in 46 countries. Int J Epidemiol 2009;38:452–8.   
+[2] Liesemer K, Riva-Cambrin J, Bennett KS, Bratton SL, Tran H, Metzger RR, et al. Use of Rotterdam CT scores for mortality risk stratification in children with traumatic brain injury. Pediatric Crit Care Med: J. Soc Crit Care Medi World Federation Pediatric Intensive Crit Care Soc 2014;15:554–62.   
+[3] Cheng PL, Lin HY, Lee YK, Hsu CY, Lee CC, Su YC. Higher mortality rates among the elderly with mild traumatic brain injury: a nationwide cohort study. Scandinavian J Trauma Resuscitation Emerg Med 2014;22:7.   
+[4] Joseph B, Pandit V, Aziz H, Kulvatunyou N, Zangbar B, Green DJ, et al. Mild traumatic brain injury defined by Glasgow Coma Scale: is it really mild? Brain Inj 2015;29:11–6. [5] Rundhaug NP, Moen KG, Skandsen T, Schirmer-Mikalsen K, Lund SB, Hara S, et al. Moderate and severe traumatic brain injury: effect of blood alcohol concentration on Glasgow Coma Scale score and relation to computed tomography findings. J Neurosurg 2015;122:211–8.   
+[6] Fakharian E, Abedzadeh-Kalahroudi M, Atoof F. Effect of tranexamic acid on prevention of hemorrhagic mass growth in patients with traumatic brain injury. World Neurosurg 2018;109:e748–53.   
+[7] Perel P, Al-Shahi Salman R, Kawahara T, Morris Z, Prieto-Merino D, Roberts I, et al. CRASH-2 (Clinical Randomisation of an Antifibrinolytic in Significant Haemorrhage) intracranial bleeding study: the effect of tranexamic acid in traumatic brain injury–a nested randomised, placebo-controlled trial. Health Technol Assess 2012;16:;iii–xii:1–54.   
+[8] Edwards P, Arango M, Balica L, Cottingham R, El-Sayed H, Farrell B, et al. Final results of MRC CRASH, a randomised placebo-controlled trial of intravenous corticosteroid in adults with head injury-outcomes at 6 months. Lancet 2005;365:1957–9.   
+[9] Al-Mufti F, Amuluru K, Lander M, Mathew M, El-Ghanem M, Nuoman R, et al. Glasgow coma score in traumatic intracranial hemorrhage predicts development of cerebral vasospasm. World Neurosurgery; 2018.   
+[10] Oertel M, Kelly DF, McArthur D, Boscardin WJ, Glenn TC, Lee JH, et al. Progressive hemorrhage after head trauma: predictors and consequences of the evolving injury. J Neurosurg 2002;96:109–16.   
+[11] Greenberg JK, Stoev IT, Park TS, Smyth MD, Leonard JR, Leonard JC, et al. Management of children with mild traumatic brain injury and intracranial hemorrhage. J Trauma Acute Care Surgery 2014;76:1089–95.   
+[12] Boudreau RM, Johnson M, Veile R, Friend LA, Goetzman H, Pritts TA, et al. Impact of tranexamic acid on coagulation and inflammation in murine models of traumatic brain injury and hemorrhage. J Surg Res 2017;215:47–54.   
+[13] Shiraishi A, Kushimoto S, Otomo Y, Matsui H, Hagiwara A, Murata K, et al. Effectiveness of early administration of tranexamic acid in patients with severe trauma. Brit J Surg 2017;104:710–7.   
+[14] Mahmood A, Roberts I, Shakur H, Harris T, Belli A. Does tranexamic acid improve outcomes in traumatic brain injury? BMJ 2016;354:i4814.   
+[15] Xu D, Zhuang Q, Li Z, Ren Z, Chen X, Li S. A randomized controlled trial on the effects of collagen sponge and topical tranexamic acid in posterior spinal fusion surgeries. J Orthopaed Surgery Res 2017;12:166.   
+[16] Dorweiler MA, Boin MA, Froehle AW, Lawless MW, May JH. Improved early postoperative range of motion in total knee arthroplasty using tranexamic acid: a retrospective analysis. J Knee Surg 2018.   
+[17] Kuo LT, Hsu WH, Chi CC, Yoo JC. Tranexamic acid in total shoulder arthroplasty and reverse shoulder arthroplasty: a systematic review and meta-analysis. BMC Musculoskeletal Disord 2018;19:60.   
+[18] Crash-2 Collaborators IBS. Effect of tranexamic acid in traumatic brain injury: a nested randomised, placebo controlled trial (CRASH-2 Intracranial Bleeding Study). Bmj. 2011;343:d3795.   
+[19] Roberts I, Shakur H, Coats T, Hunt B, Balogun E, Barnetson L, et al. The CRASH-2 trial: a randomised controlled trial and economic evaluation of the effects of tranexamic acid on death, vascular occlusive events and transfusion requirement in bleeding trauma patients. Health Technol Assess 2013;17:1–79.   
+[20] Chakroun-Walha O, Samet A, Jerbi M, Nasri A, Talbi A, Kanoun H, et al. Benefits of the tranexamic acid in head trauma with no extracranial bleeding: a prospective follow-up of 180 patients. Eur J Trauma Emerg Surg: Off Publ Eur Trauma Soc 2018.   
+[21] Jokar A, Ahmadi K, Salehi T, Sharif-Alhoseini M. Rahimi-Movaghar V. The effect of tranexamic acid in traumatic brain injury: a randomized controlled trial. Chinese J Traumatol $=$ Zhonghua chuang shang za zhi. 2017;20:49–51.   
+[22] Yutthakasemsunt S, Kittiwatanagul W, Piyavechvirat P, Thinkamrop B, Phuenpathom N, Lumbiganon P. Tranexamic acid for patients with traumatic brain injury: a randomized, double-blinded, placebo-controlled trial. BMC Emerg Med 2013;13:20.   
+[23] Moher D, Liberati A, Tetzlaff J, Altman DG, Group P. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. BMJ 2009;339:b2535.   
+[24] Higgins JPT GS. Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration. 2011. Available from http://www.cochrane-handbook.org.   
+[25] Guyatt GH, Oxman AD, Vist G, Kunz R, Brozek J, Alonso-Coello P, et al. Guidelines: 4. Rating the quality of evidence—study limitations (risk of bias). J Clin Epidemiol 2011;64:407–15.   
+[26] Higgins JP, Altman DG, Gotzsche PC, Juni P, Moher D, Oxman AD, et al. The Cochrane Collaboration’s tool for assessing risk of bias in randomised trials. BMJ 2011;343:d5928.   
+[27] Sterne JA, Sutton AJ, Ioannidis JP, Terrin N, Jones DR, Lau J, et al. Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials. BMJ 2011;343:d4002.   
+[28] Roos YB, Rinkel GJ, Vermeulen M, Algra A, van Gijn J. Antifibrinolytic therapy for aneurysmal subarachnoid haemorrhage. Cochrane Database Syst Rev 2003::CD001245.   
+[29] Arumugam A, NA AR, Theophilus SC, Shariffudin A, Abdullah JM. Tranexamic acid as antifibrinolytic agent in non traumatic intracerebral hemorrhages. Malaysian J Med Sci: MJMS. 2015;22:62–71.   
+[30] Zehtabchi S, Abdel Baki SG, Falzon L, Nishijima DK. Tranexamic acid for traumatic brain injury: a systematic review and meta-analysis. Am J Emerg Med 2014;32:1503–9.   
+[31] Leiblich A, Mason S. Emergency management of minor head injury in anticoagulated patients. Emerg Med J 2011;28:115–8.   
+[32] Alén JF, Lagares A, Lobato RD, Gómez PA, Rivas JJ, Ramos A. Comparison between perimesencephalic nonaneurysmal subarachnoid hemorrhage and subarachnoid hemorrhage caused by posterior circulation aneurysms. J Neurosurg 2003;98:529–35.   
+[33] Stocchetti N, Croci M, Spagnoli D, Gilardoni F, Resta F, Colombo A. Mass volume measurement in severe head injury: accuracy and feasibility of two pragmatic methods. J Neurol Neurosurg Psychiatry 2000;68:14–7.   
+[34] Kim JJ, Gean AD. Imaging for the diagnosis and management of traumatic brain injury. Neurotherapeutics 2011;8:39–53.   
+[35] Xu C, Wu A, Yue Y. Which is more effective in adolescent idiopathic scoliosis surgery: batroxobin, tranexamic acid or a combination? Arch Orthop Trauma Surg 2012;132:25–31.   
+[36] Hu HM, Chen L, Frary CE, Chang CC, Hui H, Zhang HP, et al. The beneficial effect of Batroxobin on blood loss reduction in spinal fusion surgery: a prospective, randomized, double-blind, placebo-controlled study. Arch Orthop Trauma Surg 2015;135:491–7.  

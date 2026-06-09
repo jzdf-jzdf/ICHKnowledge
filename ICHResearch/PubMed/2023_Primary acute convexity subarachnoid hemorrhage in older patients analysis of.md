@@ -1,0 +1,194 @@
+# Primary acute convexity subarachnoid hemorrhage in older patients: analysis of baseline, clinical and MRI characteristics including quantitative surface study and topographical probabilistic mapping of convexity subarachnoid hemorrhage  
+
+Vincenzo Autieri1 $\cdot$ Nicolas Gaillard2 $\cdot$ Isabelle Mourand2 · Sabine Laurent‑Chabalier3 · Thibault Mura3 · Cassiana Trandafir1 · Anne Wacongne1 · Nicolas Menjot de Champfleur4 · Eric Thouvenot1,5 · Fabricio Pereira6,7 · Dimitri Renard1 $\circledcirc$  
+
+Received: 20 June 2022 / Accepted: 3 October 2022 / Published online: 14 October 2022   
+$\circledcirc$ The Author(s) under exclusive licence to Belgian Neurological Society 2022  
+
+# Abstract  
+
+Objectives  Primary acute convexity subarachnoid hemorrhage (cSAH) in older patients can be observed in cerebral amyloid angiopathy (CAA) or idiopathic (with cSAH as potential initial manifestation of suspected CAA). We aimed to analyze baseline, clinical and MRI (including quantitative cSAH surface analysis and topographical probabilistic cSAH mapping) characteristics in elderly cSAH patients with CAA.  
+
+Materials and methods  Baseline/clinical/MRI characteristics of 50 consecutive primary acute cSAH patients $\geq55$ years with suspected/possible/probable CAA were retrospectively analyzed.  
+
+Results  Median age was 74, with $26\%$ of patients showing suspected, $22\%$ possible and $52\%$ probable CAA. Transient focal neurological episode (TFNE) was observed in $78\%$ , with spreading symptoms in $79\%$ (median spreading speed five minutes), a median of two episodes before cSAH diagnosis, and similar symptoms in $91\%$ when multiple TFNE, with a median duration of $15\mathrm{min}$ . Motor/sensory/speech/visual symptoms were observed in $85\%/69\%/46\%/8\%$ , respectively, and brachiofacial/brachial was the most frequent distribution for sensory-motor symptoms. Positive clinical–radiological correlation was observed in $84\%$ , headache in $22\%$ , and antiepileptics started in $78\%$ .  
+
+MRI showed chronic intracerebral hemorrhage in $10\%$ , cortical superficial siderosis in $68\%$ , cerebral microbleeds in $48\%$ , median total Fazekas score of 3, lacunes in $6\%$ and DWI lesion (all unique/cortical/ $<10~\mathrm{mm}$ ) in $6\%$ . cSAH involved a median of 1 sulcus, with central sulcus as most frequently $(47.5\%)$ involved followed by precentral sulcus $(17\%)$ . Median cSAH surface was $2170~\mathrm{mm}^{2}$ . No baseline, clinical or MRI characteristics were associated with cSAH surface extent in multivariate analysis.  
+
+Conclusions  Baseline, clinical, or MRI features seem not to influence CAA-related cSAH extent.   
+Clinical Trial Registration-URL: http://www.clinicaltrials.gov. Unique identifier: NCT04825808.  
+
+Keywords  Convexity subarachnoid haemorrhage $^{\ast}$ Elderly $^{\ast}$ MRI $\cdot$ Cerebral amyloid angiopathy $\cdot$ Surface  
+
+# Introduction  
+
+Acute convexity subarachnoid hemorrhage (cSAH) is considered primary in the absence of head trauma or underlying conditions like cerebral venous sinus thrombosis, aneurysm, primary angiitis of the central nervous system, endocarditis, posterior reversible encephalopathy syndrome, and vascular malformations [1–4]. In young patients, primary acute cSAH is often related to reversible cerebral vasoconstriction syndrome. In older patients, primary acute cSAH can be idiopathic or related to cerebral amyloid angiopathy (CAA) [1–4]. However, since acute cSAH evolves into cortical superficial siderosis (CSS), isolated (i.e. in the absence of other chronic hemorrhagic CAA features) acute cSAH in elderly patients may represent the initial manifestation of suspected CAA [5–8]. In elderly primary acute cSAH patients, the risk of future symptomatic intracerebral hemorrhage (ICH) depends on the presence of CAA criteria on MRI [9–11]. CAA patients with ICH and CSS, especially when multifocal, are particularly at risk for future symptomatic ICH [12].  
+
+Transient focal neurological episode (TFNE) is the most frequent presenting symptom of primary cSAH in elderly patients [5, 13–17]. TFNE is observed in $76-100\%$ of primary cSAH patients, and typically consists of unilateral migratory, spreading symptoms, which are often recurrent and stereotyped. Sensory symptoms have been reported more frequent than motor, visual, or speech symptoms. The exact underlying pathophysiology of TFNE symptoms is unknown. cSAH-related headache is seen in a minority of patients [1, 7, 13, 17, 18].  
+
+Relatively few detailed data are available on the TFNE number before cSAH diagnosis, TFNE duration, and extent of cSAH, and data on the speed of spreading symptoms (i.e. time interval between onset and maximal clinical involvement) have not been reported in previous case series of elderly primary acute cSAH patients [7, 14, 16, 18]. The extent of cSAH is normally semi-quantitatively classified into focal ( $\leq3$ sulci involved) and disseminated $\mathrm{\check{\Gamma}}>3$ sulci involved) [7, 14].  
+
+The aim of our study was to analyze baseline, clinical and MRI characteristics in a large case series of elderly primary acute cSAH patients with suspected, possible or probable CAA, with special interest to the detailed clinical characteristics of TFNE, and the extent and localization of cSAH (including quantitative cSAH surface analysis and topographical probabilistic cSAH mapping). We also aimed to study a potential relationship between the baseline/clinical/radiological features and the cSAH surface.  
+
+Special attention was paid to the patients with socalled idiopathic isolated cSAH (i.e. suspected CAA), by comparing their baseline, clinical, and MRI features with cSAH patients with possible or probable CAA.  
+
+# Methods  
+
+# Patient selection and study population  
+
+We retrospectively analyzed baseline, clinical, and MRI characteristics from consecutive patients $\geq55$ years presenting with primary acute cSAH potentially related to CAA, recruited and registered in the stroke database of two centers (Nîmes and Montpellier University Hospitals, France) between June 2008 and October 2020. The age cutof $\geq55$ years was determined in accordance to the modified Boston criteria.  
+
+Acute cSAH is well visualized on both unenhanced CT and MRI, especially on FLAIR sequence in the acute phase. In both including centers, acute phase MRI was systematically performed (unless presence of contraindication for MRI) in all patients presenting with acute focal neurological deficit, eligible for intravenous thrombolysis (IVT) or mechanical thrombectomy. MRI was used in preference to CT as most acute sCAH patients registered in our stroke database had MRI as initial brain imaging and CAA criteria are essentially MRI based.  
+
+Inclusion criteria were $\geq55$ years of age, acute symptomatic primary cSAH, MRI performed within 1 month after symptom onset, and available FLAIR and $\mathrm{T}2^{\ast}$ - or susceptibility-weighted MR sequences. Exclusion criteria were: recent trauma (i.e. traumatic brain injury with loss of consciousness or posttraumatic amnesia within three months preceding MRI), anticoagulation treatment, pathological blood coagulation tests (activated partial thromboplastin time [aPTT] ratio $=$ patient’s aPTT/normal control $\mathrm{aPTT}]>1.2$ ; or partial thromboplastin time $[\mathrm{PTT}]<75\%)$ or platelet count $(<100\times10^{9}/\mathrm{L})$ ), underlying non-CAA cSAH causes (e.g. reversible cerebral vasoconstriction syndrome, cerebral venous sinus thrombosis, aneurysm, primary angiitis of the central nervous system), the presence of deep gray matter/brainstem/deep cerebellar hemorrhagic features (excluding CAA diagnosis according to the modified Boston criteria) on MRI, and inflammatory CAA [19]. Since anticoagulants are at higher risk of brain hemorrhage than antiplatelets, only patients with anticoagulation treatment were excluded [20].  
+
+# Clinical data  
+
+Recorded baseline characteristics were age, sex, cardiovascular risk factors, history of cognitive deficit, and antiplatelet and lipid lowering treatment. Pre-admission cognitive testing was most often unavailable. Cognitive assessment on admission might not had properly reflected pre-cSAH cognitive functioning since cSAH can cause cognitive dysfunction (at least transitory). Therefore, history of cognitive deficit was based on the presence of subjective cognitive dysfunction reported by the patient or his family.  
+
+Analyzed characteristics of the clinical presentation preceding cSAH diagnosis included: TFNE presence; number of TFNE preceding initial radiological cSAH diagnosis by CT or MRI; TFNE symptoms (similar or different in case of $>1$ TFNE; total duration; presence of spreading character; sensory, motor, visual, or speech deficit; lateralization of symptoms; positive or negative symptoms, speed [i.e. time interval between onset and maximal clinical involvement] of spreading symptoms; and body localization of symptoms); correlation of clinical symptoms and cSAH localization; presence and type of non-TFNE symptoms; and antiepileptic drugs started. For the statistical analyses, the number of TFNE was categorized using cut-off points $(1,2,3,>3)$ . Only the speed of spreading TFNE symptoms was not included as specific item on the standard data collection form, and assessed based on detailed reviewing of each patient’s medical record. Collection of clinical data was performed blinded to imaging findings using standardized forms.  
+
+# MRI data  
+
+Different MRI scans with slightly different parameters were used. For MRI analyses, we assessed: time interval between symptom onset and MRI performance, MRI field strength, availability of diffusion-weighted imaging (DWI), data on chronic intracerebral hemorrhage (ICH) (i.e. presence and number), CSS (i.e. presence, focal or disseminated, multifocality score), and cerebral microbleeds (CMB) (i.e. presence and number), presence of possible or probable CAA criteria, extent of white matter hyperintensities on FLAIR (i.e. Fazekas total score and subscores), lacunes (i.e. presence and number), DWI lesions (i.e. presence, number, size, and localization), extent of cSAH (i.e. number of sulci involved, and multifocality score), and exact sulcus or sulci involved by cSAH. [12, 19, 21–23] cSAH, ICH, CSS, and CMB were defined and analyzed in line with consensus recommendations. [24, 25] For the statistical analyses, categorized cut-off points were used for the time interval between onset and MRI $(<1,1-2,3-5,6-10$ , and 11–30 days), the number of CMBs (0, 1–5, $6{-}10,>10$ ), and for the total Fazekas score $(\leq1,2,3,\geq4)$ . The multifocality score for acute cSAH was used, as described for CSS [12].  
+
+MRI images were reviewed by two trained observers by consensus (VA and DR, with 5 and 21 years of neuroradiological experience, respectively), according to the Standards for Reporting Vascular changes on nEuroimaging (STRIVE), blinded to clinical data [23]. Only axial images were analyzed.  
+
+When both $\mathrm{T}2^{*}.$ - and susceptibility-weighted images were available, $\mathrm{T}2^{\ast}$ -weighted imaging was used, as more patients lacked susceptibility-weighted imaging. MRI analysis of acute cSAH was performed using FLAIR. A lesion was considered DWI positive if it appeared hyperintense in DWI and hypointense on ADC map, and excluded if it appeared as hypointense on $\mathrm{T}2^{\ast}$ -weighted imaging (as this would reflect susceptibility artifact caused by a hemorrhagic lesion).  
+
+Since T1- and T2-weighted images were performed only in a subset of patients, dilated perivascular spaces were not analyzed in this study.  
+
+Based on associated hemorrhagic MRI features, patients were classified into suspected, possible or probable CAA. The modified Boston criteria determined classification into possible or probable CAA [19]. Since CSS is a result of an earlier acute cSAH, we considered patients with isolated acute cSAH (i.e. in the absence of other typical CAA-related hemorrhagic features) to have suspected CAA [5–8, 18].  
+
+# Quantitative cSAH surface analysis and topographical probabilistic mapping  
+
+Our artifact reduction protocol was adapted to the FLAIR dataset [26]. Briefly, raw images were converted to NIfTI format using the MRICron software (www.nitrc.org/proje cts/mricron), and the field inhomogeneities were corrected [27]. Gold standard manual segmentation was performed by two raters by consensus (DR and CT) using the ad hoc AFNI/SUMA plugin for interactive dataset edition [28]. Segmented regions were binarized, projected onto the native brain surface, and the total area was summed up for each subject. In addition, the unbiased FLAIR dataset was registered into the stereotaxic MNI-standard space according to our previous study [29]. This procedure estimated the nonlinear transformations to be applied on segmented images, allowing group comparisons via a one-sample t test. A final probabilistic map emerged from reducing the false-positive outcomes by implementing multiple comparison corrections with the Equitable Thresholding and Clustering algorithm (ETAC) [30].  
+
+# Statistics  
+
+Sociodemographic and clinical characteristics were described using median and range (min,max) for quantitative variables, and number and proportion for qualitative variables.  
+
+Comparisons of cSAH surface between categories of baseline, clinical, and MRI variables were performed using the Wilcoxon–Mann–Whitney test for 2-category variables and Kruskal–Wallis for the others. The correlation between cSAH surface and age was investigated by calculating the Spearman correlation coefficient. Variables associated with a $p<0.2$ in univariate analyses were included in a multivariate linear regression model to investigate factors independently associated with cSAH surface, after accounting for potential confounding effects.  
+
+Analyses were performed using SAS software, version 9.4 (SAS Institute, Cary, NC, USA).  
+
+# Standard protocol approvals, registrations and patients consents  
+
+The study was registered on clinicaltr ials.gov (NCT04825808) and performed in accordance with the guidelines and with the approval of the local institutional review board.  
+
+# Results  
+
+We included and analyzed 50 patients with primary acute cSAH (including 25 from Nîmes and 25 from Montpellier University Hospital). Median age was 74, and $68\%$ were women. The flow chart of patient selection is shown in Fig. 1 and baseline characteristics are shown in Table 1.  
+
+Data on clinical characteristics are shown in Table 2. All data were available in all patients, except for the speed of spreading TFNE symptoms only available in 16 out of the 31 TFNE patients presenting with spreading TFNE symptoms.  
+
+TFNE was present in $78\%$ of patients, most often with spreading symptoms (present in $79\%$ of TFNE patients), and with a median number of two TFNE before cSAH diagnosis. In patients with $>1$ TFNE, symptoms were similar in $74\%$ of cases and similar with additional symptoms in another $17\%$ . Median duration of TFNE was $15\mathrm{min}$ and the median speed of spreading symptoms was five minutes. TFNE symptoms were motor, sensory, involved speech, and visual in 85, 69,  
+
+Table 1   Baseline characteristics   
+
+
+<html><body><table><tr><td>Age:median,IQR,range (years)</td><td>74,69-79,55-93</td></tr><tr><td>Sex:female</td><td>34 (68%)</td></tr><tr><td>Hypertension:n (%)</td><td>27 (54%)</td></tr><tr><td>Diabetes: n (%)</td><td>8 (16%)</td></tr><tr><td>Hypercholesterolemia:n(%)</td><td>20 (40%)</td></tr><tr><td>Smoking: n(%)</td><td>6 (12%)</td></tr><tr><td>Cognitive dysfunction:n(%)</td><td>7 (14%)</td></tr><tr><td>Antiplatelet treatment:n(%)</td><td>13 (26%)</td></tr><tr><td>Lipid lowering treatment: n (%)</td><td>13 (26%)</td></tr></table></body></html>  
+
+46, and $8\%$ , respectively. TFNE symptoms were positive in $85\%$ of patients with sensory dysfunction and negative in $91\%$ of patients with motor dysfunction. Brachiofacial or brachial involvement was the most frequent body distribution observed for sensory (44 and $26\%$ , respectively) and motor (27.5 and $30.5\%$ , respectively) TFNE symptoms. Positive correlation between clinical symptoms and cSAH localization was observed in $84\%$ . Headache was present in $22\%$ . Symptoms other than TFNE or headache were reported in a minority of patients, including three patients with clinical presentation compatible with a generalized tonic–clonic seizure (i.e. loss of consciousness, bilateral myoclonus and postictal confusion). Antiepileptic drugs were started in $78\%$ of patients.  
+
+![](images/ac9ab03015814ac1f7ca76a815e7f80854fdc462e6b5937b415a8ade5fd384aa.jpg)  
+Fig. 1   Flowchart for patient inclusion  
+
+The inter-rater reliability for acute cSAH definition was excellent $(\mathrm{kappa}=0.93\$ ). MRI was performed a median of one day after symptom onset. The interval between symptom onset and MRI was $<1$ day in $44\%$ , and $<7$ days in $84\%$ of patients. MRI was performed with a $1.5\mathrm{~T~}$ magnet in all patients except two (with a $3\mathrm{~T~}$ magnet). DWI was available in all patients except two. Overall, $26\%$ had suspected, $22\%$ possible and $52\%$ probable CAA. The presence of chronic ICH was observed in $10\%$ , CSS in $68\%$ and CMB in $48\%$ of patients. Median total Fazekas score was three, with a median periventricular subscore of two and a basal ganglia subscore of zero. Lacunes were observed in $6\%$ and DWI lesion (all unique, cortical, and $<10\mathrm{mm}$ ) in $6\%$ of patients with available DWI.  
+
+Table 2   Clinical characteristics   
+
+
+<html><body><table><tr><td>Patients with TFNE</td><td>39 (78%)</td></tr><tr><td>Duration of TFNE: median, range (min)</td><td>15, 2-240</td></tr><tr><td>TFNE number (before cSAH diagnosis) when present: median, range</td><td>2, 1-10</td></tr><tr><td>1</td><td>16 (41%)</td></tr><tr><td>2</td><td>17 (44%)</td></tr><tr><td>3</td><td>4 (10%)</td></tr><tr><td>4</td><td>4 (10%)</td></tr><tr><td>>4</td><td>1 (3%)</td></tr><tr><td>When TFNE number>1 (n =26)</td><td></td></tr><tr><td>Different TFNE symptoms: n (%)</td><td>2 (9%)</td></tr><tr><td>Similar TFNE symptoms: n (%)</td><td>17 (74%)</td></tr><tr><td>Similar TFNE symptoms with additional symptoms: n (%)</td><td>4 (17%)</td></tr><tr><td>Presence of spreading character of symptoms: n (%)</td><td>31 (79%)</td></tr><tr><td>Speed of spreading (in 16 patients with spreading TFNE): median, range (min)</td><td>5,0.25-15</td></tr><tr><td>Presence of sensory TFNE symptoms: n (%)</td><td>27 (69%)</td></tr><tr><td>Lateralization symptoms: L, R, B</td><td>17 (63%), 9 (33%),1 (4%)</td></tr><tr><td>Positive, negative symptoms</td><td>23 (85%),4 (15%)</td></tr><tr><td>Localization symptoms: face only</td><td>2 (7%)</td></tr><tr><td>Localization symptoms: upper limb only</td><td>7 (26%)</td></tr><tr><td>Localization symptoms: lower limb only</td><td>0 (0%)</td></tr><tr><td>Localization symptoms: face and upper limb</td><td>12 (44%)</td></tr><tr><td>Localization symptoms: face, upper and lower limb</td><td>1 (4%)</td></tr><tr><td>Localization symptoms: upper and lower limb</td><td>5 (19%)</td></tr><tr><td>Localization symptoms: face and lower limb</td><td>0 (0%)</td></tr><tr><td>Presence of motor TFNE symptoms: n (%)</td><td>33 (85%)</td></tr><tr><td>Lateralization symptoms: L, R, B</td><td>22 (67%), 10 (30%), 1 (3%)</td></tr><tr><td>Positive, negative symptoms</td><td>3 (9%), 30 (91%)</td></tr><tr><td>Localization symptoms: face only</td><td>6 (18%)</td></tr><tr><td>Localization symptoms: upper limb only</td><td>10 (30.5%)</td></tr><tr><td>Localization symptoms: lower limb only</td><td>2 (6%)</td></tr><tr><td>Localization symptoms: face and upper limb</td><td>9 (27.5%)</td></tr><tr><td>Localization symptoms: face, upper and lower limb</td><td>1 (3%)</td></tr><tr><td>Localization symptoms: upper and lower limb</td><td>5 (15%)</td></tr><tr><td>Localization symptoms: face and lower limb</td><td>0 (0%)</td></tr><tr><td>Presence of visual TFNE symptoms: n (%)</td><td>3 (8%)</td></tr><tr><td>Lateralization symptoms: L, R, B</td><td>2 (67%), 1 (33%), 0 (0%)</td></tr><tr><td>Positive, negative symptoms</td><td>1 (33%),2 (67%)</td></tr><tr><td>Presence of speech TFNE symptoms: n (%)</td><td>18 (46%)</td></tr><tr><td>Headache: n (%)</td><td>11 (22%)</td></tr><tr><td>Confusion or decreased consciousness (without myoclonus): n (%)</td><td>4 (8%)</td></tr><tr><td>Nausea or vomiting: n (%)</td><td>3 (6%)</td></tr><tr><td>Generalized tonic-clonic seizure (decreased consciousness and bilateral myoclonus): n (%)</td><td>3 (6%)</td></tr><tr><td>Irritability: n (%)</td><td>1 (2%)</td></tr><tr><td>Mental slowing: n (%)</td><td>1 (2%)</td></tr><tr><td>Vertigo: n (%)</td><td>1 (2%)</td></tr><tr><td>Positive correlation between clinical symptoms and cSAH localization</td><td>42 (84%)</td></tr><tr><td></td><td></td></tr><tr><td>AED started: n (%) Levetiracetam: n (%)</td><td>39 (78%)</td></tr><tr><td></td><td>20 (51%) 12 (31%)</td></tr><tr><td>Lamotrigine: n (%)</td><td>5 (13%)</td></tr><tr><td>Lacosamide: n (%)</td><td></td></tr><tr><td>Carbamazepine: n (%)</td><td>1 (2.5%)</td></tr></table></body></html>  
+
+Table 2   (continued)   
+TFNE transient focal neurological episode, $cSAH$ convexity subarachnoid hemorrhage, $L$ left, $R$ right, $B$ bilateral, $AED$ antiepileptic drugs   
+
+
+<html><body><table><tr><td>Valproid acid and lacosamide: n (%)</td><td>1 (2.5%)</td></tr><tr><td></td><td></td></tr></table></body></html>  
+
+The median number of sulci involved by cSAH was 1 (range 1–5), with $42\%$ of patients presenting cSAH involving $>1$ sulcus. Data on cSAH multifocality score, localization, and quantitative surface analysis on MRI are shown in Table 3. Multifocal cSAH was rare, with $12\%$ of patients showing a multifocality score of 2, and no patients with scores $>2$ . The central sulcus was the sulcus most frequently involved $(47.5\%)$ , followed by the precentral sulcus $(17\%)$ .  
+
+Quantitative cSAH surface analysis showed a median surface of $2170~\mathrm{mm}^{2}$ (range 79–9455). The topographical probabilistic cSAH map of manual segmentation is shown in Fig. 2.  
+
+None of the baseline, clinical or MRI characteristics were associated with a larger extent of cSAH surface on multivariate analysis (Table 4).  
+
+Baseline, clinical, and MRI characteristics were similar (data not shown) between the suspected, possible and probable CAA patient groups, except for less frequent use of antiplatelet treatment in the suspected CAA group $(0\%)$ compared to the possible $(45\%)$ and probable $(31\%)$ CAA groups $\scriptstyle{p=0.0145})$ .  
+
+MRI data between 1.5 and $3\mathrm{~T~}$ MRI magnets were not compared because of the very small number of patients with $3\mathrm{T}$ MRI $(n=2)$ .  
+
+# Discussion  
+
+This study details the baseline, clinical, and MRI characteristics, including quantitative surface analyses and topographical probabilistic mapping of cSAH, of elderly patients with primary acute cSAH with suspected, possible or probable CAA.  
+
+To our knowledge, this is the first quantitative study of the acute cSAH surface (based on acute phase FLAIR imaging) in elderly primary cSAH patients. Since acute cSAHrelated FLAIR hyperintensities tend to decrease over time, FLAIR-based cSAH surface assessment in our study might have been underestimated. However, the time-related signal decrease on FLAIR was probably limited since the majority of patients had MRI shortly after symptom onset.  
+
+The use of MRI for cSAH assessment can be considered a study limitation since CT is used in the majority of centers as initial brain imaging in case of suspected acute cSAH. Therefore, results and analyses of quantitative cSAH data observed in our study should be confirmed on CT-based cSAH studies.  
+
+Table 3   cSAH characteristics on MRI   
+
+
+<html><body><table><tr><td>Multifocality score of cSAH: median,range, score 0/1/2/3/4</td><td>1,1-2,0 (0%)/44 (88%)/6 (12%)/0 (0%)/0 (0%)</td></tr><tr><td>Localization of sulcus involved by cSAH (total of 84 sulci involved)</td><td></td></tr><tr><td>Central</td><td>40 (47.5%)</td></tr><tr><td>Precentral</td><td>14 (17%)</td></tr><tr><td>Postcentral</td><td>5 (6%)</td></tr><tr><td>Intraparietal</td><td>4 (5%)</td></tr><tr><td>Superior frontal</td><td>3 (3.5%)</td></tr><tr><td>Inferior frontal</td><td>3 (3.5%)</td></tr><tr><td>Lateral</td><td>3 (3.5%)</td></tr><tr><td>Superior temporal</td><td>3 (3.5%)</td></tr><tr><td>Parieto-occipital</td><td>2 (2.5%)</td></tr><tr><td>Inferior temporal</td><td>2 (2.5%)</td></tr><tr><td>Temporo-parietal</td><td>2 (2.5%)</td></tr><tr><td>Calcarine</td><td>1 (1%)</td></tr><tr><td>Subparietal</td><td>1 (1%)</td></tr><tr><td>Temporo-occipital</td><td>1 (1%)</td></tr><tr><td>Quantitative cSAH surface analysis (mm²): median, range</td><td>2170,79-9455</td></tr></table></body></html>
+
+cSAH convexity subarachnoid hemorrhage  
+
+![](images/0c4cae9869b042e8232f044cc7b43ff4be97a9a61d959284cc1ac2a36b786b11.jpg)  
+Fig. 2   Topographical probabilistic cSAH map of manual segmentation showing the central sulcus as the most frequently involved sulcus (arrows, axial views, $\mathbf{A}{-}\mathbf{E}$ ; F showing 3D lateral view of the brain   
+and the corresponding axial slices shown on $\mathbf{A}{\mathbf{-}}\mathbf{E}$ , together with colour gradient scale with corresponding $Z$ scores) in our patients  
+
+Most of these characteristics were comparable with earlier reported data except for predominant TFNE symptoms, chronic hemorrhagic CAA lesions, and DWI lesions [5, 7, 9–11, 13–16, 31]. In contrast with earlier studies, motor (negative in the vast majority of patients) TFNE symptoms were more frequent than sensory symptoms in our study. This probably reflects a selection bias since both including centers were tertiary neurovascular care units for acute stroke patients (typically presenting with negative motor symptoms) eligible for intravenous thrombolysis and mechanical thrombectomy. Chronic hemorrhagic CAA (i.e. ICH, CSS, CMB) lesions were less frequent compared with earlier studies including acute cSAH patients with possible or probable CAA [5, 7, 9, 13, 14, 16, 18]. This can probably be explained by the fact that we also included patients with isolated cSAH representing about a quarter of our cohort. The low incidence of associated DWI lesions corresponded to the reports analyzing DWI in CAA-related cSAH patients [13, 16]. In contrast, one other report specifically focusing on acute DWI lesions in CAA-cSAH reported DWI lesions in nearly half of the patients in the acute cSAH phase [31]. However, in the latter study, DWI lesions also included lesions isointense (and thus not hypointense as typical of early ischemic lesions) on ADC map, $80\%$ of DWI lesions were very small $\mathrm{\Lambda}^{\prime}<5\mathrm{mm}$ ), and DWI lesions were assessed without taking into account possible co-localization with CMB. Some of these lesions potentially represented a T2 shine-through effect of chronic ischemic lesions or a susceptibility effect of small hemorrhagic lesions, resulting in a possible overestimation of true acute ischemic DWI lesions.  
+
+In our study, baseline characteristics, clinical symptoms revealing cSAH, CAA-related MRI features and cSAH localization were not related to the extent of cSAH. Although our study represents the largest series of primary acute cSAH in elderly patients to date, the patient numbers in our study were still limited, potentially explaining the lack of statistical significant association observed.  
+
+The similar baseline, clinical, and MRI characteristics between suspected, possible and probable CAA groups suggest shared CAA-related pathophysiology of cSAH occurrence.  
+
+Since the presence of cSAH represents a risk factor for future symptomatic ICH in CAA, it might be interesting to also include cSAH extent in future studies analyzing the risk for future ICH.  
+
+Table 4   cSAH surface against baseline, clinical and MRI characteristics   
+
+
+<html><body><table><tr><td rowspan="3">Age</td><td rowspan="3">cSAH surface, median</td><td colspan="2">Spearman correlation coefficient</td></tr><tr><td colspan="2">0.13</td></tr><tr><td>p value univariate analysis</td><td>p value multi- variate analysis</td></tr><tr><td>Sex: M vs. F</td><td>2491 vs.2170</td><td>0.76</td><td></td></tr><tr><td>Hypertension: presence vs. absence</td><td>2161 vs.2178</td><td>0.42</td><td></td></tr><tr><td>Diabetes: presence vs. absence</td><td>3112 vs.2170</td><td>0.55</td><td></td></tr><tr><td>Hypercholesterolemia: presence vs. absence</td><td>837 vs.2357</td><td>0.15</td><td>0.93</td></tr><tr><td>Smoking: presence vs. absence</td><td>238 vs.2272</td><td>0.024*</td><td>0.14</td></tr><tr><td>Cognitive deficit: presence vs. absence</td><td>455 vs.2236</td><td>0.23</td><td></td></tr><tr><td>Antiplatelet treatment: presence vs. absence</td><td>851 vs.2236</td><td>0.33</td><td></td></tr><tr><td>Lipid lowering treatment: presence vs. absence</td><td>704 vs.2308</td><td>0.10</td><td>0.45</td></tr><tr><td>TFNE: presence vs. absence</td><td>2178 vs. 1411</td><td>0.67</td><td></td></tr><tr><td>TFNE number: 1 vs. 2 vs.3 vs>3</td><td>2460 vs.2144 vs.1529 vs.3721</td><td>0.6</td><td></td></tr><tr><td>Headache: presence vs. absence</td><td>2308 vs.2161</td><td>1.00</td><td></td></tr><tr><td>Spreading TFNE symptoms: presence vs. absence</td><td>2178 vs.2545</td><td>0.32</td><td></td></tr><tr><td>Time interval (days) between onset and MRI: <1 vs.1-2 vs. 3-5,vs 6-10 vs.11-30</td><td>1474 vs.2503 vs.1606 vs.5256 vs.2308</td><td>0.44</td><td></td></tr><tr><td>ICH: presence vs.absence</td><td>2308 vs.2161</td><td>0.63</td><td></td></tr><tr><td>CSS:presence vs.absence</td><td>2320 vs.2138</td><td>0.50</td><td></td></tr><tr><td>CMB:presence vs.absence</td><td>2434 vs. 2144</td><td>0.78</td><td></td></tr><tr><td>CMB number:0 vs.1-5 vs.6-10 vs.>10</td><td>2144 vs.3325 vs.1131 vs.1946</td><td>0.38</td><td></td></tr><tr><td>CAA criteria: suspected vs. possible vs. probable</td><td>2098 vs.2127vs.2470</td><td>0.89</td><td></td></tr><tr><td>Total Fazekas score:≤1 vs. 2 vs. 3 vs.≥4</td><td>1642 vs.2308 vs.2382vs.1410</td><td>0.61</td><td></td></tr><tr><td>cSAH: central vs. other sulcus</td><td>2328 vs.1754</td><td>0.45</td><td></td></tr><tr><td>cSAH: precentral vs. other sulcus</td><td>3480 vs. 2144</td><td>0.18</td><td>0.74</td></tr><tr><td>cSAH: postcentral vs. other sulcus</td><td>2127 vs.2178</td><td>0.24</td><td></td></tr><tr><td>Lacune: presence vs. absence</td><td>285 vs.2236</td><td>0.07</td><td>0.51</td></tr><tr><td>DWI lesion: presence vs. absence</td><td>1411 vs.2207</td><td>0.56</td><td></td></tr></table></body></html>
+
+$cSAH$ convexity subarachnoid hemorrhage, M male, $F$ female, TFNE transient focal neurological episode, ICH intracerebral hemorrhage, CSS cortical superfcial siderosis, CAA cerebral amyloid angiopathy, DWIdiffusion-weighted imaging \* when $p<0.05$  
+
+Acknowledgements  We would like to thank Dr. Sarah Kabani (Service de Biostatistique, Epidémiologie Clinique, Santé Publique et Innovation en Méthodologie (BESPIM), CHU de Nîmes, 4 Rue du Professeur Debré, 30029 Nîmes Cedex 09) for proofreading our manuscript.  
+
+# Declarations  
+
+Conflict of interest  The authors declare that they have no conflict of interest.  
+
+Ethical approval  All subjects have given their informed consent to report data given. The manuscript was approved by the institute’s committee on human research.  
+
+# References  
+
+1.	 Khurram A, Kleinig T, Leyden J (2014) Clinical associations and causes of convexity subarachnoid hemorrhage. Stroke 45(4):1151–1153   
+2.	 Graff-Radford J, Fugate JE, Klaas J, Flemming KD, Brown RD, Rabinstein AA (2016) Distinguishing clinical and radiological features of non-traumatic convexal subarachnoid hemorrhage. Eur J Neurol 23(5):839–846   
+3.	 Forman R, Conners JJ, Song SY, John S, Garg R, Harris J et al (2019) The spectrum of nontraumatic convexity subarachnoid hemorrhage. J Stroke Cerebrovasc Dis 28(12):104473   
+4.	 Geraldes R, Sousa PR, Fonseca AC, Falcão F, Canhão P, Pinho e Melo T (2014) Nontraumatic convexity subarachnoid hemorrhage: different etiologies and outcomes. J Stroke Cerebrovasc Dis 23(1):e23–e30   
+5.	 Charidimou A, Boulouis G, Fotiadis P, Xiong L, Ayres AM, Schwab KM et al (2018) Acute convexity subarachnoid haemorrhage and cortical superficial siderosis in probable cerebral annyro ngropatny rosurg Psychiatry 89(4):397–403 6.	 Linn J, Herms J, Dichgans M, Brückmann H, Fesl G, Freilinger T et al (2008) Subarachnoid hemosiderosis and superficial cortical hemosiderosis in cerebral amyloid angiopathy. AJNR Am J Neuroradiol 29(1):184–186 7.	 Calviere L, Cuvinciuc V, Raposo N, Faury A, Cognard C, Larrue V et al (2016) Acute convexity subarachnoid hemorrhage related to cerebral amyloid angiopathy: clinicoradiological features and outcome. J Stroke Cerebrovasc Dis 25(5):1009–1016 8.	 Raposo N, Viguier A, Cuvinciuc V, Calviere L, Cognard C, Bonneville F et al (2011) Cortical subarachnoid haemorrhage in the elderly: a recurrent event probably related to cerebral amyloid angiopathy: cortical subarachnoid haemorrhage in the elderly. Eur J Neurol 18(4):597–603 9.	 Wilson D, Hostettler IC, Ambler G, Banerjee G, Jäger HR, Werring DJ (2017) Convexity subarachnoid haemorrhage has a high risk of intracerebral haemorrhage in suspected cerebral amyloid angiopathy. J Neurol 264(4):664–673   
+10. Calviere L, Viguier A, Patsoura S, Rousseau V, Albucher JF, Planton M et al (2019) Risk of intracerebral hemorrhage and mortality after convexity subarachnoid hemorrhage in cerebral amyloid angiopathy. Stroke 50(9):2562–2564   
+11. Viguier A, Raposo N, Patsoura S, Calviere L, Albucher JF, Ruidavets JB et al (2019) Subarachnoid and subdural hemorrhages in lobar intracerebral hemorrhage associated with cerebral amyloid angiopathy. Stroke 50(6):1567–1569   
+12. Charidimou A,Boulouis G, Roongpiboonsopit D, Auriel , Pasi M, Haley K et al (2017) Cortical superficial siderosis multifocality in cerebral amyloid angiopathy: a prospective study. Neurology 89(21):2128–2135   
+13. Apoil M, Cogez J, Dubuc L, Bataille M, de la Sayette V, Touze E et al (2013) Focal cortical subarachnoid hemorrhage revealed by recurrent paresthesias: a clinico-radiological syndrome strongly associated with cerebral amyloid angiopathy. Cerebrovasc Dis 36(2):139–144   
+14. Ni J, Auriel E, Jindal J, Ayres A, Schwab KM, Martinez-Ramirez S et al (2015) The characteristics of superficial siderosis and convexity subarachnoid hemorrhage and clinical relevance in suspected cerebral amyloid angiopathy. Cerebrovasc Dis 39(5–6):278–286   
+15. Stanton JED, Chandratheva A, Wilson D, Hostettler IC, Islam S, Werring DJ (2020) Clinical features distinguish cerebral amyloid angiopathy-associated convexity subarachnoid haemorrhage from suspected TIA. J Neurol 267(1):133–137   
+16. Charidimou A, Peeters A, Fox Z, Gregoire SM, Vandermeeren Y, Laloux P et al (2012) Spectrum of transient focal neurological episodes in cerebral amyloid angiopathy: multicentre magnetic resonance imaging cohort study and meta-analysis. Stroke 43(9):2324–2330   
+17. Beitzke M, Gattringer T, Enzinger C, Wagner G, Niederkorn K, Fazekas F (2011) Clinical presentation, etiology, and long-term prognosis in patients with nontraumatic convexal subarachnoid hemorrhage. Stroke 42(11):3055–3060   
+18. Raposo N,Calviere L, Cazzola V, Planton M, Patsoura S, Wargny M et al (2018) Cortical superficial siderosis and acute convexity subarachnoid hemorrhage in cerebral amyloid angiopathy. Eur J Neurol 25(2):253–259   
+19. Linn J, Halpin A, Demaerel P, Ruhland J, Giese AD, Dichgans M et al (2010) Prevalence of superficial siderosis in patients with cerebral amyloid angiopathy. Neurology 74(17):1346–1350   
+20. Best JG, Jesuthasan A, Werring DJ (2022) Cerebral small vessel disease and intracranial bleeding risk: prognostic and practical significance. Int J Stroke. https://doi.org/10.1177/1747493022 1106014   
+21. Wardlaw JM, Smith C, Dichgans M (2019) Small vessel disease: mechanisms and clinical implications. Lancet Neurol 18(7):684–696   
+22. Fazekas F, Chawluk J, Alavi A, Hurtig H, Zimmerman R (1987) MR signal abnormalities at $1.5\mathrm{~T~}$ in Alzheimer’s dementia and normal aging. Am J Roentgenol 149(2):351–356   
+23. Wardlaw JM, Smith EE, Biessels GJ, Cordonnier C, Fazekas F, Frayne R et al (2013) Neuroimaging standards for research into small vessel disease and its contribution to ageing and neurodegeneration. Lancet Neurol 12(8):822–838   
+24. Charidimou A, Linn J, Vernooij MW, Opherk C, Akoudad S, Baron JC et al (2015) Cortical superficial siderosis: detection and clinical significance in cerebral amyloid angiopathy and related conditions. Brain 138(8):2126–2139   
+25. Greenberg SM, Vernooij MW, Cordonnier C, Viswanathan A, AlShahi Salman R, Warach S et al (2009) Cerebral microbleeds: a guide to detection and interpretation. Lancet Neurol 8(2):165–174   
+26. Bonilha L, Rorden C, Castellano G, Pereira F, Rio PA, Cendes F et al (2004) Voxel-based morphometry reveals gray matter network atrophy in refractory medial temporal lobe epilepsy. Arch Neurol 61(9):1379   
+27. Tustison NJ, Avants BB, Cook PA, Zheng Y, Egan A, Yushkevich PA et al (2010) N4ITK: improved N3 bias correction. IEEE Trans Med Imaging 29(6):1310–1320   
+28. Cox RW (1996) AFNI: software for analysis and visualization of functional magnetic resonance neuroimages. Comput Biomed Res 29(3):162–173   
+29. Jollant F, Wagner G, Richard-Devantoy S, Kohler S, Bar KJ, Turecki G et al (2018) Neuroimaging-informed phenotypes of suicidal behavior: a family history of suicide and the use of a violent suicidal means. Transl Psychiatry 8(1):120   
+30. Cox RW (2019) Equitable thresholding and clustering: a novel method for functional magnetic resonance imaging clustering in AFNI. Brain Connectivity 9(7):529–538   
+31. Beitzke M, Enzinger C, Pichler A, Wunsch G, Fazekas F (2018) Acute diffusion-weighted imaging lesions in cerebral amyloid angiopathy-related convexal subarachnoid hemorrhage. J Cereb Blood Flow Metab 38(2):225–229  
+
+Publisher's Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.  
+
+Springer Nature or its licensor holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.  

@@ -1,0 +1,242 @@
+# Early REperfusion therapy with intravenous alteplase for recovery of VISION in acute central retinal artery occlusion (REVISION): Study protocol of a phase III trial  
+
+Sven Poli $^{1,2}\textcircled{\scriptsize{10}}$ , Carsten Grohmann3, Daniel A Wenzel4,   
+Khouloud Poli1,2, Johannes Tünnerhoff $\cdot2\textcircled{\scriptsize{10}}$ , Max Nedelmann5,   
+Jens Fiehler6,7, Ina Burghaus8, Monika Lehmann8, Monika Glauch9,   
+Hauke M Schadwinkel3, Pia Kalmbach1,2, Julia Zeller1,2,   
+Tobias Peters4, Christoph Eschenfelder10 Hansjürgen Agostini11,   
+Bruce CV Campbell $^{12}\textcircled{10}$ , M Dominik Fischer13,14, Marek Sykora15,16,   
+Brian Mac Grory17,18, Nicolas Feltgen19, Markus Kowarik1,2,   
+David Seiffge $:20\textcircled{\scriptsize{10}}$ , Daniel Strbian21, Michael Albrecht22,   
+Mohammad S Alzureiqi23, Gerd Auffarth22, Hansjörg Bäzner24,   
+Stefanie Behnke25, Anne Berberich26, Felix Bode27,   
+Ferdinand O Bohmann28, Bastian Cheng29, Michael Czihal30,   
+Leon A. Danyel31, Spyridon Dimopoulos4, João D Pinhal   
+Ferreira de Pinho32, Fabian N Fries33, Maria-Andreea Gamulescu34,   
+Florian Gekeler35, Alexandra Gomez-Exposito1,2, Christoph Gumbinger36,   
+Rainer Guthoff37, Lars-Olof Hattenbach38, Lars Kellert39,   
+Ramin Khoramnia22, Thomas Kohnen40, David Kürten41,   
+Bernhard Lackner35, Mona Laible42, John-Ih Lee43, Christoph Leithner31,   
+Raffael Liegl44, Piergiorgio Lochner45, Marc Mackert46, Joshua Mbroh1,2,   
+Susanne Müller42, Simon Nagel26, Michelle Prasuhn47, Jan Purrucker36,   
+Arno Reich32, Sibu Mundiyanapurath36, Georg Royl48, Daniel J Salchow23,   
+Jan H Schäfer28, Felix Schlachetzki49, Ingo Schmack40, Götz Thomalla29,   
+Maria P Tieck Fernandez1,2, Philip Wakili50, Peter Walter41,   
+Armin Wolf50, Marc Wolf24, Karl U Bartz-Schmidt4, Maximilian Schultheis   
+Martin S Spitzer3\*; on behalf of the REVISION investigators  
+
+# Abstract  
+
+Rationale: Meta-analyses of case series of non-arteritic central retinal artery occlusion (CRAO) indicate beneficial effects of intravenous thrombolysis when initiated early after symptom onset. Randomized data are lacking to address this question.  
+
+Aims: The REperfusion therapy with intravenous alteplase for recovery of VISION in acute central retinal artery occlusion (REVISION) investigates intravenous alteplase within $4.5\mathrm{h}$ of monocular vision loss due to acute CRAO.  
+
+Methods: This study is the randomized (1:1), double-blind, placebo-controlled, multicenter adaptive phase III trial.  
+
+Study outcomes: Primary outcome is functional recovery to normal or mildly impaired vision in the affected eye defined as best-corrected visual acuity of the Logarithm of the Minimum Angle of Resolution of 0.5 or less at 30 days (intention-to-treat analysis). Secondary efficacy outcomes include modified Rankin Score at 90 days and quality of life. Safety outcomes include symptomatic intracranial hemorrhage, major bleeding (International Society on Thrombosis and Haemostasis definition) and mortality. Exploratory analyses of optical coherence tomography/angiography, ultrasound and magnetic resonance imaging (MRI) biomarkers will be conducted.  
+
+Sample size: Using an adaptive design with interim analysis at 120 patients, up to 422 participants (211 per arm) would be needed for $80\%$ power (one-sided alpha $=0.025$ ) to detect a difference of $15\%$ , assuming functional recovery rates of $10\%$ in the placebo arm and $25\%$ in the alteplase arm.  
+
+Discussion: By enrolling patients within $4.5\mathrm{h}$ of CRAO onset, REVISION uses insights from meta-analyses of CRAO case series and randomized thrombolysis trials in acute ischemic stroke. Increased rates of early reperfusion and good neurological outcomes in stroke may translate to CRAO with its similar pathophysiology.  
+
+Trial registration: ClinicalTrials.gov: NCT04965038; EU Trial Number: 2023-507388-21-00.  
+
+# Keywords  
+
+Central retinal artery occlusion, CRAO, reperfusion, intravenous thrombolysis  
+
+Received: 29 January 2024; accepted: 26 March 2024  
+
+46Department of Ophthalmology, Ludwig Maximilian University (LMU), Munich, Germany   
+47Department of Ophthalmology, University Medical Center Schleswig-Holstein, Campus Lübeck, Germany   
+48Department of Neurology, University Medical Center Schleswig-Holstein, Campus Lübeck, Germany   
+49Department of Neurology, University Hospital Regensburg, Germany   
+50Department of Ophthalmology, Klinik Sulzbach, Knappschaftsklinikum Saar, Germany   
+51Department of Ophthalmology, University Hospital Ulm, Germany   
+52AugenChirurgie München, Eye Clinic Herzog Carl Theodor, Munich, Germany  
+
+\*Maximilian Schultheiss and Martin S Spitzer contributed equally to this study.  
+
+# Corresponding author:  
+
+Sven Poli, Department of Neurology, University Hospital Tübingen, Hoppe-Seyler-Str. 3, 72076 Tübingen, Germany. Email: sven.poli@uni-tuebingen.de; Twitter: @SvenPoli  
+
+# Introduction and rationale  
+
+Thromboembolic central retinal artery occlusion (CRAO) is an acute neurovascular-ophthalmological emergency that leads to severe and permanent vision loss in $90\%$ of affected eyes.1 Non-arteritic etiology accounts for $95\%$ of CRAO cases with no evidence-based therapy being available despite widely practiced treatments including hemodilution, ocular massage, or paracentesis.2,3 Animal models have proven limited tolerance of the retina to ischemia with irreversible damage occurring within $^{2-41}$ after cessation of arterial blood supply.4,5 Therefore, as with cerebral ischemic stroke,6 establishing early reperfusion seems the logical therapeutic approach.  
+
+Two randomized controlled trials tested intra-arterial7 and intravenous thrombolysis $(\mathrm{IVT})^{8}$ in non-arteritic CRAO but could not demonstrate beneficial treatment effects.3 Enrolment time windows in these trials, however, were 20 and $^{241}$ and only one patient received thrombolytic therapy within less than $4.5\mathrm{h}$ of vision loss.7,8 Moreover, symptomatic intracranial hemorrhage rates in the thrombolysis arms were 5% and 12.5%.7,8  
+
+In contrast, recent individual patient-level meta-analyses comprising data from retrospective and prospective observational cohort studies, case series and the two randomized controlled trials found a low $(1\%)$ risk of symptomatic intracranial hemorrhage and indicate enhanced vision recovery associated with early thrombolytic therapy.9,10 Comparison of 238 CRAO patients who underwent IVT to 396 natural history patients revealed higher rates of vision recovery only in those in whom thrombolysis had been initiated within $4.5\mathrm{h}$ after symptom onset.9 Data in these meta-analyses, however, stems from small case series, with the largest comprising 30 thrombolysed patients, and only 67 patients had received intravenous alteplase, which is best established for treatment of acute stroke, within $4.5\mathrm{h}$ .9  
+
+Yet, neither efficacy nor safety of early IVT in general nor specifically of alteplase can be considered as established for treatment of CRAO. Ophthalmological and stroke societies have expressed the need for high-quality clinical trials.2,11  
+
+The REVISION randomized trial consequently investigates IVT with alteplase within $4.5\mathrm{h}$ of CRAO onset for achieving recovery of vision.  
+
+# Methods  
+
+The study protocol is provided as Supplemental Material.  
+
+# Design  
+
+This is a randomized (1:1), double-blind, placebo-controlled, multicenter adaptive phase III trial.  
+
+# Patient population  
+
+Adults with acute painless monocular vision loss to the level of functional blindness due to non-arteritic CRAO and previously near normal vision that allowed reading with the affected eye.  
+
+Inclusion criteria were as follows:  
+
+age $\geqslant18$ years;   
+acute non-arteritic CRAO confirmed by an experienced ophthalmologist through assessment of visual acuity, intraocular pressure, relative afferent pupil defect, slit-lamp biomicroscopy, and fundoscopy; optical coherence tomography (OCT) of the macula of both eyes if feasible within $10\mathrm{min}$ ;   
+functional blindness of the affected eye defined as best-corrected visual acuity of the Logarithm of the Minimum Angle of Resolution $(\mathrm{LogMAR})\gtrsim1.3$ ; reading was possible with the affected eye before CRAO $(\mathrm{LogMAR}\leqslant0.5\$ );   
+neurological assessment including the National Institutes of Health Stroke Scale (NIHSS) score performed by an experienced stroke physician;   
+cranial CT or magnetic resonance imaging (MRI); study treatment can be initiated within $4.5\mathrm{h}$ of symptom onset;  
+
+![](images/359c25ee79d58e1ac2573916fd28e8b9c1c7bbd7a02be55e6e88c05b8f64289d.jpg)  
+Figure 1.  Study flow. CRAO: central retinal artery occlusion.  
+
+written informed consent from patient.  
+
+Key exclusion criteria were as follows:  
+
+suspected giant cell arteritis;   
+rapidly improving vision in the affected eye;   
+acute cerebral stroke with indication for on-label thrombolysis;   
+contraindication for thrombolysis.  
+
+indistinguishable from the active drug, and administered in the same way.  
+
+# Primary outcome  
+
+Primary efficacy of IVT is determined by the functional recovery to normal or mildly impaired vision in the affected eye $(\mathrm{LogMAR}\leqslant0.5)$ in the thrombolysis and control arms at 30 days.  
+
+# Randomization  
+
+Patients are randomized (1:1) using block randomization without stratification. The randomization list is provided by Technical University Munich Trial Center, Germany. Randomization is completed by an investigator opening the study treatment package with the lowest randomization number that is available at the respective trial site.  
+
+# Study intervention  
+
+IVT: alteplase (Actilyse; Boehringer Ingelheim, Germany) is administered intravenously at $0.9\mathrm{mg/kg}$ of bodyweight (maximum $90\mathrm{mg}$ ). $10\%$ of the dose are given as bolus and the remaining $90\%$ as continuous infusion over $^{1\mathrm{h}}$ (see Figure 1).  
+
+Control treatment: placebo (Boehringer Ingelheim) includes all ingredients of Actilyse except alteplase, is  
+
+# Secondary outcomes  
+
+Main secondary efficacy outcomes are the scores on the modified Rankin Scale and National Eye Institute Visual Function Questionnaire-25 at 30 and 90 days, and vision recovery at $^{241}$ and 90 days. Further secondary efficacy outcomes include number and volume of ischemic lesions on MRI at $24\mathrm{h}$ , central retinal artery recanalization on OCT/angiography at $^{241}$ , 30 and 90 days, retinal perfusion on fluorescein angiography, and the kinetic visual field at 30 and 90 days.  
+
+Safety outcomes include symptomatic and any intracranial hemorrhage, intraocular hemorrhage and major bleeding (International Society on Thrombosis and Haemostasis definition) at $^{241}$ , treatment-requiring retinal neovascularization, and mortality until 90 days. Exploratory analyses of OCT/angiography, transorbital ultrasound, and MRI biomarkers for outcome and treatment response prediction will be conducted. OCT/angiography and MRI are core lab-adjudicated.  
+
+# Blinding  
+
+The trial is double-blinded. Boehringer Ingelheim provides alteplase and placebo to the pharmacy at University Medical Center Hamburg-Eppendorf, Germany, which labels, packs, and distributes study medication to trial sites along with respective unblinding envelopes. Labeling follows the randomization list which is kept in safe and confidential custody at the provider, the pharmacy, an independent unblinded statistician, and Data Safety Monitoring Board (DSMB). Unblinding envelopes may be opened by an investigator if medically imperative.  
+
+# Data Safety Monitoring Board  
+
+Two independent clinical CRAO/thrombolysis trial experts and one statistician ensure ethical conduct of the trial and protect the rights and welfare of participants. DSMB receives periodic reports (see Supplemental Material) and meets in semiannual intervals.  
+
+# Sample size estimates  
+
+Based on recent meta-analyses9,10 and our case series,12 we conservatively estimated the rate of functional recovery in affected eyes to $\mathrm{LogMAR}\leqslant0.5$ to be $10\%$ in the placebo arm and $25\%$ in the alteplase arm. Expecting a $10\%$ drop-out rate, a maximum of 211 patients per arm would be needed for a one-sided test at alpha 0.025 to detect a treatment effect with overall $80\%$ power. Adaptive design13 allows the trial to be stopped for success $(\mathtt{p}<0.0102)$ or futility $(\mathrm{p}\geqslant0.5)$ after interim analysis at 96 patients or to be continued with up to additional 244 patients considering a conditional power of $\sim75\%$ for the second stage. Assuming $10\%$ missing values, total sample size would be 422 according to Lachin14 with interim analysis at 120 patients and maximally 302 additional patients.  
+
+# Statistical analyses  
+
+Primary analysis will test the null hypothesis that the rate of functional recovery to $\mathrm{LogMAR}\leqslant0.5$ at 30 days is at least as high in the placebo arm as it is in the alteplase arm (intention-to-treat analysis), at a one-sided alpha 0.025 level using a logistic regression model with functional recovery as the response variable and best corrected visual acuity at baseline (i.e. screening) and treatment as explanatory variables. Visual acuity is assessed at baseline, $^{241}$ , 30 and 90 days. Missing values will be imputed conditionally on previous values, age and sex. Primary analysis will be performed for the full analysis set which comprises all randomized patients unless ${<}18$ years, no written informed consent provided and/or intracranial hemorrhage visible on screening CT/MRI (except microbleeds on MRI).  
+
+Secondary analyses will include shift analyses of the modified Rankin Scale and vision outcome categories according to World Health Organization International Classification of Diseases 11 (normal vision $(\mathrm{LogMAR}\leqslant0\$ ); mild $(\mathrm{LogMAR}>0\$ to $\leqslant0.5$ ); moderate $(\mathrm{LogMAR}>0.5\$ to $\leqslant1.0$ ); severe vision impairment $(\mathrm{LogMAR}>1.0\$ to $\leqslant1.3$ ); $\mathrm{LogMAR}>1.3$ to counting fingers; hand motion or light perception; no light perception). Continuous variables will be analyzed with linear regression methods. Subgroup analyses will be conducted based on presence/ absence of the retrobulbar spot sign on ultrasound15 and relative retinal thickness on OCT of the macula.16 In these analyses, respective variables will be used as additional explanatory variables.  
+
+# Study organization  
+
+Recruitment is planned at trial sites in Germany, Austria, and Switzerland. REVISION is carried out according to Good Clinical Practice E6(R2) guidelines and the current Declaration of Helsinki. Trial sponsor is Medical Faculty of Tübingen University, Germany. Center for Clinical Trials at Heidelberg University, Germany, coordinates and monitors the trial.  
+
+# Study conduct  
+
+First patient was enrolled on 10 October 2022. Estimated study completion date is 31 December 2025.  
+
+# Protocol amendments  
+
+Until first active version 3 (20 May 2022), regulatory requests of competent authorities were implemented.  
+
+# Discussion  
+
+Fundamental considerations based on recent meta-analy$\mathrm{ses}^{9,10}$ and our case series12 which indicate enhanced vision recovery when IVT is initiated within $4.5\mathrm{h}$ of CRAO onset were implemented in the design of REVISION.  
+
+In CRAO, the size of the occluded vessel does not allow for endovascular mechanical thrombectomy. Invasiveness, only marginally higher recanalization rates and procedureassociated treatment delays made us decide against intraarterial thrombolysis.17  
+
+We adopted the therapeutic window, thrombolytic drug, and dose established for IVT in stroke. Although (intracranial) bleeding risk is increased with standard dose alteplase at $0.9\mathrm{mg/kg}$ of bodyweight, low-dose alteplase $(0.6\mathrm{mg/\Omega}$ ${\mathrm{kg}},$ could not demonstrate non-inferiority. Tenecteplase may be an excellent alternative but has not been evaluated in $\mathrm{CRAO^{9,10}}$ and has only recently been recommended by guidelines for stroke.19,20  
+
+Limiting enrollment to patients with massive vision loss in the affected eye to functional blindness $(\mathrm{LogMAR}>1.3)$ at screening and at most midly impaired vision that permitted reading $(\mathrm{LogMAR}\leqslant0.5)$ ) before CRAO justifies using a potentially harmful therapy with full recovery and severe disability as alternative outcomes. It also avoids bias through unbalanced visual acuity at baseline and most reliably indicates CRAO as opposed to branch artery occlusion, which is more likely to have better prognosis independent of treatment.21  
+
+Recovery of vision to $\mathrm{LogMAR}\leqslant0.5$ in affected eyes at 30 days will be compared between treatment arms for primary efficacy assessment. Vision usually recovers within the first 7 days but not beyond 30 days after CRAO.21 $\mathrm{LogMAR}\leqslant0.5$ permits reading with the affected eye and is thus best suited to distinguish favorable from unfavorable outcome.12 Mean LogMAR changes, on the contrary, may not reflect relevant improvement although being statistically significant.12 Moreover, recovery to $\mathrm{LogMAR}\leqslant0.5$ represents true recovery of retinal function rather than apparent recovery through eccentric fixation, a common phenomenon after CRAO.21 $\mathrm{LogMAR}\leqslant0.5$ cannot be achieved through eccentric fixation due to low spatial resolution in the peripheral visual field.22  
+
+Patients with suspected giant cell arteritis are excluded from trial participation. Arteritic CRAO features different pathophysiology and outcomes compared to thromboembolic CRAO, and evidence-based (corticosteroid) treatment is available.21  
+
+Brain imaging before randomization and study treatment shall increase the participants’ safety by ruling out intracranial pathology including subacute infarcts that may increase the risk of intracranial hemorrhage. Follow-up MRI instead of CT the day after study treatment allows detection of even small (silent) infarcts which may be present in up to $37\%$ of CRAO cases.23 Incidence, numbers, and volumes of these may influence neurofunctional outcome and be reduced by thrombolysis. To facilitate outcome interpretation in participants with CRAO and additional minor non-disabling stroke symptoms, NIHSS is assessed before study treatment.  
+
+OCT/angiography, transorbital ultrasound, and retinal/ optic nerve MRI will be conducted to non-invasively assess biomarkers for outcome and treatment response prediction. These include retinal thickness increase,16 retrobulbar spot sign status,15 and the extend of ischemic damage in deeper structures,24 respectively. Safer selection of thrombolysis candidates may be expected in future.  
+
+We enroll CRAO patients with contraindications for alteplase and/or within up to $12\mathrm{h}$ after symptom onset into a supplementary observational study to gain insights on retinal pathology in the extended time window. This will also serve to maintain study momentum and thereby contribute to successful enrollment into the interventional trial which may be pivotal considering the low incidence of hospital admissions of CRAO patients within $4.5\mathrm{h}$ after symptom onset.12  
+
+Limitation of the study is the large sample size in a setting with challenges in recruitment. On the contrary, conservative estimation accounts for non-responders and may avoid a negative trial due to insufficient power.  
+
+# Summary and conclusion  
+
+Despite being a rare disease, non-arteritic CRAO causes considerable disability which justifies aggressive treatment.11 Meta-analyses of CRAO case series indicate enhanced recovery of vision and low rates of critical bleeding complications associated with IVT within $4.5\mathrm{h}$ after symptom onset,9,10 which is the established treatment of acute ischemic stroke.20  
+
+Together with the THrombolysis with alteplase in patients with acutE central retInal Artery occlusion study (THEIA, $\Nu=70$ , ClinicalTrials.gov: NCT03197194) and the Tenecteplase in Central Retinal Artery Occlusion Study (TenCRAOS, $\Nu=78$ , ClinicalTrials.gov: NCT04526951), the REVISION trial will generate evidence for the use of early IVT in CRAO. Whether results are positive, negative, or neutral, they will have an immediate, practice-changing impact on the field.  
+
+# Acknowledgements  
+
+The authors thank the DSMB (Matthew Schrag, Andreas Stahl, and Diethelm Messinger), the independent statistician Jens Pryzbilla, and REVISION investigators for their diligence, guidance, and support.  
+
+# Declaration of conflicting interests  
+
+The author(s) declared the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: Alteplase/placebo is provided by Boehringer Ingelheim at no costs. Boehringer Ingelheim was given opportunity to review the manuscript for medical/scientific accuracy and intellectual property considerations. The authors did not receive any payment related to trial/manuscript development.  
+
+# Funding  
+
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: German Federal Ministry of Education and Research (01KG2014 grant).  
+
+# ORCID iDs  
+
+Sven Poli  
+
+![](images/1e403377815a3ee46e46bab48a70023e495466fea73f5937c2eb41dc6b1d6032.jpg)  
+
+Johannes Tü  
+
+https://orcid.org/0000-0002-0286-8781 nnerhoff  https://orcid.org/0000-0001-5381-839X  
+
+Bruce CV Campbell in https://orcid.org/0000-0003-3632-9433   
+David Seiffge  https://orcid.org/0000-0003-3890-3849  
+
+# Supplemental material  
+
+Supplemental material for this article is available online.  
+
+# References  
+
+1.	 Biousse V, Calvetti O, Bruce BB and Newman NJ. Thrombolysis for central retinal artery occlusion. J Neuroophthalmol 2007; 27: 215–230.   
+2.	 Olsen TW, Pulido JS, Folk JC, Hyman L and Flaxel CJ. Retinal and ophthalmic artery occlusions Preferred Practice Pattern(R). Ophthalmology 2017; 124: P120–P143.   
+3.	 Lin JC, Song S, Ng SM, Scott IU and Greenberg PB. Interventions for acute non-arteritic central retinal artery occlusion. Cochrane Database Syst Rev 2023; 1: CD001989.   
+4.	 McLeod D and Beatty S. Evidence for an enduring ischaemic penumbra following central retinal artery occlusion, with implications for fibrinolytic therapy. Prog Retin Eye Res 2015; 49: 82–119.   
+5.	 Hayreh SS, Zimmerman MB, Kimura A and Sanon A. Central retinal artery occlusion. Retinal survival time. Exp Eye Res 2004; 78: 723–736.   
+6.	 Wardlaw JM, Murray V, Berge E and del Zoppo GJ. Thrombolysis for acute ischaemic stroke. Cochrane Database Syst Rev 2014; 7: CD000213.   
+7.	 Schumacher M, Schmidt D, Jurklies B, et al. Central retinal artery occlusion: local intra-arterial fibrinolysis versus conservative treatment, a multicenter randomized trial. Ophthalmology 2010; 117: 1367–1375.   
+8.	 Chen CS, Lee AW, Campbell B, et al. Efficacy of intravenous tissue-type plasminogen activator in central retinal artery occlusion: report from a randomized, controlled trial. Stroke 2011; 42: 2229–2234.   
+9.	 Mac Grory B, Nackenoff A, Poli S, et al. Intravenous fibrinolysis for central retinal artery occlusion: a cohort study and updated patient-level meta-analysis. Stroke 2020; 51: 2018– 2025.   
+10. Shahjouei S, Bavarsad Shahripour R and Dumitrascu OM. Thrombolysis for central retinal artery occlusion: an individual participant-level meta-analysis. Int J Stroke 2024; 19: 29–39.   
+11. Mac Grory B, Schrag M, Biousse V, et al. Management of central retinal artery occlusion: a scientific statement from the American Heart Association. Stroke 2021; 52: e282–e294.   
+12. Schultheiss M, Hartig F, Spitzer MS, et al. Intravenous thrombolysis in acute central retinal artery occlusion—A prospective interventional case series. PLoS ONE 2018; 13: e0198114.   
+13. Bauer P and Kohne K. Evaluation of experiments with adaptive interim analyses. Biometrics 1994; 50: 1029–1041.   
+14. Lachin JM. Introduction to sample size determination and power analysis for clinical trials. Control Clin Trials 1981; 2: 93–113.   
+15. Nedelmann M, Graef M, Weinand F, et al. Retrobulbar spot sign predicts thrombolytic treatment effects and etiology in central retinal artery occlusion. Stroke 2015; 46: 2322–2324.   
+16. Wenzel DA, Kromer R, Poli S, et al. Optical coherence tomography-based determination of ischaemia onset—the temporal dynamics of retinal thickness increase in acute central retinal artery occlusion. Acta Ophthalmol 2021; 99: e247–e252.   
+17. Rha JH and Saver JL. The impact of recanalization on ischemic stroke outcome: a meta-analysis. Stroke 2007; 38: 967–973.   
+18. Anderson CS, Robinson T, Lindley RI, et al. Low-dose versus standard-dose intravenous alteplase in acute ischemic stroke. N Engl J Med 2016; 374: 2313–2323.   
+19. Alamowitch S, Turc G, Palaiodimou L, et al. European Stroke Organisation (ESO) expedited recommendation on tenecteplase for acute ischaemic stroke. Eur Stroke J 2023; 8: 8–54.   
+20. Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke 2019; 50: e344–e418.   
+21. Hayreh SS and Zimmerman MB. Central retinal artery occlusion: visual outcome. Am J Ophthalmol 2005; 140: 376–391.   
+22. Jones LA and Higgins GC. Photographic granularity and graininess; some characteristics of the visual system of importance in the evaluation of graininess and granularity. J Opt Soc Am 1947; 37: 217–263.   
+23. Lavin P, Patrylo M, Hollar M, Espaillat KB, Kirshner H and Schrag M. Stroke risk and risk factors in patients with central retinal artery occlusion. Am J Ophthalmol 2018; 196: 96–100.   
+24. Danyel LA, Miszczuk M, Connolly F, et al. Time course and clinical correlates of retinal diffusion restrictions in acute central retinal artery occlusion. Am J Neuroradiol 2021; 42: 1661–1666.  
