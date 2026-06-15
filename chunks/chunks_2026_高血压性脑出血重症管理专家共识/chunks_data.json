@@ -1,0 +1,861 @@
+[
+  {
+    "chunk_id": "HICH2026_FACT_001",
+    "section": "S001",
+    "type": "fact",
+    "topic_tags": [
+      "脑出血",
+      "HICH诊断",
+      "脑血管病",
+      "排除继发出血",
+      "并发症"
+    ],
+    "summary": "中国医师协会神经外科医师分会神经重症专家委员会 中国神经外科重症管理协作组通信作者:康德智,福建医科大学附属第一医院神经外科,福州350005,Email: k…",
+    "content": "中国医师协会神经外科医师分会神经重症专家委员会 中国神经外科重症管理协作组通信作者:康德智,福建医科大学附属第一医院神经外科,福州350005,Email: kdz99988@vip.sina.com;石广志,首都医科大学附属北京天坛医院重症医学科,北京100070,Email:shiguangzhi@bjtth.org\n基金项目:北京市临床重点专科项目(2100199);北京市医院管理局临床医学发展专项(扬帆计划)重点医学专业(ZYLX202109)\n实践指南注册: 国际实践指南注册与透明化平台 (PREPARE-2024CN368)\nDOI: 10.3760/cma.j.cn112050-20251205-00464\n高血压性脑出血（hypertensive intracerebral hemorrhage, HICH）是指突然发生于脑实质内（基底核区、丘脑、脑室、小脑及脑干等部位）、原发性（排除血管结构异常性疾病、凝血功能障碍、血液性疾病、系统性疾病及肿瘤性疾病）、非外伤性、具有明确高血压病史的一种脑出血 $^{[1]}$ 。HICH 是高血压病最严重的并发症之一，占卒中的 10% \\~ 30%，6 个月的病死率高达 30% \\~ 50% $^{[2]}$ ，是神经内、外科的常见急症之一。HICH 的治疗往往需要急诊科、神经外科、神经内科、麻醉科、重症医学科以及康复科等多个学科的密切配合；重症患者常需重症医学科的支持治疗。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_002",
+    "section": "S001",
+    "type": "fact",
+    "topic_tags": [
+      "气道管理",
+      "血肿扩大",
+      "脑出血",
+      "HICH诊断",
+      "脑血管病"
+    ],
+    "summary": "2020年《高血压性脑出血中国多学科诊治指南》发布，在HICH的血肿扩大预测、非手术和手术治疗等方面起到规范和指导作用[2]。",
+    "content": "2020年《高血压性脑出血中国多学科诊治指南》发布，在HICH的血肿扩大预测、非手术和手术治疗等方面起到规范和指导作用[2]。2022年美国心脏协会/美国卒中协会制定的《自发性脑内出血患者管理指南》发布[3]，并被积极推广。但对于重症监护管理，如气道管理、镇静和镇痛治疗、脑心相关并发症等尚无完整的共识或指南，故而缺乏对基层医院医生的HICH治疗指导依据。\n为此,中国医师协会神经外科医师分会神经重症专家委员会、中国神经外科重症管理协作组参考国内外相关领域最新指南、共识和临床研究,采用改良德尔菲法制定《高血压性脑出血重症管理专家共识(2026版)》(以下简称共识)。共识对 HICH 急性期重症管理相关的诊断和治疗提出 44 条推荐意见,旨在提高 HICH 的救治质量和减少医疗费用,为资源有限的中心提供更多的治疗参考。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_003",
+    "section": "S003",
+    "type": "fact",
+    "topic_tags": [
+      "气道管理",
+      "脑出血",
+      "HICH诊断",
+      "镇静镇痛",
+      "重症监护"
+    ],
+    "summary": "本共识由福建医科大学附属第一医院神经外科康德智教授和首都医科大学附属北京天坛医院重症医学科石广志教授牵头，组织国内神经外科和重症医学科专家成立专家组撰写。",
+    "content": "本共识由福建医科大学附属第一医院神经外科康德智教授和首都医科大学附属北京天坛医院重症医学科石广志教授牵头，组织国内神经外科和重症医学科专家成立专家组撰写。专家组由指导委员会、共识制订小组、秘书组、外部专家评议小组构成。指导委员会共2人，主要负责：(1)组建共识制订小组、秘书组和外部专家评议小组；(2)确定共识编写日程；(3)确定文献检索的主题和范围；(4)方法学指导及质量控制；(5)组织召开共识会议；(6)审定共识全文并决定是否发表。共识制订小组共40人，主要负责：(1)评估共识的范围和所涵盖问题的科学性和准确性；(2)完成德尔菲问卷并多次讨论，商定推荐意见；(3)推广共识。秘书组主要负责：(1)协调各项工作，记录制订共识的完整过程；(2)进行共识注册，起草计划书；(3)设计调查问卷，初步整理HICH重症监护相关的治疗原则，如气道管理、镇静和镇痛治疗、脑心相关并发症的处理；(4)根据PICO[Patient（患者或人群）、Intervention（干预措施）、Comparison（对照）和Outcome（结局）]原则，从共识适用的实践领域、目标人群、干预措施、临床结局4个方面，确定共识范围；(5)完成系统、全面的文献检索和证据汇总，设计德尔菲问卷，统计问卷调查结果并反馈给共识制订小组；(6)撰写共识初稿，并根据共识制订小组、指导委员会、外部专家评议小组的意见修改共识。\n\n2024 年 4 月启动共识撰写工作,经过 5 轮专家会议讨论后完成。第一轮会议确定临床问题,第二轮会议专家讨论初稿并修改,第三、四轮会议对推荐意见投票,确定推荐强度。第五轮会议进行共识修改和定稿。采用改良德尔菲法得出专家共识度,最终形成推荐意见。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_004",
+    "section": "S004",
+    "type": "fact",
+    "topic_tags": [
+      "脑出血",
+      "HICH诊断"
+    ],
+    "summary": "本共识针对 HICH 重症管理相关的关键问题进行文献检索, 检索数据库包括 PubMed、Cochrane Library、中国知网和万方数据知识服务平台, 检…",
+    "content": "本共识针对 HICH 重症管理相关的关键问题进行文献检索, 检索数据库包括 PubMed、Cochrane Library、中国知网和万方数据知识服务平台, 检索时间范围为建库至 2025 年 10 月。中文关键词为“脑出血”“自发性脑出血”“高血压性脑出血”“颅内出血”; 英文关键词为“intracerebral hemorrhage”“cerebral hemorrhage”“intracranial hemorrhage”“spontaneous intracerebral hemorrhage”“spontaneous intracranial hemorrhage”“spontaneous cerebral hemorrhage”“cerebral intraparenchymal hemorrhage”; 纳入的文献类型包括随机对照试验 (randomized controlled trial, RCT)、系统评价、荟萃分析、回顾性研究、临床病例系列研究、病例报告、指南和专家意见。最终引用文献 111 篇, 包括英文 109 篇, 中文 2 篇。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_005",
+    "section": "S005",
+    "type": "fact",
+    "topic_tags": [
+      "定义",
+      "证据分级"
+    ],
+    "summary": "采用推荐意见分级评估、制定与评价（Grading of Recommendations Assessment, Development and Evaluati…",
+    "content": "采用推荐意见分级评估、制定与评价（Grading of Recommendations Assessment, Development and Evaluation, GRADE）分级体系对证据质量进行分级 $^{[4]}$ （表1）。本共识意见均达成共识，每条推荐意见共识度均>85%。没有高级别证据支持并不意味着推荐级别低，部分措施虽无可靠科学证据，但其临床有效性显而易见。\n\n表 1 推荐意见的分级评估、制定与评价(GRADE)标准\n\n<table><tr><td>项目</td><td>定义</td></tr><tr><td colspan=\"2\">证据等级</td></tr><tr><td>A级</td><td>高质量RCT、系统综述和Meta分析</td></tr><tr><td>B级</td><td>有一定局限性的RCT、前瞻性队列研究</td></tr><tr><td>C级</td><td>回顾性研究以及观察性研究</td></tr><tr><td>D级</td><td>个案报道、专家意见</td></tr><tr><td colspan=\"2\">推荐强度分级</td></tr><tr><td>强(1级)</td><td>干预措施利大于弊或弊大于利</td></tr><tr><td>弱(2级)</td><td>利弊不确定或利弊相当</td></tr></table>\n\n注：RCT 为随机对照试验"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_006",
+    "section": "S007",
+    "type": "fact",
+    "topic_tags": [
+      "脑出血",
+      "HICH诊断",
+      "重症监护",
+      "入住标准",
+      "多学科协作"
+    ],
+    "summary": "HICH 因其发病急、病情危重,致死致残率高,建议在具有神经外科诊疗能力的多学科诊疗重症监护病房(intensive care unit, ICU)救治。",
+    "content": "HICH 因其发病急、病情危重,致死致残率高,建议在具有神经外科诊疗能力的多学科诊疗重症监护病房(intensive care unit, ICU)救治。对于急性脑出血患者而言,相较于普通 ICU,入住神经相关的 ICU 可降低其病死率 $^{[5]}$ 。入住 ICU 的患者常规行心电监护、血氧、无创血压等监测;对于病情不稳定的 HICH 患者,可行有创动脉血压监测和生命支持 $^{[6]}$ 。\n\n推荐意见 1: HICH 患者应在具有多学科诊疗团队的中心进行治疗,尤其是具有以神经外科为主导的多学科诊疗团队的 ICU(A 级证据,1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_007",
+    "section": "S008",
+    "type": "fact",
+    "topic_tags": [
+      "气道管理",
+      "吞咽功能",
+      "脑出血",
+      "HICH诊断",
+      "脑血管病"
+    ],
+    "summary": "约 $30\\%$ 的HICH患者入院后需接受气管插管等建立人工气道[7]。",
+    "content": "约 $30\\%$ 的HICH患者入院后需接受气管插管等建立人工气道[7]。由于常伴有意识障碍、呛咳无力、吞咽功能障碍或脑干功能受损，很多患者需要延迟拔管[8]。对于接受机械通气的患者，呼气末二氧化碳水平可作为预测其病死率的一个指标[9]。患者病情好转、血流动力学稳定、自主呼吸试验(spontaneous breathing trial, SBT)成功时，应及时撤除呼吸机并尝试拔除气管插管。\n拔管失败和机械通气时间过长会导致患者入住ICU的时间延长、病死率升高[7]。普通ICU住院患者需进行气管切开的比例为 $15\\%$ ，严重卒中患者则高达 $35\\%^{[10]}$ 。气管插管时间 $>14\\mathrm{d}$ 或多次拔管失败后，可考虑行气管切开术，其最佳时机尚不确定，通常为气管插管后2周或更久[11]。SETPOINT2研究表明，与5d内气管切开相比，10d后行气管切开并不能改善患者6个月的神经功能预后[8]。也有研究表明，早期气管切开者具有更好的结局，包括机械通气天数减少、ICU入住时长缩短，以及远期病死率降低[12]。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_008",
+    "section": "S008",
+    "type": "fact",
+    "topic_tags": [
+      "气道管理",
+      "评分系统",
+      "量表评估",
+      "脑出血",
+      "HICH诊断"
+    ],
+    "summary": "推荐意见2:对于循环不稳定、气道阻塞、通气不足、难以纠正的低氧血症或格拉斯哥昏迷量表(GCS)评分 $\\leqslant8$ 分的HICH患者,应尽早行气管插管…",
+    "content": "推荐意见2:对于循环不稳定、气道阻塞、通气不足、难以纠正的低氧血症或格拉斯哥昏迷量表(GCS)评分 $\\leqslant8$ 分的HICH患者,应尽早行气管插管或其他方式建立人工气道;对于出血量大的HICH患者,需维持患者的动脉血氧饱和度(arterial oxygen saturation, $SaO_{2}$ )>94%、动脉血氧分压(partial pressure of arterial oxygen, $PaO_{2}$ )为80\\~120 mmHg(1 mmHg=0.133 kPa),以及动脉血二氧化碳分压(partial pressure of arterial carbon dioxide, $PaCO_{2}$ )为35\\~40 mmHg(A级证据,1级推荐)。\n推荐意见3: 当 HICH 患者存在呼吸困难或严重的急性呼吸窘迫综合征 [严重通气和(或)氧合障碍: 充分氧疗后 $PaO_{2}$ 仍 <60 mmHg; $PaCO_{2}$ 进行性升高, pH 呈动态下降] 时应进行机械通气 (B 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_009",
+    "section": "S008",
+    "type": "fact",
+    "topic_tags": [
+      "气道管理",
+      "体温管理",
+      "脑出血",
+      "HICH诊断",
+      "证据分级"
+    ],
+    "summary": "推荐意见 4: HICH 患者的意识水平好转(可服从命令, 除外感觉性失语等情况)、血流动力学稳定、肺部情况好转[气道分泌物明显减少、 $PaO_{2}$ /吸…",
+    "content": "推荐意见 4: HICH 患者的意识水平好转(可服从命令, 除外感觉性失语等情况)、血流动力学稳定、肺部情况好转[气道分泌物明显减少、 $PaO_{2}$ /吸入氧浓度 (fraction of inspired oxygen, $FiO_{2}$ ) ≥ 200 mmHg(参考范围: 350 \\~ 500 mmHg)、呼气末正压 ≤ 6 cmH $_{2}$ O (1 cmH $_{2}$ O = 0.0098 kPa)、呼吸频率 < 30 次/min、分钟通气量 ≤ 10 L/min、潮气量≥5 ml/kg]、无发热、SBT 成功后, 可考虑拔除气管插管; 如患者多次拔管失败或插管时间超过 10 \\~ 14 d, 则可考虑气管切开 (B 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_010",
+    "section": "S009",
+    "type": "fact",
+    "topic_tags": [
+      "ATACH-II",
+      "降压研究",
+      "血肿扩大",
+      "脑出血",
+      "脑血管病"
+    ],
+    "summary": "对于卒中患者，入院时血压过高或过低均可致其病死率升高 $^{[13]}$ 。",
+    "content": "对于卒中患者，入院时血压过高或过低均可致其病死率升高 $^{[13]}$ 。高血压与脑出血患者早期血肿扩大、神经功能恶化、不良预后相关 $^{[13-14]}$ 。INTERACT研究证实，脑出血早期予强化降血压是安全的 $^{[14]}$ 。INTERACT2和ATACH2研究表明，对于收缩压为150～220 mmHg的轻中度脑出血患者，将血压降至140 mmHg，并维持在130～150 mmHg的方法是安全的，且可能改善患者的功能结局；而血压＜130 mmHg可能有害，故而应平稳降压，减小血压波动幅度 $^{[15-16]}$ 。CHASE研究表明，个体化降压治疗并不能显著降低急性重度卒中患者3个月内的病死率或残疾率 $^{[17]}$ 。INTERACT3研究提出了集束化管理方案，旨在改善脑出血患者的预后，其中建议1 h内将目标收缩压控制在＜140 mmHg $^{[18]}$ 。虽然脑出血急性期的强化降血压逐渐被接受，然而，相继数个大型RCT研究多针对入院后收缩压在150～220 mmHg区间的患者，对于收缩压≥220 mmHg的患者研究偏少。ATACH2事后分析表明，脑出血患者的初始收缩压≥220 mmHg时，强化降血压会导致24 h内血肿扩大 $^{[19]}$ 。欧洲卒中组织建议，为收缩压≥220 mmHg且出血量＞30 ml的脑出血患者准备血肿清除手术时，降压需谨慎 $^{[20]}$ 。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_011",
+    "section": "S009",
+    "type": "fact",
+    "topic_tags": [
+      "脑出血",
+      "HICH诊断",
+      "血压管理",
+      "降压治疗",
+      "证据分级"
+    ],
+    "summary": "大部分研究探讨患者脑出血发病后、手术前的血压管理，血肿清除术后血压的相关研究较少，术后最适合的收缩压数值仍不清楚；有研究纳入40例接受血肿清除术的患者并监测其脑…",
+    "content": "大部分研究探讨患者脑出血发病后、手术前的血压管理，血肿清除术后血压的相关研究较少，术后最适合的收缩压数值仍不清楚；有研究纳入40例接受血肿清除术的患者并监测其脑组织氧分压（partial pressure of brain tissue oxygen, $PbtO_{2}$ ），发现与收缩压140～150 mmHg组患者相比，收缩压＜120 mmHg组更易发生脑组织缺氧事件 $^{[21]}$ 。\n推荐意见 5: HICH 发病后应尽早控制血压, 对于轻中量 (<30 ml) 的患者, 其收缩压 $\\geqslant$ 220 mmHg 时, 应积极使用静脉抗高血压药物并平稳降压; 对于收缩压为 150 \\~ 220 mmHg、无降压禁忌的患者, 将收缩压降至 140 mmHg, 并维持在 130 \\~ 150 mmHg 的范围内是安全的 (A 级证据, 1 级推荐)。\n推荐意见 6: 对于收缩压在 150 mmHg 左右的 HICH 患者, 将收缩压快速降至 <130 mmHg 可能并不能使患者获益, 反而可能增加肾脏损害和其他颅外缺血相关不良反应的风险 (B 级证据, 2 级推荐)。\n推荐意见 7: 对于大量出血 ( $\\geqslant$ 30 ml) 的 HICH患者,收缩压>220 mmHg时或患者已发生脑疝时,降压需谨慎(B级证据,2级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_012",
+    "section": "S010",
+    "type": "fact",
+    "topic_tags": [
+      "脑室外引流",
+      "颅内压管理",
+      "降颅压",
+      "评分系统",
+      "影像学检查"
+    ],
+    "summary": "研究表明,与无颅内压监测组相比,颅内压监测组脑出血患者的6个月预后更佳,尤其适用于GCS评分为9\\~12分的患者 $^{[22]}$ 。",
+    "content": "研究表明,与无颅内压监测组相比,颅内压监测组脑出血患者的6个月预后更佳,尤其适用于GCS评分为9\\~12分的患者 $^{[22]}$ 。对脑出血患者进行颅内压监测并处理升高的颅内压可以降低患者的早期病死率 $^{[23]}$ 。SYNAPSE-ICU研究表明,应用颅内压监测虽然不能改善脑出血患者6个月的功能预后,但可降低在院和6个月的病死率 $^{[24]}$ 。对于可放置脑室外引流但无颅内压监测条件的单位,也可通过液压耦合方式实现颅内压监测 $^{[25]}$ 。\n50% 的重症 HICH 患者存在脑血管调节能力受损,并与其不良预后相关;压力反应指数(pressure reactivity index, PRx)反映脑血管的自动调节能力, > 0.2 时通常提示调节能力受损 $^{[26]}$ 。美国卒中协会《自发性脑内出血患者管理指南》推荐脑出血患者的脑灌注压(cerebral perfusion pressure, CPP)维持在60 \\~ 70 mmHg $^{[3]}$ 。有研究表明,CPP > 80 mmHg 可以减少脑出血患者发生脑组织缺氧的风险 $^{[27-28]}$ 。Diedler 等 $^{[26]}$ 通过 PRx 计算出的最佳中位 CPP 为83 mmHg。对于脑出血量较大的患者,避免颅内压超过20 \\~ 25 mmHg 并保持 CPP > 80 mmHg 对患者的预后有益 $^{[28]}$ 。\n颅内压和 CPP 正常的颅脑损伤患者仍可能出现脑缺血和缺氧 $^{[29]}$ 。PbtO $_{2}$ 监测也很重要，相关研究多以创伤性脑损伤患者为研究对象，但 PbtO $_{2}$ 监测在脑出血患者中的应用安全、有效，且逐渐增多 $^{[30-31]}$ ，有条件的单位可考虑将 PbtO $_{2}$ 监测纳入多模态监测中 $^{[32]}$ 。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_013",
+    "section": "S010",
+    "type": "fact",
+    "topic_tags": [
+      "颅内压管理",
+      "颅内高压",
+      "评分系统",
+      "MRI",
+      "TCD"
+    ],
+    "summary": "颅内压的无创监测手段包括头颅 CT、MRI、经颅多普勒超声、鼓膜位移法、耳声发射技术、闪光视觉诱发电位、视神经鞘直径测量、光学相干断层扫描以及视网膜血管分析等技…",
+    "content": "颅内压的无创监测手段包括头颅 CT、MRI、经颅多普勒超声、鼓膜位移法、耳声发射技术、闪光视觉诱发电位、视神经鞘直径测量、光学相干断层扫描以及视网膜血管分析等技术 $^{[33-34]}$ 。\n研究表明,颅脑相关疾病患者预测颅内压升高的视神经鞘直径最佳临界值为4.8\\~6.0 mm $^{[35-36]}$ 。Montorfano等 $^{[37]}$ 的研究表明,在各种颅内压升高的疾病中,颅内压升高的视神经鞘直径临界值为5.82 mm。在资源有限的医院或单位,因视神经鞘直径测量操作简单、安全、可重复、低价而被普遍应用 $^{[33-38]}$ 。\n推荐意见 8: 神经重症医护人员应掌握颅内压监测技术, 并配备颅内压监护仪器; HICH 患者的 GCS 评分 $\\leqslant$ 8 分时, 可进行有创颅内压监测, 维持\nCPP 在 60 \\~ 70 mmHg(A 级证据, 1 级推荐)。\n推荐意见 9: 有条件单位可监测 PRx, 探索患者的最佳 CPP, 尤其对于大量脑出血和发生脑疝的 HICH 患者; 当进行颅内压和 $PbtO_{2}$ 联合监测时, 建议维持颅内压 <22 mmHg、 $PbtO_{2} >20$ mmHg (B 级证据, 2 级推荐)。\n推荐意见 10: 对于 GCS 评分 >8 分且瞳孔正常的 HICH 患者, 在无颅内压监测条件、高龄、出血位置深在时, 可通过测量视神经鞘的直径评估有无颅内压升高; 放置脑室外引流的患者可通过引流高度或液压耦合的方式来监测颅内压 (B 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_014",
+    "section": "S011",
+    "type": "fact",
+    "topic_tags": [
+      "降颅压",
+      "评分系统",
+      "影像学检查",
+      "脑电图",
+      "TCD"
+    ],
+    "summary": "研究表明,即使受过培训的护士,对于瞳孔大小不一致的情况也有50%未能检出 $^{[39]}$ ;有条件的单位可使用自动瞳孔仪评估标准瞳孔对光反射 $^{[39-…",
+    "content": "研究表明,即使受过培训的护士,对于瞳孔大小不一致的情况也有50%未能检出 $^{[39]}$ ;有条件的单位可使用自动瞳孔仪评估标准瞳孔对光反射 $^{[39-41]}$ 。\n\n脑电图是大脑皮质表面锥体细胞层产生的兴奋性和抑制性突触后电位的总和。定量脑电图是脑电图信号的数值分析和(或)视觉转换。定量脑电图包括 $\\alpha$ 频带功率的降低、相对 $\\alpha$ 变异性和 $\\delta / \\alpha$ 比值，其中 $\\delta / \\alpha$ 比值可作为脑出血预后的独立预测指标[42-43]； $(\\delta + \\theta) / (\\alpha + \\beta)$ 比值可作为脑干出血患者 $90\\mathrm{d}$ 病死率的独立预测指标[44]。经颅彩色多普勒超声和经颅多普勒超声可用于检测大脑中动脉情况，进行定量波形分析和搏动指数的测量，以除外颅高压相关的脑灌注受损[45]。\n\n推荐意见 11: 建议采用 GCS 评分评估 HICH 患者的意识状态和神经功能; 可使用手电筒评估标准瞳孔对光反射, 有条件的单位可使用自动瞳孔仪来评估 (A 级证据, 1 级推荐)。\n\n推荐意见 12: HICH 患者行头颅 CT 检查以评估有无血肿扩大、术区再出血或脑梗死等, 其检查频率根据病情决定 (A 级证据, 1 级推荐)。\n\n推荐意见 13: 对于存在意识障碍的 HICH 患者, 可通过脑电图判断其临床转归 (B 级证据, 2 级推荐)。\n\n推荐意见 14: 经颅彩色多普勒超声可用于评估颅内血肿、中线偏移、脑积水、脑室引流管移位等情况；经颅多普勒超声可检测大脑中动脉情况，进行定量波形分析和搏动指数的测量，间接评估脑灌注情况（B 级证据，2 级推荐）。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_015",
+    "section": "S012",
+    "type": "fact",
+    "topic_tags": [
+      "甘露醇",
+      "高渗盐水",
+      "颅内高压",
+      "颅内压管理",
+      "血钠管理"
+    ],
+    "summary": "甘露醇是临床上常用的降颅内压药物,其起效快,但可能引起水电解质紊乱、血浆渗透压改变以及颅内压反跳等，在低血压和颅内有活动性出血时慎用。",
+    "content": "甘露醇是临床上常用的降颅内压药物,其起效快,但可能引起水电解质紊乱、血浆渗透压改变以及颅内压反跳等，在低血压和颅内有活动性出血时慎用。尽管有文献报道高渗盐水的降颅压效果优于甘露醇，且可维持更长的时间 $^{[46-47]}$ ；但目前尚无足够证据表明甘露醇与高渗盐水孰优孰劣 $^{[48]}$ 。应用高渗盐水治疗颅内高压合并低钠血症的HICH患者时，应避免血钠上升速度过快，警惕导致脑桥中央髓鞘溶解症的风险。对于HICH患者，不建议使用皮质类固醇治疗颅内压升高 $^{[48]}$ 。\n\n推荐意见 15: HICH 患者有颅内压增高的征象或体征时可应用甘露醇或高渗盐水; 对于采用颅内压监测的患者, 根据颅内压数值进行治疗更为精准; 患者存在恶性颅高压以及血肿进展时应积极手术干预 (A 级证据, 1 级推荐)。\n\n推荐意见 16: HICH 患者应用甘露醇时应注意肾功能损伤、容量和电解质紊乱；合并凝血功能异常、电解质紊乱的患者应用高渗盐水应谨慎（A 级证据，1 级推荐）。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_016",
+    "section": "S013",
+    "type": "fact",
+    "topic_tags": [
+      "评分系统",
+      "量表评估",
+      "脑电图",
+      "脑出血",
+      "HICH诊断"
+    ],
+    "summary": "仅 $35\\%$ 的患者在ICU标准化镇痛镇静程序前进行了疼痛评估，数字评分量表（numeric rating scale, NRS)评分虽被认为是疼痛评估的“…",
+    "content": "仅 $35\\%$ 的患者在ICU标准化镇痛镇静程序前进行了疼痛评估，数字评分量表（numeric rating scale, NRS)评分虽被认为是疼痛评估的“金标准”，但对于伴有意识障碍的HICH患者，行为疼痛量表和重症监护疼痛观察量表评分更适用，经疼痛评估后再进行镇痛镇静治疗[49]。应用Richmond躁动-镇静评分和Riker镇静-躁动评分量表评估镇静深度较主观；无法准确评估镇静水平时，可选择定量脑电图、脑电双频指数、Narcotrend指数、脑状态指数、听觉诱发电位和熵指数等客观监测手段[50]。\nHICH 患者的谵妄发生率高达 30%, 谵妄可能延长 ICU 住院时间, 且增加病死率 $^{[51]}$ 。应根据 HICH 患者的神志、镇静深度等情况选择谵妄评估工具, 可采用 ICU 患者意识模糊评估法或重症监护谵妄筛查量表评估。对于镇痛镇静药物, 尤其是阿片类药物, 需警惕对呼吸和循环功能的抑制、消化功能的影响以及药物导致的获得性肌无力等并发症。\n推荐意见 17: 对 HICH 患者应进行疼痛评估, 清醒患者可采用 NRS 或视觉模拟量表 (visual analogue scale, VAS); 昏迷或者无法交流的患者选择行为疼痛量表和重症监护疼痛观察量表; 当行为疼痛量表评分 >5 分或重症监护疼痛观察量表评分 $\\geqslant$ 3 分时, 应予镇痛治疗 (A 级证据, 1 级推荐)。\n推荐意见 18: 需予镇静的 HICH 患者应进行镇静深度的评估, 主观评估可采用 Richmond 躁动 - 镇静评分或 Riker 镇静 - 躁动评分量表; 客观评估可采用定量脑电图、脑电双频指数等工具(A级证据，1级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_017",
+    "section": "S013",
+    "type": "fact",
+    "topic_tags": [
+      "脑出血",
+      "HICH诊断",
+      "镇静镇痛",
+      "证据分级"
+    ],
+    "summary": "推荐意见 19: 需准确、快速评估 HICH 患者的神经功能时, 可选择短效或超短效药物, 出现难治性颅高压时应行强化镇痛镇静治疗, 不推荐每日唤醒; 患者的呼…",
+    "content": "推荐意见 19: 需准确、快速评估 HICH 患者的神经功能时, 可选择短效或超短效药物, 出现难治性颅高压时应行强化镇痛镇静治疗, 不推荐每日唤醒; 患者的呼吸、循环系统以及颅内情况稳定时, 可考虑逐步撤除镇痛镇静治疗 (B 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_018",
+    "section": "S014",
+    "type": "fact",
+    "topic_tags": [
+      "抗血小板",
+      "抗血小板治疗",
+      "纤溶药物",
+      "血肿扩大",
+      "血栓预防"
+    ],
+    "summary": "在高收入国家,超过25%的人群在发生脑出血前服用抗血小板治疗药物,采用抗血小板治疗的患者较正常人群的预后更差 $^{[52]}$ 。",
+    "content": "在高收入国家,超过25%的人群在发生脑出血前服用抗血小板治疗药物,采用抗血小板治疗的患者较正常人群的预后更差 $^{[52]}$ 。\n常规凝血相关检测包括凝血酶原时间、国际标准化比值(international normalized ratio, INR)和活化部分凝血活酶时间检测等。血小板功能检测在血肿扩大中增加了诊断价值，但其着重于评估原发性止血，并无血小板与凝血因子、红细胞或纤溶的相互作用的探讨，而黏弹性试验能够同时评估止血和凝血 $^{[53]}$ 。\n黏弹性检测包括血栓弹力图、快速血栓弹力图、旋转血栓弹性检测、血栓动力学分析和血栓弹力图衍生分析等。研究发现，HICH患者入院时旋转血栓弹性检测结果显示凝血时间延长、血凝块形成迟缓且强度较弱时，患者的长期预后不良[54]。\n研究表明,对于接受抗血小板治疗且对阿司匹林敏感的基底核区出血患者,急诊手术前输注血小板可减少术后出血和降低病死率 $^{[55]}$ ; PATCH 研究中,对于接受抗血小板治疗的脑出血患者不建议常规输注血小板 $^{[56]}$ 。根据麻醉医师协会指南的方案,对于外周血血小板计数 $<50 \\times 10^{9}/L$ 的患者实施神经外科手术时,应输注血小板 $^{[57]}$ 。\nDASH 研究表明,无法确定去氨加压素能否改善接受抗血小板治疗的脑出血患者的预后 $^{[58]}$ 。一项荟萃分析也表明,应用去氨加压素并不能明显减少脑出血患者的血肿扩大和血栓事件 $^{[59]}$ 。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_019",
+    "section": "S014",
+    "type": "fact",
+    "topic_tags": [
+      "抗凝治疗",
+      "脑出血",
+      "HICH诊断",
+      "止血治疗"
+    ],
+    "summary": "对于维生素 K 拮抗剂相关的脑出血患者,4 因子凝血酶原复合物（4-factor prothrombin complex concentrate,4F-PCC）…",
+    "content": "对于维生素 K 拮抗剂相关的脑出血患者,4 因子凝血酶原复合物（4-factor prothrombin complex concentrate,4F-PCC）在使 INR 恢复正常方面优于新鲜冰冻血浆。当 INR ≥ 2.0 时,凝血酶原复合物（prothrombin complex concentrates, PCC）的用量为 20 \\~ 50 IU/kg;1.3 ≤ INR < 2 时,PCC 的用量为 10 \\~ 20 IU/kg $^{[60]}$ 。新鲜冰冻血浆来自全血,逆转需要至少 30 h,且会增加心力衰竭、肺水肿和其他不良事件。\n对于应用直接口服抗凝药(direct oral anticoagulants, DOAC)期间发生 HICH 的患者,如无特效逆转剂,考虑使用4F-PCC来恢复凝血功能 $^{[60]}$ 。在达比加群引起危及生命的出血的情况下，依达赛珠单抗可快速逆转达比加群的抗凝效果 $^{[61]}$ 。对于服用阿哌沙班或利伐沙班的HICH患者，安得塞奈比4F-PCC具有更好的止血效果 $^{[62]}$ 。在DOAC相关的脑出血患者中，4 h内逆转至INR<1.3且收缩压<160 mmHg可降低血肿扩大率 $^{[63]}$ 。\n推荐意见 20: 应用抗血小板药物的患者发生 HICH 时, 应立即停用抗血小板药物; 同时需常规进行多次凝血功能检测, 包括凝血检测和 (或) 血小板功能检测、血液黏弹性检测; 不建议常规输注血小板, 必须输注时 (须急诊手术或血小板计数 $<50 \\times 10^{9}/L$ ), 建议输入 ABO 血型一致的血小板 (B 级证据, 2 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_020",
+    "section": "S014",
+    "type": "fact",
+    "topic_tags": [
+      "肝素相关脑出血",
+      "抗凝治疗",
+      "脑出血",
+      "HICH诊断",
+      "止血治疗"
+    ],
+    "summary": "推荐意见 21: 应用抗凝药物的患者发生 HICH 时, 应立即停用抗凝药物, 并尽快使用拮抗剂, 同时行多次凝血检测; 对于服用达比加群酯或 Xa 因子拮抗剂…",
+    "content": "推荐意见 21: 应用抗凝药物的患者发生 HICH 时, 应立即停用抗凝药物, 并尽快使用拮抗剂, 同时行多次凝血检测; 对于服用达比加群酯或 Xa 因子拮抗剂的 HICH 患者, 可尽早使用活性炭抑制药物的吸收 (A 级证据, 1 级推荐)。\n推荐意见 22: 对于服用维生素 K 拮抗剂的 HICH 患者, INR 为 1.3 \\~ 1.9 时可使用 PCC; INR ≥ 2.0 时可给予 PCC 快速输注以纠正 INR, PCC 优于新鲜冰冻血浆; 随后应用维生素 K1, 逆转目标值为 INR < 1.3 (A 级证据, 1 级推荐)。\n推荐意见 23: 对于服用 Xa 因子拮抗剂的 HICH 患者, 可使用安得塞奈改善抗凝效果, 如无该药可使用 4F-PCC 或活化 PCC; 对于服用达比加群的患者, 依达赛珠单抗可快速逆转其抗凝效果; 没有依达赛珠单抗时, 可考虑使用活化 PCC 改善止血效果 (A 级证据, 1 级推荐)。\n推荐意见 24: 对于应用普通肝素或低分子量肝素的 HICH 患者, 可静脉给予硫酸鱼精蛋白逆转肝素和中和低分子量肝素的抗凝作用 (A 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_021",
+    "section": "S015",
+    "type": "fact",
+    "topic_tags": [
+      "STOP-AUST",
+      "氨甲环酸",
+      "纤溶药物",
+      "血肿扩大",
+      "脑出血"
+    ],
+    "summary": "目前,针对脑出血患者的超急性期治疗旨在降低血肿扩大的风险,但迄今为止,仍无止血剂或抗纤维蛋白溶解剂能改善患者的功能预后。",
+    "content": "目前,针对脑出血患者的超急性期治疗旨在降低血肿扩大的风险,但迄今为止,仍无止血剂或抗纤维蛋白溶解剂能改善患者的功能预后。FAST2 研究表明,在脑出血后 4 h 内快速、经验性应用重组人凝血因子Ⅶa 可限制血肿的扩大并改善临床结局;但随后的 FAST-3 研究表明,输注重组人凝血因子Ⅶa 可减少血肿体积增长,但不能改善患者的预后 $^{[64]}$ 。\n\nTICH-2 研究表明,氨甲环酸组与对照组脑出血患者的 90 d 预后无明显差异 $^{[65]}$ 。STOP-AUST 研究无法证明氨甲环酸可以预防血肿扩大 $^{[66]}$ 。STOP-MSU研究表明，脑出血发生2 h内静脉注射氨甲环酸并不会减缓血肿扩大。根据上述研究结果，不推荐在HICH患者中常规应用氨甲环酸 $^{[67]}$ 。\n\n推荐意见 25: 对于 HICH 患者, 无论是否存在血肿扩大, 不推荐常规输注氨甲环酸和重组人凝血因子 VIIa(A 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_022",
+    "section": "S016",
+    "type": "fact",
+    "topic_tags": [
+      "脑出血",
+      "HICH诊断",
+      "脑血管病",
+      "危险因素",
+      "排除继发出血"
+    ],
+    "summary": "卒中－心脏综合征是指急性卒中发生后30 d内新发的心血管并发症，包括急性心肌损伤（缺血性和非缺血性）、急性冠状动脉综合征、心功能不全、Takotsubo综合征、…",
+    "content": "卒中－心脏综合征是指急性卒中发生后30 d内新发的心血管并发症，包括急性心肌损伤（缺血性和非缺血性）、急性冠状动脉综合征、心功能不全、Takotsubo综合征、心电图改变、各种心律失常以及心源性猝死等。此概念由Scheitz等 $^{[68]}$ 于2018年首次提出。近年来，对于出血性卒中患者发生卒中－心脏综合征的关注逐渐增多 $^{[69]}$ 。15%的患者在脑出血后2周内仍有新发心电图异常 $^{[69]}$ ，故对于岛叶皮质出血的患者应格外重视 $^{[70]}$ 。\n\n推荐意见 26: 高龄、既往有心脏疾病史、出血严重或出血部位为岛叶皮质均为 HICH 患者发生卒中－心脏综合征的危险因素。对于年龄≥18 岁、出血时间≤72 h 的患者，应常规完善高敏肌钙蛋白和 12 导联心电图检查(A 级证据, 1 级推荐)。\n\n推荐意见 27: HICH 患者出现心肌损伤、急性冠状动脉综合征、左心室收缩或舒张功能障碍（继发性 Takotsubo 综合征）、12 导联心电图出现新发的心律失常、心房颤动、Q-T 间期延长或者心源性猝死等，均应考虑为卒中－心脏综合征（A 级证据，1 级推荐）。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_023",
+    "section": "S017",
+    "type": "fact",
+    "topic_tags": [
+      "癫痫",
+      "评分系统",
+      "量表评估",
+      "脑出血",
+      "HICH诊断"
+    ],
+    "summary": "1929 年, Wilder Penfield 首次将 PSH 描述为“间脑癫痫”。",
+    "content": "1929 年, Wilder Penfield 首次将 PSH 描述为“间脑癫痫”。无论何种脑损伤导致的 PSH, 目前其形成机制尚不清楚, 且可发生于脑出血后的所有阶段 $^{[71]}$ 。对于疑为 PSH 的患者, 每日记录阵发性交感神经过度兴奋综合征评估量表 (paroxysmal sympathetic hyperactivity assessment measure, PSH-AM) 评分变化有助于预后评估。目前临床上常用的治疗 PSH 的药物有苯二氮䓬类药物、β-受体阻滞剂、阿片类药物、α2-受体激动剂和巴氯芬, 但缺乏证据支持 $^{[72]}$ 。目前的临床治疗策略为减少刺激、减少交感神经兴奋性传入和抑制交感神经亢进对靶器官的影响 $^{[73]}$ 。\n\n推荐意见 28: HICH 患者出现高热、大汗、血压升高、心率加快、呼吸加快和肌张力增高时,且排除癫痫发作等原因时,应考虑 PSH 的可能(A 级证据,1 级推荐）。\n\n推荐意见 29: 疑为 PSH 的患者可采用 PSH-AM 评分进行评估 (B 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_024",
+    "section": "S018",
+    "type": "fact",
+    "topic_tags": [
+      "血管内治疗",
+      "肝素相关脑出血",
+      "抗凝治疗",
+      "血肿扩大",
+      "DVT"
+    ],
+    "summary": "深静脉血栓(deep vein thrombosis, DVT)的机械预防主要包括使用逐级加压弹力袜、间歇性充气加压装置。",
+    "content": "深静脉血栓(deep vein thrombosis, DVT)的机械预防主要包括使用逐级加压弹力袜、间歇性充气加压装置。CLOTS1 研究不推荐对急性卒中患者使用及腿逐级加压弹力袜 $^{[74]}$ ，仅应用及膝或及大腿的逐级加压弹力袜对预防下肢静脉血栓并无获益 $^{[74-75]}$ 。CLOTS3 研究表明，使用间歇性充气加压装置是降低卒中患者 DVT 风险并提高其存活率的有效手段 $^{[76-77]}$ 。HICH 患者应尽早开始使用间歇性充气加压装置。\n有研究表明,脑出血患者使用肝素预防 VTE 似乎是安全的 $^{[78]}$ ;来自中国卒中中心联盟的数据也显示,脑出血发生后使用抗凝药物预防下肢 DVT 是安全的,不会增加院内病死率或血肿扩大的风险 $^{[79]}$ 。荟萃分析表明,在出血后 24\\~48 h 后进行抗凝治疗以预防肺栓塞安全、有效 $^{[80]}$ 。然而,并不主张不加区分地对所有 HICH 高危患者进行抗凝治疗来预防血栓栓塞事件。\n对于已存在 VTE 的 HICH 患者, 在 HICH 发病 14 d 后开始抗凝治疗更为安全 $^{[81]}$ 。对于较早发生的下肢 DVT, 小剂量抗凝治疗可能是安全的, 但最好在 7 d 内将剂量逐步升至治疗剂量。\n推荐意见 30: 对于无进展性出血倾向的 HICH 患者, 检查无下肢 DVT 后, 当日即可应用间歇性充气加压装置以预防血栓事件 (A 级证据, 1 级推荐)。\n推荐意见 31: 对于 HICH 出血稳定、无凝血功能障碍的无 DVT 患者, 应用低剂量普通肝素或低分子肝素预防血栓形成可能是安全的, 需要接受手术治疗时应谨慎 (B 级证据, 2 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_025",
+    "section": "S018",
+    "type": "fact",
+    "topic_tags": [
+      "血管内治疗",
+      "肝素相关脑出血",
+      "抗凝治疗",
+      "DVT",
+      "肺栓塞"
+    ],
+    "summary": "推荐意见 32: 对于并发下肢 DVT 等有抗凝治疗指征的 HICH 患者, 及时启动抗凝治疗是可行的, 颅内出血风险降低时可考虑使用普通肝素或低分子量肝素治疗…",
+    "content": "推荐意见 32: 对于并发下肢 DVT 等有抗凝治疗指征的 HICH 患者, 及时启动抗凝治疗是可行的, 颅内出血风险降低时可考虑使用普通肝素或低分子量肝素治疗; 对于合并近端 DVT 形成或肺栓塞的 HICH 患者, 如不能进行抗凝治疗, 可使用下腔静脉滤器 (A 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_026",
+    "section": "S019",
+    "type": "fact",
+    "topic_tags": [
+      "降压研究",
+      "血糖管理",
+      "脑出血",
+      "HICH诊断",
+      "脑血管病"
+    ],
+    "summary": "对于 HICH 患者,积极治疗低血糖(2.",
+    "content": "对于 HICH 患者,积极治疗低血糖(2.2 \\~ 3.3 mmol/L)可降低其病死率 $^{[82]}$ ;对于高血糖(>10.0 \\~ 11.1 mmol/L)进行治疗可能改善患者的预后 $^{[83]}$ 。欧洲卒中组织建议,脑出血患者血糖应维持在 4.4 \\~ 10.0 mmol/L $^{[84]}$ ，但 4.4 mmol/L 这一下限对于处于应激状态的患者似乎偏低，并且该指南缺少国人研究的数据。INTERACT 研究采用集束化管理方案以改善 HICH 患者的功能结局 $^{[18]}$ ，其中血糖的控制目标为：无糖尿病者为 6.1 \\~ 7.8 mmol/L，糖尿病患者为 7.8 \\~ 10.0 mmol/L。\n\n推荐意见 33: 对 HICH 患者应动态监测血糖, 急性期血糖应维持在 8.0 \\~ 10.0 mmol/L, 避免患者发生高血糖或低血糖 (A 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_027",
+    "section": "S020",
+    "type": "fact",
+    "topic_tags": [
+      "体温管理",
+      "脑出血",
+      "HICH诊断",
+      "脑血管病",
+      "预后"
+    ],
+    "summary": "在脑出血急性期，包括神经炎症、脑室内出血或对体温调节中枢的直接损害、以及丘脑或脑干部位的出血，均可导致患者的体温升高 $^{[85]}$ 。",
+    "content": "在脑出血急性期，包括神经炎症、脑室内出血或对体温调节中枢的直接损害、以及丘脑或脑干部位的出血，均可导致患者的体温升高 $^{[85]}$ 。发热是导致患者预后不良的危险因素。临床前研究显示，治疗性低温疗法在脑出血中的应用前景广阔，但目前数据的有效性仍值得商榷，需进行精确的RCT研究 $^{[86]}$ 。欧洲卒中组织建议体温控制至 $\\leqslant37.5\\ ^{\\circ}C$ $^{[84]}$ ，患者体温>38.0℃时应明确和纠正发热原因，合理应用物理和药物降温。\n\n推荐意见 34: 当 HICH 患者体温 >38.0 ℃ 时, 应明确和纠正发热原因, 并使用降温措施; 体温控制在 <37.5 ℃ 是合理的 (A 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_028",
+    "section": "S021",
+    "type": "fact",
+    "topic_tags": [
+      "癫痫",
+      "抗癫痫",
+      "脑电图",
+      "脑出血",
+      "HICH诊断"
+    ],
+    "summary": "脑出血发生后约 $8\\%$ 的患者会发生癫痫，近 $90\\%$ 发生于出血后3d内[87]。",
+    "content": "脑出血发生后约 $8\\%$ 的患者会发生癫痫，近 $90\\%$ 发生于出血后3d内[87]。大部分癫痫发作可通过脑电图检查发现，常发生在出血后 $24\\mathrm{h}$ 内[88]。HICH发生后不推荐常规预防性应用抗癫痫药物[89]。荟萃分析结果显示，抗癫痫药物虽然被作为严重脑出血的一级预防药物，但这些药物（丙戊酸钠、苯妥英钠、左乙拉西坦）并未改善HICH患者的功能预后[90]。\n\n推荐意见 35: HICH 患者不推荐预防性应用抗癫痫药物, 对于临床症状性癫痫发作者, 应即刻给予抗癫痫药物治疗 (A 级证据, 1 级推荐)。\n\n推荐意见 36: HICH 患者出现不明原因的精神状态异常或波动,或疑为癫痫发作时,或有意识障碍时可进行脑电图检查,如经脑电图检查确诊为癫痫发作,应给予抗癫痫药物治疗(A 级证据,1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_029",
+    "section": "S022",
+    "type": "fact",
+    "topic_tags": [
+      "肺炎预防",
+      "上消化道出血",
+      "脑出血",
+      "HICH诊断",
+      "复发预防"
+    ],
+    "summary": "抑酸剂包括质子泵抑制剂和 H2 受体拮抗剂，是预防应激性溃疡的一线用药，二者疗效无明显差异。",
+    "content": "抑酸剂包括质子泵抑制剂和 H2 受体拮抗剂，是预防应激性溃疡的一线用药，二者疗效无明显差异。对于上消化道出血风险较高的重症患者，质子泵抑制剂和 H2 受体拮抗剂会显著减少胃肠道出血风险 $^{[91]}$ 。对于 HICH 患者, 使用奥美拉唑降低了应激相关的上消化道出血的发病率, 而并未增加医院获得性肺炎的风险 $^{[92]}$ 。质子泵抑制剂的效果优于 H2 受体拮抗剂。\n\n推荐意见 37: 对 HICH 患者可预防性使用质子泵抑制剂或 H2 受体拮抗剂 3 \\~ 7 d; 对于消化道出血发生风险高的 HICH 患者, 质子泵抑制剂的效果优于 H2 受体拮抗剂 (A 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_030",
+    "section": "S023",
+    "type": "fact",
+    "topic_tags": [
+      "血钠管理",
+      "评分系统",
+      "量表评估",
+      "脑出血",
+      "HICH诊断"
+    ],
+    "summary": "HICH 患者应在入住 ICU 48 h 内进行营养风险筛查 $^{[93-94]}$ 。",
+    "content": "HICH 患者应在入住 ICU 48 h 内进行营养风险筛查 $^{[93-94]}$ 。营养风险筛查 2002（nutritional risk screening 2002, NRS 2002）量表评分可作为营养风险筛查的工具。NRS2002 量表评分是一项基于体质量减轻、身体质量指数、食物摄入量减少和疾病严重程度的评分，>3 分为存在营养风险，≥5 分为存在营养高风险 $^{[94]}$ 。但对于病情不稳定的患者，建议推迟肠内营养。对 HICH 患者提供营养支持前应检测血磷、血钾、血镁，在喂养过程中密切监测并维持电解质处于正常水平，避免再喂养综合征的发生 $^{[94]}$ 。\n\n推荐意见 38: HICH 患者入住 ICU 48 h 内应进行营养风险筛查, 推荐 NRS2002 量表评分作为营养风险筛查的工具; 若无禁忌证, 24 \\~ 48 h 内应启动肠内营养 (A 级证据, 1 级推荐)。\n\n推荐意见 39: 对严重营养不良的 HICH 患者需注意预防再喂养综合征, 对于再喂养低磷血症(血磷 <0.65 mmol/L 或血磷下降 >0.16 mmol/L) 的患者, 应每日进行 2\\~3 次电解质检测, 并及时补充电解质(A 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_031",
+    "section": "S024",
+    "type": "fact",
+    "topic_tags": [
+      "血管内治疗",
+      "抗凝治疗",
+      "抗血小板治疗",
+      "血肿扩大",
+      "血栓预防"
+    ],
+    "summary": "在高收入国家,至少1/3的成人脑出血患者因合并症和其他血管疾病正在接受口服抗血栓药物治疗 $^{[95]}$ 。",
+    "content": "在高收入国家,至少1/3的成人脑出血患者因合并症和其他血管疾病正在接受口服抗血栓药物治疗 $^{[95]}$ 。RESTART研究认为,重启抗血小板治疗可降低脑出血患者缺血性或血栓栓塞事件的风险,而不会增加脑出血复发或血肿扩大的风险 $^{[96]}$ 。但重启抗血小板治疗的时间因受年龄、磁共振弥散加权成像显示的缺血灶、出血位置、脑内微出血病灶数量,以及是否合并心房颤动或应用左心室辅助装置(left ventricular assist device, LVAD)等的影响而不确定 $^{[97]}$ 。E-start研究表明,脑出血术后3 d重启抗血小板治疗可减少主要心脑血管或外周血管缺血性事件,并不增加颅内出血的风险 $^{[98]}$ 。\n目前重启抗凝治疗的时机和具体方案仍不明确, Majeed 等 $^{[99]}$ 认为, 华法林相关的脑出血发生后\n10～30 周为最佳重启时间；CHIRONE 研究中，脑出血患者重启抗凝治疗的中位时间为脑出血后 60 d，荟萃分析结果显示，重启抗凝治疗的最佳时间为脑出血后 $30 \\, d^{[100]}$ 。\n存在心房颤动的脑出血患者发生血栓栓塞事件的风险增加,尤其 CHA2DS2-VASc 量表评分≥2 分的患者。研究表明,平均年龄为 78 岁、CHA2DS2-VASc ≥ 6 分的患者 $^{[101]}$ ,以及 CHA2DS2-VASc 量表评分为 3.9 分、HAS-BLED 量表评分为 3.2 分的 2 类患者可能从重启抗凝治疗中获益 $^{[102]}$ 。Park 等 $^{[103]}$ 提出,合并心房颤动的患者在脑出血至少 2 周后方可重启抗凝治疗。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_032",
+    "section": "S024",
+    "type": "fact",
+    "topic_tags": [
+      "抗凝治疗",
+      "抗血小板治疗",
+      "血栓预防",
+      "评分系统",
+      "量表评估"
+    ],
+    "summary": "对于安装机械心脏瓣膜的 HICH 患者, 在脑出血后 7 d 内暂停抗凝治疗可能是安全的 $^{[104]}$ 。",
+    "content": "对于安装机械心脏瓣膜的 HICH 患者, 在脑出血后 7 d 内暂停抗凝治疗可能是安全的 $^{[104]}$ 。有研究表明, 脑出血 7 d 内与 7\\~30 d 内重启抗凝, 其血栓形成和脑出血相关结果并无差异 $^{[105]}$ , 但具体应何时重启抗凝治疗仍不确定。\n推荐意见 40: 对于有明确抗血小板治疗指征, 但心脑血管或外周血管缺血事件风险较高的 HICH 患者, 在术后 3 d 且颅内情况稳定的情况下, 重启抗血小板治疗是合理的 (A 级证据, 1 级推荐)。\n推荐意见 41: 对于伴有非瓣膜病性心房颤动的 HICH 患者, 可采用 CHA2DS2-VASc 量表评分评估卒中风险, 以 HAS-BLED 量表评分评估出血风险, 其重启抗凝治疗的时间仍不明确, 建议推迟至脑出血 2 周以后 (A 级证据, 1 级推荐)。\n推荐意见 42: 安装心脏机械瓣膜或 LVAD 的 HICH 患者可早期恢复抗凝治疗, 建议由神经外科、神经内科、心内科、心外科、重症医学科医生组成的多学科协作小组评估患者的风险与获益, 并决定最佳治疗策略 (B 级证据, 1 级推荐)。"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_033",
+    "section": "S025",
+    "type": "fact",
+    "topic_tags": [
+      "脑室外引流",
+      "TCD",
+      "脑出血",
+      "HICH诊断",
+      "脑血管病"
+    ],
+    "summary": "重度残疾和植物状态的脑出血患者出院时的状态并不能决定其长期预后，有目标的康复和功能重建可改善患者的长期预后 $^{[106]}$ 。",
+    "content": "重度残疾和植物状态的脑出血患者出院时的状态并不能决定其长期预后，有目标的康复和功能重建可改善患者的长期预后 $^{[106]}$ 。\n发病 24 h 内的高强度活动不能改善 HICH 患者的功能预后,甚至会增加脑出血后 14 d 的病死率 $^{[107]}$ ; 发病后 48 h 内进行康复训练 $^{[108]}$ , 仰卧位脚踏车锻炼是可行的, 即使对于脑室外引流的患者也是安全的, 但需要更大样本的研究支持 $^{[109]}$ 。约 14% 的卒中患者遗留永久性足下垂, 通过康复治疗无法达到足够的踝关节外展行走时, 使用足踝矫形器是最经典的缓解方法 $^{[110]}$ 。\n慢性意识障碍无创治疗的手段多样,传统的经颅磁刺激、经颅直流电刺激仍是研究热点，正中神经电刺激研究也较多[111]。经颅超声刺激和经皮耳穴迷走神经刺激是较新的技术，研究表明，组合治疗效果优于单一治疗。对于HICH的患者的促醒治疗，脑深部电刺激和迷走神经刺激的效果仍需更多高质量研究的支持。\n推荐意见 43: 对于轻中度 HICH 患者, 可在发病后 48 h 内进行康复训练; 仰卧位脚踏车锻炼可减少患者的 ICU 获得性虚弱, 足踝矫形器可改善 HICH 患者的足下垂 (A 级证据, 1 级推荐)。\n推荐意见44:对于伴有意识障碍的 HICH 患者,病情平稳且有条件时,可考虑早期经颅磁刺激、经颅直流电刺激或正中神经电刺激等促醒治疗(B 级证据,1 级推荐)。\n声明 本共识仅代表参与编写及讨论专家的观点,共识内容仅用于指导临床医生实践,不具有法律约束性质。共识内容是该领域的阶段性认识,根据新的临床证据随时更新。\n执笔 杨俊(首都医科大学附属北京天坛医院)"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_034",
+    "section": "S025",
+    "type": "fact",
+    "topic_tags": [
+      "脑出血",
+      "康复治疗"
+    ],
+    "summary": "共识专家组成员（按姓氏汉语拼音排序）包义君（中国医科大学附属第四医院）、方文华（福建医科大学附属第一医院）、冯光（河南省人民医院）、高国一（首都医科大学附属北京",
+    "content": "共识专家组成员（按姓氏汉语拼音排序）包义君（中国医科大学附属第四医院）、方文华（福建医科大学附属第一医院）、冯光（河南省人民医院）、高国一（首都医科大学附属北京天坛医院）、高亮（上海冬雷脑科医院）、胡锦（复旦大学附属华山医院）；胡颖红（浙江大学医学院附属第二医院）、黄齐兵（山东大学齐鲁医院）、黄贤键（深圳市第二人民医院）、江荣才（首都医科大学宣武医院）、康德智（福建医科大学附属第一医院）、李呈龙（山西省人民医院）、李立宏（空军军医大学唐都医院）；李育（新疆维吾尔自治区人民医院）、梁洪生（哈尔滨医科大学附属第一医院）、刘劲芳（中南大学湘雅医院）、刘勇（鄂尔多斯市中心医院）、马龙（新疆医科大学第一附属医院）、邱炳辉（南方医科大学南方医院）、钱涛（河北省人民医院）、曲鑫（首都医科大学宣武医院）、石广志（首都医科大学附属北京天坛医院）、汪建军（山东第一医科大学第一附属医院）、王飞（遵义市第一人民医院）、王宁（首都医科大学宣武医院）、魏俊吉（中国医学科学院北京协和医院）、谢筱琪（四川大学华西医院）、杨朝华（四川大学华西医院）、杨小锋（浙江大学医学院附属第一医院）、于湘友（新疆医科大学第一附属医院）、张立平（兰州大学第二医院）、赵迪（河北医科大学第四医院）、赵卫平（内蒙古自治区人民医院）、赵志刚（首都医科大学附属北京天坛医院）、周敏（中国科学技术大学附属第一医院）、朱建新（聊城市人民医院脑科医院）\n利益冲突 所有作者声明不存在利益冲突"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_035",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "脑出血",
+      "脑血管病",
+      "院前急救",
+      "急诊处理",
+      "多学科协作"
+    ],
+    "summary": "[1] 中华医学会神经外科学分会, 中国医师协会急诊医师分会, 中华医学会神经病学分会脑血管病学组, 等.",
+    "content": "[1] 中华医学会神经外科学分会, 中国医师协会急诊医师分会, 中华医学会神经病学分会脑血管病学组, 等. 高血压性脑出血中国多学科诊治指南 [J]. 中国急救医学, 2020, 40(8): 689-702. DOI: 10. 3969/j. issn. 1002-1949. 2020. 08. 001. [2] Mayer SA, Rincon F. Treatment of intracerebral haemorrhage [J]. Lancet Neurol, 2005, 4(10): 662-672. DOI: 10. 1016/S1474-4422(05)70195-2. [3] Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage: a guideline from the American Heart Association/American Stroke Association [J]. Stroke, 2022, 53(7): e282-e361. DOI: 10. 1161/STR. 000000000000407. [4] Atkins D, Eccles M, Flottorp S, et al. Systems for grading the quality of evidence and the strength of recommendations I: critical appraisal of existing approaches The GRADE Working Group[J]."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_036",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "BMC Health Serv Res, 2004, 4(1): 38.",
+    "content": "BMC Health Serv Res, 2004, 4(1): 38. DOI: 10. 1186/1472-6963-4-38. [5] Diringer MN, Edwards DF. Admission to a neurologic/neurosurgical intensive care unit is associated with reduced mortality rate after intracerebral hemorrhage [J]. Crit Care Med, 2001, 29(3):635-640. DOI: 10. 1097/00003246-200103000-00031. [6] Le Roux P, Menon DK, Citerio G, et al. Consensus summary statement of the International Multidisciplinary Consensus Conference on Multimodality Monitoring in Neurocritical Care: a statement for healthcare professionals from the Neurocritical Care Society and the European Society of Intensive Care Medicine[J]. Neurocrit Care, 2014, 21 Suppl 2(Suppl 2): S1-26. DOI: 10. 1007/s12028-014-0041-5. [7] Ho UC, Hsieh CJ, Lu HY, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_037",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Predictors of extubation failure and prolonged mechanical ventilation among pati…",
+    "content": "Predictors of extubation failure and prolonged mechanical ventilation among patients with intracerebral hemorrhage after surgery[J]. Respir Res, 2024, 25(1): 19. DOI: 10. 1186/s12931-023-02638-5. [8] Bösel J, Niesen WD, Salih F, et al. Effect of early vs standard approach to tracheostomy on functional outcome at 6 months among patients with severe stroke receiving mechanical ventilation: the SETPOINT2 randomized clinical trial [J]. JAMA, 2022, 327 (19): 1899-1909. DOI: 10. 1001/jama. 2022. 4798. [9] Le Gall A, Eustache G, Coquet A, et al. End-tidal carbon dioxide and arterial to end-tidal carbon dioxide gradient are associated with mortality in patients with neurological injuries [J]. Sci Rep, 2024, 14(1): 19172. DOI: 10. 1038/s41598-024-69143-7. [10] Bösel J."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_038",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Use and timing of tracheostomy after severe stroke [J].",
+    "content": "Use and timing of tracheostomy after severe stroke [J]. Stroke, 2017, 48(9): 2638-2643. DOI: 10. 1161/STROKEAHA. 117. 017794. [11] Siempos II, Ntaidou TK, Filippidis FT, et al. Effect of early versus late or no tracheostomy on mortality and pneumonia of critically ill patients receiving mechanical ventilation: a systematic review and meta-analysis [J]. Lancet Respir Med, 2015, 3(2): 150-158. DOI: 10. 1016/S2213-2600(15)00007-7. [12] Hosokawa K, Nishimura M, Egi M, et al. Timing of tracheotomy in ICU patients: a systematic review of randomized controlled trials[J]. Crit Care, 2015, 19:424. DOI: 10. 1186/s13054-015-1138-8. [13] Vemmos KN, Tsivgoulis G, Spengos K, et al. U-shaped relationship between mortality and admission blood pressure in"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_039",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "降压研究"
+    ],
+    "summary": "patients with acute stroke [J].",
+    "content": "patients with acute stroke [J]. J Intern Med, 2004, 255(2): 257-265. DOI: 10. 1046/j. 1365-2796. 2003. 01291. x. [14] Anderson CS, Huang Y, Wang JG, et al. Intensive blood pressure reduction in acute cerebral haemorrhage trial (INTERACT): a randomised pilot trial [J]. Lancet Neurol, 2008, 7(5): 391-399. DOI: 10. 1016/S1474-4422(08)70069-3. [15] Anderson CS, Heeley E, Huang Y, et al. Rapid blood-pressure lowering in patients with acute intracerebral hemorrhage [J]. N Engl J Med, 2013, 368 (25): 2355-2365. DOI: 10. 1056/NEJMoa1214609. [16] Qureshi AI, Palesch YY, Barsan WG, et al. Intensive blood-pressure lowering in patients with acute cerebral hemorrhage[J]. N Engl J Med, 2016, 375(11): 1033-1043. DOI: 10. 1056/NEJMoa1603460. [17] Yuan F, Yang F, Zhao J, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_040",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "降压研究"
+    ],
+    "summary": "Controlling Hypertension After Severe Cerebrovascular Event (CHASE): a randomize…",
+    "content": "Controlling Hypertension After Severe Cerebrovascular Event (CHASE): a randomized, multicenter, controlled study [J]. Int J Stroke, 2021, 16(4): 456-465. DOI: 10. 1177/1747493020932784. [18] Ma L, Hu X, Song L, et al. The third Intensive Care Bundle with Blood Pressure Reduction in Acute Cerebral Haemorrhage Trial (INTERACT3): an international, stepped wedge cluster randomised controlled trial[J]. Lancet, 2023, 402(10395): 27-40. DOI: 10. 1016/S0140-6736(23)00806-1. [19] Qureshi AI, Huang W, Lobanova I, et al. Outcomes of intensive systolic blood pressure reduction in patients with intracerebral hemorrhage and excessively high initial systolic blood pressure: post hoc analysis of a randomized clinical trial [J]. JAMA Neurol, 2020, 77(11): 1355-1365. DOI: 10. 1001/jamaneurol. 2020. 3075."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_041",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "[20] Steiner T, Purrucker JC, Aguiar de Sousa D, et al.",
+    "content": "[20] Steiner T, Purrucker JC, Aguiar de Sousa D, et al. European Stroke Organisation (ESO) and European Association of Neurosurgical Societies (EANS) guideline on stroke due to spontaneous intracerebral haemorrhage[J]. Eur Stroke J, 2025, 10(4):1007-1086. DOI: 10. 1177/23969873251340815. [21] Lindner A, Rass V, Ianosi BA, et al. Individualized blood pressure targets in the postoperative care of patients with intracerebral hemorrhage[J]. J Neurosurg, 2021, 135(6): 1656-1665. DOI: 10. 3171/2020. 9. JNS201024. [22] Ren J, Wu X, Huang J, et al. Intracranial pressure monitoring-aided management associated with favorable outcomes in patients with hypertension-related spontaneous intracerebral hemorrhage [J]. Transl Stroke Res, 2020, 11(6): 1253-1263. DOI: 10. 1007/s12975-020-00798-w."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_042",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "[23] Yang Y, Pan Y, Chen C, et al.",
+    "content": "[23] Yang Y, Pan Y, Chen C, et al. Clinical significance of multiparameter intracranial pressure monitoring in the prognosis prediction of hypertensive intracerebral hemorrhage [J]. J Clin Med, 2022, 11(3): 671. DOI: 10. 3390/jcm11030671. [24] Dallagiacoma S, Robba C, Graziano F, et al. Intracranial pressure monitoring in patients with spontaneous intracerebral hemorrhage: insights from the SYNAPSE-ICU study [J]. Neurology, 2022, 99(2): e98-e108. DOI: 10. 1212/WNL. 0000000000200568. [25] 中国神经外科重症管理协作组,中国研究型医院学会微无创诊疗专业委员会,河南省医师协会神经外科分会,等. 脑室外引流液压耦合型颅内压监测管理规范中国专家共识[J]. 中国现代神经疾病杂志,2025,25(10):874-884. DOI:10. 3969/j. issn. 1672-6731. 2025. 10. 002. [26] Diedler J, Santos E, Poli S, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_043",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Optimal cerebral perfusion pressure in patients with intracerebral hemorrhage: a…",
+    "content": "Optimal cerebral perfusion pressure in patients with intracerebral hemorrhage: an observational case series [J]. Crit Care, 2014, 18(2): R51. DOI: 10. 1186/cc13796. [27] Ko SB, Choi HA, Parikh G, et al. Multimodality monitoring for cerebral perfusion pressure optimization in comatose patients with intracerebral hemorrhage [J]. Stroke, 2011, 42(11): 3087-3092. DOI: 10. 1161/STROKEAHA. 111. 623165."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_044",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "ICP监测"
+    ],
+    "summary": "[28] Kevci R, Hånell A, Howells T, et al.",
+    "content": "[28] Kevci R, Hånell A, Howells T, et al. Temporal dynamics of ICP, CPP, PRx, and CPPopt in relation to outcome in spontaneous intracerebral hemorrhage [J]. J Neurosurg, 2025, 143(1):255-265. DOI: 10. 3171/2024. 10. JNS241038. [29] Chang JJ, Youn TS, Benson D, et al. Physiologic and functional outcome correlates of brain tissue hypoxia in traumatic brain injury[J]. Crit Care Med, 2009,37(1):283-290. DOI: 10. 1097/CCM. 0b013e318192fbd7. [30] Hemphill JC 3rd, Morabito D, Farrant M, et al. Brain tissue oxygen monitoring in intracerebral hemorrhage [J]. Neurocrit Care, 2005, 3(3): 260-270. DOI: 10. 1385/NCC:3:3:260. [31] Lindner A, Rass V, Ianosi BA, et al. The importance of PbtO2 probe location for data interpretation in patients with intracerebral hemorrhage[J]."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_045",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Neurocrit Care, 2021, 34(3): 804-813.",
+    "content": "Neurocrit Care, 2021, 34(3): 804-813. DOI: 10. 1007/s12028-020-01089-w. [32] Le Roux P, Menon DK, Citerio G, et al. The International Multidisciplinary Consensus Conference on Multimodality Monitoring in Neurocritical Care: a list of recommendations and additional conclusions: a statement for healthcare professionals from the Neurocritical Care Society and the European Society of Intensive Care Medicine[J]. Neurocrit Care, 2014, 21 Suppl 2 (Suppl 2): S282-296. DOI: 10. 1007/s12028-014-0077-6. [33] Robba C, Santori G, Czosnyka M, et al. Optic nerve sheath diameter measured sonographically as non-invasive estimator of intracranial pressure: a systematic review and meta-analysis[J]. Intensive Care Med, 2018,44(8):1284-1294. DOI: 10. 1007/s00134-018-5305-7."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_046",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "[34] Bastani Viarsagh S, Agar A, Lawlor M, et al.",
+    "content": "[34] Bastani Viarsagh S, Agar A, Lawlor M, et al. Non-invasive assessment of intracranial pressure through the eyes: current developments, limitations, and future directions [J]. Front Neurol, 2024, 15: 1442821. DOI: 10. 3389/fneur. 2024. 1442821. [35] Soldatos T, Chatzimichail K, Papathanasiou M, et al. Optic nerve sonography: a new window for the non-invasive evaluation of intracranial pressure in brain injury[J]. Emerg Med J, 2009, 26(9):630-634. DOI: 10. 1136/emj. 2008. 058453. [36] Rajajee V, Vanaman M, Fletcher JJ, et al. Optic nerve ultrasound for the detection of raised intracranial pressure [J]. Neurocrit Care, 2011, 15(3): 506-515. DOI: 10. 1007/s12028-011-9606-8. [37] Montorfano L, Yu Q, Bordes SJ, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_047",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Mean value of B-mode optic nerve sheath diameter as an indicator of increased in…",
+    "content": "Mean value of B-mode optic nerve sheath diameter as an indicator of increased intracranial pressure: a systematic review and meta-analysis [J]. Ultrasound J, 2021, 13(1): 35. DOI: 10. 1186/s13089-021-00235-5. [38] Uparela-Reyes MJ, Ordoñez-Cure S, Moreno-Drada J, et al. Diagnostic accuracy of optic nerve sheath diameter measurement by ultrasonography for noninvasive estimation of intracranial hypertension in traumatic brain injury: a systematic review and meta-analysis [J]. Neurosurgery, 2024, 97(1): 45-56. DOI: 10. 1227/neu. 0000000000003273. [39] Couret D, Boumaza D, Grisotto C, et al. Reliability of standard pupillometry practice in neurocritical care: an observational, double-blinded study [J]. Crit Care, 2016, 20: 99. DOI: 10. 1186/s13054-016-1239-z."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_048",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "ICP监测"
+    ],
+    "summary": "[40] Sandroni C, Citerio G, Taccone FS.",
+    "content": "[40] Sandroni C, Citerio G, Taccone FS. Automated pupillometry in intensive care [J]. Intensive Care Med, 2022, 48(10): 1467-1470. DOI: 10. 1007/s00134-022-06772-4. [41] Robba C, Picetti E, Vásquez-García S, et al. The Brussels consensus for non-invasive ICP monitoring when invasive systems are not available in the care of TBI patients (the B-ICONIC consensus, recommendations, and management algorithm) [J]. Intensive Care Med, 2025, 51(1): 4-20. DOI: 10. 1007/s00134-024-07756-2. [42] Chen Y, Xu W, Wang L, et al. Transcranial Doppler combined with quantitative EEG brain function monitoring and outcome prediction in patients with severe acute intracerebral hemorrhage"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_049",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "[J].",
+    "content": "[J]. Crit Care, 2018, 22(1):36. DOI: 10. 1186/s13054-018-1951-y. [43] Hwang J, Cho SM, Ritzl EK. Recent applications of quantitative electroencephalography in adult intensive care units: a comprehensive review [J]. J Neurol, 2022, 269(12): 6290-6309. DOI: 10. 1007/s00415-022-11337-y. [44] Chen Y, Wang L, Zhang J, et al. Monitoring of patients with brainstem hemorrhage: a simultaneous study of quantitative electroencephalography and transcranial Doppler [J]. Clin Neurophysiol, 2021, 132(4): 946-952. DOI: 10. 1016/j. clinph. 2020. 12. 026. [45] Robba C, Wong A, Poole D, et al. Basic ultrasound head-to-toe skills for intensivists in the general and neuro intensive care unit population: consensus and expert recommendations of the European Society of Intensive Care Medicine[J]."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_050",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Intensive Care Med, 2021, 47(12): 1347-1367.",
+    "content": "Intensive Care Med, 2021, 47(12): 1347-1367. DOI: 10. 1007/s00134-021-06486-z. [46] Battison C, Andrews PJ, Graham C, et al. Randomized, controlled trial on the effect of a 20% mannitol solution and a 7. 5% saline/6% dextran solution on increased intracranial pressure after brain injury [J]. Crit Care Med, 2005, 33(1): 196-202; discussion 257-258. DOI: 10. 1097/01. ccm. 0000150269. 65485. a6. [47] Kamel H, Navi BB, Nakagawa K, et al. Hypertonic saline versus mannitol for the treatment of elevated intracranial pressure: a meta-analysis of randomized clinical trials [J]. Crit Care Med, 2011, 39 (3): 554-559. DOI: 10. 1097/CCM. 0b013e318206b9be. [48] Wagner I, Hauer EM, Staykov D, et al. Effects of continuous hypertonic saline infusion on perihemorrhagic edema evolution [J]."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_051",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Stroke, 2011, 42(6): 1540-1545.",
+    "content": "Stroke, 2011, 42(6): 1540-1545. DOI: 10. 1161/STROKEAHA. 110. 609479. [49] Marra A, Ely EW, Pandharipande PP, et al. The ABCDEF bundle in critical care [J]. Crit Care Clin, 2017, 33(2): 225-243. DOI: 10. 1016/j. ccc. 2016. 12. 005. [50] Devlin JW, Skrobik Y, Gélinas C, et al. Clinical practice guidelines for the prevention and management of pain, agitation/sedation, delirium, immobility, and sleep disruption in adult patients in the ICU[J]. Crit Care Med, 2018, 46(9): e825-e873. DOI: 10. 1097/CCM. 0000000000003299. [51] Marrama F, Kyheng M, Pasi M, et al. Early-onset delirium after spontaneous intracerebral hemorrhage[J]. Int J Stroke, 2022, 17(9): 1030-1038. DOI: 10. 1177/17474930211059636. [52] Thompson BB, Béjot Y, Caso V, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_052",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Prior antiplatelet therapy and outcome following intracerebral hemorrhage: a sys…",
+    "content": "Prior antiplatelet therapy and outcome following intracerebral hemorrhage: a systematic review[J]. Neurology, 2010, 75(15): 1333-1342. DOI: 10. 1212/WNL. 0b013e3181f735e5. [53] Stone EF, Poyraz FC, Roh DJ. Transfusion medicine approaches for spontaneous intracerebral hemorrhage patients [J]. Curr Opin Crit Care, 2023, 29(2): 50-60. DOI: 10. 1097/MCC. 000000000001027. [54] Sieh L, Peasley E, Mao E, et al. Admission viscoelastic hemostatic assay parameters predict poor long-term intracerebral hemorrhage outcomes [J]. Neurocrit Care, 2025, 42(1): 100-107. DOI: 10. 1007/s12028-024-02051-w. [55] Li X, Sun Z, Zhao W, et al. Effect of acetylsalicylic acid usage and platelet transfusion on postoperative hemorrhage and activities of daily living in patients with acute intracerebral hemorrhage [J]."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_053",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "J Neurosurg, 2013, 118(1): 94-103.",
+    "content": "J Neurosurg, 2013, 118(1): 94-103. DOI: 10. 3171/2012. 9. JNS112286. [56] Baharoglu MI, Cordonnier C, Al-Shahi Salman R, et al. Platelet transfusion versus standard care after acute stroke due to spontaneous cerebral haemorrhage associated with antiplatelet therapy (PATCH): a randomised, open-label, phase 3 trial [J]. Lancet, 2016, 387(10038): 2605-2613. DOI: 10. 1016/S0140-6736(16)30392-0."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_054",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "[57] Correction to: Association of Anaesthetists guidelines: the use of blood co…",
+    "content": "[57] Correction to: Association of Anaesthetists guidelines: the use of blood components and their alternatives[J]. Anaesthesia, 2025, 80(12):1569. DOI: 10. 1111/anae. 70020. [58] Desborough M, Al-Shahi Salman R, Stanworth SJ, et al. Desmopressin for patients with spontaneous intracerebral haemorrhage taking antiplatelet drugs (DASH): a UK-based, phase 2, randomised, placebo-controlled, multicentre feasibility trial [J]. Lancet Neurol, 2023, 22(7): 557-567. DOI: 10. 1016/S1474-4422(23)00157-6. [59] Shahzad F, Ahmed U, Muhammad A, et al. Safety and efficacy of desmopressin (DDAVP) in preventing hematoma expansion in intracranial hemorrhage associated with antiplatelet drugs use: a systematic review and metaanalysis [J]. Brain Behav, 2024, 14(5): e3540. DOI: 10. 1002/brb3. 3540."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_055",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "[60] Christensen H, Cordonnier C, Körv J, et al.",
+    "content": "[60] Christensen H, Cordonnier C, Körv J, et al. European Stroke Organisation Guideline on reversal of oral anticoagulants in acute intracerebral haemorrhage[J]. Eur Stroke J, 2019, 4(4): 294-306. DOI: 10. 1177/2396987319849763. [61] Frol S, Sernec LP, Hudnik LK, et al. Idarucizumab reversal of dabigatran in patients with acute ischemic stroke and intracranial hemorrhage: comparison with non-idarucizumab-treated patients [J]. CNS Drugs, 2021, 35(2): 233-242. DOI: 10. 1007/s40263-021-00792-2. [62] Costa OS, Connolly SJ, Sharma M, et al. Andexanet alfa versus four-factor prothrombin complex concentrate for the reversal of apixaban- or rivaroxaban-associated intracranial hemorrhage: a propensity score-overlap weighted analysis[J]. Crit Care, 2022, 26(1):180. DOI: 10. 1186/s13054-022-04043-8."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_056",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "[63] Kuramatsu JB, Gerner ST, Schellinger PD, et al.",
+    "content": "[63] Kuramatsu JB, Gerner ST, Schellinger PD, et al. Anticoagulant reversal, blood pressure levels, and anticoagulant resumption in patients with anticoagulation-related intracerebral hemorrhage [J]. JAMA, 2015, 313(8): 824-836. DOI: 10. 1001/jama. 2015. 0846. [64] Mayer SA, Brun NC, Begtrup K, et al. Efficacy and safety of recombinant activated factor VII for acute intracerebral hemorrhage [J]. N Engl J Med, 2008, 358(20): 2127-2137. DOI: 10. 1056/NEJMoa0707534. [65] Sprigg N, Flaherty K, Appleton JP, et al. Tranexamic acid for hyperacute primary IntraCerebral Haemorrhage (TICH-2): an international randomised, placebo-controlled, phase 3 superiority trial [J]. Lancet, 2018, 391(10135): 2107-2115. DOI: 10. 1016/S0140-6736(18)31033-X. [66] Meretoja A, Yassi N, Wu TY, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_057",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "STOP-AUST"
+    ],
+    "summary": "Tranexamic acid in patients with intracerebral haemorrhage (STOP-AUST): a multic…",
+    "content": "Tranexamic acid in patients with intracerebral haemorrhage (STOP-AUST): a multicentre, randomised, placebo-controlled, phase 2 trial [J]. Lancet Neurol, 2020, 19(12): 980-987. DOI: 10. 1016/S1474-4422(20)30369-0. [67] Yassi N, Zhao H, Churilov L, et al. Tranexamic acid versus placebo in individuals with intracerebral haemorrhage treated within 2 h of symptom onset (STOP-MSU): an international, double-blind, randomised, phase 2 trial [J]. Lancet Neurol, 2024, 23(6): 577-587. DOI: 10. 1016/S1474-4422(24)00128-5. [68] Scheitz JF, Nolte CH, Doehner W, et al. Stroke-heart syndrome: clinical presentation and underlying mechanisms [J]. Lancet Neurol, 2018, 17(12): 1109-1120. DOI: 10. 1016/S1474-4422(18)30336-3. [69] Hoad KL, Jones H, Miller G, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_058",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Stroke-heart syndrome: incidence and clinical outcomes of cardiac complications …",
+    "content": "Stroke-heart syndrome: incidence and clinical outcomes of cardiac complications following intracerebral haemorrhage[J]. Eur Stroke J, 2025, 10(1): 100-107. DOI: 10. 1177/23969873241264115. [70] Scheitz JF, Sposato LA, Schulz-Menger J, et al. Stroke-heart syndrome: recent advances and challenges [J]. J Am Heart Assoc, 2022, 11 (17): e026528. DOI: 10. 1161/JAHA. 122. 026528. [71] Li Z, Chen W, Zhu Y, et al. Risk factors and clinical features of"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_059",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "paroxysmal sympathetic hyperactivity after spontaneous intracerebral hemorrhage …",
+    "content": "paroxysmal sympathetic hyperactivity after spontaneous intracerebral hemorrhage [J]. Auton Neurosci, 2020, 225: 102643. DOI: 10. 1016/j. autneu. 2020. 102643. [72] Tu J, Reeve J, Deane AM, et al. Pharmacological management of paroxysmal sympathetic hyperactivity: a scoping review[J]. J Neurotrauma, 2021, 38(16): 2221-2237. DOI: 10. 1089/neu. 2020. 7597. [73] Muraoka S, Kumagai Y, Koketsu N, et al. Paroxysmal sympathetic hyperactivity in stroke[J]. World Neurosurg, 2023, 178:28-36. DOI: 10. 1016/j. wneu. 2023. 07. 002. [74] CLOTS Trials Collaboration, Dennis M, Sandercock PA, et al. Effectiveness of thigh-length graduated compression stockings to reduce the risk of deep vein thrombosis after stroke (CLOTS trial 1): a multicentre, randomised controlled trial [J]."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_060",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Lancet, 2009, 373 (9679): 1958-1965.",
+    "content": "Lancet, 2009, 373 (9679): 1958-1965. DOI: 10. 1016/S0140-6736(09)60941-7. [75] CLOTS ( Clots in Legs Or sTockings after Stroke ) Trial Collaboration. Thigh-length versus below-knee stockings for deep venous thrombosis prophylaxis after stroke: a randomized trial [J]. Ann Intern Med, 2010, 153(9): 553-562. DOI: 10. 7326/0003-4819-153-9-201011020-00280. [76] CLOTS ( Clots in Legs Or sTockings after Stroke ) Trials Collaboration, Dennis M, Sandercock P, et al. Effectiveness of intermittent pneumatic compression in reduction of risk of deep vein thrombosis in patients who have had a stroke ( CLOTS 3 ): a multicentre randomised controlled trial [ J ]. Lancet, 2013, 382 (9891):516-524. DOI: 10. 1016/S0140-6736(13)61050-8. [77] Dennis M, Sandercock P, Graham C, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_061",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "The Clots in Legs Or sTockings after Stroke (CLOTS) 3 trial: a randomised contro…",
+    "content": "The Clots in Legs Or sTockings after Stroke (CLOTS) 3 trial: a randomised controlled trial to determine whether or not intermittent pneumatic compression reduces the risk of post-stroke deep vein thrombosis and to estimate its cost-effectiveness[J]. Health Technol Assess, 2015, 19(76): 1-90. DOI: 10. 3310/hta19760. [78] Sprügel MI, Sembill JA, Kuramatsu JB, et al. Heparin for prophylaxis of venous thromboembolism in intracerebral haemorrhage[J]. J Neurol Neurosurg Psychiatry, 2019, 90(7): 783-791. DOI: 10. 1136/jnnp-2018-319786. [79] Lu P, Cui L, Gu H, et al. Safety study of anticoagulants for preventing deep venous thrombosis after intracerebral hemorrhage: data from the chinese stroke center alliance [J]. Drugs Aging, 2025, 42(4): 329-337. DOI: 10. 1007/s40266-025-01187-4."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_062",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "[80] Dong C, Li Y, Ma Md Z.",
+    "content": "[80] Dong C, Li Y, Ma Md Z. Venous thromboembolism prophylaxis after spontaneous intracerebral hemorrhage: a review [J]. Neurologist, 2024, 29(1): 54-58. DOI: 10. 1097/NRL. 000000000000509. [81] Gorman J, Candeloro M, Schulman S. Anticoagulant management and outcomes in nontraumatic intracranial hemorrhage complicated by venous thromboembolism: a retrospective chart review[J]. Thromb Haemost, 2023, 123(10): 966-975. DOI: 10. 1055/a-2068-6464. [82] NICE-SUGAR Study Investigators, Finfer S, Chittock DR, et al. Intensive versus conventional glucose control in critically ill patients[J]. N Engl J Med, 2009,360(13):1283-1297. DOI: 10. 1056/NEJMoa0810625. [83] Béjot Y, Aboa-Eboulé C, Hervieu M, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_063",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "The deleterious effect of admission hyperglycemia on survival and functional out…",
+    "content": "The deleterious effect of admission hyperglycemia on survival and functional outcome in patients with intracerebral hemorrhage[J]. Stroke, 2012, 43(1): 243-245. DOI: 10. 1161/STROKEAHA. 111. 632950. [84] Mrochen A, Alhaj Omar O, Pelz JO, et al. Guideline-recommended basic parameter adherence in neurocritical care stroke patients: observational multicenter individual participant data analysis[J]. Eur Stroke J, 2025, 10(2): 504-512. DOI: 10. 1177/23969873241289360. [85] Schiefecker AJ, Kofler M, Gaasch M, et al. Brain temperature but not core temperature increases during spreading"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_064",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "depolarizations in patients with spontaneous intracerebral hemorrhage[J].",
+    "content": "depolarizations in patients with spontaneous intracerebral hemorrhage[J]. J Cereb Blood Flow Metab, 2018,38(3):549-558. DOI: 10. 1177/0271678X17703940. [86] Baker TS, Durbin J, Troiani Z, et al. Therapeutic hypothermia for intracerebral hemorrhage: systematic review and meta-analysis of the experimental and clinical literature [J]. Int J Stroke, 2022, 17(5): 506-516. DOI: 10. 1177/17474930211044870. [87] Balami JS, Buchan AM. Complications of intracerebral haemorrhage [J]. Lancet Neurol, 2012, 11(1): 101-118. DOI: 10. 1016/S1474-4422(11)70264-2. [88] Claassen J, Jetté N, Chum F, et al. Electrographic seizures and periodic discharges after intracerebral hemorrhage [J]. Neurology, 2007, 69(13): 1356-1365. DOI: 10. 1212/01. wnl. 0000281664. 02615. 6c. [89] Solnicky V, Ziai WC."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_065",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Seizure prevention in patients with intracerebral haemorrhage [J].",
+    "content": "Seizure prevention in patients with intracerebral haemorrhage [J]. Lancet Neurol, 2022, 21(9): 760-761. DOI: 10. 1016/S1474-4422(22)00297-6. [90] Angriman F, Tirupakuzhi Vijayaraghavan BK, Dragoi L, et al. Antiepileptic drugs to prevent seizures after spontaneous intracerebral hemorrhage[J]. Stroke, 2019, 50(5): 1095-1099. DOI: 10. 1161/STROKEAHA. 118. 024380. [91] Wang Y, Ye Z, Ge L, et al. Efficacy and safety of gastrointestinal bleeding prophylaxis in critically ill patients: systematic review and network meta-analysis [J]. BMJ, 2020, 368: l6744. DOI: 10. 1136/bmj. l6744. [92] Liu BL, Li B, Zhang X, et al. A randomized controlled study comparing omeprazole and cimetidine for the prophylaxis of stress-related upper gastrointestinal bleeding in patients with intracerebral hemorrhage[J]."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_066",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "J Neurosurg, 2013, 118(1): 115-120.",
+    "content": "J Neurosurg, 2013, 118(1): 115-120. DOI: 10. 3171/2012. 9. JNS12170. [93] Singer P, Blaser AR, Berger MM, et al. ESPEN guideline on clinical nutrition in the intensive care unit [J]. Clin Nutr, 2019, 38(1):48-79. DOI: 10. 1016/j. clnu. 2018. 08. 037. [94] Singer P, Blaser AR, Berger MM, et al. ESPEN practical and partially revised guideline: clinical nutrition in the intensive care unit[J]. Clin Nutr, 2023, 42(9): 1671-1689. DOI: 10. 1016/j. clnu. 2023. 07. 011. [95] RESTART Collaboration. Effects of antiplatelet therapy after stroke due to intracerebral haemorrhage (RESTART): a randomised, open-label trial [J]. Lancet, 2019, 393(10191): 2613-2623. DOI: 10. 1016/S0140-6736(19)30840-2. [96] Chen CJ, Ding D, Buell TJ, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_067",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Restarting antiplatelet therapy after spontaneous intracerebral hemorrhage: func…",
+    "content": "Restarting antiplatelet therapy after spontaneous intracerebral hemorrhage: functional outcomes [J]. Neurology, 2018, 91(1): e26-e36. DOI: 10. 1212/WNL. 0000000000005742. [97] Li Y, Liu X, Chen S, et al. Effect of antiplatelet therapy on the incidence, prognosis, and rebleeding of intracerebral hemorrhage [J]. CNS Neurosci Ther, 2023, 29(6): 1484-1496. DOI: 10. 1111/cns. 14175. [98] Liu Q, Mo S, Wu J, et al. Safety and efficacy of early versus delayed acetylsalicylic acid after surgery for spontaneous intracerebral haemorrhage in China (E-start): a prospective, multicentre, open-label, blinded-endpoint, randomised trial [J]. Lancet Neurol, 2024, 23(12): 1195-1204. DOI: 10. 1016/S1474-4422(24)00424-1. [99] Majeed A, Kim YK, Roberts RS, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_068",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Optimal timing of resumption of warfarin after intracranial hemorrhage[J].",
+    "content": "Optimal timing of resumption of warfarin after intracranial hemorrhage[J]. Stroke,"
+  },
+  {
+    "chunk_id": "HICH2026_FACT_069",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "(收稿日期:2025-12-05)   \n(本文编辑:孙丽娜)  \n2010, 41 (12): 2860-2866. DOI: 10. 1161/STROKE",
+    "content": "(收稿日期:2025-12-05)   \n(本文编辑:孙丽娜)  \n2010, 41 (12): 2860-2866. DOI: 10. 1161/STROKEAHA. 110. 593087. [100] El Naamani K, Abbas R, Ghanem M, et al. Resuming anticoagulants in patients with intracranial hemorrhage: a meta-analysis and literature review [J]. Neurosurgery, 2024, 94(1): 14-19. DOI: 10. 1227/neu. 0000000000002625. [101] Chao TF, Liu CJ, Liao JN, et al. Use of oral anticoagulants for stroke prevention in patients with atrial fibrillation who have a history of intracranial hemorrhage [J]. Circulation, 2016, 133(16): 1540-1547. DOI: 10. 1161/CIRCULATIONAHA. 115. 019794. [102] Nielsen PB, Larsen TB, Skjøth F, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_070",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Restarting anticoagulant treatment after intracranial hemorrhage in patients wit…",
+    "content": "Restarting anticoagulant treatment after intracranial hemorrhage in patients with atrial fibrillation and the impact on recurrent stroke, mortality, and bleeding: a nationwide cohort study[J]. Circulation, 2015, 132(6): 517-525. DOI: 10. 1161/CIRCULATIONAHA. 115. 015735. [103] Park YA, Uhm JS, Pak HN, et al. Anticoagulation therapy in atrial fibrillation after intracranial hemorrhage [J]. Heart Rhythm, 2016, 13(9): 1794-1802. DOI: 10. 1016/j. hrthm. 2016. 05. 016. [104] Sakusic A, Rabinstein AA, Anisetti B, et al. Timing of anticoagulation resumption and risk of ischemic and hemorrhagic complications in patients with ICH and mechanical heart valves [J]. Neurology, 2024, 103(4): e209664. DOI: 10. 1212/WNL. 0000000000209664. [105] Barra ME, Forman R, Long-Fazio B, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_071",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Optimal timing for resumption of anticoagulation after intracranial hemorrhage i…",
+    "content": "Optimal timing for resumption of anticoagulation after intracranial hemorrhage in patients with mechanical heart valves [J]. J Am Heart Assoc, 2024, 13(10): e032094. DOI: 10. 1161/JAHA. 123. 032094. [106] Lee L, Lo YT, See A, et al. Long-term recovery profile of patients with severe disability or in vegetative states following severe primary intracerebral hemorrhage[J]. J Crit Care, 2018, 48:269-275. DOI: 10. 1016/j. jcrc. 2018. 09. 010. [107] AVERT Trial Collaboration group. Efficacy and safety of very early mobilisation within 24 h of stroke onset (AVERT): a randomised controlled trial [J]. Lancet, 2015, 386(9988): 46-55. DOI: 10. 1016/S0140-6736(15)60690-0. [108] Liu N, Cadilhac DA, Andrew NE, et al."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_072",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "Randomized controlled trial of early rehabilitation after intracerebral hemorrha…",
+    "content": "Randomized controlled trial of early rehabilitation after intracerebral hemorrhage stroke: difference in outcomes within 6 months of stroke [J]. Stroke, 2014, 45 (12): 3502-3507. DOI: 10. 1161/STROKEAHA. 114. 005661. [109] Zink EK, Kumble S, Beier M, et al. Physiological responses to in-bed cycle ergometry treatment in intensive care unit patients with external ventricular drainage [J]. Neurocrit Care, 2021, 35(3): 707-713. DOI: 10. 1007/s12028-021-01204-5. [110] Carolus AE, Becker M, Cuny J, et al. The interdisciplinary management of foot drop [J]. Dtsch Arztebl Int, 2019, 116(20):347-354. DOI: 10. 3238/arztebl. 2019. 0347. [111] Wan X, Zhang Y, Li Y, et al. An update on noninvasive neuromodulation in the treatment of patients with prolonged disorders of consciousness [J]."
+  },
+  {
+    "chunk_id": "HICH2026_FACT_073",
+    "section": "S026",
+    "type": "fact",
+    "topic_tags": [
+      "其他"
+    ],
+    "summary": "CNS Neurosci Ther, 2024, 30(5): e14757.",
+    "content": "CNS Neurosci Ther, 2024, 30(5): e14757. DOI: 10. 1111/cns. 14757."
+  }
+]

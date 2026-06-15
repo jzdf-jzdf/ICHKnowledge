@@ -1,0 +1,290 @@
+[
+  {
+    "section_id": "S001",
+    "title": "常用脑影像技术在脑卒中诊断中的应用指南",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "Guidelines for the application of common brain imaging technologies in diagnosis of stroke",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S003",
+    "title": "神经影像技术概述",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S004",
+    "title": "一、脑组织成像技术",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S005",
+    "title": "（一）CT （computed tomography）",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S006",
+    "title": "（二）磁共振成像（magnetic resonance imaging，MRI）",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S007",
+    "title": "二、头颈部血管成像技术",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S008",
+    "title": "（ 一 ）CT 血 管 造 影（computed tomographyangiography， CTA）",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S009",
+    "title": "（二）磁 共 振 血 管 造 影（magnetic resonanceangiography， MRA）",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S010",
+    "title": "（三）DSA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S011",
+    "title": "影像技术在缺血性脑卒中/短暂性脑缺血发作（transient ischemic attack， TIA）诊疗中的应用",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S012",
+    "title": "一、CT在缺血性脑卒中/TIA诊疗中的应用（一） 的应用",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S013",
+    "title": "（二）多 模 式 CT 成 像（multi‑model computedtomography imaging）",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S014",
+    "title": "二、MRI在缺血性脑卒中/TIA诊疗中的应用",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S015",
+    "title": "（一） 在缺血性脑卒中诊疗中的应用",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S016",
+    "title": "（二）MRI在TIA中的应用",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S017",
+    "title": "影像技术在出血性脑卒中诊疗中的应用",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S018",
+    "title": "一、脑出血",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S019",
+    "title": "（一）血肿评估",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S020",
+    "title": "（ 二 ）基 于 影 像 的 血 肿 扩 大（hemorrhage）评估",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S021",
+    "title": "（三）血肿周围水肿、血脑屏障及周边灌注的评价",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S022",
+    "title": "二、SAH",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S023",
+    "title": "（一） CT",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S024",
+    "title": "（二） MRI",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S025",
+    "title": "血管病变评估",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S026",
+    "title": "一、脑动脉狭窄的影像学诊断",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S027",
+    "title": "（一）头颈CTA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S028",
+    "title": "（二）MRA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S029",
+    "title": "（三）头颅",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S030",
+    "title": "二、动脉夹层的评估",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S031",
+    "title": "（一）CTA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S032",
+    "title": "（二）MRA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S033",
+    "title": "（三）",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S034",
+    "title": "三、脑动脉炎的影像学评估",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S035",
+    "title": "四、侧支循环血管评估",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S036",
+    "title": "（一）CTA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S037",
+    "title": "（二）灌注成像（包括 和 ）",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S038",
+    "title": "（三）DSA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S039",
+    "title": "五、动静脉畸形及其他血管畸形病变",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S040",
+    "title": "（一）DSA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S041",
+    "title": "（二） 和",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S042",
+    "title": "（三）MRI",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S043",
+    "title": "六、动脉瘤",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S044",
+    "title": "（一）DSA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S045",
+    "title": "（二）CTA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S046",
+    "title": "（三）MRA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S047",
+    "title": "参 考 文 献",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S048",
+    "title": "中华神经科杂志获得2023年度中华医学会综合质量优秀期刊等荣誉称号",
+    "level": 1,
+    "parent": null
+  }
+]

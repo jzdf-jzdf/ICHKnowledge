@@ -1,0 +1,314 @@
+[
+  {
+    "section_id": "S001",
+    "title": "Guidelines for the Management of Spontaneous Intracerebral Hemorrhage A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "Emergency Diagnosis and Assessment",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S003",
+    "title": "Prehospital Management",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S004",
+    "title": "ED Management",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S005",
+    "title": "Neuroimaging",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S006",
+    "title": "Emergency Diagnosis and Assessment: Recommendations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S007",
+    "title": "Medical Treatment for ICH",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S008",
+    "title": "Hemostasis and Coagulopathy, Antiplatelets, and Deep Vein Thrombosis Prophylaxis",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S009",
+    "title": "VKA-Related ICH",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S010",
+    "title": "Antiplatelet Medication–Related ICH",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S011",
+    "title": "New Anticoagulant Medication–Related ICH Thromboprophylaxis in ICH Patients",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S012",
+    "title": "Hemostasis and Coagulopathy, Antiplatelet Agents, and DVT Prophylaxis: Recommendations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S013",
+    "title": "BP and Outcome in ICH",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S014",
+    "title": "Safety of Early Intensive BP-Lowering Treatment",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S015",
+    "title": "Efficacy of Early Intensive BP-Lowering Treatment",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S016",
+    "title": "BP: Recommendations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S017",
+    "title": "Inpatient Management and Prevention of Secondary Brain Injury",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S018",
+    "title": "General Monitoring",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S019",
+    "title": "Nursing Care",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S020",
+    "title": "General Monitoring and Nursing Care: Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S021",
+    "title": "Glucose Management",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S022",
+    "title": "Glucose Management: Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S023",
+    "title": "Temperature Management",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S024",
+    "title": "Temperature Management: Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S025",
+    "title": "Seizures and Antiseizure Drugs",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S026",
+    "title": "Seizures and Antiseizure Drugs: Recommendations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S027",
+    "title": "Management of Medical Complications",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S028",
+    "title": "Management of Medical Complications: Recommendations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S029",
+    "title": "Procedures/Surgery",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S030",
+    "title": "ICP Monitoring and Treatment",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S031",
+    "title": "ICP Monitoring and Treatment: Recommendations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S032",
+    "title": "Intraventricular Hemorrhage",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S033",
+    "title": "IVH: Recommendations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S034",
+    "title": "Surgical Treatment of ICH (Clot Removal)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S035",
+    "title": "Craniotomy for Supratentorial Hemorrhage",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S036",
+    "title": "Craniotomy for Posterior Fossa Hemorrhage",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S037",
+    "title": "Craniectomy for ICH",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S038",
+    "title": "Minimally Invasive Surgical Evacuation of ICH",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S039",
+    "title": "Timing of Surgery",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S040",
+    "title": "Surgical Treatment of ICH: Recommendations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S041",
+    "title": "Outcome Prediction and Withdrawal of Technological Support",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S042",
+    "title": "Outcome Prediction and Withdrawal of Technological Support: Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S043",
+    "title": "Prevention of Recurrent ICH",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S044",
+    "title": "Risk Factors",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S045",
+    "title": "BP Management",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S046",
+    "title": "Prevention of Recurrent ICH: Recommendations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S047",
+    "title": "Rehabilitation and Recovery",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S048",
+    "title": "Rehabilitation and Recovery: Recommendations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S049",
+    "title": "Future Considerations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S050",
+    "title": "Disclosures",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S051",
+    "title": "Writing Group Disclosures",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S052",
+    "title": "References",
+    "level": 1,
+    "parent": null
+  }
+]

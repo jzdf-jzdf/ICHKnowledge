@@ -1,0 +1,92 @@
+[
+  {
+    "section_id": "S001",
+    "title": "原发性脑干出血诊治中国神经外科专家共识",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "一、概要",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S003",
+    "title": "二、危险因素、流行病学与发病机制",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S004",
+    "title": "三、诊断与评估",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S005",
+    "title": "（一）诊断",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S006",
+    "title": "（二）评估",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S007",
+    "title": "（三）鉴别诊断",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S008",
+    "title": "四、治疗",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S009",
+    "title": "（一）内科治疗",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S010",
+    "title": "（二）手术治疗",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S011",
+    "title": "（三）康复治疗",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S012",
+    "title": "五、预后",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S013",
+    "title": "六、预防与干预",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S014",
+    "title": "七、总结",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S015",
+    "title": "参 考 文 献",
+    "level": 2,
+    "parent": "S001"
+  }
+]

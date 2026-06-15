@@ -1,0 +1,170 @@
+[
+  {
+    "section_id": "S001",
+    "title": "中国重症卒中管理指南 2024",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "摘要",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S003",
+    "title": "重症卒中的概念",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S004",
+    "title": "一、重症脑梗死",
+    "level": 3,
+    "parent": "S003"
+  },
+  {
+    "section_id": "S005",
+    "title": "二、重症脑出血",
+    "level": 3,
+    "parent": "S003"
+  },
+  {
+    "section_id": "S006",
+    "title": "三、动脉瘤破裂性SAH",
+    "level": 3,
+    "parent": "S003"
+  },
+  {
+    "section_id": "S007",
+    "title": "一、卒中的重症监护",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S008",
+    "title": "（一）神经重症监护病房（neurocritical care unit，NCU）",
+    "level": 2,
+    "parent": "S007"
+  },
+  {
+    "section_id": "S009",
+    "title": "（二）入住NCU的标准",
+    "level": 2,
+    "parent": "S007"
+  },
+  {
+    "section_id": "S010",
+    "title": "（三）重症卒中监测",
+    "level": 2,
+    "parent": "S007"
+  },
+  {
+    "section_id": "S011",
+    "title": "二、重症管理",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S012",
+    "title": "（一）气道管理",
+    "level": 2,
+    "parent": "S011"
+  },
+  {
+    "section_id": "S013",
+    "title": "（二）血压管理",
+    "level": 2,
+    "parent": "S011"
+  },
+  {
+    "section_id": "S014",
+    "title": "（三）体温管理",
+    "level": 2,
+    "parent": "S011"
+  },
+  {
+    "section_id": "S015",
+    "title": "（四）血糖管理",
+    "level": 2,
+    "parent": "S011"
+  },
+  {
+    "section_id": "S016",
+    "title": "（五）血钠管理",
+    "level": 2,
+    "parent": "S011"
+  },
+  {
+    "section_id": "S017",
+    "title": "（六）营养支持",
+    "level": 2,
+    "parent": "S011"
+  },
+  {
+    "section_id": "S018",
+    "title": "（七）镇静镇痛治疗",
+    "level": 2,
+    "parent": "S011"
+  },
+  {
+    "section_id": "S019",
+    "title": "（八）防治并发症",
+    "level": 2,
+    "parent": "S011"
+  },
+  {
+    "section_id": "S020",
+    "title": "（九）护理和康复",
+    "level": 2,
+    "parent": "S011"
+  },
+  {
+    "section_id": "S021",
+    "title": "一、危重症卒中的预测和预防",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S022",
+    "title": "二、神经科特异性治疗",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S023",
+    "title": "（一）重症脑梗死的诊治",
+    "level": 2,
+    "parent": "S022"
+  },
+  {
+    "section_id": "S024",
+    "title": "（二）重症脑出血和SAH诊治",
+    "level": 2,
+    "parent": "S022"
+  },
+  {
+    "section_id": "S025",
+    "title": "三、严重并发症处理",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S026",
+    "title": "（一）颅内压增高",
+    "level": 2,
+    "parent": "S025"
+  },
+  {
+    "section_id": "S027",
+    "title": "（二）痫性发作",
+    "level": 2,
+    "parent": "S025"
+  },
+  {
+    "section_id": "S028",
+    "title": "四、外科治疗",
+    "level": 1,
+    "parent": null
+  }
+]

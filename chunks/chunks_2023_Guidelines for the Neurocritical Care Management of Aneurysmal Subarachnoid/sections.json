@@ -1,0 +1,542 @@
+[
+  {
+    "section_id": "S001",
+    "title": "Guidelines for the Neurocritical Care Management of Aneurysmal Subarachnoid Hemorrhage",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "Abstract",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S003",
+    "title": "Introduction",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S004",
+    "title": "Methods",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S005",
+    "title": "Panel Composition",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S006",
+    "title": "Disclosure and Management of Potential Conflicts of Interest",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S007",
+    "title": "Question Generation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S008",
+    "title": "Determination of Relevant Outcomes",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S009",
+    "title": "Search Strategy",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S010",
+    "title": "Screening and Study Selection",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S011",
+    "title": "Data Abstraction",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S012",
+    "title": "Risk of Bias and Quality of the Evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S013",
+    "title": "Panel Discussion and Evidence to Recommendation Process",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S014",
+    "title": "SummaryofRecommendationsAsummaryofthePICOtopicsandtheirrecommendationsisshownintheexecutivesummarytable (Table1).Table1Summaryofrecommendations",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S015",
+    "title": "BloodPressureTargetsforthePreventionofRebleedingofRupturedAneurysmPICOQuestionInpatientswithaSAH, whatistheimpactofbloodpressurereductioncomparedwithnobloodpressurereductionbeforeaneurysmtreatmentonmortality, modifiedRankinscale $\\mathrm{(mRS)}$ score, Glasgowoutcomescale (GOS) score, newcerebralinfarction, rebleeding, andDCI?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S016",
+    "title": "RecommendationThereisinsufficientevidencetorecommendabloodpressurereductiongoalforthetreatmentofhypertensionbeforeaneurysmtreatmentinaSAH.Lackofevidencetorecommendaspecificbloodpressurereductiongoaldoesnotnecessarilyimplythatbloodpressurereductionisnothelpfulbeforeaneurysmtreatment.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S017",
+    "title": "RationaleAfterassessingtheavailableliteratureonthetopicoftheimpactofbloodpressurereductionaimingtopreventrebleedingfromarupturedaneurysm, thepanelunivocallyagreedthatthequalityofavailableevidencewastoolowtosupporttherecommendationofatargetforbloodpressurereductionversusnobloodpressurereduction.Allstudiesonthistopicincludedsomedegreeoftreatmentofseverehypertension.Thus, althoughthecommitteewasunabletoprovideastatementsupportingaspecificbloodpressurereductiongoalinpatientswithunsecuredaneurysms, theabsenceofevidenceformoreaggressivebloodpressurereductionfromcomparativestudiesdoesnotnecessarilyimplythelackofroleofbloodpressurereductioninthepreventionofrebleeding, ashighlightedinthesummaryofevidence.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S018",
+    "title": "SummaryoftheEvidenceInvestigationsregardingbloodpressuretargetsforpreventionofrebleedingandtheirimpactonfunctionaloutcomesarelimitedtoretrospectiveandobservationaldata (Table2; SupplementaryTable3).Elevatedsystolicbloodpressure, particularlyabove $160~\\mathrm{mm}~\\mathrm{Hg}.$ , hasbeenassociatedwithaneurysmrebleeding [42–45].Loweringelevatedbloodpressure—aspartofatreatmentprotocol—hasbeenassociatedwithloweroddsofrebleeding [46], althoughthisfindingisnotunequivocal [47].Theconcernthatbloodpressurereductionmaycompromisecerebralperfusionandcausecerebralischemiawasnotcorroboratedinamixedcohortstudyofneurocriticallyillpatients [48].ThereissomeevidencethatincreasedbloodpressurevariabilitymaybeassociatedwithriskofrebleedingandworseoutcomesinaSAH [49, 50] and, therefore, bloodpressurevariabilitymayneedtobestudiedinfutureinvestigations.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S019",
+    "title": "ConclusionsAcutehypertensionisusuallytreatedafteraSAHuntilaneurysmsecurementhasoccurred, butthereiscurrentlynosufficientevidencetorecommendanyspecificbloodpressuretargetstopreventrebleedingorimprovemortalityorfunctionaloutcomes.Earlybloodpressurevariability (i.e., degreeofbloodpressurereductionoveraperiodoftime) mayaffectfunctionaloutcomes, butitisunknownwhetherreductionofbloodpressurevariabilitycanimproveoutcomesinaSAH.FurtherresearchisneededtodefinetheoptimaltherapeuticstrategyforthemanagementofhypertensioninpatientswithaSAHbeforetherupturedaneurysmissecured.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S020",
+    "title": "AntifibrinolyticsforthePreventionofRebleedingofRupturedAneurysmPICOQuestionInpatientswithaSAH, whatistheimpactofadministeringantifibrinolyticspriortoaneurysmtreatmentcomparedwithnoantifibrinolyticsonmortality, mRS, GOS, newcerebralinfarction, rebleeding, DCI, andthromboticevents?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S021",
+    "title": "RecommendationWerecommendagainsttheadministrationofantifibrinolytictherapytopreventrebleedingofrupturedaneurysmsinpatientswithaSAH (strongrecommendation, high-moderatequalityofevidence).",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S022",
+    "title": "RationaleRebleedingincreasestheriskofpoorclinicaloutcomeandmortalityinpatientswithaSAH.Yet, well-designedclinicaltrialsdidnotshowbenefitonlong-termclinicaloutcomefromtheuseofantifibrinolyticsforthepreventionofrebleedingfromarupturedaneurysm.Althoughpreliminaryevidenceinformedtheprioreditionoftheguidelinesbasedonthesuggestionofaprotectiveeffectofantifibrinolyticsonthepreventionofrebleeding, thesefindingswerenotconfirmedinsubsequentRCTsofearlypostadmissionadministrationofantifibrinolytics, leadingtothechangeinthisupdatedrecommendation.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S023",
+    "title": "SummaryoftheEvidenceThepanelevaluatedwhethertheuseofantifibrinolyticsimprovesmortality, mRS, GOS, newcerebralinfarction, rebleeding, DCI, orthromboticeventsinpatientswithaSAH.ThepanelidentifiedsixRCTsandsixobservationalstudieswith47differentoutcomeanalyses.AllRCTscomparedtranexamicacid (TXA) toplacebo [51– 56].Ofthenon-RCTs, fourcompared ε-aminocaproicacid (EACA) withnoEACA [57–60], onecomparedTXAwithnoTXA [56], andonecomparedEACAorTXAwithnoantifibrinolytictherapy [61].Theoverallqualityoftheevidencewashigh-moderate (Table3; SupplementaryTable4).Earlierstudiesinvestigatedlong-termadministration (i.e., throughoutthehospitaladmissionandforupto4weeks) ofantifibrinolyticsinaSAH, whereasmorerecentpublicationsreportedontheshorterdurationofadministration (lessthan $72\\mathrm{~h~}$ ).FourolderRCTsevaluatedthelong-termadministrationofTXA [51–54].ThreeofthesefoundasignificantreductioninrebleedingratesassociatedwithTXA [51, 52, 62], andonereportednodifferenceinrebleedingratesbetweenthetreatmentarms [53].However, theyallshowednodifferenceinfunctionaloutcomes.Inaddition, mostoftheseRCTsshowedincreasedratesofcerebralischemiccomplicationsandmortalitywithTXA [52, 53].Twonon-RCTsevaluatedthelong-termadministrationofEACA [57, 61].Bothofthesereportedthatpatientstreatedwithantifibrinolytictherapyhadlowerrebleedingratebutahigherrateofcerebralischemicdeficits.Fourmorerecentobservationalstudiesevaluatedashortercourseofantifibrinolytictherapy [56, 58–60].Twostudies [58, 59] reportedthatEACAadministrationwasassociatedwithdecreasedrebleedingandincreasedthromboemboliccomplications, whereasanother [60] didnotfindanyassociation.Themostrecentobservationalstudy [56] suggestedthatearlyandshort-termtreatmentwithTXAwasnotassociatedwithimprovedfunctionaloutcomebutwasassociatedwithadecreaseinmortality.TwoRCTsevaluatedtheshorterdurationofTXAadministration (lessthan $^{72\\mathrm{~h~}}$ ) [55, 56].Oneofthem [55] showedthatTXAadministrationreducedultraearlyrebleedingrates.However, thisRCTwasnotadequatelypoweredtoshowanyeffectonclinicaloutcome.ThemostrecentandlargestRCTtodateevaluatingantifibrinolytictherapyinaSAHwastheUltra-earlytranexamicacidaftersubarachnoidhaemorrhage (ULTRA) trial, whichconcludedthattheultra-early, short-termTXAtreatmentdidnotimprovefunctionaloutcomeat6months [56].Likewise, thisRCTshowednodifferencesintheriskofrebleeding, mortality, cerebralischemia, andthromboemboliccomplicationrates ⊕  ⊕  ⊕  ⊕ : Highcertainty (veryconfidentthatthetrueeffectliesclosetothatoftheestimateoftheeffect)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S024",
+    "title": "ConclusionsThepanelrecognizedthatthemostrecentevidencefromthelargestRCTevaluatingantifibrinolytictherapyinaSAH [56] shouldchangethepriorrecommendationsfromthe2011MultidisciplinaryConsensusConference [1].TheMultidisciplinaryConsensusConferencerecommended, basedontheavailabledataatthetime, albeitwithaweakrecommendation, thatanearlyandshortcourseofantifibrinolytictherapybeconsidered.Instead, basedonentirebodyofcurrentevidence, includinganadditionalwell-designedphaseIIIclinicaltrial, thepanelunanimouslyconcludedthattheadministrationofantifibrinolytictherapytopreventrebleedingofrupturedaneurysminpatientswithaSAHshouldnotberecommended.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S025",
+    "title": "CalciumChannelBlockersPICOQuestionInpatientswithaSAH, whatistheimpactofadministeringcalciumchannelblockerscomparedwithnocalciumchannelblockersonmortality, mRS, GOS, newcerebralinfarction, andpreventionofDCI?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S026",
+    "title": "Recommendation1.WerecommendtheadministrationoforalnimodipineinpatientswithaSAHtoreduceDCIandcerebralinfarction, andtoimprovefunctionaloutcome (strongrecommendation, moderatequalityofevidence).",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S027",
+    "title": "RationaleOralnimodipineistheonlyagentthathasbeenshowntoimproveoutcomesinpatientswithaSAHwithahighqualityofevidence.Table4GRADEevidenceprofile, PICO3a: inpatientswithaSAH, whatistheimpactofadministeringcalciumchannelblockerscomparedwithnocalciumchannelblockersonmortality, mRS, GOS, newcerebralinfarction, andpreventionofDCI?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S028",
+    "title": "Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S029",
+    "title": "Rationale2.Werecommendagainsttheadministrationofintravenous (IV) nicardipineforthepreventionofDCIbecauseofincreasedriskofadverseeffects (strongrecommendation, moderatequalityofevidence).Othercalciumchannelblockersandotherroutesfortheiradministrationarenotsupportedbysufficientevidence.Agentsadministeredintravenouslymayplacepatientsathigherriskforadverseeffects, suchashypotensionandpulmonaryedema.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S030",
+    "title": "RationaleAdequatelypoweredtrialsofIVnicardipinehaveshownmarginalimprovementinintermediateendpointsbutnoeffectonclinicallyrelevantoutcomes.Additionally, thesetrialsshowedasignificantincreaseintheriskofadverseeffectsincludinghypotension, pulmonaryedema, andacuterenalinsufficiency.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S031",
+    "title": "Recommendation3.ThereisinsufficientevidencetorecommendfororagainsttheadministrationofcalciumchannelblockerotherthannicardipinebyIVorintraventricularroutes.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S032",
+    "title": "SummaryoftheEvidenceEightRCTsandnineobservationalstudieswereevaluated, includingfivestudiesoforalnimodipine [63–67], fourstudiesofcontinuousIVnimodipineonly [68–71], threestudiesofnicardipineprolonged-releaseimplants [72–74], twostudiesofcontinuousIVnimodipinefollowedbyoralnimodipine [75, 76], onestudyofcontinuousIVnicardipine [77], onestudyofintraventricularnicardipine [78], andonestudyoforalflunarizine [79] (Table4; SupplementaryTable5).Onlystudiesevaluatingtheprophylacticadministrationofcalciumchannelblockers, ratherthanfortreatmentofestablishedDCIorangiographicvasospasm, wereincluded.Fivestudiescomparingoralnimodipinetoplacebowereevaluated.Twostudies [63, 64] demonstratedimprovementinfunctionaloutcomeasassessedbythe3-monthGOSaswellasareducedrateofinfarctioninonestudy [63] andareducedrateofDCIintheother [64].OneadditionalstudydemonstratedasignificantlyreducedriskofDCIwithoralnimodipine [65].Thesefindingsarealsosupportedbya2007CochraneReview [80].Itisnotablethatnimodipineappearstoimprovepatientoutcomeswithoutsignificantlyreducingtherateofangiographicvasospasm [64, 66].Oralnimodipineatadosageof $60~\\mathrm{mg}$ every $^{4\\textrm{h}}$ foradurationof21daysisthemostcommonlyusedadministrationregimeninpractice [63, 66, 67]; however, twooftheRCTsemployedotherdosages: $90~\\mathrm{mg}$ every $^\\textrm{\\scriptsize4h}$ [64], and $0.35\\mathrm{mg/kg}$ every $^\\textrm{\\scriptsize4h}$ [65].Hypotensionisawell-knownadverseeffectoforalnimodipine (adihydropyridinecalciumchannelblocker), whichmayleadtoreducedcerebralperfusionthatcouldnegateitsbeneficialeffectinpatientswithaSAH.Inthestudiesmentionedabove, patientswhomissedmultipledosesofnimodipinewereoftenexcludedbyprotocolfromtheanalyses, andhypotensionwasuncommonlyreportedasanadverseeffect.However, inpractice, hypotensionassociatedwithnimodipinemayleadtodosagesplitting (i.e., $30\\mathrm{mg}$ every $2\\mathrm{h}$ ) ortherapydiscontinuation [81–85].Severalretrospectiveassessmentsofthesepracticeshavenotedanassociationbetweenmodifiednimodipineregimensandpooroutcomes, buttheseanalysesarehighlyconfoundedbyselectionbiasbecausenimodipinewasoftenwithheldupondiagnosisofDCIorvasospasmandfrequentlyalongwithinitiationofvasopressorsforbloodpressureaugmentation.Itisnotknownwhetherreducingthedoseordiscontinuingtherapywhenhypotensionoccurs, orwhilebloodpressureaugmentationisemployed, willimpactpatientoutcomesascomparedwithcontinuingstandarddosenimodipineforacompletecourseoftherapy.AllRCTsoforalnimodipineusedatreatmentdurationof21days [63–67].Somesmallretrospectivestudieshavesuggestedthatanabbreviatednimodipinecourse, suchasdiscontinuinguseafter14daysorondischargefromhospitalifoccurringearlierthanday21, maynotadverselyimpactpatientoutcomes; yet, thereisnoconclusiveevidencetosupportthatashortercourseoforalnimodipineisaseffectiveasthestandardcourseof21days [81, 86, 87].ContinuousIVnicardipineatadosageof $0.15~\\mathrm{mg/}$ $\\mathrm{kg/hr}$ forupto14dayswascomparedwithaplaceboin906patientswithaSAH [77].ThisstudyfoundreducedoccurrenceofsymptomaticvasospasmamongpatientstreatedwithIVnicardipine, butwithoutachangeinoverallfunctionaloutcome.Additionally, IVnicardipinegroupwasassociatedwithincreasedriskofadverseevents.Inthisstudy, $34.5\\%$ ofpatientsintheIVnicardipinegroupcomparedwith $17.5\\%$ intheplacebogrouphadatleastoneepisodeofhypotension, althoughtheoccurrenceofseverelife-threateninghypotensionwasnotdifferentbetweengroups ( $3\\%$ ineacharm).Pulmonaryedemaandazotemiaoccurredin $6.0\\%$ ofpatientsintheIVnicardipinegroupcomparedwith $2.4\\%$ ofplacebotreatedpatients $(p<0.001)$ .MorepatientsintheIVnicardipinegrouphadtreatmentterminatedduetoadverseevents $14.1\\%$ vs. $5.9\\%$ , $p<0.001,$ ).LackofbenefitandincreasedriskofadverseeffectsarethebasisofourrecommendationagainsttheuseofcontinuousIVnicardipineinpatientswithaSAH.TenadditionalstudiesevaluatedtheuseofIVorintraventricularcalciumchannelblockersotherthancontinuousIVnicardipine, whichincludedcontinuousIVnimodipinealone [68–71], continuousIVnimodipinefollowedbyoralnimodipine [75, 76], intraventricularnicardipine [78], andnicardipineprolonged-releaseimplants [72–74].Eachofthesestudieswereratedaslowtoverylowqualityofevidenceandshowedconflictingresultsfortheoutcomesofinterest.Becauseoftheinsufficientqualityofthesestudies, thepaneldecidednottomakearecommendationfororagainsttheuseofIVorintraventricularroutesofcalciumchannelblockersotherthancontinuousIVnicardipine.Ofnote, onerecentlypublishedRCTevaluatedtheuseofsingle-doseintraventricularsustained-releasenimodipinemicroparticlesinpatientswithaSAH; thetrialwasterminatedearlyforfutility [88].ThisRCTwasreviewedbythepanelbutwasnotincludedbecauseitdidnotmeetourPICOinclusioncriteriaduetotheuseofacalciumchannelblocker (oralnimodipine), ratherthanplacebo, ascomparator.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S033",
+    "title": "ConclusionsOralnimodipineisrecommendedforallpatientswithaSAHtoimproveoutcomes.Othercalciumchannelblockersandroutesforprophylacticusehaveinsufficientevidenceatthistimeorarenotrecommendedduetoadverseeffects.Optimalmanagementofnimodipinetherapy (dosesplitting, reduction, orwithholding) inpatientsunabletotoleratethehemodynamicsideeffectsorwhoarereceivingvasopressorsforbloodpressureaugmentationfortreatmentofDCIremainsunknown.Whetherabbreviatedcoursesoforalnimodipinecanbesimilarlyeffectivetothetypical21-daycoursealsoremainsunresolved.Table5GRADEevidenceprofile, PICO3b: inpatientswithaSAH, whatistheimpactofendothelinantagonistscomparedwithnoendothelinantagonistsonmortality, mRS, GOS, newcerebralinfarction, andpreventionofDCI?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S034",
+    "title": "EndothelinAntagonists",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S035",
+    "title": "PICOQuestionInpatientswithaSAH, whatistheimpactofendothelinantagonistscomparedwithnoendothelinantagonistsonmortality, mRS, GOS, newcerebralinfarction, andpreventionofDCI?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S036",
+    "title": "RecommendationWerecommendagainstendothelinreceptorantagonistadministrationbecauseoflackofbenefitonmortalityandfunctionaloutcomesandanincreasedriskofadverseevents (strongrecommendation, highqualityofevidence).",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S037",
+    "title": "RationaleDespiteverypromisingdatafromtranslationalstudiesandaphaseIIbRCT, thephaseIIIRCTsevaluatingendothelinreceptorantagonistadministrationinpatientswithaSAHshowednoimprovementinfunctionaloutcomes.Inaddition, therewerenotableadverseeffectsassociatedwiththistherapy.Consequently, thepanelrecommendsagainsttheuseofendothelinreceptorantagonistadministrationatthistime.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S038",
+    "title": "SummaryoftheEvidenceSixstudies, fourofwhichweredose-finding/phaseIItrials, wereincludedintheanalysis.ThephaseIItrialswerenotpoweredtoshowefficacy; althoughtheydemonstratedasignalofimprovementintheirprimaryendpoints (Table5; SupplementaryTable6), thesewerenotstatisticallysignificant [89–92].Inthetwophase-IIItrials, patientsreceivingendothelinreceptorantagonist (clasozentan) didnothavesignificantimprovementinmortality, mRS, GOS, newcerebralinfarction, orpreventionofDCI [93, 94].InthesecondClazosentantoOvercomeNeurologicalIschemiaandInfarctOccurringAfterSubarachnoidHemorrhage (CONSCIOUS-2) trial, aphaseIIIstudyofpatientswithaSAHundergoingsurgicalclipping, therelativeriskreductionwas $17\\%$ ( $95\\%$ confidenceinterval $[\\mathrm{CI}]-4$ to33; $p{=}0.10\\$ ) fortheprimaryendpointofvasospasm-relatedmorbidityandall-causemortality, whichwasnotstatisticallysignificant [93].TheseresultsledtotheearlyterminationofCONSCIOUS-3, whichenrolledpatientsundergoingendovascularcoiling.Useofthehigherdosageofclasozentan $\\left(15~\\mathrm{mg/}$ hr) inCONSCIOUS-3wasassociatedwithasignificantreductioninall-causemortalityandvasospasm-related : Highcertainty (veryconfidentthatthetrueeffectliesclosetothatoftheestimateoftheeffect)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S039",
+    "title": "ConclusionsBasedoncurrentdata, thecommitteerecommendsagainsttheuseofendothelinreceptorantagonistsforaSAH.Becauseofthepositiveeffectsonsurrogateendpoints, futuretrialsmaybejustified.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S040",
+    "title": "RecommendationWerecommendagainststartingstatintreatmenttoreduceDCIorimprovefunctionaloutcomesinaSAHbecauseoflackofbenefit (strongrecommendation, highqualityofevidence).",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S041",
+    "title": "RationaleDespitepreliminarystudiessuggestingabeneficialeffectoftreatmentwithstatininreducingtheriskofvasospasminaSAH, awell-designed, large, phaseIIIRCTconclusivelydemonstratedthelackofbenefitfromstatinadministrationtostatin-naïvepatientsonshort-termorlong-termoutcomes.Thisrecommendationpertainstonewinitiationofastatinanddoesnotaddressthedecisionaboutcontinuingstatinforpatientstakingthempriortoadmission.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S042",
+    "title": "Statins",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S043",
+    "title": "PICOQuestionInpatientswithaSAH, whatistheimpactofstatintreatmentcomparedwithnostatinsonmortality, mRS, GOS, newcerebralinfarction, andpreventionofDCI?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S044",
+    "title": "SummaryoftheEvidenceEightRCTs [95–102] andsixobservationalstudiesrelevanttothisquestionwereidentified (Table6; SupplementaryTable7) [103–108].EarlysmallRCTswithhighRiskofBias (ROB) suggestedthatpravastatinorsimvastatinstartedwithin $48{-}72\\mathrm{~h~}$ ofaSAHonsetwasassociatedwithlowerriskofvasospasm [96, 97, 109].However, thesefindingswerenotconfirmedinanotherphaseIItrial [98] andretrospectivestudiesofroutinestatinusefoundnodifferencesinoutcomesascomparedwithhistoricalcontrols [103–108].Simvastatininaneurysmalsubarachnoidhaemorrhage (STASH) wasalarge, multicenter, double-blind, RCTthatrandomlyassigned803patientspresentingwithin $96~\\mathrm{h}$ ofaSAHtoreceivesimvastatin $40~\\mathrm{mg/}$ dayorplaceboforupto21days [99].Ordinalanalysisof6-monthmRSscoresadjustedforageandadmissionWorldFederationofNeurosurgicalSocieties (WFNS) gradingscale (primaryendpoint) showednodifferencesbetweenthetwogroups (OR0.97; $95\\%$ CIs0.75–1.25).Secondaryendpoints, includingin-hospitalmortality, DCI, DCIrequiringrescuetherapy, radiologicalinfarction, lengthofhospitalstay, andqualityoflife, werealsosimilarbetweenthetwogroups [99].Subsequently, asmallerRCTshowednodifferencesinriskofDCIor3-monthfunctionaloutcomebetweenpatientsreceivingalower $(40\\mathrm{mg/day)}$ versusahigher $(80~\\mathrm{mg/day)}$ dosageofsimvastatin [100].Anotherplacebo-controlledrandomizedtrialfoundthatpitavastatin $4~\\mathrm{mg}$ dailywasassociatedwithlowerriskofsevereangiographicvasospasmbutwithoutasignificantreductionintheriskofDCIoranyimprovementinfunctionaloutcomesat3months [102].",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S045",
+    "title": "ConclusionsTheavailablebodyofevidence, includingawelldesignedandadequatelypoweredphaseIIIRCT, indicatesthattheuseofstatintherapydoesnotimproveDCIorfunctionaloutcomesinpatientswithaSAH.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S046",
+    "title": "Magnesium/TherapeuticHypermagnesemiaPICOQuestionInpatientswithaSAH, whatistheimpactoftargetedtherapeutichypermagnesemiacomparedwithnotargetedhypermagnesemiaonmortality, mRS, GOS, newcerebralinfarction, andpreventionofDCI?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S047",
+    "title": "RecommendationWerecommendagainsttheuseoftargetedhypermagnesemiatoimproveoutcomesinaSAHduetolackofbenefit (strongrecommendation, moderatequalityevidence).",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S048",
+    "title": "RationaleInmakingthisrecommendation, thepanelagreedthattheavailableevidencemadeavailableovertimeallowedforissuingastrongrecommendation.Althoughearlypilottrialssuggestedpotentialbenefitsfromutilizationofmagnesiumandtherapeutichypermagnesemiawithdosesrangingfromfixedamounts, weight-baseddosingortargetedserumconcentrationsvaryingfromhigh-normal $\\left(2.0{-}2.5\\mathrm{mmol/L}\\right)$ tosupratherapeutic (twicebaselineorgoalmagnesiumconcentrationof $4{-}5.5~\\mathrm{mg/dL},$ , subsequentlargerRCTsdidnotcorroboratesuchbenefit.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S049",
+    "title": "SummaryoftheEvidenceBetween2002and2010, sixphaseIIRCTsevaluatingtheuseofmagnesiuminaSAHwereconducted, employingvariabledosingregimensanddifferentendpoints (GOS, symptomaticvasospasmorDCI, andtheoccurrenceofadverseevents; Table7; SupplementaryTable8) [110– 115].Thosetrialssuggestedimprovedoutcomeswithmagnesiumadministration, whileseveralobservationalstudiesduringthesametimeperiod—albeitlimitedbymethodologicalissues—foundinconsistentresultsassociatedwiththetreatment [116–120].Theseearly, preliminarystudieswerefollowedbytwolargerandomized, saline-controlledphaseIIItrials (IntravenousMagnesiumSulfateinAneurysmalSubarachnoidHemorrhageandMagnesiuminAneurysmalSubarachnoidHemorrhage2) including327and1203patients, respectively [121, 122].NeitheroftheseRCTsfoundanybenefitofIVmagnesiumsulfateinfusionoverplaceboinfunctionaloutcomesordeath.AposthocsubanalysisoftheMagnesiuminAneurysmalSubarachnoidHemorrhage2dataevaluatedmagnesiumandglucoselevelsandalsofoundnobenefitfrommagnesiumadministration [123].Threeadditionalsmaller $(\\mathrm{all}\\leq120$ studyparticipants) studiesthatevaluatedIVmagnesiumindifferentdosing, withdifferentcomparators, orincombinationwithadditionalmedicationsofferedmixedresults, butweresignificantlylimitedbyriskofbiasandmethodologicalconcerns.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S050",
+    "title": "ConclusionsDespiteearlyresultsfromphaseIItrialssuggestingabeneficialeffect, phaseIIIRCTshaveshownthatmagnesiumdoesnotimprovemortality, functionaloutcomes, DCI, orcerebralinfarctioninpatientswithaSAH.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S051",
+    "title": "HemodynamicManagement: FluidAdministrationPICOQuestionInpatientswithaSAHatriskforDCI, whatistheimpactofhighvolume (liberal, targetinghypervolemia) fluidadministrationcomparedwithconventionalfluidmanagement, targetingeuvolemia, onmortality, mRS, GOS, newcerebralinfarction, DCI, andpulmonaryedema?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S052",
+    "title": "Recommendation1.Wesuggestagainstliberalfluidadministrationbecauseofanincreasedriskofpulmonaryedema (Conditionalrecommendation, lowqualityofevidence).",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S053",
+    "title": "RationaleInmakingthisrecommendation, thepanelconsideredthatthequalityofevidencewaslowoverall.TheliteraturedoesnotsupportabenefitofliberalfluidadministrationonDCI, cerebralinfarction, mortality, orfunctionaloutcomesforliberalfluidadministrationinaSAH.However, therewasaconsistentsignalthatliberalfluidadministrationtargetinghypervolemiaisassociatedwithahigherriskofpulmonaryedemathanconventionalfluidmanagementtargetingeuvolemia.Thus, thepanelsuggestsagainstliberalfluidadministrationgiventhesesafetyconcerns.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S054",
+    "title": "Recommendation2.Wesuggestusingtargetedfluidadministrationtoachieveeuvolemia, whichmayincludegoal-directedhemodynamictherapy, toreducetheriskofpulmonaryedema, preventDCI, andimprovefunctionaloutcome (conditionalrecommendation, verylowqualityofevidence).",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S055",
+    "title": "RationaleInmakingthisrecommendation, thepanelconsideredthatthequalityofevidencewasverylow.Limitedliteraturesuggeststhatprotocolizedfluidmanagement, includinggoal-directedhemodynamictherapy, mayprovideameansofachievingatargetofeuvolemiaandmayleadtoareductioninDCIandimprovedfunctionaloutcomeswhilereducingtheriskofpulmonaryedema.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S056",
+    "title": "SummaryoftheEvidenceFourteenstudiesthatassessedvariousfluidadministrationstrategiesintreatingpatientswithaSAHwereevaluated (Table8; SupplementaryTable9).Threeearlystudiescomparedtheeffectsoffluidrestrictionordiuresiswithmoreliberalfluidadministration; inonesmallrandomizedtrialaneurysmsurgerywasdelayedfor7–10days [124].Intheothertwoobservationalstudies, thetimingofaneurysmsurgerywasnotspecified [125, 126].Thesethreestudiesreportedbetteroutcomeswithmoreliberalfluidadministrationcomparedtofluidrestrictionand/ordiuresisbutchangeinpracticepatternovertimemadethefindingsofthesestudiesnolongerapplicable.FouradditionalRCTs [127–130] andtwoobservationalstudies [131, 132], ranginginqualityfromverylowto ⊕  ⊕  ⊕  ⊕ : Highcertainty (veryconfidentthatthetrueeffectliesclosetothatoftheestimateoftheeffect)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S057",
+    "title": "ConclusionsAlthoughnotstatisticallysignificantinanysinglestudy, thesafetyendpointofpulmonaryedemawasconsistentlymorecommoninpatientsreceivingliberalorhypervolemicfluidstrategies.Thus, thepanelsuggestsavoidingliberalfluidadministrationtoreducetheriskofpulmonaryedema.Althoughseveralstudiesreportedimprovedoutcomeswithprotocolizedfluidmanagement, theoverallqualityofevidencewasjudgedtobelowtoverylow; thus, thereisinsufficientevidencetorecommendaspecificfluidmanagementorhemodynamicprotocolatthistime.ThepanelrecommendstargetingeuvolemiainpatientswithaSAH, althoughthetechniqueforassessingorachievingthisgoalremainsundefinedatpresent.FurtherinvestigationofprotocolizedfluidmanagementafteraSAHisneeded, includinginvestigationoftechniquesforassessmentandattainmentofeuvolemia, andexplorationofnoninvasivetechniquesfortheimplementationofgoal-directedhemodynamictherapy.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S058",
+    "title": "HemodynamicManagement: BloodPressureandCardiacOutputAugmentationPICOQuestionInpatientswithaSAHatriskforDCIordiagnosedwithDCI, whatistheimpactofbloodpressureand/orcardiacoutputaugmentationcomparedwithnobloodpressureorcardiacoutputaugmentationonmortality, mRS, GOS, newcerebralinfarction, DCIprevention, pulmonaryedema, myocardialinfarction, andarrhythmia?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S059",
+    "title": "RecommendationThereareinsufficientqualitydatatorecommendfororagainstbloodpressureorcardiacoutputaugmentationforthepreventionandtreatmentofDCI.Duetotheassociatedrisks, useoftheseinterventionsshouldbejudiciousandtailoredtothepatient’sindividualhemodynamicprofile.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S060",
+    "title": "RationaleAlthoughbloodpressureaugmentationhasbeenamainstayofDCImanagementfordecades, thepaucityofsupportivequalitydataprecludesrecommendinganyparticularstrategyofhemodynamicaugmentation.Inmakingthisrecommendation, thepanelemphasizedthatthemanagementofhemodynamicaugmentationshouldbetailoredtothepatient’sindividualhemodynamicprofile.Therecommendationonbloodpressureandcardiacaugmentationdoesnotspecificallyaddresstheuseofindividualpharmacologicalagentsbecauseofthelackofhigh-qualityevidence.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S061",
+    "title": "SummaryoftheEvidenceEightRCTsandfourobservational, comparativestudieswerereviewed (Table9; SupplementaryTable10).Theoverallbodyofliteraturewaslimitedbysmallsamplesizeandheterogeneityininclusionandexclusioncriteria, definitionofDCI, complications, andoutcomeassessment.AlthoughsomestudiescouldnotbeinterpretedforthePICOduetostudydesign [131, 137–141], amajorityoftheremainingstudiesshowednobenefitfrombloodpressureorcardiacoutputaugmentation, andseveralfoundsuchtreatmentwasassociatedwithharm.Eggeetal.studiedprophylactichypertensivehemodilutioncomparedwithnormovolemiainHuntandHessgradeItoIIIpatientsandfoundnodifferenceinDCIorGOS [129].Rondeauetal.comparednorepinephrine-inducedhypertensionwithdobutamine-inducedaugmentationincardiacindexandfoundnodifferenceinangiographicvasospasmbetweenthegroups [142].Inasmallstudy, Togashietal.usedatwo-by-twodesigntoevaluatehypervolemiaandinducedhypertensiontopreventDCIandfoundnodifferenceinmRSbetweentreatmentgroups [130].However, patientsreceivinginducedhypertensionhadworseneurobehavioralscoresandseveralexperiencedsignificantadverseeventsincludingpulmonaryedema.Gathieretal., conductedamulticenterRCTcomparinginducedhypertensiontonormotensioninpatientswithsymptomaticDCI [143].Theinterventiongroupwastreatedwithfluidsandnorepinephrineuntilneurologicdeficitsimproved, amaximumsystolic/meanarterialpressureof $230/130\\mathrm{mmHg}$ wasreached, orthepatientexperiencedacomplication.Thetrialwasstoppedprematurelyduetoslowrecruitment; theauthorsnotedahigherrateofpooroutcomeintheinducedhypertensiongroup.TwoRCTsevaluatedEGDTprotocolsusingacentrallineandnoninvasiveorinvasivecardiacoutputmonitoringtoguidecarebeforeandafterdevelopmentofDCI : Highcertainty (veryconfidentthatthetrueeffectliesclosetothatoftheestimateoftheeffect)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S062",
+    "title": "ConclusionsThisrecommendationwasbasedonthelackofsolidevidencetosupportthepracticeratherthantheexistenceofappropriatestudiesthatfailedtoshowbenefit.Availableevidencedoesnotsupportorrefutearoleforaugmentationofbloodpressureand/orcardiacoutcome.Bloodpressureandcardiacoutputaugmentationarenotwithoutrisk.Excessivevasopressorandinotropeuseareassociatedwithincreasedmortalityandend-organdamageinpatientswithcardiogenicshock [144].SeveralstudiesreviewedforthisPICOreportedanassociationbetweenbloodpressureorcardiacaugmentationandcardiovascularadverseevents [130, 145].Forinstance, Gathieretal.foundpatientstreated ⊕  ⊕  ⊕  ⊕ : Highcertainty (veryconfidentthatthetrueeffectliesclosetothatoftheestimateoftheeffect)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S063",
+    "title": "DCIManagement: TriggersforInterventionalProceduresforTreatmentofDCIPICOQuestionInpatientswithaSAH, istreatmenttriggeredbychangeinexaminationplusadvancedneuroimaging (ComputedTomography (CT) Angiography, CTPerfusion, transcranialDoppler) versusexaminationalonesuperiorinimprovingmortality, mRS, GOS, andpreventingnewcerebralinfarction?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S064",
+    "title": "RecommendationThereisinsufficientevidencetoprovidearecommendationontheoptimaltrigger (changeinneurologicalexaminationplusfindingsonadvancedneuroimagingvs.changeinexaminationalone) forinterventionalproceduresforthetreatmentofDCI.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S065",
+    "title": "RationaleInmakingthisrecommendation, thepanelconsideredthattherewerenoavailablestudiestoanswerthiscommonclinicalquestion.Mostclinicalcentersemployaformalorinformalprotocoltotriggerinterventionalprocedures; however, therehavebeennoformalstudiescomparingchangeinneurologicalexaminationplusfindingsonadvancedneuroimagingversuschangeinclinicalexaminationaloneasthetriggerforintervention.Consequently, thepanelcanonlystatethatthereisinsufficientevidenceregardingsuperiorityofoneapproachovertheother.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S066",
+    "title": "SummaryoftheEvidenceWhilethereisabundantliteraturedemonstratingtheassociationofvariousclinicalandimagingfactorsassociatedwiththedevelopmentofDCI, radiologicalinfarctionandclinicaloutcome, therehavebeennostudiesspecificallyevaluatingtriggersforendovascularintervention, especiallyevaluatingwhetheraddingneuroimagingfindingstothechangesinneurologicalexaminationservestoimprovethedecisionmakingfortheintervention.Forexample, onestudyidentifiedclinicalandimagingpredictorsofvasospasmfrombaselineassessmentsbutdidnotcomparedifferentwaysofselectingpatientsforendovascularinterventionasDCIdeveloped (Table10; SupplementaryTable11) [146].AnotherstudyidentifiedquantitativeelectroencephalogramparametersthatweresensitiveandspecificforDCIinaSAH [147].However, neuroimagingwasusedinbotharmsbeingcomparedandthepopulationwaslimitedtopatientswithsevereaSAH.Althoughtheseanalyseswerecriticaltofurtheringourunderstandingofthediseasecourse, theydonotdirectlyaddressthespecificquestionherebyconsidered.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S067",
+    "title": "ConclusionsGiventheabsenceofformalcomparisonsbetweenapproachestotriggerendovascularinterventioninpatientswithneurologicaldeterioration (clinicalvs.clinicalandneuroimaging), weareunabletoprovidearecommendationinfavororagainstaparticularstrategy.Boththeabsenceofformalresearchandperceptionofvarianceinpracticeidentifyclinicalequipoiseforfuturestudies.GiventhatthisquestionappliestomanypatientswithaSAH, thepanelbelievesthereisanurgentneedforresearchinthisarea.Hypothesis-generatingstudiesacrosscentersthatuseordonotuseneuroimagingaspartoftheprotocolizedtriggeringforinterventionareneeded.Initialdescriptivestudiescanquantifypracticevariation, andbetween-centercomparisonscanprovideinitialobservationaldata, althoughsuchcomparisonsarelimitedbyhighriskofbias.Thus, adirectcomparisonorclusterrandomizedclinicaltrialofatleasttwostrategies, oneofwhichwouldincorporateneuroimagingevaluation, isnecessarytoaddressthisimportantclinicalquestion.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S068",
+    "title": "MineralocorticoidTherapyfortheManagementofHyponatremiaPICOQuestionInpatientswithaSAH, whatistheimpactoftreatmentwithmineralocorticoidscomparedwithnotreatmentwithmineralocorticoidsonmortality, mRS, GOS, newcerebralinfarction, serumsodiumlevels, andfluidbalance?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S069",
+    "title": "RecommendationThereisinsufficientevidencetosupportmineralocorticoidadministrationtomaintainnormalserumsodiumconcentrationsand/orevenfluidbalanceortoimprovefunctionaloutcome.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S070",
+    "title": "RationaleAlthoughmineralocorticoidsareoftenprescribedtopatientswithaSAHtoamelioratehyponatremiaandpolyuriaoncethesecomplicationshavedeveloped, therearenostudiestestingmineralocorticoidsfortreatmentofhyponatremia.Instead, theonlyavailablestudieshaveevaluatedmineralocorticoidsforpreventionofhyponatremiaandvolumecontraction.ThesestudieshaveinsufficientqualitytosupporttheuseofmineralocorticoidsinaSAH.Mineralocorticoidscanpotentiallybeusefultocorrecthyponatremia, buttheeffectofhyponatremiacorrectionwithmineralocorticoidsonthefunctionaloutcomesofpatientswithaSAHhasnotbeenformallyinvestigated.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S071",
+    "title": "SummaryoftheEvidenceWeidentifiedfourRCTsonthistopic (Table11; SupplementaryTable12) [125, 148–151].Allofthesetrialshadahighriskofbiasbecauseofmethodologicallimitations (especiallylackofblinding) andimprecisionrelatedtotheirsmallsize (between28and91patients).Thestudiestestedfludrocortisone [125, 152] orhydrocortisone [149, 153] startedwithin $^{48-72\\mathrm{~h~}}$ ofaSAHonsetandcontinuedfor10–14daysascomparedwithnointerventionorplacebo.Primaryendpointsvaried, includingincidenceofhyponatremiagenerallydefinedasserumsodiumconcentrationslowerthan $135\\mathrm{mEq/L}$ onatleast2consecutivedays, negativefluidbalanceandnegativesodiumbalance.FunctionaloutcomesandDCIwereincludedassecondaryendpoints.Overall, thesetrialssuggestedthatmineralocorticoidscanreducetheriskofhyponatremiaandnatriuresiswithoutanyeffectonDCIorfunctionaloutcomes.Ofnote, hypokalemiawasmorecommoninpatientstreatedwithmineralocorticoids.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S072",
+    "title": "ConclusionsThereisnoevidencethatmineralocorticoidsimprovefunctionaloutcomesinaSAH.MineralocorticoidsmightreducetheincidenceofhyponatremiawhenstartedearlyafteraSAHonsetandcontinuedfor10–14days; however, availableevidenceisinconclusive.MorerigorousandlargertrialsarenecessarytodefinetheuseofmineralocorticoidsforthepreventionandtreatmentofhyponatremiainaSAH.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S073",
+    "title": "ManagementofAnemiaPICOQuestionInpatientswithaSAH, isamoreaggressivetransfusionstrategy (tokeepahemoglobin $>10~\\mathrm{g}/\\mathrm{dL},$ moreeffectivethanaconservativetransfusionstrategy (tokeepahemoglobin $>7\\mathrm{g/dL})$ toimprovemortality, mRS, GOS, newcerebralinfarction, DCIprevention, andtransfusionrelatedcomplications?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S074",
+    "title": "RecommendationThereisinsufficientevidencetoprovidearecommendationforusingatransfusionthresholdhigherthanahemoglobinof $\\mathrm{>7g/dL}$ inpatientswithaSAH.Table11GRADEevidenceprofile, PICO7: inpatientswithaSAH, whatistheimpactoftreatmentwithmineralocorticoidscomparedwithnotreatmentwithmineralocorticoidsonmortality, mRS, GOS, newcerebralinfarction, serumsodiumlevels, andfluidbalance?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S075",
+    "title": "RationaleThepanelacknowledgedthatanemiaiscommonafteraSAHandhasbeenassociatedwithpoorfunctionaloutcome.Inaddition, thepanelrecognizedthattheroleandoptimalthresholdsforredbloodcelltransfusionareofclinicalrelevancebecauseanemiaisapotentiallymodifiablefactorinfluencingsecondarybraininjury.However, atpresentthereisapaucityofqualitydataevaluatinganytransfusionstrategytargetingahemoglobintargethigherthan $7\\mathrm{g}/\\mathrm{dL}$ specificallyforpatientswithaSAH.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S076",
+    "title": "SummaryoftheEvidenceThepanelevaluatedwhetheranyoftwotransfusionstrategies (aggressivetomaintainahemoglobin $>10~\\mathrm{g/\\Omega}$ dLandconservativetomaintainahemoglobin $>7~\\mathrm{g/dL})$ improvesmortality, mRS, GOS, newcerebralinfarction, DCIprevention, ortransfusion-relatedcomplicationsinpatientswithaSAH.ThepanelidentifiedoneRCTandonenonrandomizedobservationalstudywithfivedifferentoutcomeanalyses (Table12; SupplementaryTable13).Naidechetal.performedasmallRCTevaluatingthesafetyandfeasibilityofmaintainingtwogoalsofhemoglobinconcentration (atleast $10~\\mathrm{g/dL}$ or $11.5~\\mathrm{g/dL})$ within3daysofaSAHonset [154].Theauthorsreportednodifferenceinnewcerebralinfarction, DCIprevention, ortransfusion-relatedcomplicationsbetweenthetreatmentarms.Aylingetal.performedaposthocanalysisofavailabledatafromtheCONSCIOUStrial [91, 155].Theinvestigatorsusedtwopropensityscorematchingalgorithmsstratifiedbasedonbaselinehemoglobinleveltostudytheeffectoftransfusionsonoutcome.Nodifferenceinmortalityratesbetweenthematchedpatientswerefoundusingeitheralgorithm.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S077",
+    "title": "ConclusionsThepanelagreedthatspecificoptimaltransfusionstrategiesandspecifichemoglobinthresholds, alongwith ⊕  ⊕  ⊕  ⊕ : Highcertainty (veryconfidentthatthetrueeffectliesclosetothatoftheestimateoftheeffect)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S078",
+    "title": "ManagementofHydrocephalusPICOQuestionInpatientswithaSAHandanindwellingexternalventriculardrain (EVD), isastrategybasedondirectclampingsuperiortogradualweaningonmortality, mRS, GOS, newcerebralinfarction, incidenceofventriculoperitoneal (VP) shuntplacement, rateofinfection, andEVDcomplications?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S079",
+    "title": "RecommendationThereisinsufficientevidencetoprovidearecommendationondirectclampingversusgradualweaningstrategyforEVDremovalforthemanagementofhydrocephalusinpatientswithaSAH.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S080",
+    "title": "RationaleDifferentcentersfavoreithergradualweaningordirectclampingtodecidewhetheranEVDcanbesafelyremovedoraVPshuntisnecessary [156].Thesetwostrategieshavenotbeenadequatelycompared.Therefore, theoptimalstrategyremainsunknown.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S081",
+    "title": "SummaryoftheEvidenceOneRCT, onecohortstudywithhistoricalcontrols, andonemulticenterobservationalstudyleveragingdifferentEVDweaningprotocolsatdifferentinstitutionsaddressedthisquestionandwereincluded (Table13; SupplementaryTable14) [157–159].Table13GRADEevidenceprofile, PICO9: inpatientswithaSAHandanindwellingexternalventriculardrain (EVD), isastrategybasedondirectclampingsuperiortogradualweaningonmortality, mRS, GOS, newcerebralinfarction, incidenceofventriculoperitoneal (VP) shuntplacement, rateofinfection, andEVDcomplications?",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S082",
+    "title": "ConclusionsAlthoughthescantavailableevidenceappearstosupportdirectclampingovergradualweaningoftheEVD, theoptimalEVDweaning, andremovalstrategycanonlybereliablydeterminedthroughtheconductionofalarge, multicenterRCTcomparingclearlydefinedprotocolsandadheringtowelldefinedindicationsforVPshuntplacement.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S083",
+    "title": "SummaryDespiteimprovementsintheoutcomesofpatientswithaSAHovertime, manyimportantclinicalquestionsonvariousaspectsofthetreatmentofthesepatientsremainunanswered.Theseguidelinesproviderecommendationsfororagainstinterventionsproventobeeffective, ineffective, orharmful, buttheseguidelinesalsoservetohighlightgapsinknowledgethatshouldguidefutureresearchpriorities.ThetreatmentofpatientswithaSAHisundoubtedlycomplexanddemandsclinicaljudgment.Yet, moreandbetter-qualityresearchisnecessarytohelpguideit.AlthoughseveralpharmacologicalinterventionshavebeentestedthroughRCTs, wefoundthatthequalityofevidencefornonpharmacologicalquestionswasconsistentlypoor.Thisisinpartintrinsictothechallengesofevaluatingmanagementapproachesoralgorithmsthatinvolvemanyfacetsandpotentialpathways.Therefore, theneurocriticalcareandneurosurgicalcommunitiesaswellasfundingagenciesmustworktogethertoimprovethescientificbasisforthemanagementofaSAHinthefuture.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S084",
+    "title": "SupplementaryInformationTheonlineversioncontainssupplementarymaterialavailableathttps://doi.org/10.1007/s12028-023-01713-5.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S085",
+    "title": "Authordetails1DepartmentofAnesthesiology, DukeUniversityMedicalCenter, 2301ErwinRoad, 5692HAFS, Box3059, Durham, NC27710, USA.2DepartmentofNeurology, MayoClinic, Rochester, MI, USA.3DepartmentsofNeurologyandNeurosurgery, CollegeofMedicine, UniversityofFlorida, Gainesville, FL, USA.4NeurocriticalCare, SwedishNeuroscienceInstitute, Seattle, WA, USA.5DepartmentsofNeurologyandNeurosurgery, WashingtonUniversityinSt.Louis, St.Louis, MO, USA.6NeurocriticalCare, StanfordHealthCare, PaloAlto, CA, USA.7NeurocriticalCare, UniversityofWashington, Seattle, WA, USA.8DepartmentofNeurology, YaleUniversity, NewHaven, CT, USA.9DivisionofNeurosciencesCriticalCare, DepartmentsofAnesthesiologyandCriticalCareMedicine, Neurology, andNeurosurgery, TheJohnsHopkinsUniversitySchoolofMedicine, Baltimore, MD, USA.10DepartmentofNeurologicalSurgery, FarberInstituteforNeuroscience, ThomasJeffersonUniversityHospital, Philadelphia, PA, USA.11DepartmentofPharmacy, TempleUniversityHospital, Philadelphia, PA, USA.12SchoolofMedicineandSurgery, Università MilanoBicocca, Milan, Italy.13NeuroIntensiveCareUnit, DepartmentNeuroscience, IRCCSFondazioneSanGerardodeiTintori, Monza, Italy.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S086",
+    "title": "AuthorcontributionsConceptualization: Allauthors.Dataabstraction: Allauthors.Fundingacquisition: None.Methodology: SL.Resources: NeurocriticalCareSociety.Software: Distiller.Supervision: MMTandAAR (co-chairs).Validation: Allauthors.Writing (originaldraft): MMTandAAR.Writing (reviewandediting): Allauthors.Allauthorsapproveofthefinalmanuscript.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S087",
+    "title": "SourceofsupportNeurocriticalCareSociety.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S088",
+    "title": "ConflictsofInterestTheauthorshavenoconflictsofinteresttodeclare.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S089",
+    "title": "Publisher’sNoteSpringerNatureremainsneutralwithregardtojurisdictionalclaimsinpublishedmapsandinstitutionalaffiliations.SpringerNatureoritslicensor (e.g.asocietyorotherpartner) holdsexclusiverightstothisarticleunderapublishingagreementwiththeauthor(s) orotherrightsholder(s); authorself-archivingoftheacceptedmanuscriptversionofthisarticleissolelygovernedbythetermsofsuchpublishingagreementandapplicablelaw.Received: 22February2023Accepted: 3March2023Published: 18May2023",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S090",
+    "title": "References1.DiringerMN, BleckTP, HemphillIJC, etal.Criticalcaremanagementofpatientsfollowinganeurysmalsubarachnoidhemorrhage: Recommendationsfromtheneurocriticalcaresociety’smultidisciplinaryconsensuconference.NeurocritCare.2011;15(2):211–40.2.Al-MuftiF, MayerSA, KaurG, etal.Neurocriticalcaremanagementofpoor-gradesubarachnoidhemorrhage: unjustifiednihilismtoreasonableoptimism.NeuroradiolJ.2021.https://doi.org/10.1177/19714009211024633.3.KonczallaJ, SeifertV, BeckJ, etal.OutcomeafterHuntandHessGradeVsubarachnoidhemorrhage: acomparisonofpre-coilingera (1980–",
+    "level": 1,
+    "parent": null
+  }
+]

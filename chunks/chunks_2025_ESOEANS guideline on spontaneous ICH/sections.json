@@ -1,0 +1,1130 @@
+[
+  {
+    "section_id": "S001",
+    "title": "European Stroke Organisation (ESO) and European Association of Neurosurgical Societies (EANS) guideline on stroke due to spontaneous intracerebral haemorrhage",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "Abstract",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S003",
+    "title": "Corresponding author:",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S004",
+    "title": "Keywords",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S005",
+    "title": "Plain language summary",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S006",
+    "title": "Background",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S007",
+    "title": "How We Created This Guide",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S008",
+    "title": "What We Found",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S009",
+    "title": "Why This Matters",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S010",
+    "title": "Table of Contents",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S011",
+    "title": "Blood pressure management... 11",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S012",
+    "title": "Haemostatic therapies .......... .... 16",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S013",
+    "title": "Surgical management.... .27",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S014",
+    "title": "Prevention and management of complications ..... ... 38",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S015",
+    "title": "Secondary prevention...... ..50",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S016",
+    "title": "Discussion..... ... 58",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S017",
+    "title": "References ............. ..... 71",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S018",
+    "title": "Introduction",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S019",
+    "title": "Methods",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S020",
+    "title": "Composition and approval of the Module Working Group",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S021",
+    "title": "Development and approval of clinical questions",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S022",
+    "title": "Literature search",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S023",
+    "title": "Data extraction",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S024",
+    "title": "Data analysis",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S025",
+    "title": "Evaluation of the quality of evidence and formulation of evidence-based recommendations and consensus statements",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S026",
+    "title": "Guideline structure",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S027",
+    "title": "Results",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S028",
+    "title": "General management",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S029",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S030",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S031",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S032",
+    "title": "Radiological investigation for underlying cause",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S033",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S034",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S035",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S036",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S037",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S038",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S039",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S040",
+    "title": "Outcome prediction",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S041",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S042",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S043",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S044",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S045",
+    "title": "Withdrawal of treatment",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S046",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S047",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S048",
+    "title": "Analysis of the current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S049",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S050",
+    "title": "Blood pressure management",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S051",
+    "title": "Acute blood pressure alteration",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S052",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S053",
+    "title": "Expert consensus statements",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S054",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S055",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S056",
+    "title": "Haemostatic therapies",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S057",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S058",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S059",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S060",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S061",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S062",
+    "title": "Quality of evidence: Low ⊕⊕",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S063",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S064",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S065",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S066",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S067",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S068",
+    "title": "Anticoagulant-associated ICH",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S069",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S070",
+    "title": "Quality of evidence: Very low ⊕",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S071",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S072",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S073",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S074",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S075",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S076",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S077",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S078",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S079",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S080",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S081",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S082",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S083",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S084",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S085",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S086",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S087",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S088",
+    "title": "Ongoing trials",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S089",
+    "title": "Surgical management",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S090",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S091",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S092",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S093",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S094",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S095",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S096",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S097",
+    "title": "Quality of evidence: Low ⊕⊕",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S098",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S099",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S100",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S101",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S102",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S103",
+    "title": "Decompressive craniectomy",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S104",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S105",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S106",
+    "title": "ICH with intraventricular extension",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S107",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S108",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S109",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S110",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S111",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S112",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S113",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S114",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S115",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S116",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S117",
+    "title": "Infratentorial ICH",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S118",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S119",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S120",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S121",
+    "title": "Prevention and management of complications",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S122",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S123",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S124",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S125",
+    "title": "Short-term antithrombotic therapy to prevent DVT/PE",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S126",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S127",
+    "title": "Expert consensus statement:",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S128",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S129",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S130",
+    "title": "Temperature management",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S131",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S132",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S133",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S134",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S135",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S136",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S137",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S138",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S139",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S140",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S141",
+    "title": "Anti-inflammatory treatment",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S142",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S143",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S144",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S145",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S146",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S147",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S148",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S149",
+    "title": "Care bundles",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S150",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S151",
+    "title": "Expert consensus statement:",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S152",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S153",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S154",
+    "title": "Secondary prevention",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S155",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S156",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S157",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S158",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S159",
+    "title": "Oral anticoagulation (OAC)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S160",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S161",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S162",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S163",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S164",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S165",
+    "title": "Expert consensus statement:",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S166",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S167",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S168",
+    "title": "Antiplatelet therapy",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S169",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S170",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S171",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S172",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S173",
+    "title": "Statins",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S174",
+    "title": "Evidence-based Recommendation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S175",
+    "title": "Expert consensus statement",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S176",
+    "title": "Analysis of current evidence",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S177",
+    "title": "Additional information",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S178",
+    "title": "Discussion",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S179",
+    "title": "Acknowledgements",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S180",
+    "title": "Declaration of conflicting interests",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S181",
+    "title": "Funding",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S182",
+    "title": "Ethical approval",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S183",
+    "title": "Informed consent",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S184",
+    "title": "Guarantor",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S185",
+    "title": "Contributorship",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S186",
+    "title": "ORCID iDs",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S187",
+    "title": "Supplemental material",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S188",
+    "title": "References",
+    "level": 1,
+    "parent": null
+  }
+]

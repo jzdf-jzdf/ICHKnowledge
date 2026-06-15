@@ -1,0 +1,680 @@
+[
+  {
+    "section_id": "S001",
+    "title": "第一章脑血管病相关定义及疾病负担",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "一、脑血管病的相关定义",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S003",
+    "title": "（一）缺血性脑血管病",
+    "level": 2,
+    "parent": "S002"
+  },
+  {
+    "section_id": "S004",
+    "title": "（二）出血性脑血管病",
+    "level": 2,
+    "parent": "S002"
+  },
+  {
+    "section_id": "S005",
+    "title": "1.脑出血：原发性非创伤性脑实质内出血。",
+    "level": 3,
+    "parent": "S004"
+  },
+  {
+    "section_id": "S006",
+    "title": "二、脑血管病的疾病负担",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S007",
+    "title": "第二章脑血管病急救",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S008",
+    "title": "一、提高早期识别能力",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S009",
+    "title": "二、优化院前急救流程",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S010",
+    "title": "三、提高院内救治效率",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S011",
+    "title": "第三章脑血管病预防",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S012",
+    "title": "一、人群脑血管病风险评估",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S013",
+    "title": "（一）评估人群",
+    "level": 2,
+    "parent": "S012"
+  },
+  {
+    "section_id": "S014",
+    "title": "（二）评估内容",
+    "level": 2,
+    "parent": "S012"
+  },
+  {
+    "section_id": "S015",
+    "title": "（三）评估模式",
+    "level": 2,
+    "parent": "S012"
+  },
+  {
+    "section_id": "S016",
+    "title": "二、基于个体水平的脑血管病预防策略",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S017",
+    "title": "（一）脑血管病危险因素控制",
+    "level": 2,
+    "parent": "S016"
+  },
+  {
+    "section_id": "S018",
+    "title": "3.血脂异常干预",
+    "level": 3,
+    "parent": "S017"
+  },
+  {
+    "section_id": "S019",
+    "title": "（二）脑血管病二级预防策略",
+    "level": 2,
+    "parent": "S016"
+  },
+  {
+    "section_id": "S020",
+    "title": "（三）脑血管病的组织化管理",
+    "level": 2,
+    "parent": "S016"
+  },
+  {
+    "section_id": "S021",
+    "title": "3.识别急慢性并发症，及时处理或转诊。",
+    "level": 3,
+    "parent": "S020"
+  },
+  {
+    "section_id": "S022",
+    "title": "1.脑血管病首次发病风险评估有困难；",
+    "level": 3,
+    "parent": "S020"
+  },
+  {
+    "section_id": "S023",
+    "title": "2.经长期规范治疗后，危险因素仍不能控制；",
+    "level": 3,
+    "parent": "S020"
+  },
+  {
+    "section_id": "S024",
+    "title": "4.疑似新出现的心、脑、肾、眼等并发症；",
+    "level": 3,
+    "parent": "S020"
+  },
+  {
+    "section_id": "S025",
+    "title": "5.疑似出现与药物相关且难以处理的不良反应；",
+    "level": 3,
+    "parent": "S020"
+  },
+  {
+    "section_id": "S026",
+    "title": "6.合并其他不能处理的临床情况。",
+    "level": 3,
+    "parent": "S020"
+  },
+  {
+    "section_id": "S027",
+    "title": "第四章缺血性卒中和 TIA 的临床管理",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S028",
+    "title": "一、临床表现",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S029",
+    "title": "二、临床诊断及辅助检查",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S030",
+    "title": "（一）影像学评估",
+    "level": 2,
+    "parent": "S029"
+  },
+  {
+    "section_id": "S031",
+    "title": "（二）实验室及电生理检查",
+    "level": 2,
+    "parent": "S029"
+  },
+  {
+    "section_id": "S032",
+    "title": "三、主要治疗措施",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S033",
+    "title": "（一）再灌注治疗",
+    "level": 2,
+    "parent": "S032"
+  },
+  {
+    "section_id": "S034",
+    "title": "（二）抗栓治疗",
+    "level": 2,
+    "parent": "S032"
+  },
+  {
+    "section_id": "S035",
+    "title": "（三）血压管理",
+    "level": 2,
+    "parent": "S032"
+  },
+  {
+    "section_id": "S036",
+    "title": "1.密切监测血压变化。",
+    "level": 3,
+    "parent": "S035"
+  },
+  {
+    "section_id": "S037",
+    "title": "（四）强化降脂治疗",
+    "level": 2,
+    "parent": "S032"
+  },
+  {
+    "section_id": "S038",
+    "title": "（五）外科手术治疗",
+    "level": 2,
+    "parent": "S032"
+  },
+  {
+    "section_id": "S039",
+    "title": "第五章脑出血的临床管理",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S040",
+    "title": "一、临床表现",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S041",
+    "title": "二、临床诊断及辅助检查",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S042",
+    "title": "三、主要治疗措施",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S043",
+    "title": "（一）血压管理",
+    "level": 2,
+    "parent": "S042"
+  },
+  {
+    "section_id": "S044",
+    "title": "（二）颅内压管理",
+    "level": 2,
+    "parent": "S042"
+  },
+  {
+    "section_id": "S045",
+    "title": "（三）止血治疗",
+    "level": 2,
+    "parent": "S042"
+  },
+  {
+    "section_id": "S046",
+    "title": "（四）外科治疗",
+    "level": 2,
+    "parent": "S042"
+  },
+  {
+    "section_id": "S047",
+    "title": "第六章蛛网膜下腔出血的临床管理",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S048",
+    "title": "一、临床表现",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S049",
+    "title": "二、临床诊断及辅助检查",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S050",
+    "title": "三、主要治疗措施",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S051",
+    "title": "（一）病因治疗",
+    "level": 2,
+    "parent": "S050"
+  },
+  {
+    "section_id": "S052",
+    "title": "（二）再出血处理",
+    "level": 2,
+    "parent": "S050"
+  },
+  {
+    "section_id": "S053",
+    "title": "（三）脑动脉痉挛及迟发性脑缺血处理",
+    "level": 2,
+    "parent": "S050"
+  },
+  {
+    "section_id": "S054",
+    "title": "（四）脑脊液引流及脑积水处理",
+    "level": 2,
+    "parent": "S050"
+  },
+  {
+    "section_id": "S055",
+    "title": "第七章颅内静脉血栓形成的临床管理",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S056",
+    "title": "一、临床表现",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S057",
+    "title": "二、临床诊断及辅助检查",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S058",
+    "title": "（一）影像学检查",
+    "level": 2,
+    "parent": "S057"
+  },
+  {
+    "section_id": "S059",
+    "title": "（二）腰椎穿刺检查",
+    "level": 2,
+    "parent": "S057"
+  },
+  {
+    "section_id": "S060",
+    "title": "（三）实验室检测",
+    "level": 2,
+    "parent": "S057"
+  },
+  {
+    "section_id": "S061",
+    "title": "三、主要治疗措施",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S062",
+    "title": "（一）病因治疗",
+    "level": 2,
+    "parent": "S061"
+  },
+  {
+    "section_id": "S063",
+    "title": "（二）抗凝治疗",
+    "level": 2,
+    "parent": "S061"
+  },
+  {
+    "section_id": "S064",
+    "title": "（三）颅内压管理",
+    "level": 2,
+    "parent": "S061"
+  },
+  {
+    "section_id": "S065",
+    "title": "（四）外科处理",
+    "level": 2,
+    "parent": "S061"
+  },
+  {
+    "section_id": "S066",
+    "title": "第八章脑血管病并发症的处理",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S067",
+    "title": "一、颅内压增高",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S068",
+    "title": "二、发热",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S069",
+    "title": "三、血糖异常",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S070",
+    "title": "四、吞咽障碍和营养不良",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S071",
+    "title": "五、卒中相关肺炎",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S072",
+    "title": "六、上消化道出血",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S073",
+    "title": "七、泌尿系感染",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S074",
+    "title": "八、深静脉血栓形成和肺栓塞",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S075",
+    "title": "九、癫痫",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S076",
+    "title": "十、卒中后情感障碍",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S077",
+    "title": "第九章脑血管病护理",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S078",
+    "title": "一、护理人员要求",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S079",
+    "title": "二、缺血性卒中静脉溶栓护理标准",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S080",
+    "title": "（一）基本护理要求",
+    "level": 2,
+    "parent": "S079"
+  },
+  {
+    "section_id": "S081",
+    "title": "（二）静脉溶栓护理要点",
+    "level": 2,
+    "parent": "S079"
+  },
+  {
+    "section_id": "S082",
+    "title": "三、脑血管病的住院护理",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S083",
+    "title": "（二）注重早期体位管理，偏瘫患者应进行良肢位摆放。",
+    "level": 2,
+    "parent": "S082"
+  },
+  {
+    "section_id": "S084",
+    "title": "（三）对存在意识、吞咽、运动、语言、排泄等功能障碍",
+    "level": 2,
+    "parent": "S082"
+  },
+  {
+    "section_id": "S085",
+    "title": "（四）采取措施防止误吸、跌倒和压力性损伤的发生。",
+    "level": 2,
+    "parent": "S082"
+  },
+  {
+    "section_id": "S086",
+    "title": "（五）积极预防和识别脑血管病并发症，配合医生对症处理。",
+    "level": 2,
+    "parent": "S082"
+  },
+  {
+    "section_id": "S087",
+    "title": "（六）观察患者用药后的不良反应，提高患者用药安全性与依从性，提升二级预防效果。",
+    "level": 2,
+    "parent": "S082"
+  },
+  {
+    "section_id": "S088",
+    "title": "第十章脑血管病康复",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S089",
+    "title": "一、康复管理模式",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S090",
+    "title": "（一）早期康复",
+    "level": 2,
+    "parent": "S089"
+  },
+  {
+    "section_id": "S091",
+    "title": "（二）恢复期康复",
+    "level": 2,
+    "parent": "S089"
+  },
+  {
+    "section_id": "S092",
+    "title": "（三）慢性期康复",
+    "level": 2,
+    "parent": "S089"
+  },
+  {
+    "section_id": "S093",
+    "title": "二、康复团队及康复方案",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S094",
+    "title": "三、主要神经及相关功能障碍的康复",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S095",
+    "title": "（一）运动功能障碍",
+    "level": 2,
+    "parent": "S094"
+  },
+  {
+    "section_id": "S096",
+    "title": "（二）吞咽障碍",
+    "level": 2,
+    "parent": "S094"
+  },
+  {
+    "section_id": "S097",
+    "title": "（三）构音障碍",
+    "level": 2,
+    "parent": "S094"
+  },
+  {
+    "section_id": "S098",
+    "title": "（四）失语症",
+    "level": 2,
+    "parent": "S094"
+  },
+  {
+    "section_id": "S099",
+    "title": "（五）感觉障碍",
+    "level": 2,
+    "parent": "S094"
+  },
+  {
+    "section_id": "S100",
+    "title": "（六）认知功能障碍",
+    "level": 2,
+    "parent": "S094"
+  },
+  {
+    "section_id": "S101",
+    "title": "（七）肩关节半脱位",
+    "level": 2,
+    "parent": "S094"
+  },
+  {
+    "section_id": "S102",
+    "title": "（八）肩手综合征",
+    "level": 2,
+    "parent": "S094"
+  },
+  {
+    "section_id": "S103",
+    "title": "第十一章脑血管病公众健康教育",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S104",
+    "title": "一、患者的健康教育",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S105",
+    "title": "二、照护者的健康教育",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S106",
+    "title": "三、高危人群的健康教育",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S107",
+    "title": "四、全人群的健康教育",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S108",
+    "title": "第十二章脑血管病自我管理",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S109",
+    "title": "一、合理设定管理目标",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S110",
+    "title": "二、践行健康生活方式",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S111",
+    "title": "三、进行规范治疗",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S112",
+    "title": "四、加强自我监测",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S113",
+    "title": "五、寻求专业指导",
+    "level": 1,
+    "parent": null
+  }
+]

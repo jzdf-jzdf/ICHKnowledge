@@ -1,0 +1,62 @@
+[
+  {
+    "section_id": "S001",
+    "title": "脑出血CT数据库构建及质量控制专家共识",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "Expert consensus on the CT database construction and quality control of cerebral hemorrhage",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S003",
+    "title": "一、数据库描述",
+    "level": 2,
+    "parent": "S002"
+  },
+  {
+    "section_id": "S004",
+    "title": "（一）数据库基本信息",
+    "level": 2,
+    "parent": "S002"
+  },
+  {
+    "section_id": "S005",
+    "title": "（二）数据采集",
+    "level": 2,
+    "parent": "S002"
+  },
+  {
+    "section_id": "S006",
+    "title": "（三）数据样本溯源信息记录及数据库版本控制信息记录",
+    "level": 2,
+    "parent": "S002"
+  },
+  {
+    "section_id": "S007",
+    "title": "二、病灶标注",
+    "level": 2,
+    "parent": "S002"
+  },
+  {
+    "section_id": "S008",
+    "title": "三、数据库的质量评价",
+    "level": 2,
+    "parent": "S002"
+  },
+  {
+    "section_id": "S009",
+    "title": "四、小结",
+    "level": 2,
+    "parent": "S002"
+  },
+  {
+    "section_id": "S010",
+    "title": "参 考 文 献",
+    "level": 2,
+    "parent": "S002"
+  }
+]

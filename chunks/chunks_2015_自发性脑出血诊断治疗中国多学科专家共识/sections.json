@@ -1,0 +1,74 @@
+[
+  {
+    "section_id": "S001",
+    "title": "自发性脑出血诊断治疗中国多学科专家共识",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "一、概述",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S003",
+    "title": "二、诊断",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S004",
+    "title": "三、院前与急诊室的急救管理",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S005",
+    "title": "四、非手术治疗",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S006",
+    "title": "五、手术治疗",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S007",
+    "title": "六、复发的预防",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S008",
+    "title": "七、早期康复",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S009",
+    "title": "八、临终关怀",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S010",
+    "title": "共识编写委员会成员（按姓氏汉语拼音排序）：",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S011",
+    "title": "参 考 文 献",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S012",
+    "title": "第七届世界华人神经外科学术大会",
+    "level": 2,
+    "parent": "S001"
+  }
+]

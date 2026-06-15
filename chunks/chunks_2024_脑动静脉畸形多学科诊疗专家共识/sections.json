@@ -1,0 +1,326 @@
+[
+  {
+    "section_id": "S001",
+    "title": "脑动静脉畸形多学科诊疗专家共识",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "Expert consensus on multidisciplinary diagnosis and treatment of brain arteriovenous malformation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S003",
+    "title": "第一部分 共识制订方法学",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S004",
+    "title": "第二部分 流行病学",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S005",
+    "title": "第三部分 病因和病理生理机制",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S006",
+    "title": "一、病因",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S007",
+    "title": "（一）家族遗传性BAVM",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S008",
+    "title": "（二）散发性",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S009",
+    "title": "二、病理生理机制",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S010",
+    "title": "第四部分 临床表现和自然病史",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S011",
+    "title": "一、临床表现",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S012",
+    "title": "二、自然病史",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S013",
+    "title": "三、妊娠期和产褥期风险",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S014",
+    "title": "第五部分 诊断",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S015",
+    "title": "一、影像诊断",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S016",
+    "title": "（一）CT",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S017",
+    "title": "（二）MRI",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S018",
+    "title": "（三）",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S019",
+    "title": "二、基因诊断",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S020",
+    "title": "第六部分 治疗",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S021",
+    "title": "一、显微手术",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S022",
+    "title": "（一）适应证",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S023",
+    "title": "（二）术前栓塞",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S024",
+    "title": "（三）手术辅助技术及复合手术室的应用",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S025",
+    "title": "二、立体定向放射外科治疗",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S026",
+    "title": "（一）适应证",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S027",
+    "title": "（二）放射外科病理生理机制",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S028",
+    "title": "（三）治疗策略",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S029",
+    "title": "（四）影像定位",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S030",
+    "title": "（五）靶区勾画",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S031",
+    "title": "（六）影像随访",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S032",
+    "title": "（七）SRS术前栓塞",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S033",
+    "title": "（八）分级",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S034",
+    "title": "（九）预后",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S035",
+    "title": "（十）ARE",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S036",
+    "title": "三、介入治疗",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S037",
+    "title": "（一）治愈性栓塞",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S038",
+    "title": "（二）靶向栓塞",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S039",
+    "title": "（三）姑息性栓塞",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S040",
+    "title": "（四）介入治疗评分",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S041",
+    "title": "（五）介入材料",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S042",
+    "title": "（六）介入治疗并发症",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S043",
+    "title": "四、治疗方式的选择",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S044",
+    "title": "（一） 级病例",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S045",
+    "title": "（二） 级病例",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S046",
+    "title": "（三）SM Ⅳ\\~Ⅴ级病例",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S047",
+    "title": "（四）深部BAVM病例",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S048",
+    "title": "五、 出血急性期的治疗",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S049",
+    "title": "六、BAVM癫痫的治疗",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S050",
+    "title": "第七部分 展望",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S051",
+    "title": "一、药物治疗",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S052",
+    "title": "二、液体和血管内活检",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S053",
+    "title": "本共识专家组成员：",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S054",
+    "title": "参 考 文 献",
+    "level": 1,
+    "parent": null
+  }
+]

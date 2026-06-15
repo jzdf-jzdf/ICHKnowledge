@@ -1,0 +1,218 @@
+[
+  {
+    "section_id": "S001",
+    "title": "卒中筛查与防治技术规范",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "一、概述",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S003",
+    "title": "(一) 卒中预防的基本策略(图 1)",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S004",
+    "title": "（二）组织与管理",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S005",
+    "title": "二、健康指导",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S006",
+    "title": "（一）生活方式干预",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S007",
+    "title": "（二）定期体检",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S008",
+    "title": "(三)重视卒中早期症状",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S009",
+    "title": "三、卒中高危人群筛查",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S010",
+    "title": "(一)卒中风险筛查评估",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S011",
+    "title": "(二)卒中高危人群筛查与干预流程(图2)",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S012",
+    "title": "(三)筛查方法与步骤",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S013",
+    "title": "四、内科干预",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S014",
+    "title": "(一) 血压管理",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S015",
+    "title": "(二)血糖管理",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S016",
+    "title": "(三)血脂调控",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S017",
+    "title": "(四)急性期溶栓治疗",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S018",
+    "title": "(五)抗血小板治疗",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S019",
+    "title": "(六)抗凝治疗",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S020",
+    "title": "(七)中医药治疗",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S021",
+    "title": "(八)其他",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S022",
+    "title": "五、外科干预",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S023",
+    "title": "(一)颈动脉内膜剥脱术(CEA)",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S024",
+    "title": "(二)血管搭桥术",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S025",
+    "title": "(三)动脉瘤夹闭术",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S026",
+    "title": "(四) 血肿清除术",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S027",
+    "title": "(五)脑室穿刺引流术",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S028",
+    "title": "(六)其他",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S029",
+    "title": "六、介入干预治疗",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S030",
+    "title": "(一)介入干预治疗适应证",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S031",
+    "title": "(二)介入干预治疗应遵循的原则",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S032",
+    "title": "七、卒中康复与护理",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S033",
+    "title": "(一)卒中康复",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S034",
+    "title": "(二)卒中护理",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S035",
+    "title": "参考文献",
+    "level": 2,
+    "parent": "S001"
+  },
+  {
+    "section_id": "S036",
+    "title": "作者为我刊投稿的若干注意事项",
+    "level": 2,
+    "parent": "S001"
+  }
+]

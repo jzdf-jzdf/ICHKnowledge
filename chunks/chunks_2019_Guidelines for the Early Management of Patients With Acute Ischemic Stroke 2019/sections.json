@@ -1,0 +1,470 @@
+[
+  {
+    "section_id": "S001",
+    "title": "Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S002",
+    "title": "CLASS (STRENGTH) OF RECOMMENDATION LEVEL (QUALITY) OF EVIDENCE",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S003",
+    "title": "CLASSI(STRONG)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S004",
+    "title": "Benefit >>> Risk LEVELA",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S005",
+    "title": "CLASS Ila (MODERATE)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S006",
+    "title": "Benefit >> Risk",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S007",
+    "title": "CLASS IIb (WEAK) Benefit≥Risk",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S008",
+    "title": "CLASS IIl:No Benefit (MODERATE) (Generally,OEAorBuseonly)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S009",
+    "title": "LEVEL B-R",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S010",
+    "title": "Benefit =Risk",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S011",
+    "title": "(Randomized)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S012",
+    "title": "(Nonrandomized)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S013",
+    "title": "LEVEL B-NR",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S014",
+    "title": "LEVEL C-LD",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S015",
+    "title": "(Limited Data)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S016",
+    "title": "LEVEL C-EO",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S017",
+    "title": "CLASS II: Harm (STRONG)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S018",
+    "title": "Risk>Benefit",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S019",
+    "title": "(Expert Opinion)",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S020",
+    "title": "1. Prehospital Stroke Management and Systems of Care",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S021",
+    "title": "1.1. Prehospital Systems",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S022",
+    "title": "1.2. EMS Assessment and Management",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S023",
+    "title": "1.3. EMS Systems",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S024",
+    "title": "1.4. Hospital Stroke Capabilities",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S025",
+    "title": "1.5. Hospital Stroke Teams",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S026",
+    "title": "1.6. Telemedicine",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S027",
+    "title": "1.7. Organization and Integration of Components",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S028",
+    "title": "1.8.EstablishmentofDataRepositories",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S029",
+    "title": "1.9.StrokeSystemCareQualityImprovementProcess",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S030",
+    "title": "2.EmergencyEvaluationandTreatment",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S031",
+    "title": "2.1.StrokeScales",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S032",
+    "title": "2.2.HeadandNeckImaging",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S033",
+    "title": "2.3.OtherDiagnosticTests",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S034",
+    "title": "3.GeneralSupportiveCareandEmergencyTreatment",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S035",
+    "title": "3.1.Airway, Breathing, andOxygenation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S036",
+    "title": "3.2.BloodPressure",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S037",
+    "title": "3.3.Temperature",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S038",
+    "title": "3.4.BloodGlucose",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S039",
+    "title": "3.5.IVAlteplase",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S040",
+    "title": "3.6.OtherIVFibrinolyticsandSonothrombolysis",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S041",
+    "title": "3.7.MechanicalThrombectomy",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S042",
+    "title": "3.8.OtherEndovascularTherapies",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S043",
+    "title": "3.9.AntiplateletTreatment",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S044",
+    "title": "3.10.Anticoagulants",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S045",
+    "title": "3.12.NeuroprotectiveAgents",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S046",
+    "title": "3.14.Other",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S047",
+    "title": "4.In-HospitalManagementofAIS: GeneralSupportiveCare",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S048",
+    "title": "4.1.StrokeUnits",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S049",
+    "title": "4.2HeadPositioning",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S050",
+    "title": "4.3.SupplementalOxygenNote: RecommendationsinthissectionarerepeatedfromSection3.1becausetheyapplytoin-hospitalmanagementaswell.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S051",
+    "title": "4.4.BloodPressureNote: Recommendation1inthissectionisrepeatedfromSection3.2becauseitappliestoin-hospitalmanagementaswell.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S052",
+    "title": "4.5.TemperatureNote: RecommendationsinthissectionarerepeatedfromSection3.3becausetheyapplytoin-hospitalmanagementaswell.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S053",
+    "title": "4.6.GlucoseNote: RecommendationsinthissectionarerepeatedfromSection3.4becausetheyapplytoin-hospitalmanagementaswell.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S054",
+    "title": "4.7.Dysphagia",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S055",
+    "title": "4.8.Nutrition",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S056",
+    "title": "4.9.DeepVeinThrombosisProphylaxis",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S057",
+    "title": "4.10.DepressionScreening",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S058",
+    "title": "4.11.Other",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S059",
+    "title": "4.12.Rehabilitation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S060",
+    "title": "5.1.BrainSwelling5.In-HospitalManagementofAIS: TreatmentofAcuteComplications",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S061",
+    "title": "5.2.Seizures",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S062",
+    "title": "6.In-HospitalInstitutionofSecondaryStrokePreventionTherecommendationsinthissectionreferenceothercurrentAHAguidelinesforsecondarystrokepreventionwhereapplicable (Table10).Theseotherguidelinesshouldbereferredtoforfurtherinformationonsecondarystrokepreventionnotcoveredinthisdocument.Theseotherguidelinesareupdatedregularly, andthemostrecentversionsshouldbeused.",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S063",
+    "title": "6.1.BrainImaging",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S064",
+    "title": "6.2.VascularImaging",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S065",
+    "title": "6.3.CardiacEvaluation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S066",
+    "title": "6.4.Glucose",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S067",
+    "title": "6.5.OtherTestsforSecondaryPrevention",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S068",
+    "title": "6.6.AntithromboticTreatment",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S069",
+    "title": "6.7.CarotidRevascularization",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S070",
+    "title": "6.8.TreatmentofHyperlipidemia",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S071",
+    "title": "6.9.InstitutionofAntihypertensiveMedications",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S072",
+    "title": "6.10.SmokingCessationIntervention",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S073",
+    "title": "6.11.StrokeEducation",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S074",
+    "title": "Disclosures",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S075",
+    "title": "WritingGroupDisclosures",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S076",
+    "title": "ReviewerDisclosures",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S077",
+    "title": "ReviewerDisclosuresContinued",
+    "level": 1,
+    "parent": null
+  },
+  {
+    "section_id": "S078",
+    "title": "",
+    "level": 1,
+    "parent": null
+  }
+]

@@ -1,0 +1,25 @@
+﻿chunk_id,section,type,topic_tags,summary,已出题,题目数量,题目IDs,题目等级分布
+CTDB2024_FACT_001,脑出血CT数据库构建及质量控制专家共识,fact,影像学检查|脑出血,"中华医学会放射学分会医学影像人工智能工作组
+
+通信作者：查云飞，武汉大学人民医院放射科 国家药品监督管理局医疗器械监管科学研究基地（武汉大学），武汉 43000",0,0,,
+CTDB2024_FACT_002,Expert consensus on the CT database construction and quality control of cerebral hemorrhage,fact,其他,Artificial Intelligence Working Group of Chinese Society of Radiology Chinese Me…,0,0,,
+CTDB2024_FACT_003,Expert consensus on the CT database construction and quality control of cerebral hemorrhage,fact,影像学检查|脑出血|脑血管病|预后|流行病学,自发性脑出血是指非创伤性脑组织内血管破裂导致的出血。,0,0,,
+CTDB2024_FACT_004,Expert consensus on the CT database construction and quality control of cerebral hemorrhage,fact,影像学检查|脑出血,基于脑部 图像采用医学影像大数据人工智能方法在筛查、诊断和定量评估脑部疾病等方面已经显示出良好的效果［3‑4］。,0,0,,
+CTDB2024_FACT_005,Expert consensus on the CT database construction and quality control of cerebral hemorrhage,fact,影像学检查|脑出血,为了推进人工智能医疗器械注册申报指导原则体系的建立，国家药品监督管理局发布了《深度学习辅助决策医疗器械软件评审要点》《人工智能医用软件产品分类指导原则》和《人工…,0,0,,
+CTDB2024_FACT_006,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > （一）数据库基本信息,fact,影像学检查|脑出血|排除继发出血|定义,参考《卫生信息数据集元数据规范》中对数据集及数据库的定义［7］ ，本文将脑出血 数据库定义为以自发性脑出血常规 扫描影像为主题，可以被标注并被计算机识别和处理的…,0,0,,
+CTDB2024_FACT_007,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > （一）数据库基本信息,fact,颅内高压|影像学检查|脑出血|动脉瘤|脑淀粉样变,原始影像数据：脑出血 数据库中的原始影像数据应为 格式［9］ 。,0,0,,
+CTDB2024_FACT_008,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > （二）数据采集,fact,影像学检查|脑出血|排除继发出血,伦理审查与患者隐私安全：数据库建设需经过数据来源单位的伦理委员会批准，并采用切实的方案保护患者隐私。,0,0,,
+CTDB2024_FACT_009,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > （二）数据采集,fact,岛征|黑洞征|血肿扩大|脑出血|危险因素,图像。,0,0,,
+CTDB2024_FACT_010,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > （二）数据采集,fact,脑出血|体位,"表1 脑出血 数据采集的设备与配置
+<table><tr><td>项目</td><td>内容</td></tr><tr><td>层厚与层间距</td><td>层",0,0,,
+CTDB2024_FACT_011,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > （三）数据样本溯源信息记录及数据库版本控制信息记录,fact,影像学检查,参考国家医疗器械行业标准《医疗器械唯一标识基本要求》［13］ ，建议对每个患者的数据样本或每个影像序列存放的文件夹设置唯一的编码，以便后续记录及溯源核对信息。,0,0,,
+CTDB2024_FACT_012,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > 二、病灶标注,fact,岛征|黑洞征|颅内高压|脑出血|再出血处理,脑出血 数据库的标注对象包括：（）脑出血病灶的解剖位置与累及部位；（）脑出血病灶体积与形态；（）脑出血病灶的 值；（）脑出血病灶周围脑组织水肿情况；（）脑组织是…,0,0,,
+CTDB2024_FACT_013,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > 二、病灶标注,fact,影像学检查|脑出血,为提高标注效率及准确度，标注流程建议采用“人工智能+人工”方式进行标注。,0,0,,
+CTDB2024_FACT_014,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > 三、数据库的质量评价,fact,影像学检查|排除继发出血,数据库构造责任方应参照国家医疗器械行业标准— 《人工智能医疗器械质量要求和评价第部分：数据集通用要求》对数据库进行全面系统的质量评价［8］ ，并对可能存在的风险…,0,0,,
+CTDB2024_FACT_015,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > 三、数据库的质量评价,fact,MRI|影像学检查|脑出血,确实性：确实性是指影像及临床数据的真实和可靠。,0,0,,
+CTDB2024_FACT_016,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > 三、数据库的质量评价,fact,风险评估,价数据库的代表性。,0,0,,
+CTDB2024_FACT_017,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > 四、小结,fact,影像学检查|脑出血,医学影像人工智能的出现和发展为医学影像的精准与自动化诊断带来了新的发展机遇。,0,0,,
+CTDB2024_FACT_018,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > 四、小结,fact,影像学检查,专家组成员（排名不分先后）：查云飞（武汉大学人民医院放射科）、张惠茅（吉林大学第一医院放射科）、周俊林（兰州大学第二医院放射科）、田捷（中国科学院自动化研究所分,0,0,,
+CTDB2024_FACT_019,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > 参 考 文 献,fact,脑出血|脑血管病,[1] Sheth KN.,0,0,,
+CTDB2024_FACT_020,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > 参 考 文 献,fact,影像学检查|脑血管病,人工智能医疗器械 肺部影像辅助分析软件 算法性能测试方法[S].,0,0,,
+CTDB2024_FACT_021,Expert consensus on the CT database construction and quality control of cerebral hemorrhage > 参 考 文 献,fact,其他,DOI: 10.,0,0,,
