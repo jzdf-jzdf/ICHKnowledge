@@ -37,8 +37,8 @@ SINGLE_GUIDE_CHUNK_MAP = {
 
 CROSS_GUIDE_FILES = [
     ROOT / "question" / "merged" / "crossbook_questions.json",
-    ROOT / "question" / "2026_06_23" / "跨指南题目集_20260623_1.json",
-    ROOT / "question" / "2026_06_23" / "跨指南题目集_20260623_2.json",
+    ROOT / "question" / "2026_06_23" / "跨指南题目集1.json",
+    ROOT / "question" / "2026_06_23" / "跨指南题目集2.json",
 ]
 
 # ── 跨指南 short-code → chunk 目录名 → MD 文件 ──
@@ -54,9 +54,23 @@ def clean_text(s):
     """统一清洗文本"""
     if not s:
         return ""
+    """
+    Unicode NFKC 归一化
+    全角字母数字 → 半角
+    Ａ→A，１→1，（→(
+    """
     s = unicodedata.normalize('NFKC', s)
+    """
+    r让反斜杠 \ 保持字面值
+
+    """
     s = re.sub(r'\[[\d,\-\sA-Za-z]+\]', '', s)
+    """去残余方括号"""
     s = s.replace('[', '').replace(']', '')
+    """
+    去所有空白
+    空格、制表符、换行符全部移除
+    """
     s = re.sub(r'\s+', '', s)
     return s
 
@@ -73,6 +87,7 @@ def build_chunkdir_to_md():
             md_file = entry.get("file", "")
             if dir_name and md_file:
                 mapping[dir_name] = MD_DIR / "ICHGuideline" / md_file
+
     # 也扫描 ICHBooks 目录
     books_dir = MD_DIR / "ICHBooks"
     if books_dir.exists():
@@ -89,11 +104,14 @@ def build_chunkdir_to_md():
 
 def fuzzy_match_evidence_doc(evidence_doc, chunk_dir_names):
     """将 evidence_doc 模糊匹配到 chunk 目录名"""
+    # 完整匹配
     if evidence_doc in chunk_dir_names:
         return evidence_doc
+    # 包含关系
     for dn in chunk_dir_names:
         if evidence_doc in dn or dn in evidence_doc:
             return dn
+    
     # 处理已知拼写变体（如 Angiopathy ↔ Angiopathye）
     for dn in chunk_dir_names:
         ed_test = evidence_doc.replace("Angiopathy", "Angiopathye")
@@ -102,6 +120,7 @@ def fuzzy_match_evidence_doc(evidence_doc, chunk_dir_names):
         dn_test = dn.replace("Angiopathye", "Angiopathy")
         if evidence_doc in dn_test or dn_test in evidence_doc:
             return dn
+        
     def norm(s):
         return re.sub(r'\s+', '', s).lower()
     ed_norm = norm(evidence_doc)
@@ -145,29 +164,37 @@ def main():
     # ── 1. 单指南文件 ──
     print("\n[单指南文件]")
     for filepath, chunk_dir in SINGLE_GUIDE_CHUNK_MAP.items():
+
         if not filepath.exists():
             print(f"  跳过（不存在）: {filepath.name}")
             continue
+
         md_path = chunkdir_to_md.get(chunk_dir)
+
         if not md_path:
             print(f"  警告：找不到 chunk 目录 {chunk_dir} 对应的 MD 文件")
             continue
+
         md_cleaned = get_md_cleaned(md_path)
+
         if md_cleaned is None:
             print(f"  警告：MD 文件不存在 {md_path}")
             continue
         with open(filepath, "r", encoding="utf-8") as f:
             questions = json.load(f)
+
         file_total = 0
         file_matched = 0
         for q in questions:
             ctx = q.get("golden_context", "")
             cleaned_ctx = clean_text(ctx)
+
             if not cleaned_ctx:
                 skipped += 1
                 continue
             total += 1
             file_total += 1
+
             if cleaned_ctx in md_cleaned:
                 matched += 1
                 file_matched += 1
@@ -178,10 +205,12 @@ def main():
                     "evidence_doc": md_path.stem,
                     "preview": cleaned_ctx[:120],
                 })
+
         print(f"  {filepath.name}: {file_matched}/{file_total} 匹配 (MD: {md_path.name})")
 
     # ── 2. 跨指南文件 ──
     print("\n[跨指南文件]")
+
     for filepath in CROSS_GUIDE_FILES:
         if not filepath.exists():
             print(f"  跳过（不存在）: {filepath.name}")
@@ -190,41 +219,15 @@ def main():
             questions = json.load(f)
         file_total = 0
         file_matched = 0
+
         for q in questions:
             gc = q.get("golden_context")
             if gc is None:
                 skipped += 1
                 continue
 
-            # golden_context 是 list[str]（无 evidence_doc）
-            if isinstance(gc, list) and len(gc) > 0 and isinstance(gc[0], str):
-                for ctx_str in gc:
-                    cleaned_ctx = clean_text(ctx_str)
-                    if not cleaned_ctx:
-                        skipped += 1
-                        continue
-                    total += 1
-                    file_total += 1
-                    # 搜索所有 MD 文件
-                    found = False
-                    for dir_name, md_path in chunkdir_to_md.items():
-                        md_cleaned = get_md_cleaned(md_path)
-                        if md_cleaned and cleaned_ctx in md_cleaned:
-                            found = True
-                            break
-                    if found:
-                        matched += 1
-                        file_matched += 1
-                    else:
-                        unmatched.append({
-                            "file": filepath.name,
-                            "id": q.get("id", "?"),
-                            "evidence_doc": "(全局搜索)",
-                            "preview": cleaned_ctx[:120],
-                        })
-
             # golden_context 是 list[{evidence_doc, context}]
-            elif isinstance(gc, list):
+            if isinstance(gc, list):
                 for item in gc:
                     if not isinstance(item, dict):
                         continue

@@ -23,8 +23,8 @@ QUESTION_FILES = [
     ROOT / "question" / "STROKE2024" / "stroke2024_questions.json",
     ROOT / "question" / "PREV2024" / "prev2024_questions.json",
     ROOT / "question" / "merged" / "crossbook_questions.json",
-    ROOT / "question" / "2026_06_23" / "跨指南题目集_20260623_1.json",
-    ROOT / "question" / "2026_06_23" / "跨指南题目集_20260623_2.json",
+    ROOT / "question" / "2026_06_23" / "跨指南题目集1.json",
+    ROOT / "question" / "2026_06_23" / "跨指南题目集2.json",
 ]
 
 

@@ -25,8 +25,8 @@ SINGLE_GUIDE_MAP = {
 
 CROSS_GUIDE_FILES = [
     ROOT / "question" / "merged" / "crossbook_questions.json",
-    ROOT / "question" / "2026_06_23" / "跨指南题目集_20260623_1.json",
-    ROOT / "question" / "2026_06_23" / "跨指南题目集_20260623_2.json",
+    ROOT / "question" / "2026_06_23" / "跨指南题目集1.json",
+    ROOT / "question" / "2026_06_23" / "跨指南题目集2.json",
 ]
 
 CROSSBOOK_CODE_MAP = {
