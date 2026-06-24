@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python scripts/find_latex.py)",
+      "Bash(python scripts/count_latex.py)",
+      "Bash(python scripts/show_other_latex.py)"
+    ]
+  }
+}
