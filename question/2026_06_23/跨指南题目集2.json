@@ -76,7 +76,7 @@
       },
       {
         "evidence_doc": "2021_Recommended Primary Outcomes for Clinical Trials Evaluating Hemostatic Agents",
-        "context": "Becausethetempoandpathobiologyoftraumaticandspontaneousbleedingintothebrainisdifferentandbecauseanticoagulationcandramaticallyaffecttherisk,magnitude,andmechanismofbleeding,werecommendthathemostatictherapiesbeassessedforthe4subgroupsseparatelywhenpossible.InthecaseofspontaneousICH,thewindowforactivebleedingishyperacute,andtheriskvariesbylocation;hematomagrowthoccursin$38\\%$ofpatientsinitiallyscannedwithin3hoursofonset4andoccursmorefrequentlywithdeepthanlobarlocation."
+        "context": "Because the tempo and pathobiology of traumatic and spontaneous bleeding into the brain is different and because anticoagulation can dramatically affect the risk, magnitude, and mechanism of bleeding, we recommend that hemostatic therapies be assessed for the 4 subgroups separately when possible. In the case of spontaneous ICH, the window for active bleeding is hyperacute, and the risk varies by location; hematoma growth occurs in $38\\%$ of patients initially scanned within 3 hours of onset4 and occurs more frequently with deep than lobar location."
       }
     ],
     "evidence_doc": [
@@ -294,7 +294,7 @@
     "golden_context": [
       {
         "evidence_doc": "2021_出凝血功能障碍相关性脑出血中国多学科诊治指南",
-        "context": "ICH急性期常合并高血压,与血肿扩大、脑水肿加重、死亡及不良预后密切相关。由于缺乏专门针对HDICH患者血压管理的临床证据,故相关内容参考HICH指南。近年来,多项大型RCT针对早期降压或早期强化降压的安全性和有效性进行了深入研究,其中也包含了HDICH患者。基于目前的证据,收缩压在150~220mmH$(1\\\\mathrm{{mmHg}=0.133\\\\mathrm{{kPa})}}$),且无急性降压治疗禁忌证时,急性期将收缩压降至140mmHg可能是安全的。提示在接诊后第1小时内将收缩压降低至目标值(140mmHg),并维持7d,患者的预后最佳。而控制收缩压≤130mmHg与预后不良及发生颅外缺血相关。HDICH急性期采用静脉给药可实现快速平稳降压的目标。常见静脉降压药有尼卡地平、乌拉地尔、拉贝洛尔、艾司洛尔及依拉普利等。以盐酸尼卡地平注射液为例,给予起始剂量5mg/h静脉滴注,每15~30分钟增加2.5mg/h,最大剂量15mg/h。达到目标血压后维持给药,平稳控制血压。对严重颅内高压伴发Cushing反应或脑疝者,建议首先降颅压,在维持正常脑灌注压的前提下降血压。"
+        "context": "ICH急性期常合并高血压，与血肿扩大、脑水肿加重、死亡及不良预后密切相关［64－65］ 。 由于缺乏专门针对 HDICH患者血压管理的临床证据，故相关内容参考 HICH指南［7］ 。近年来，多项大型 RCT针对早期降压或早期强化降压的安全性和有效性进行了深入研究［64，66－68］ ，其中也包含了 HDICH患者。基于目 前 的 证 据，收 缩 压 在 150～220 mmH$( 1 \\ \\mathrm { { m m H g } = 0 . 1 3 3 \\ \\mathrm { { k P a } ) } }$ ），且无急性降压治疗禁忌证时，急性期将收缩压降至140mmHg可能是安全的。提示在接诊后第 1小时内将收缩压降低至目标值（140mmHg），并维持 7d，患者的预后最佳［69］ 。而控制收缩压≤130mmHg与预后不良及发生颅外缺血相关［70］ 。HDICH急性期采用静脉给药可实现快速平稳降压的目标。常见静脉降压药有尼卡地平、乌拉地尔、拉贝洛尔、艾司洛尔及依拉普利等。以盐酸尼卡地平注射液为例，给予起始剂量5mg／h静脉滴注，每 15～30分钟增加2．5mg／h，最大剂量15mg／h。达到目标血压后维持给药，平稳控制血压。对严重颅内高压伴发 Cushing反应或脑疝者，建议首先降颅压，在维持正常脑灌注压的前提下降血压。"
       },
       {
         "evidence_doc": "2020_高血压性脑出血中国多学科诊治指南",
@@ -382,7 +382,7 @@
       },
       {
         "evidence_doc": "2021_出凝血功能障碍相关性脑出血中国多学科诊治指南",
-        "context": "在影像学检查明确ICH的基础上,符合如下任意一条即为HDICH:(1)发病近1周内使用过抗血小板、抗凝或溶栓药物。(2)合并有出凝血功能障碍,其中血小板计数$<100\\times10^{9}/\\mathrm{L}$,或INR>1.2,或APTT比率>1.2,或FIB<2g/L,或其他出凝血指标提示凝血功能减弱。并通过相关影像学检查排除以下ICH原因:颅内动脉瘤、颅内动静脉畸形、颅内动静脉瘘、烟雾病、颅内海绵状血管畸形、肿瘤卒中、脑梗死后出血及静脉窦血栓形成等。"
+        "context": "在影像学检查明确 ICH的基础上，符合如下任意一条即为 HDICH：（1）发病近 1周内使用过抗血小板、抗凝或溶栓药物。（2）合并有出凝血功能障碍，其中血小板计数 $< 1 0 0 \\times 1 0 ^ { 9 } / \\mathrm { L }$ ，或 INR＞1．2，或APTT比率 ＞1．2，或 FIB＜2g／L，或其他出凝血指标提示凝血功能减弱。并通过相关影像学检查排除以下 ICH原因：颅内动脉瘤、颅内动静脉畸形、颅内动静脉瘘、烟雾病、颅内海绵状血管畸形、肿瘤卒中、脑梗死后出血及静脉窦血栓形成等。"
       },
       {
         "evidence_doc": "2021_出凝血功能障碍相关性脑出血中国多学科诊治指南",

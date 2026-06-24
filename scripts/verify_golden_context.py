@@ -17,7 +17,7 @@ CHUNKS_DIR = ROOT / "chunks"
 
 # 单指南文件 → 对应 chunk 目录
 SINGLE_GUIDE_MAP = {
-    ROOT / "question" / "HICH" / "HICH_questions.json": "2020_HICH指南",
+    ROOT / "question" / "HICH" / "HICH_questions.json": "2020_高血压性脑出血中国多学科诊治指南",
     ROOT / "question" / "ICH2019" / "ICH2019_questions.json": "2019_中国脑出血诊治指南",
     ROOT / "question" / "STROKE2024" / "stroke2024_questions.json": "2024_中国重症卒中管理指南",
     ROOT / "question" / "PREV2024" / "prev2024_questions.json": "2024_脑血管病防治指南",
@@ -31,7 +31,8 @@ CROSS_GUIDE_FILES = [
 
 CROSSBOOK_CODE_MAP = {
     "2019_中国脑出血诊治指南": "2019_中国脑出血诊治指南",
-    "2020_HICH指南": "2020_HICH指南",
+    "2020_HICH指南": "2020_高血压性脑出血中国多学科诊治指南",
+    "2020_高血压性脑出血中国多学科诊治指南": "2020_高血压性脑出血中国多学科诊治指南",
     "2024_脑血管病防治指南": "2024_脑血管病防治指南",
     "2024_中国重症卒中管理指南": "2024_中国重症卒中管理指南",
 }
@@ -57,7 +58,12 @@ def load_all_chunks():
             if data_file.exists():
                 dir_name = d.name.replace("chunks_", "", 1)
                 with open(data_file, "r", encoding="utf-8") as f:
-                    chunks = json.load(f)
+                    data = json.load(f)
+                # 兼容新格式（dict with 'chunks' key）和旧格式（list）
+                if isinstance(data, dict):
+                    chunks = data.get("chunks", [])
+                else:
+                    chunks = data
                 for chunk in chunks:
                     if "content" in chunk:
                         chunk["_cleaned"] = clean_text(chunk["content"])

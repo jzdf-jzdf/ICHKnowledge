@@ -1,318 +1,318 @@
 [
   {
-    "section_id": "S001",
+    "section_id": "S01",
     "title": "中国脑血管病影像应用指南2019",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S002",
+    "section_id": "S02",
     "title": "Chinese guidelines for the imaging application in cerebrovascular diseases",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S003",
+    "section_id": "S03",
     "title": "脑成像技术",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S004",
+    "section_id": "S04",
     "title": "一、CT",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S005",
+    "section_id": "S05",
     "title": "（一） 是检测脑出血的“金标准”",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S006",
+    "section_id": "S06",
     "title": "（二）血肿扩大的 征象",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S007",
+    "section_id": "S07",
     "title": "（三） 是诊断蛛网膜下腔出血（， ）的首选影像学手段",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S008",
+    "section_id": "S08",
     "title": "（四） 在缺血性卒中诊疗中的作用",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S009",
+    "section_id": "S09",
     "title": "（五） 在缺血性脑水肿或出血转化诊断中的作用",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S010",
+    "section_id": "S10",
     "title": "（六）NCCT 对脑静脉窦血栓形成（cerebralvenous and sinus thrombosis,CVST)的诊断",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S011",
+    "section_id": "S11",
     "title": "二、MRI",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S012",
+    "section_id": "S12",
     "title": "（一） 在急性缺血性脑卒中诊断中的作用",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S013",
+    "section_id": "S13",
     "title": "（二） 在 诊断中的作用",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S014",
+    "section_id": "S14",
     "title": "（三）MRI在脑出血诊断中的作用",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S015",
+    "section_id": "S15",
     "title": "（四） 在 诊断中的作用",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S016",
+    "section_id": "S16",
     "title": "（五） 在 诊断中的作用",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S017",
+    "section_id": "S17",
     "title": "（六） 在血管源性脑白质高信号诊断中的",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S018",
+    "section_id": "S18",
     "title": "血管成像技术",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S019",
+    "section_id": "S19",
     "title": "一 、CTA 和 脑 CT 静 脉 造 影（CT venography，CTV）",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S020",
+    "section_id": "S20",
     "title": "（一） 对颅内外动脉狭窄以及斑块的评估",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S021",
+    "section_id": "S21",
     "title": "（二） 对颅内外动脉夹层的诊断",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S022",
+    "section_id": "S22",
     "title": "（三） 对脑动脉瘤的诊断",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S023",
+    "section_id": "S23",
     "title": "（四） 对静脉窦血栓的诊断",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S024",
+    "section_id": "S24",
     "title": "二、MRA和MRV",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S025",
+    "section_id": "S25",
     "title": "（一） 对颅内动脉瘤的诊断",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S026",
+    "section_id": "S26",
     "title": "（二） 对动脉夹层的诊断",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S027",
+    "section_id": "S27",
     "title": "（三）MRA对脑动脉炎的诊断",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S028",
+    "section_id": "S28",
     "title": "（四） 对颅内静脉血栓的诊断",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S029",
+    "section_id": "S29",
     "title": "三、DSA",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S030",
+    "section_id": "S30",
     "title": "（一） 对颅内外动脉狭窄的诊断",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S031",
+    "section_id": "S31",
     "title": "（二） 对 的诊断",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S032",
+    "section_id": "S32",
     "title": "（三） 对动脉夹层的诊断",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S033",
+    "section_id": "S33",
     "title": "四、HRVW MRI",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S034",
+    "section_id": "S34",
     "title": "（一） 对动脉夹层的诊断是 和",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S035",
+    "section_id": "S35",
     "title": "（二）HRVW MRI对烟雾病的诊断［89‐91］",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S036",
+    "section_id": "S36",
     "title": "（三） 在中枢血管炎诊断中的应用［86］",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S037",
+    "section_id": "S37",
     "title": "脑灌注成像技术",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S038",
+    "section_id": "S38",
     "title": "一、CTP",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S039",
+    "section_id": "S39",
     "title": "（一）CTP检测缺血半暗带",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S040",
+    "section_id": "S40",
     "title": "（二） 在侧支循环中的应用",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S041",
+    "section_id": "S41",
     "title": "（三）多模态CT在急性缺血性卒中诊疗中的作用",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S042",
+    "section_id": "S42",
     "title": "二、",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S043",
+    "section_id": "S43",
     "title": "（一）DSC",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S044",
+    "section_id": "S44",
     "title": "（二）",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S045",
+    "section_id": "S45",
     "title": "其他MRI技术的应用",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S046",
+    "section_id": "S46",
     "title": "一、DTI",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S047",
+    "section_id": "S47",
     "title": "二、BOLD",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S048",
+    "section_id": "S48",
     "title": "三、MRS",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S049",
+    "section_id": "S49",
     "title": "四、",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S050",
+    "section_id": "S50",
     "title": "五、血流动力学成像技术",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S051",
+    "section_id": "S51",
     "title": "执笔 徐运、黄一宁",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S052",
+    "section_id": "S52",
     "title": "参 考 文 献",
     "level": 1,
     "parent": null
   },
   {
-    "section_id": "S053",
+    "section_id": "S53",
     "title": "本刊对来稿中统计学处理的要求",
     "level": 1,
     "parent": null

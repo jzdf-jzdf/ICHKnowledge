@@ -29,7 +29,7 @@ CHUNKS_DIR = ROOT / "chunks"
 
 # ── 单指南文件 → 对应 chunk 目录名（与 verify_golden_context.py 一致） ──
 SINGLE_GUIDE_CHUNK_MAP = {
-    ROOT / "question" / "HICH" / "HICH_questions.json": "2020_HICH指南",
+    ROOT / "question" / "HICH" / "HICH_questions.json": "2020_高血压性脑出血中国多学科诊治指南",
     ROOT / "question" / "ICH2019" / "ICH2019_questions.json": "2019_中国脑出血诊治指南",
     ROOT / "question" / "STROKE2024" / "stroke2024_questions.json": "2024_中国重症卒中管理指南",
     ROOT / "question" / "PREV2024" / "prev2024_questions.json": "2024_脑血管病防治指南",
@@ -44,7 +44,7 @@ CROSS_GUIDE_FILES = [
 # ── 跨指南 short-code → chunk 目录名 → MD 文件 ──
 CROSSBOOK_CODE_MAP = {
     "ICH2019": "2019_中国脑出血诊治指南",
-    "HICH": "2020_HICH指南",
+    "HICH": "2020_高血压性脑出血中国多学科诊治指南",
     "STROKE2024": "2024_中国重症卒中管理指南",
     "PREV2024": "2024_脑血管病防治指南",
 }
