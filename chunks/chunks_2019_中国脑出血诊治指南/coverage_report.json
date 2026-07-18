@@ -1,0 +1,193 @@
+{
+  "total_chunks": 37,
+  "matched_chunks": 24,
+  "unmatched_chunks": 13,
+  "coverage_pct": 64.9,
+  "by_section": {
+    "一、病史与体征": {
+      "total": 1,
+      "matched": 1
+    },
+    "三、实验室检查": {
+      "total": 1,
+      "matched": 0
+    },
+    "中国脑出血诊治指南（2019）": {
+      "total": 1,
+      "matched": 1
+    },
+    "二、影像学检查": {
+      "total": 2,
+      "matched": 1
+    },
+    "四、疾病诊断": {
+      "total": 2,
+      "matched": 2
+    },
+    "康复治疗": {
+      "total": 1,
+      "matched": 1
+    },
+    "脑出血的治疗": {
+      "total": 1,
+      "matched": 0
+    },
+    "诊断与评估": {
+      "total": 1,
+      "matched": 0
+    },
+    "院前处理": {
+      "total": 2,
+      "matched": 2
+    },
+    "预防脑出血复发": {
+      "total": 3,
+      "matched": 1
+    },
+    "（一）一般治疗": {
+      "total": 1,
+      "matched": 1
+    },
+    "（一）脑实质出血": {
+      "total": 4,
+      "matched": 2
+    },
+    "（七）并发症治疗": {
+      "total": 4,
+      "matched": 3
+    },
+    "（三）血糖管理": {
+      "total": 2,
+      "matched": 2
+    },
+    "（二）脑室出血": {
+      "total": 2,
+      "matched": 1
+    },
+    "（二）血压管理": {
+      "total": 2,
+      "matched": 1
+    },
+    "（五）药物治疗": {
+      "total": 3,
+      "matched": 2
+    },
+    "（六）病因治疗": {
+      "total": 3,
+      "matched": 2
+    },
+    "（四）体温": {
+      "total": 1,
+      "matched": 1
+    }
+  },
+  "by_type": {
+    "fact": {
+      "total": 24,
+      "matched": 12
+    },
+    "recommendation": {
+      "total": 13,
+      "matched": 12
+    }
+  },
+  "by_guide": {
+    "2019_中国脑出血诊治指南": {
+      "total": 37,
+      "matched": 24
+    }
+  },
+  "uncovered": [
+    {
+      "chunk_id": "ICH2019_FACT_003",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "诊断与评估",
+      "type": "fact",
+      "summary": "脑出血的诊断与评估包括：病史与体征、影像学检查、实验室检查、疾病诊断及病因分型等。"
+    },
+    {
+      "chunk_id": "ICH2019_FACT_005",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "二、影像学检查",
+      "type": "fact",
+      "summary": "影像学检查是脑出血诊断的重要手段，尤其是CT检查是诊断早期脑出血的”金标准”。"
+    },
+    {
+      "chunk_id": "ICH2019_FACT_007",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "三、实验室检查",
+      "type": "fact",
+      "summary": "对脑出血患者应进行常规的实验室检查以了解基本状况和排除相关系统疾病。"
+    },
+    {
+      "chunk_id": "ICH2019_FACT_009",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "脑出血的治疗",
+      "type": "fact",
+      "summary": "脑出血的治疗包括内科治疗和外科治疗，大多数的患者均以内科治疗为主，如果病情危重或发现有继发原因，且有手术适应证者，则应该进行外科治疗。"
+    },
+    {
+      "chunk_id": "ICH2019_FACT_011",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "（二）血压管理",
+      "type": "fact",
+      "summary": "脑出血患者常常出现血压明显升高，多种因素（应激、疼痛、高颅压等）均可使血压升高，且血压升高（>180 mmHg；1 mmHg=0."
+    },
+    {
+      "chunk_id": "ICH2019_FACT_014",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "（五）药物治疗",
+      "type": "fact",
+      "summary": "止血治疗：重组VIIa因子（recombinant factor VIIa，rFVIIa）的Ⅱ期临床试验［35］结果显示，脑出血发病后4 h内应用rFVIIa治…"
+    },
+    {
+      "chunk_id": "ICH2019_FACT_016",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "（六）病因治疗",
+      "type": "fact",
+      "summary": "抗血小板药物相关脑出血：抗血小板药物可能增加脑出血的发生。"
+    },
+    {
+      "chunk_id": "ICH2019_REC_008",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "（七）并发症治疗",
+      "type": "recommendation",
+      "summary": "颅内压升高者，应卧床、适度抬高床头、严密观察生命体征（Ⅰ级推荐，C级证据）。"
+    },
+    {
+      "chunk_id": "ICH2019_FACT_018",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "（一）脑实质出血",
+      "type": "fact",
+      "summary": "外科手术以其快速清除血肿、缓解颅高压、解除机械压迫的优势成为高血压脑出血治疗的重要方法。"
+    },
+    {
+      "chunk_id": "ICH2019_FACT_020",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "（一）脑实质出血",
+      "type": "fact",
+      "summary": "此外，一项荟萃分析比较了微创术与其他方法（内科治疗、外科开颅手术）治疗自发性幕上脑出血的疗效，发现与其他治疗方式相比，患者从微创术治疗中获益较大，尤其是年龄在5…"
+    },
+    {
+      "chunk_id": "ICH2019_FACT_021",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "（二）脑室出血",
+      "type": "fact",
+      "summary": "脑室引流+溶栓药物：脑室出血（ventricular hemorrhage）可见于45%的自发性脑出血患者［78］，可以是原发性或继发性的［79］。"
+    },
+    {
+      "chunk_id": "ICH2019_FACT_022",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "预防脑出血复发",
+      "type": "fact",
+      "summary": "脑出血患者的复发风险很高，年复发率约为1%~5%［82-84］。"
+    },
+    {
+      "chunk_id": "ICH2019_FACT_023",
+      "guide": "2019_中国脑出血诊治指南",
+      "section": "预防脑出血复发",
+      "type": "fact",
+      "summary": "多项荟萃分析指出，阿司匹林与脑出血发病率和病死率的轻度增加相关［49，101］，但是其在普通人群中的脑出血绝对风险较小［49］。"
+    }
+  ]
+}

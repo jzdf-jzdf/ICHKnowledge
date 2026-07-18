@@ -1,0 +1,827 @@
+[
+  {
+    "id": 1,
+    "level": "L1",
+    "question": "自发性脑出血的定义是什么？",
+    "golden_context": "自发性脑出血(intracerebralhemorrhage)指非创伤性脑内血管破裂,导致血液在脑实质内聚集,其在脑卒中各亚型中的发病率仅次于缺血性脑卒中,位居第二。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_001",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "中国脑出血诊治指南（2019）",
+        "type": "fact",
+        "match_score": 0.133
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "L1",
+    "question": "我国脑出血占脑卒中的比例大约是多少？",
+    "golden_context": "脑出血的发病率为(60~80)/10万人年,在西方国家中,脑出血约占所有脑卒中的15%,占所有住院卒中患者的10%~30%,我国脑出血的比例更高,占脑卒中的18.8%~47.6%。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_001",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "中国脑出血诊治指南（2019）",
+        "type": "fact",
+        "match_score": 0.1442
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "L1",
+    "question": "脑出血症状通常在什么情况下起病？常见表现有哪些？",
+    "golden_context": "脑出血症状突发,多在活动中起病,常表现为头痛、恶心、呕吐、不同程度的意识障碍及肢体瘫痪等。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_002",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "院前处理",
+        "type": "fact",
+        "match_score": 0.625
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "L2",
+    "question": "脑出血患者病史采集中，除脑卒中时间与症状外，还应重点询问哪些内容？",
+    "golden_context": "病史采集:重点询问患者或目击者脑卒中发生的时间、症状、当时患者的活动情况、年龄及下述情况:是否有外伤史、高血压病史、卒中病史、糖尿病史、冠心病史及吸烟饮酒史、用药史(是否服用阿司匹林、氯吡格雷、华法林等抗栓药)、有无药物滥用(如可卡因等)、是否存在凝血功能障碍或其他诱发出血的内科疾病(如肝病等)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_004",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "一、病史与体征",
+        "type": "fact",
+        "match_score": 0.4869
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "L1",
+    "question": "指南推荐用于评估脑出血病情严重程度的常用量表有哪些？请至少列出两个。",
+    "golden_context": "一般体格检查、神经系统体格检查与病情评估:首先对患者的生命体征进行评估,在完成气道、呼吸和循环功能评估后,进行一般体格检查和神经系统体检,可借助脑卒中量表评估病情严重程度、判断预后及指导治疗。常用的量表有:(1)格拉斯哥昏迷量表(GCS);(2)美国国立卫生研究院卒中量表(NIHSS);(3)脑出血评分量表。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_004",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "一、病史与体征",
+        "type": "fact",
+        "match_score": 0.5065
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "L1",
+    "question": "当前血管病变检查的金标准是什么？",
+    "golden_context": "(2)DSA:能清晰显示脑血管各级分支及动脉瘤的位置、大小、形态及分布,畸形血管的供血动脉及引流静脉,了解血流动力学改变,为血管内栓塞治疗或外科手术治疗提供可靠的病因病理解剖,是当前血管病变检查的”金标准”。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_006",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "二、影像学检查",
+        "type": "fact",
+        "match_score": 0.2419
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "L1",
+    "question": "脑出血的诊断标准包括哪四点？",
+    "golden_context": "诊断标准:(1)急性起病;(2)局灶神经功能缺损症状(少数为全面神经功能缺损),常伴有头痛、呕吐、血压升高及不同程度意识障碍;(3)头颅CT或MRI显示出血灶;(4)排除非血管性脑部病因。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_008",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "四、疾病诊断",
+        "type": "fact",
+        "match_score": 0.2513
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "L1",
+    "question": "脑出血的诊断流程包括哪四个步骤？",
+    "golden_context": "诊断流程:脑出血的诊断流程应包括如下步骤:第一步,是否为脑卒中?第二步,是否为脑出血?行脑CT或MRI以明确诊断。第三步,脑出血的严重程度?可根据GCS或NIHSS等量表评估。第四步,脑出血的分型。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_008",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "四、疾病诊断",
+        "type": "fact",
+        "match_score": 0.2647
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "L2",
+    "question": "脑出血急性期应进行哪些持续监测？",
+    "golden_context": "脑出血患者在发病后的最初数天病情往往不稳定,应常规予以持续生命体征监测、神经系统评估、持续心肺监护,包括袖带血压监测、心电图监测、氧饱和度监测。脑出血患者的吸氧、呼吸支持及心脏病的处理原则同《中国急性缺血性脑卒中诊治指南》。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_010",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（一）一般治疗",
+        "type": "fact",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "L2",
+    "question": "脑出血患者入院时高血糖和低血糖分别有什么危害？",
+    "golden_context": "1.高血糖:无论患者既往是否有糖尿病史,入院时高血糖均预示脑出血患者的死亡和不良转归风险增高。目前认为应对脑出血后高血糖进行控制,但还需进一步研究明确应用降糖药物的种类及目标血糖值。2.低血糖:低血糖可导致脑缺血损伤及脑水肿,严重时导致不可逆损害。需密切监测,尽早发现,及时纠正。不过脑出血患者的最佳血糖管理方案和目标值尚未确定。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_012",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（三）血糖管理",
+        "type": "fact",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "L2",
+    "question": "脑出血患者的中枢性发热常见于哪些情况？发病3天后的发热应如何处理？",
+    "golden_context": "脑出血患者早期可出现中枢性发热,特别是在大量脑出血、丘脑出血或脑干出血者中出现。入院72h内患者的发热持续时间与临床转归相关,然而,尚无资料表明治疗发热能改善临床转归。发病3d后,患者可因感染等原因引起发热,此时应针对病因治疗。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_013",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（四）体温",
+        "type": "fact",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "L4",
+    "question": "目前关于神经保护剂和中药制剂治疗脑出血的研究现状如何？",
+    "golden_context": "rFVIIa治疗脑出血的临床疗效尚不确定,且可能增加血栓栓塞的风险,不推荐常规使用(II级推荐,B级证据)。氨甲环酸有助于限制血肿体积扩大和降低早期病死率,但长期获益不确定,不推荐无选择性使用(II级推荐,B级证据)。其他药物:(1)神经保护剂:研究显示自发性脑出血72h内应用自由基清除剂治疗是安全、可耐受的,但未改善临床预后。铁螯合剂的疗效有待进一步临床研究。此外,还有一些神经保护剂,如依达拉奉,在脑出血的临床研究与分析中发现对改善患者神经功能起到了一定积极作用。(2)中药制剂:中药制剂在我国也较多应用于治疗出血性脑卒中。有中药制剂用于脑出血治疗的临床研究与分析,但因研究质量及研究样本的局限性,尚需进行高质量、大样本的随机对照试验予以进一步证实。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_005",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（五）药物治疗",
+        "type": "recommendation",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "L4",
+    "question": "肝素相关性脑出血可以用什么药物拮抗？鱼精蛋白给药时机与用量的关系如何？",
+    "golden_context": "关于肝素相关性脑出血目前只有流行病学资料可以参考。可以用硫酸鱼精蛋白使活化的部分凝血酶原时间恢复正常。由于肝素在体内代谢迅速,与鱼精蛋白给药的间隔时间越长,拮抗所需用量越少。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_015",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（六）病因治疗",
+        "type": "fact",
+        "match_score": 0.1245
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "L4",
+    "question": "哪些患者从微创手术治疗脑出血中获益较大？",
+    "golden_context": "MISTIEIII研究进一步评估了微创手术联合rt-PA治疗幕上脑出血(≥30ml)的疗效,发现微创治疗是安全的、有助于降低365d时的病死率(HR=0.67,95%CI0.45~0.98;P=0.037),但未改善神经功能;研究也发现血肿清除程度与预后好(mRS评分0~3分)相关(OR=0.68,95%CI0.59~0.78;P<0.0001),探索性分析发现微创治疗后剩余血肿体积≤15ml时,微创组患者预后好的比例较保守治疗组增加10.5%(95%CI1.0~20.0;P=0.03)。国内的一项随机对照研究对比了微创术联合尿激酶与小骨窗开颅血肿清除术治疗30~80ml基底节区脑出血的疗效与安全性,纳入了22个中心的304例患者,研究发现微创术联合尿激酶显著降低了术后再出血风险(8.8%比21.4%)和90d时的病死率,改善了患者90d时的日常活动能力。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_019",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（一）脑实质出血",
+        "type": "fact",
+        "match_score": 0.5297
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "L1",
+    "question": "脑出血患者的康复治疗应遵循什么总的原则？",
+    "golden_context": "具体可参见《中国脑卒中早期康复治疗指南》,并根据脑出血患者的具体情况,遵循康复治疗总的原则:如有可能,应尽早开始适合的和安全性好的康复治疗,适度的强化康复治疗措施并逐步合理地增加幅度。建议对脑出血患者进行多学科综合性康复治疗。实施医院、社区及家庭三级康复治疗措施,并力求妥善衔接,以期使患者获得最大益处。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_024",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "康复治疗",
+        "type": "fact",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "L1",
+    "question": "指南对突然出现脑卒中症状的患者，急救人员应如何处理？",
+    "golden_context": "对突然出现脑卒中症状的患者,急救人员应进行简要评估和急救处理并尽快送往附近有救治条件的医院(I级推荐,D级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_001",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "院前处理",
+        "type": "recommendation",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "L1",
+    "question": "指南推荐对脑出血患者应尽早进行哪些方面的全面评估？",
+    "golden_context": "(1)尽早对脑出血患者进行全面评估,包括病史、一般检查、神经系统检查和有关实验室检查,特别是血常规、凝血功能和影像学检查(I级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_002",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "四、疾病诊断",
+        "type": "recommendation",
+        "match_score": 0.2063
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "L1",
+    "question": "对疑似脑卒中患者，指南推荐应尽快进行什么检查以明确诊断？",
+    "golden_context": "(2)对疑似脑卒中患者应尽快行CT或MRI检查以明确诊断(I级推荐,A级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_002",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "四、疾病诊断",
+        "type": "recommendation",
+        "match_score": 0.1146
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "L1",
+    "question": "脑出血后数小时内常出现什么情况？指南对此有何推荐？",
+    "golden_context": "(3)脑出血后数小时内常出现血肿扩大,加重神经功能损伤,应密切监测(I级推荐,A级证据)。CTA和增强CT的”点征”(spotsign)有助于预测血肿扩大风险,必要时可行有关评估(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_002",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "四、疾病诊断",
+        "type": "recommendation",
+        "match_score": 0.2923
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "L2",
+    "question": "CTA和增强CT的点征有什么临床用途？推荐级别是什么？",
+    "golden_context": "CTA和增强CT的”点征”(spotsign)有助于预测血肿扩大风险,必要时可行有关评估(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_002",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "四、疾病诊断",
+        "type": "recommendation",
+        "match_score": 0.1633
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "L2",
+    "question": "指南推荐应如何管理脑出血患者的血压？",
+    "golden_context": "(1)应综合管理脑出血患者的血压,分析血压升高的原因,再根据血压情况决定是否进行降压治疗(I级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_003",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（二）血压管理",
+        "type": "recommendation",
+        "match_score": 0.186
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "L2",
+    "question": "对于收缩压>220 mmHg的脑出血患者，指南推荐的降压目标值是多少？",
+    "golden_context": "对于收缩压>220mmHg的脑出血患者,在密切监测血压的情况下,持续静脉输注药物控制血压可能是合理的,收缩压目标值为160mmHg(II级推荐,D级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_003",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（二）血压管理",
+        "type": "recommendation",
+        "match_score": 0.2591
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "L1",
+    "question": "指南推荐脑出血患者的血糖应控制在什么范围内？",
+    "golden_context": "血糖值可控制在7.8~10.0mmol/L。应加强血糖监测并相应处理:(1)血糖超过10mmol/L时可给予胰岛素治疗;(2)血糖低于3.3mmol/L时,可给予10%~20%葡萄糖口服或注射治疗。目标是达到正常血糖水平。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_004",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（三）血糖管理",
+        "type": "recommendation",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "L2",
+    "question": "指南是否推荐氨甲环酸无选择性地用于脑出血治疗？",
+    "golden_context": "氨甲环酸有助于限制血肿体积扩大和降低早期病死率,但长期获益不确定,不推荐无选择性使用(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_005",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（五）药物治疗",
+        "type": "recommendation",
+        "match_score": 0.1677
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "L4",
+    "question": "关于神经保护剂和中药制剂治疗脑出血，指南的推荐意见是什么？",
+    "golden_context": "神经保护剂、中药制剂的疗效与安全性尚需开展更多高质量临床试验进一步证实(II级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_006",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（五）药物治疗",
+        "type": "recommendation",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "L1",
+    "question": "使用抗栓药物发生脑出血时，指南推荐的首要处理措施是什么？",
+    "golden_context": "(1)使用抗栓药物发生脑出血时,应立即停药(I级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_007",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（六）病因治疗",
+        "type": "recommendation",
+        "match_score": 0.1146
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "L2",
+    "question": "华法林相关性脑出血患者，指南推荐PCC作为FFP的替代选择，同时应使用什么药物？",
+    "golden_context": "(2)华法林相关性脑出血患者可考虑将PCC作为FFP的一种替代选择(II级推荐,A级证据),同时静脉应用维生素K(I级推荐,C级证据)。对新型口服抗凝药物(达比加群、阿哌沙班、利伐沙班)相关脑出血,有条件者可应用相应拮抗药物(如依达赛珠单抗)(II级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_007",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（六）病因治疗",
+        "type": "recommendation",
+        "match_score": 0.4653
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "L4",
+    "question": "指南是否推荐rFVIIa单药治疗口服抗凝药相关性脑出血？",
+    "golden_context": "(3)不推荐rFVIIa单药治疗口服抗凝药相关性脑出血(II级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_007",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（六）病因治疗",
+        "type": "recommendation",
+        "match_score": 0.1389
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "L2",
+    "question": "对普通肝素相关性脑出血，指南推荐使用什么药物治疗？",
+    "golden_context": "(4)对普通肝素相关性脑出血,推荐使用硫酸鱼精蛋白治疗(I级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_007",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（六）病因治疗",
+        "type": "recommendation",
+        "match_score": 0.1354
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "L3",
+    "question": "对溶栓药物相关脑出血，指南推荐选择什么治疗方案？",
+    "golden_context": "(5)对溶栓药物相关脑出血,可选择输注凝血因子和血小板治疗(II级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_007",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（六）病因治疗",
+        "type": "recommendation",
+        "match_score": 0.1458
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "L1",
+    "question": "指南是否推荐对脑出血患者预防性应用抗癫痫药物？",
+    "golden_context": "(1)不推荐预防性应用抗癫痫药物(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_009",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（七）并发症治疗",
+        "type": "recommendation",
+        "match_score": 0.0381
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "L1",
+    "question": "脑出血患者出现临床痫性发作时，指南推荐如何处理？",
+    "golden_context": "(2)有临床痫性发作者应进行抗癫痫药物治疗(I级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_009",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（七）并发症治疗",
+        "type": "recommendation",
+        "match_score": 0.0433
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "L3",
+    "question": "疑为痫性发作的脑出血患者，指南推荐进行什么检查？",
+    "golden_context": "(3)疑为痫性发作者应考虑持续脑电图监测(II级推荐,C级证据);如检测到痫样放电,应给予抗癫痫药物治疗(II级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_009",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（七）并发症治疗",
+        "type": "recommendation",
+        "match_score": 0.0853
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "L1",
+    "question": "脑出血卧床患者预防DVT的推荐级别是什么？疑似DVT时可进行哪些检查？",
+    "golden_context": "(1)卧床患者应注意预防DVT(I级推荐,C级证据);如疑似患者可做D-二聚体检测及肢体多普勒超声检查(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_010",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（七）并发症治疗",
+        "type": "recommendation",
+        "match_score": 0.1662
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "L4",
+    "question": "脑出血患者出现深静脉血栓或肺动脉栓塞时，治疗方案选择取决于哪些因素？",
+    "golden_context": "(5)当患者出现深静脉血栓或肺动脉栓塞症状时,可使用系统性抗凝治疗或下腔静脉滤器植入(II级推荐,C级证据);合适治疗方案的选择取决于多重因素(出血时间、血肿稳定性、出血原因及全身情况)(II级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_010",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（七）并发症治疗",
+        "type": "recommendation",
+        "match_score": 0.2753
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "L1",
+    "question": "出现神经功能恶化或脑干受压的小脑出血患者，指南推荐应如何处理？",
+    "golden_context": "(1)出现神经功能恶化或脑干受压的小脑出血者,无论有无脑室梗阻致脑积水的表现,都应尽快手术清除血肿(I级推荐,B级证据);不推荐单纯脑室引流而不进行血肿清除(II级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_011",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（一）脑实质出血",
+        "type": "recommendation",
+        "match_score": 0.167
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "L2",
+    "question": "对于脑叶出血超过30 ml且距皮质表面1 cm内的患者，指南推荐可考虑什么手术方式？",
+    "golden_context": "(2)对于脑叶出血超过30ml且距皮质表面1cm内的患者,可考虑标准开颅术清除幕上血肿或微创手术清除血肿(II级推荐,C级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_011",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（一）脑实质出血",
+        "type": "recommendation",
+        "match_score": 0.1193
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "L3",
+    "question": "指南推荐什么样的幕上高血压脑出血患者可应用微创手术清除血肿？",
+    "golden_context": "(3)发病72h内、血肿体积20~40ml、GCS≥9分的幕上高血压脑出血患者,在有条件的医院,经严格选择后可应用微创手术联合或不联合溶栓药物液化引流清除血肿(II级推荐,A级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_011",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（一）脑实质出血",
+        "type": "recommendation",
+        "match_score": 0.1688
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "level": "L3",
+    "question": "30 ml以上重症脑出血患者出现什么情况时可考虑微创手术？",
+    "golden_context": "(4)30ml以上重症脑出血患者由于血肿占位效应导致意识障碍恶化者,可考虑微创手术清除血肿(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_011",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（一）脑实质出血",
+        "type": "recommendation",
+        "match_score": 0.1064
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "level": "L4",
+    "question": "病因未明确的脑出血患者行微创手术前，指南推荐应进行什么检查？",
+    "golden_context": "(6)病因未明确的脑出血患者行微创手术前应行血管相关检查(CTA/MRA/DSA)排除血管病变,规避和降低再出血风险(II级推荐,D级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_011",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（一）脑实质出血",
+        "type": "recommendation",
+        "match_score": 0.1303
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "level": "L2",
+    "question": "关于EVD联合rt-PA治疗脑室出血，指南的推荐意见是什么？",
+    "golden_context": "EVD联合rt-PA治疗脑室出血是安全的,有助于降低重症患者的病死率(I级推荐,A级证据),神经功能改善有待进一步研究(II级推荐,A级证据);联合腰椎穿刺置管引流有助于加速清除脑室出血、降低行脑室腹腔分流的风险(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_012",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（二）脑室出血",
+        "type": "recommendation",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "level": "L1",
+    "question": "指南推荐所有脑出血患者血压控制的长期目标值是多少？",
+    "golden_context": "(2)所有脑出血患者均应控制血压,脑出血发生后应立即给予控制血压的措施(I级推荐,A级证据)。长期血压控制目标为130/80mmHg是合理的(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_013",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "预防脑出血复发",
+        "type": "recommendation",
+        "match_score": 0.1409
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "level": "L2",
+    "question": "指南推荐通过哪些生活方式的改变来预防脑出血复发？",
+    "golden_context": "(3)生活方式的改变,包括避免每天超过2次的饮酒,避免吸烟和药物滥用,以及治疗阻塞性睡眠呼吸暂停等可能对预防脑出血复发有益(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_013",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "预防脑出血复发",
+        "type": "recommendation",
+        "match_score": 0.1256
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "level": "L4",
+    "question": "对合并非瓣膜性房颤的脑叶出血患者，指南在抗凝治疗方面有何推荐？",
+    "golden_context": "(4)需要抗栓治疗时,对合并非瓣膜性心房颤动的脑叶出血患者建议避免长期服用华法林抗凝治疗以防增加出血复发风险(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_013",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "预防脑出血复发",
+        "type": "recommendation",
+        "match_score": 0.1138
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "level": "L4",
+    "question": "当具有抗栓药物指征时，非脑叶出血患者和所有脑出血患者在抗栓药物使用方面有何区别？",
+    "golden_context": "(5)当具有抗栓药物的明显指征时,非脑叶出血患者可以应用抗凝药物,所有脑出血患者都可应用抗血小板单药治疗(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_013",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "预防脑出血复发",
+        "type": "recommendation",
+        "match_score": 0.1104
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "level": "L4",
+    "question": "抗凝药物相关性脑出血后，指南推荐重启口服抗凝药物的最短间隔时间是多少？",
+    "golden_context": "(6)当有明显的抗凝药物使用指征时,抗凝药物相关性脑出血重启抗凝治疗的最佳时间尚不明确。在非机械性瓣膜患者中,至少在4周内应避免口服抗凝药物(II级推荐,B级证据)。如果有使用指征,脑出血后数天可开始阿司匹林单药治疗,尽管其最佳使用时间尚不清楚(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_013",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "预防脑出血复发",
+        "type": "recommendation",
+        "match_score": 0.2292
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "level": "L4",
+    "question": "什么情况下应考虑行MRV或CTV检查？",
+    "golden_context": "如果血肿部位、组织水肿程度或颅内静脉窦内异常信号提示静脉血栓形成,应该考虑行MRV或CTV检查。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_006",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "二、影像学检查",
+        "type": "fact",
+        "match_score": 0.1116
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "level": "L3",
+    "question": "脑出血患者的吸氧、呼吸支持及心脏病的处理原则参照哪部指南？",
+    "golden_context": "脑出血患者在发病后的最初数天病情往往不稳定,应常规予以持续生命体征监测、神经系统评估、持续心肺监护,包括袖带血压监测、心电图监测、氧饱和度监测。脑出血患者的吸氧、呼吸支持及心脏病的处理原则同《中国急性缺血性脑卒中诊治指南》。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_010",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（一）一般治疗",
+        "type": "fact",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "level": "L4",
+    "question": "尚无资料表明治疗脑出血后发热能改善临床转归，这一结论对临床实践有何提示？",
+    "golden_context": "脑出血患者早期可出现中枢性发热,特别是在大量脑出血、丘脑出血或脑干出血者中出现。入院72h内患者的发热持续时间与临床转归相关,然而,尚无资料表明治疗发热能改善临床转归。发病3d后,患者可因感染等原因引起发热,此时应针对病因治疗。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_013",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（四）体温",
+        "type": "fact",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "level": "L4",
+    "question": "高渗盐水和甘露醇在降低颅内压方面，荟萃分析认为哪个效果更优？",
+    "golden_context": "最近的荟萃分析认为高渗盐水的效果似乎更优于甘露醇。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_FACT_017",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（七）并发症治疗",
+        "type": "fact",
+        "match_score": 0.0616
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "level": "L4",
+    "question": "点征预测血肿扩大风险的推荐级别和证据级别分别是什么？",
+    "golden_context": "CTA和增强CT的”点征”(spotsign)有助于预测血肿扩大风险,必要时可行有关评估(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_002",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "四、疾病诊断",
+        "type": "recommendation",
+        "match_score": 0.1633
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "level": "L4",
+    "question": "收缩压150~220 mmHg的脑出血住院患者降压改善神经功能有效性的证据级别是什么？",
+    "golden_context": "(2)对于收缩压150~220mmHg的住院患者,在没有急性降压禁忌证的情况下,数小时内降压至130~140mmHg是安全的(I级推荐,A级证据),其改善患者神经功能的有效性尚待进一步验证(II级推荐,B级证据);",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_003",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（二）血压管理",
+        "type": "recommendation",
+        "match_score": 0.3555
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "level": "L4",
+    "question": "EVD联合rt-PA治疗脑室出血改善神经功能的证据级别是什么？",
+    "golden_context": "EVD联合rt-PA治疗脑室出血是安全的,有助于降低重症患者的病死率(I级推荐,A级证据),神经功能改善有待进一步研究(II级推荐,A级证据);联合腰椎穿刺置管引流有助于加速清除脑室出血、降低行脑室腹腔分流的风险(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_012",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（二）脑室出血",
+        "type": "recommendation",
+        "match_score": 1.0
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "level": "L4",
+    "question": "治疗阻塞性睡眠呼吸暂停对预防脑出血复发有何意义？",
+    "golden_context": "(3)生活方式的改变,包括避免每天超过2次的饮酒,避免吸烟和药物滥用,以及治疗阻塞性睡眠呼吸暂停等可能对预防脑出血复发有益(II级推荐,B级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_013",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "预防脑出血复发",
+        "type": "recommendation",
+        "match_score": 0.1256
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "level": "L4",
+    "question": "指南不推荐弹力袜预防深静脉血栓的推荐级别和证据级别是什么？",
+    "golden_context": "(3)瘫痪患者入院后即应用气压泵装置,可预防深静脉血栓及相关栓塞事件(II级推荐,B级证据);不推荐弹力袜预防深静脉血栓(I级推荐,A级证据)。",
+    "matched_chunks": [
+      {
+        "chunk_id": "ICH2019_REC_010",
+        "guide": "2019_中国脑出血诊治指南",
+        "section": "（七）并发症治疗",
+        "type": "recommendation",
+        "match_score": 0.187
+      }
+    ]
+  }
+]
